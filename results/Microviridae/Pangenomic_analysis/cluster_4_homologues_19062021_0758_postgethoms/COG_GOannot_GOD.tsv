@@ -1,0 +1,35 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_A	100	viral DNA genome replication [GO:0039693]	bp	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+1_A	100	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+1_A	100	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+10_H	100	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+10_H	100	viral procapsid [GO:0046729]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+10_H	100	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+2_B	100	viral capsid assembly [GO:0019069]	bp	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+2_B	100	viral release from host cell [GO:0019076]	bp	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+2_B	100	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+2_B	100	viral procapsid [GO:0046729]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+2_B	100	viral scaffold [GO:0046806]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+4_C	100	viral DNA genome packaging [GO:0019073]	bp	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+5_D	100	viral procapsid maturation [GO:0046797]	bp	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+5_D	100	viral release from host cell [GO:0019076]	bp	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+5_D	100	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+6_E	100	suppression by virus of host peptidoglycan biosynthetic process [GO:0039635]	bp	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+6_E	100	enzyme inhibitor activity [GO:0004857]	mf	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+7_J	100	viral procapsid maturation [GO:0046797]	bp	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+7_J	100	viral release from host cell [GO:0019076]	bp	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+7_J	100	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+7_J	100	virion [GO:0019012]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+7_J	100	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+7_J	100	DNA binding [GO:0003677]	mf	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+8_F	100	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+8_F	100	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+8_F	100	virion [GO:0019012]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+8_F	100	viral capsid, major subunit [GO:0098017]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+8_F	100	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+9_G	100	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+9_G	100	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+9_G	100	modulation by virus of host process [GO:0019048]	bp	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+9_G	100	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+9_G	100	virion [GO:0019012]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG
+9_G	100	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_4_homologues_19062021_0758/	COG

@@ -1,0 +1,131 @@
+# parameters: max number of processors=10 batchsize=100 $VERBOSE=0
+# raw hmmscan command: /home/abelardo/get_homologues//bin/hmmer-3.1b2/binaries/hmmscan --noali --acc --cut_ga --cpu 1 /home/abelardo/get_homologues/db/Pfam-A.hmm /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/Microviridae_all_homologues/_Chimpanzee-faeces-associated-microphage-3_taxid_1676183.gbk.fasta0
+
+# WARNING: using only 0 cores
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/Microviridae_all_homologues/_Chimpanzee-faeces-associated-microphage-3_taxid_1676183.gbk.fasta00
+# target HMM database:             /home/abelardo/get_homologues/db/Pfam-A.hmm
+# prefer accessions over names:    yes
+# show alignments in output:       no
+# model-specific thresholding:     GA cutoffs
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       73  [L=339]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model:
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (339 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       974  (0.0507847); expected 383.6 (0.02)
+Passed bias filter:                      547  (0.0285208); expected 383.6 (0.02)
+Passed Vit filter:                        42  (0.0021899); expected 19.2 (0.001)
+Passed Fwd filter:                         1  (5.21404e-05); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.24u 0.09s 00:00:00.32 Elapsed: 00:00:00.17
+# Mc/sec: 6498.40
+//
+Query:       74  [L=282]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model:
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (282 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       434  (0.0226289); expected 383.6 (0.02)
+Passed bias filter:                      375  (0.0195526); expected 383.6 (0.02)
+Passed Vit filter:                        30  (0.00156421); expected 19.2 (0.001)
+Passed Fwd filter:                         1  (5.21404e-05); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.24u 0.05s 00:00:00.28 Elapsed: 00:00:00.17
+# Mc/sec: 5405.75
+//
+Query:       75  [L=136]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    6.3e-08   33.0   0.0      8e-08   32.7   0.0    1.1  1  PF09675.12  Chlamydia-phage Chp2 scaffold (Chlamy_scaf)
+
+
+Domain annotation for each model:
+>> PF09675.12  Chlamydia-phage Chp2 scaffold (Chlamy_scaf)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   32.7   0.0   4.2e-12     8e-08       1      90 [.      33     117 ..      33     126 .. 0.93
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (136 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       400  (0.0208561); expected 383.6 (0.02)
+Passed bias filter:                      370  (0.0192919); expected 383.6 (0.02)
+Passed Vit filter:                        21  (0.00109495); expected 19.2 (0.001)
+Passed Fwd filter:                         1  (5.21404e-05); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.21u 0.08s 00:00:00.28 Elapsed: 00:00:00.17
+# Mc/sec: 2607.03
+//
+Query:       76  [L=558]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+   1.1e-187  625.0   0.0   1.2e-187  624.9   0.0    1.0  1  PF02305.19  Capsid protein (F protein)
+
+
+Domain annotation for each model:
+>> PF02305.19  Capsid protein (F protein)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  624.9   0.0  6.3e-192  1.2e-187       1     510 []       6     554 ..       6     554 .. 0.93
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (558 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       302  (0.0157464); expected 383.6 (0.02)
+Passed bias filter:                      276  (0.0143907); expected 383.6 (0.02)
+Passed Vit filter:                        18  (0.000938527); expected 19.2 (0.001)
+Passed Fwd filter:                         1  (5.21404e-05); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.29u 0.10s 00:00:00.39 Elapsed: 00:00:00.19
+# Mc/sec: 9570.54
+//
+[ok]
+
+# runtime:  1 wallclock secs ( 0.00 usr  0.00 sys +  0.98 cusr  0.33 csys =  1.31 CPU)

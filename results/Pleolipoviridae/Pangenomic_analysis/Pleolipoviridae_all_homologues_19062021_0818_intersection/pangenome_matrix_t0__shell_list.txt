@@ -1,0 +1,12 @@
+5_putative_protein_5.faa
+7_putative_protein_7.faa
+11_putative_protein_11.faa
+43_2.faa
+54_ORF13.faa
+58_hypothetical_protein.faa
+59_hypothetical_protein.faa
+65_hypothetical_protein.faa
+68_hypothetical_protein.faa
+69_ORF12.faa
+103_VP3.faa
+108_VP8.faa

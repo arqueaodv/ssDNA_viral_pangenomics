@@ -1,0 +1,83 @@
+# parameters: max number of processors=10 batchsize=100 $VERBOSE=0
+# raw hmmscan command: /home/abelardo/get_homologues//bin/hmmer-3.1b2/binaries/hmmscan --noali --acc --cut_ga --cpu 1 /home/abelardo/get_homologues/db/Pfam-A.hmm /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/cluster_2_homologues/_Avon-Heathcote-Estuary-associated-circular-virus-19_taxid_1618242.gbk.fasta0
+
+# WARNING: using only 0 cores
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/cluster_2_homologues/_Avon-Heathcote-Estuary-associated-circular-virus-19_taxid_1618242.gbk.fasta00
+# target HMM database:             /home/abelardo/get_homologues/db/Pfam-A.hmm
+# prefer accessions over names:    yes
+# show alignments in output:       no
+# model-specific thresholding:     GA cutoffs
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       3  [L=386]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    3.6e-15   56.1   0.0    6.2e-15   55.4   0.0    1.4  1  PF08398.12  Phospholipase A2-like domain
+
+
+Domain annotation for each model:
+>> PF08398.12  Phospholipase A2-like domain
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   55.4   0.0   3.2e-19   6.2e-15       3      83 .]      21      98 ..      19      98 .. 0.96
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (386 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       550  (0.0286772); expected 383.6 (0.02)
+Passed bias filter:                      368  (0.0191877); expected 383.6 (0.02)
+Passed Vit filter:                        20  (0.00104281); expected 19.2 (0.001)
+Passed Fwd filter:                         1  (5.21404e-05); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.23u 0.07s 00:00:00.30 Elapsed: 00:00:00.17
+# Mc/sec: 7399.36
+//
+Query:       4  [L=303]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    5.2e-11   42.7   0.1    1.3e-10   41.4   0.1    1.7  1  PF02407.18  Putative viral replication protein
+    3.4e-09   37.1   0.0    7.6e-09   36.0   0.0    1.6  1  PF00910.24  RNA helicase
+
+
+Domain annotation for each model:
+>> PF02407.18  Putative viral replication protein
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   41.4   0.1   1.4e-14   1.3e-10       3      82 .]       6      99 ..       4      99 .. 0.78
+
+>> PF00910.24  RNA helicase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   36.0   0.0   7.9e-13   7.6e-09       1     107 []     177     264 ..     177     264 .. 0.91
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (303 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       470  (0.024506); expected 383.6 (0.02)
+Passed bias filter:                      444  (0.0231503); expected 383.6 (0.02)
+Passed Vit filter:                        54  (0.00281558); expected 19.2 (0.001)
+Passed Fwd filter:                         5  (0.000260702); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.24u 0.11s 00:00:00.35 Elapsed: 00:00:00.19
+# Mc/sec: 5196.91
+//
+[ok]
+
+# runtime:  0 wallclock secs ( 0.00 usr  0.00 sys +  0.47 cusr  0.18 csys =  0.65 CPU)

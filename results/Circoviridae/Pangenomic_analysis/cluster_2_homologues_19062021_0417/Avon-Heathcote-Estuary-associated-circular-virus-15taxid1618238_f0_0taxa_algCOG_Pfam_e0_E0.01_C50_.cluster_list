@@ -1,0 +1,131 @@
+cluster 1_replication-associat.. size=13 taxa=13 Pfam=PF02407,PF00910, file: 1_replication-associat...faa dnafile: 1_replication-associat...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-15_taxid_1618238.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-19_taxid_1618242.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-3_taxid_1618254.gbk
+: Circoviridae-11-LDMD-2013_taxid_1379715.gbk
+: Circoviridae-13-LDMD-2013_taxid_1379717.gbk
+: Circoviridae-14-LDMD-2013_taxid_1379718.gbk
+: Circoviridae-15-LDMD-2013_taxid_1379719.gbk
+: Circoviridae-5-LDMD-2013_taxid_1379709.gbk
+: Circovirus-like-genome-DCCV-11_taxid_1788439.gbk
+: Circovirus-like-genome-DCCV-4_taxid_1788444.gbk
+: Molossus-molossus-circovirus-2_taxid_1959843.gbk
+: Po-Circo-like-virus-41_taxid_1105385.gbk
+: Po-Circo-like-virus-51_taxid_1105386.gbk
+cluster 2_putative_capsid_prot.. size=2 taxa=2 file: 2_putative_capsid_prot...faa dnafile: 2_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-15_taxid_1618238.gbk
+: Circovirus-like-genome-DCCV-4_taxid_1788444.gbk
+cluster 3_putative_capsid_prot.. size=1 taxa=1 Pfam=PF08398, file: 3_putative_capsid_prot...faa dnafile: 3_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-19_taxid_1618242.gbk
+cluster 5_putative_capsid_prot.. size=1 taxa=1 file: 5_putative_capsid_prot...faa dnafile: 5_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-27_taxid_1618251.gbk
+cluster 6_replication-associat.. size=3 taxa=3 Pfam=PF02407, file: 6_replication-associat...faa dnafile: 6_replication-associat...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-27_taxid_1618251.gbk
+: Giant-panda-circovirus-3_taxid_2016458.gbk
+: Human-circovirus-VS6600022_taxid_1525173.gbk
+cluster 7_putative_capsid_prot.. size=2 taxa=2 file: 7_putative_capsid_prot...faa dnafile: 7_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-3_taxid_1618254.gbk
+: Circovirus-like-genome-DHCV-2_taxid_1788451.gbk
+cluster 10_hypothetical_protein size=1 taxa=1 file: 10_hypothetical_protein.faa dnafile: 10_hypothetical_protein.fna
+: Circoviridae-11-LDMD-2013_taxid_1379715.gbk
+cluster 11_hypothetical_protein size=1 taxa=1 file: 11_hypothetical_protein.faa dnafile: 11_hypothetical_protein.fna
+: Circoviridae-11-LDMD-2013_taxid_1379715.gbk
+cluster 12_hypothetical_protein size=1 taxa=1 file: 12_hypothetical_protein.faa dnafile: 12_hypothetical_protein.fna
+: Circoviridae-11-LDMD-2013_taxid_1379715.gbk
+cluster 13_hypothetical_protein size=1 taxa=1 file: 13_hypothetical_protein.faa dnafile: 13_hypothetical_protein.fna
+: Circoviridae-11-LDMD-2013_taxid_1379715.gbk
+cluster 15_hypothetical_protein size=1 taxa=1 file: 15_hypothetical_protein.faa dnafile: 15_hypothetical_protein.fna
+: Circoviridae-13-LDMD-2013_taxid_1379717.gbk
+cluster 17_hypothetical_protein size=1 taxa=1 file: 17_hypothetical_protein.faa dnafile: 17_hypothetical_protein.fna
+: Circoviridae-14-LDMD-2013_taxid_1379718.gbk
+cluster 18_hypothetical_protein size=1 taxa=1 file: 18_hypothetical_protein.faa dnafile: 18_hypothetical_protein.fna
+: Circoviridae-14-LDMD-2013_taxid_1379718.gbk
+cluster 19_putative_viral_capsi.. size=1 taxa=1 file: 19_putative_viral_capsi...faa dnafile: 19_putative_viral_capsi...fna
+: Circoviridae-15-LDMD-2013_taxid_1379719.gbk
+cluster 20_hypothetical_protein size=1 taxa=1 file: 20_hypothetical_protein.faa dnafile: 20_hypothetical_protein.fna
+: Circoviridae-15-LDMD-2013_taxid_1379719.gbk
+cluster 22_replication-associat.. size=5 taxa=5 Pfam=PF00910, file: 22_replication-associat...faa dnafile: 22_replication-associat...fna
+: Circoviridae-18-LDMD-2013_taxid_1379722.gbk
+: Circovirus-like-genome-DCCV-7_taxid_1788447.gbk
+: Circovirus-like-genome-DCCV-8_taxid_1788448.gbk
+: Circovirus-like-genome-DHCV-2_taxid_1788451.gbk
+: Giant-panda-circovirus-1_taxid_2016456.gbk
+cluster 23_hypothetical_protein size=2 taxa=2 file: 23_hypothetical_protein.faa dnafile: 23_hypothetical_protein.fna
+: Circoviridae-18-LDMD-2013_taxid_1379722.gbk
+: Circovirus-like-genome-DCCV-7_taxid_1788447.gbk
+cluster 24_hypothetical_protein size=1 taxa=1 file: 24_hypothetical_protein.faa dnafile: 24_hypothetical_protein.fna
+: Circoviridae-5-LDMD-2013_taxid_1379709.gbk
+cluster 25_hypothetical_protein size=1 taxa=1 file: 25_hypothetical_protein.faa dnafile: 25_hypothetical_protein.fna
+: Circoviridae-5-LDMD-2013_taxid_1379709.gbk
+cluster 27_replication-associat.. size=4 taxa=4 file: 27_replication-associat...faa dnafile: 27_replication-associat...fna
+: Circoviridae-6-LDMD-2013_taxid_1379710.gbk
+: Dromedary-stool-associated-circular-ssDNA-virus_taxid_1574422.gbk
+: Fur-seal-faeces-associated-circular-DNA-virus_taxid_1353241.gbk
+: Porcine-stool-associated-circular-virus-4_taxid_1475062.gbk
+cluster 28_replication-associat.. size=1 taxa=1 Pfam=PF00910, file: 28_replication-associat...faa dnafile: 28_replication-associat...fna
+: Circoviridae-6-LDMD-2013_taxid_1379710.gbk
+cluster 29_hypothetical_protein size=1 taxa=1 file: 29_hypothetical_protein.faa dnafile: 29_hypothetical_protein.fna
+: Circoviridae-6-LDMD-2013_taxid_1379710.gbk
+cluster 31_hypothetical_protein size=1 taxa=1 file: 31_hypothetical_protein.faa dnafile: 31_hypothetical_protein.fna
+: Circovirus-like-genome-DCCV-11_taxid_1788439.gbk
+cluster 32_hypothetical_protein size=1 taxa=1 file: 32_hypothetical_protein.faa dnafile: 32_hypothetical_protein.fna
+: Circovirus-like-genome-DCCV-11_taxid_1788439.gbk
+cluster 33_hypothetical_protein size=1 taxa=1 file: 33_hypothetical_protein.faa dnafile: 33_hypothetical_protein.fna
+: Circovirus-like-genome-DCCV-11_taxid_1788439.gbk
+cluster 34_hypothetical_protein size=1 taxa=1 Pfam=PF08398, file: 34_hypothetical_protein.faa dnafile: 34_hypothetical_protein.fna
+: Circovirus-like-genome-DCCV-11_taxid_1788439.gbk
+cluster 36_hypothetical_protein size=1 taxa=1 file: 36_hypothetical_protein.faa dnafile: 36_hypothetical_protein.fna
+: Circovirus-like-genome-DCCV-4_taxid_1788444.gbk
+cluster 38_putative_Rep_protein size=1 taxa=1 file: 38_putative_Rep_protein.faa dnafile: 38_putative_Rep_protein.fna
+: Circovirus-like-genome-DCCV-7_taxid_1788447.gbk
+cluster 40_hypothetical_protein size=1 taxa=1 file: 40_hypothetical_protein.faa dnafile: 40_hypothetical_protein.fna
+: Circovirus-like-genome-DCCV-7_taxid_1788447.gbk
+cluster 42_hypothetical_protein size=1 taxa=1 file: 42_hypothetical_protein.faa dnafile: 42_hypothetical_protein.fna
+: Circovirus-like-genome-DCCV-7_taxid_1788447.gbk
+cluster 43_hypothetical_protein size=1 taxa=1 file: 43_hypothetical_protein.faa dnafile: 43_hypothetical_protein.fna
+: Circovirus-like-genome-DCCV-8_taxid_1788448.gbk
+cluster 45_hypothetical_protein size=1 taxa=1 file: 45_hypothetical_protein.faa dnafile: 45_hypothetical_protein.fna
+: Circovirus-like-genome-DCCV-8_taxid_1788448.gbk
+cluster 46_hypothetical_protein size=1 taxa=1 file: 46_hypothetical_protein.faa dnafile: 46_hypothetical_protein.fna
+: Circovirus-like-genome-DCCV-8_taxid_1788448.gbk
+cluster 48_hypothetical_protein size=1 taxa=1 file: 48_hypothetical_protein.faa dnafile: 48_hypothetical_protein.fna
+: Circovirus-like-genome-DHCV-2_taxid_1788451.gbk
+cluster 50_hypothetical_protein size=1 taxa=1 file: 50_hypothetical_protein.faa dnafile: 50_hypothetical_protein.fna
+: Circovirus-like-genome-DHCV-2_taxid_1788451.gbk
+cluster 51_hypothetical_protein size=1 taxa=1 file: 51_hypothetical_protein.faa dnafile: 51_hypothetical_protein.fna
+: Circovirus-like-genome-DHCV-2_taxid_1788451.gbk
+cluster 53_ORF2 size=1 taxa=1 file: 53_ORF2.faa dnafile: 53_ORF2.fna
+: Dromedary-stool-associated-circular-ssDNA-virus_taxid_1574422.gbk
+cluster 54_cap size=4 taxa=4 file: 54_cap.faa dnafile: 54_cap.fna
+: Dromedary-stool-associated-circular-ssDNA-virus_taxid_1574422.gbk
+: Fur-seal-faeces-associated-circular-DNA-virus_taxid_1353241.gbk
+: Human-circovirus-VS6600022_taxid_1525173.gbk
+: Porcine-stool-associated-circular-virus-4_taxid_1475062.gbk
+cluster 55_capsid-like_protein size=1 taxa=1 file: 55_capsid-like_protein.faa dnafile: 55_capsid-like_protein.fna
+: Ecklonia-radiata-associated-virus-7_taxid_2480197.gbk
+cluster 56_Rep-B size=3 taxa=3 Pfam=PF00799,PF00910, file: 56_Rep-B.faa dnafile: 56_Rep-B.fna
+: Ecklonia-radiata-associated-virus-7_taxid_2480197.gbk
+: Porcine-stool-associated-circular-virus-5_taxid_1475063.gbk
+: Porcine-stool-associated-circular-virus-BEL-15V010_taxid_2017724.gbk
+cluster 60_capsid_protein size=1 taxa=1 file: 60_capsid_protein.faa dnafile: 60_capsid_protein.fna
+: Giant-panda-circovirus-1_taxid_2016456.gbk
+cluster 62_capsid_protein size=1 taxa=1 file: 62_capsid_protein.faa dnafile: 62_capsid_protein.fna
+: Giant-panda-circovirus-3_taxid_2016458.gbk
+cluster 63_hypothetical_protein size=1 taxa=1 file: 63_hypothetical_protein.faa dnafile: 63_hypothetical_protein.fna
+: Giant-panda-circovirus-3_taxid_2016458.gbk
+cluster 65_hypothetical_protein size=1 taxa=1 file: 65_hypothetical_protein.faa dnafile: 65_hypothetical_protein.fna
+: Human-circovirus-VS6600022_taxid_1525173.gbk
+cluster 67_hypothetical_protein size=1 taxa=1 file: 67_hypothetical_protein.faa dnafile: 67_hypothetical_protein.fna
+: Human-circovirus-VS6600022_taxid_1525173.gbk
+cluster 69_Cap size=1 taxa=1 Pfam=PF00729, file: 69_Cap.faa dnafile: 69_Cap.fna
+: Molossus-molossus-circovirus-2_taxid_1959843.gbk
+cluster 71_hypothetical_protein size=2 taxa=2 file: 71_hypothetical_protein.faa dnafile: 71_hypothetical_protein.fna
+: Po-Circo-like-virus-41_taxid_1105385.gbk
+: Po-Circo-like-virus-51_taxid_1105386.gbk
+cluster 72_hypothetical_protein size=1 taxa=1 file: 72_hypothetical_protein.faa dnafile: 72_hypothetical_protein.fna
+: Po-Circo-like-virus-41_taxid_1105385.gbk
+cluster 75_hypothetical_protein size=1 taxa=1 file: 75_hypothetical_protein.faa dnafile: 75_hypothetical_protein.fna
+: Po-Circo-like-virus-51_taxid_1105386.gbk
+cluster 78_cap_protein size=2 taxa=2 file: 78_cap_protein.faa dnafile: 78_cap_protein.fna
+: Porcine-stool-associated-circular-virus-5_taxid_1475063.gbk
+: Porcine-stool-associated-circular-virus-BEL-15V010_taxid_2017724.gbk

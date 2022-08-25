@@ -1,0 +1,11 @@
+1_putative_viral_repli...faa
+3_putative_replication...faa
+9_putative_capsid_prot...faa
+22_putative_capsid_prot...faa
+29_replication-associat...faa
+101_replication_associat...faa
+102_replication_associat...faa
+293_cap.faa
+297_ORFC2.faa
+352_hypothetical_protein.faa
+393_capsid_protein.faa

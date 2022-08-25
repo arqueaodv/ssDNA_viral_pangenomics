@@ -1,0 +1,21 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+UniRef50_A0A6B1CX95    -          NP_932304.2          -              0.005   23.9  35.8   2.1e+03    9.5   1.3   5.5   5   0   0   5   5   5   0 Uncharacterized protein n=2 Tax=unclassified Cenarchaeum TaxID=2638854 RepID=A0A6B1CX95_9ARCH
+UniRef50_A0A6G2KU43    -          NP_932304.2          -              0.037   21.7  17.9   5.7e+02   10.9   1.3   3.4   3   0   0   3   3   3   0 Cyclase (Fragment) n=1 Tax=Cenarchaeum sp. SB0673_bin_9 TaxID=2604881 RepID=A0A6G2KU43_9ARCH
+UniRef50_A0A6G2KGM1    -          NP_932304.2          -               0.68   18.4  13.2   2.9e+02   11.7   1.3   3.3   3   0   0   3   3   3   0 Nucleoid-structuring protein H-NS (Fragment) n=1 Tax=Cenarchaeum sp. SB0677_bin_16 TaxID=2604883 RepID=A0A6G2KGM1_9ARCH
+UniRef50_UPI000BA7E6AC -          NP_932304.2          -               0.82   18.2  20.0   1.6e+03    9.8   1.0   4.9   4   0   0   4   4   4   0 high mobility group protein HMGI-C-like isoform X1 n=2 Tax=Limulus polyphemus TaxID=6850 RepID=UPI000BA7E6AC
+UniRef50_A0A453A630    -          NP_932304.2          -                2.5   17.0  19.3     2e+03    9.6   2.2   4.1   3   0   0   3   3   3   0 Uncharacterized protein n=1 Tax=Aegilops tauschii subsp. strangulata TaxID=200361 RepID=A0A453A630_AEGTS
+UniRef50_A0A067SSH6    -          NP_932304.2          -                4.8   16.3  39.1   1.1e+04    7.7   1.0   7.6   6   0   0   6   6   6   0 Uncharacterized protein n=1 Tax=Galerina marginata (strain CBS 339.88) TaxID=685588 RepID=A0A067SSH6_GALM3
+UniRef50_A0A4Y2AV16    -          NP_932304.2          -                4.9   16.2  15.8   3.5e+03    8.9   1.1   4.1   3   0   0   3   3   3   0 Uncharacterized protein n=4 Tax=Entelegynae TaxID=74971 RepID=A0A4Y2AV16_ARAVE
+UniRef50_S8ESJ7        -          NP_932304.2          -                7.3   15.8  91.0   1.7e+04    7.2   2.0  12.7  11   0   0  11  11  11   0 AT hook motif domain-containing protein n=2 Tax=Toxoplasma gondii TaxID=5811 RepID=S8ESJ7_TOXGM
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/195_ORF8/195_ORF8_PF02178_.faa
+# Target file:     /barracuda/Nanis_dbs/Uniref/ftp.uniprot.org/pub/databases/uniprot/uniref/uniref50/uniref50.fasta
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/195_ORF8/195_ORF8_PF02178__uniref50_jackhmmer.table ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/195_ORF8/195_ORF8_PF02178_.faa /barracuda/Nanis_dbs/Uniref/ftp.uniprot.org/pub/databases/uniprot/uniref/uniref50/uniref50.fasta 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Tue Dec 21 09:11:20 2021
+# [ok]

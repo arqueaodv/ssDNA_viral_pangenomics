@@ -1,0 +1,29 @@
+VIRAL_FAMILY	Genomoviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	26_replication-associat...faa
+PREVALENCE	2.666667
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		Uniprot hit without GO [GO:XXXXXXX]
+		DNA replication [GO:0006260]
+	MOLECULAR_FUNCTION
+		Uniprot hit without GO [GO:XXXXXXX]
+		DNA binding [GO:0003677]
+		endonuclease activity [GO:0004519]
+		metal ion binding [GO:0046872]
+		structural molecule activity [GO:0005198]
+		endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]
+	CELLULAR_COMPONENT
+		Uniprot hit without GO [GO:XXXXXXX]
+		host cell nucleus [GO:0042025]
+
+
+//
+
+>ID:YP_009021857.1 |[Dragonfly-associated circular virus 2]||Dragonfly-associated-circular-virus-2_taxid_1234886.gbk|replication-associat..|276|NC_023871(2236):1042-1317:-1 ^GeneID:18983279^ Dragonfly-associated circular virus 2 isolate FL2-5X-2010, complete genome.|neighbours:ID:YP_009021856.1(-1),ID:YP_009021858.1(-1)|neighbour_genes:spliced replication-..,replication-associat..| ATGAAGGCACCCCACGTCGAGTACGCAATCTTCGACGATATACGAGGAGGAATTAAGTTTTTCCCAGCATTCAAGGAGTGGTTGGGTGGTCAGCATACAGTTTCTGTGAAGAGATTGTACAGGGATCCAAAATTGGTGGCTTGGGGTAAGCCCTCAATCTGGATAAGCAATGACGATCCACGGCTAAGCATGGACCCTTCTGACGTGTCATGGCTTGAAGCTAATGCAGTTTTCATTGAGATCAACAGCGCTATTTTTCGTGCCAATACAGAGTAG >ID:YP_009021853.1 |[Dragonfly-associated circular virus 3]||Dragonfly-associated-circular-virus-3_taxid_1234884.gbk|replication-associat..|294|NC_023870(2208):978-1271:-1 ^GeneID:18983274^ Dragonfly-associated circular virus 3 isolate TO-DFS3B2-2010, complete genome.|neighbours:ID:YP_009021852.1(-1),ID:YP_009021854.1(-1)|neighbour_genes:spliced replication-..,replication-associat..| ATGGACCAATTATCATTCGATACAGATGACGTCAACTATGCTGTTTTTGACGATATACATTCACTCAAGTTTTTTCCTATGTGGAAGTTTTGGATGGGCGCACAAGACACATTCACTGTCACGGACAAGTATAAGGGCAAAATGACTTTCAATTGGGGAAGGCCGATCATTTGGTGCAACAACAAGGACCCGCGGGCGGATCCTGATGCTGACGCCGATTGGATCGACGCAAATTGTATTGTAGTTAACGTTCCGGAGGACACGCCGCTCATTTCTCGTGCCAATACAGAGTAG
+
+//
+
+>ID:YP_009021857.1 |[Dragonfly-associated circular virus 2]||Dragonfly-associated-circular-virus-2_taxid_1234886.gbk|replication-associat..|276|NC_023871(2236):1042-1317:-1 ^GeneID:18983279^ Dragonfly-associated circular virus 2 isolate FL2-5X-2010, complete genome.|neighbours:ID:YP_009021856.1(-1),ID:YP_009021858.1(-1)|neighbour_genes:spliced replication-..,replication-associat..| | aligned:6-91 (91) MKAPHVEYAIFDDIRGGIKFFPAFKEWLGGQHTVSVKRLYRDPKLVAWGKPSIWISNDDPRLSMDPSDVSWLEANAVFIEINSAIFRANTE >ID:YP_009021853.1 |[Dragonfly-associated circular virus 3]||Dragonfly-associated-circular-virus-3_taxid_1234884.gbk|replication-associat..|294|NC_023870(2208):978-1271:-1 ^GeneID:18983274^ Dragonfly-associated circular virus 3 isolate TO-DFS3B2-2010, complete genome.|neighbours:ID:YP_009021852.1(-1),ID:YP_009021854.1(-1)|neighbour_genes:spliced replication-..,replication-associat..| | aligned:11-97 (97) MDQLSFDTDDVNYAVFDDIHSLKFFPMWKFWMGAQDTFTVTDKYKGKMTFNWGRPIIWCNNKDPRADPDADADWIDANCIVVNVPEDTPLISRANTE

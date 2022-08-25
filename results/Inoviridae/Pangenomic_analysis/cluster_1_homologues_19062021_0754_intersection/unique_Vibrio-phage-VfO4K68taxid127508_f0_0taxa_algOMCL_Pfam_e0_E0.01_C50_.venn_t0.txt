@@ -1,0 +1,3 @@
+77_membrane_glycoprotei...faa
+92_Vpf504.faa
+91_Vpf81.faa

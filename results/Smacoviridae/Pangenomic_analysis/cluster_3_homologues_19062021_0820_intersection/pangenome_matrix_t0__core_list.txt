@@ -1,0 +1,2 @@
+10_rep.faa
+11_cap.faa

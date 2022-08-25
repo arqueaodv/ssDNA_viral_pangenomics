@@ -1,0 +1,15 @@
+>ID:YP_009129268.1 |[Apple geminivirus PL-2015]||Apple-geminivirus-PL-2015_taxid_1633752.gbk|V2|297|NC_026760(2932):265-561:1 ^GeneID:24018660^ Apple geminivirus PL-2015 isolate China, complete genome.|neighbours:start(),ID:YP_009129269.1(1)|neighbour_genes:start(),V1| | aligned:1-98 (98)
+MEAVFNHLVG KKLQPKDVLP AITAWICEKG TGQQLIDWVN GLEGEKEAIF RALNSCSAEQ EGEMEANDDG GSHEASPVRE
+CVPAEPNEGA ANRIISIS
+
+>ID:YP_009305424.1 |[Grapevine geminivirus A]||Grapevine-geminivirus-A_taxid_1906317.gbk|Pre-CP/V2|312|NC_031340(2905):313-624:1 ^GeneID:29295308^ Grapevine geminivirus A isolate Tamar, complete genome.|neighbours:start(),ID:YP_009305425.1(1)|neighbour_genes:start(),CP/V1| | aligned:6-103 (103)
+MWLVFMDRLY SSFQDKRLHP AEILPHVTQW ICEKGTAQQL IDWIHGLQSE KEEIFRTLDA CSVGPSEEME GFGGPRGQEK
+VDLSLTLSSP TDERPQVKSV SIS
+
+>ID:YP_009465983.1 |[Juncus maritimus associated virus]||Juncus-maritimus-associated-virus_taxid_2093273.gbk|movement protein|306|NC_037066(2740):156-461:1 ^GeneID:35997084^ Juncus maritimus associated virus isolate 13-FMN-1, complete genome.|neighbours:start(),ID:YP_009465984.1(1)|neighbour_genes:start(),capsid protein| | aligned:1-70 (101)
+MADKFCNYLD KRQVEPAELL PLITRWIVEK GSAQQFIDWI NGLQREEKEI FRALNACSDS KEDDDDPEEV QLRVGPSSSV
+PKPILQAQSD GLQEEVQIHI S
+
+>ID:YP_009508428.1 |[Sida golden yellow spot virus]||Sida-golden-yellow-spot-virus_taxid_1949198.gbk|AV2 protein|306|NC_038992(2813):199-504:1 ^GeneID:37619885^ Sida golden yellow spot virus isolate BR:Sab889:10, complete sequence.|neighbours:start(),ID:YP_009508429.1(1)|neighbour_genes:start(),CP| | aligned:1-84 (101)
+MDQLFCQLEG NKIEPKDLLP AVSRWIVEKG TAQQFIDWIN GLQAETKGLF HALNAVPDGE EIQTDSAEVD GEEETELRLS
+QPVRISGTGK EQGSYRQIPI D

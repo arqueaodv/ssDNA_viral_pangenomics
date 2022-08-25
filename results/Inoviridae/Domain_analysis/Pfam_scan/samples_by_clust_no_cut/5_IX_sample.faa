@@ -1,0 +1,5 @@
+>ID:YP_009111301.1 |[Enterobacteria phage fd]|478|Enterobacteria-phage-fd_taxid_10864.gbk|IX|99|NC_025824(6408):1206-1304:1 ^GeneID:22475002^ Enterobacteria phage fd strain 478, complete genome.|neighbours:ID:YP_009111300.1(1),ID:YP_009111302.1(1)|neighbour_genes:VII,VIII| | aligned:1-32 (32)
+MSVLVYSFAS FVLGWCLRSG ITYFTRLMET SS
+
+>ID:NP_510889.1 |[Escherichia virus M13]||Escherichia-virus-M13_taxid_1977402.gbk|IX|99|NC_003287(6407):1206-1304:1 ^GOA:P03677,GeneID:927332,UniProtKB/Swiss-Prot:P03677^ Enterobacteria phage M13, complete genome.|neighbours:ID:NP_510888.1(1),ID:NP_510890.1(1)|neighbour_genes:VII,VIII| | aligned:1-32 (32)
+MSVLVYSFAS FVLGWCLRSG ITYFTRLMET SS

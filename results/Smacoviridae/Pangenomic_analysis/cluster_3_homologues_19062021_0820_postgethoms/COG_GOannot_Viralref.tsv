@@ -1,0 +1,18 @@
+cluster	prevalence	term	what	familia	algoritmo
+10_rep	100	Putative function Uniprot hit [GO:PPPPPPP]	bp	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+10_rep	100	DNA replication [GO:0006260]	bp	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+10_rep	100	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+10_rep	100	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+11_cap	100	Putative function Uniprot hit [GO:PPPPPPP]	bp	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+10_rep	100	Putative function Uniprot hit [GO:PPPPPPP]	cc	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+10_rep	100	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+11_cap	100	Putative function Uniprot hit [GO:PPPPPPP]	cc	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+10_rep	100	Putative function Uniprot hit [GO:PPPPPPP]	mf	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+10_rep	100	ATP binding [GO:0005524]	mf	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+10_rep	100	DNA binding [GO:0003677]	mf	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+10_rep	100	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+10_rep	100	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+10_rep	100	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+10_rep	100	RNA binding [GO:0003723]	mf	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+10_rep	100	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG
+11_cap	100	Putative function Uniprot hit [GO:PPPPPPP]	mf	../results/Get_homologues/Smacoviridae/cluster_3_homologues_19062021_0820/	COG

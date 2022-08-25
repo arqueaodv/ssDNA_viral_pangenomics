@@ -1,0 +1,11 @@
+>ID:YP_009058919.1 |[Bitter gourd yellow vein virus]||Bitter-gourd-yellow-vein-virus_taxid_1513489.gbk|AV3|387|NC_024894(2737):41-427:1 ^GeneID:20358481^ Bitter gourd yellow vein virus isolate BD12C8 segment DNA-A, complete sequence.|neighbours:start(),ID:YP_009058920.1(1)|neighbour_genes:start(),AV2| | aligned:1-128 (128)
+MKITLHGFVT SWGPINRLAH QVFLHQHVGS IIARISGKRA WSEVHASCKI SPGDREELFP RYSRIRSCTR SHPCSPSKEL
+WRSDQQISSF QRPHRRYADV STSTAPMELV QLSPLPASQR QGPGQTGR
+
+>ID:YP_009109702.1 |[Jatropha leaf crumple virus]||Jatropha-leaf-crumple-virus_taxid_1547577.gbk|V3|309|NC_025725(2735):50-358:1 ^GeneID:22284064^ Jatropha leaf crumple virus isolate SKJ1, complete genome.|neighbours:start(),ID:YP_009109703.1(1)|neighbour_genes:start(),V2| | aligned:17-102 (102)
+MSPYQNAPWS FDICGPPITT CRPSCSLHNV GPSSERVPRF RPRFTVYVCC DIRPVGGRYL FPRHFGSRVN QGSHICHQGE
+ELCRSDQQIS SFPLQARRFV AV
+
+>ID:NP_803218.1 |[Tomato leaf curl New Delhi virus]|Severe|Tomato-leaf-curl-New-Delhi-virus_taxid_223347.gbk|av3|387|NC_004611(2739):48-434:1 ^GeneID:988205^ Tomato leaf curl New Delhi virus DNA A, complete sequence.|neighbours:start(),ID:NP_803219.1(1)|neighbour_genes:start(),av2| | aligned:1-128 (128)
+MKFTLHGLFS AWGSINRLAH QVWIHKHVGS IIARISRKRS WSKVHASCKI SPRDRKELFT RHSRLRSYSR SHSCSPSKEL
+WRSDQQISSF QRPHRRYADV STSTAPMELV QLSPLPASPK QRPGPTGR

@@ -1,0 +1,6 @@
+>ID:NP_044322.1 |[Chlamydia virus Chp1]||Chlamydia-virus-Chp1_taxid_2003327.gbk|nonstructural protei..|291|NC_001741(4877):4168-4458:1 ^GeneID:1261209^ Chlamydia phage Chp1, complete genome.|neighbours:ID:NP_044321.1(1),ID:NP_044323.1(1)|neighbour_genes:hypothetical protein,nonstructural protei..| | aligned:39-96 (96)
+MHMFYYSIYD RKARSYGDLI SFPSGEKEAA IRWFRDVVMD SDSKNILHRY PEDFDFCYIG YFDKDKGRFY PVDAGIVTII
+NAGEFFLDSE YRQEEV
+
+>ID:NP_044323.1 |[Chlamydia virus Chp1]||Chlamydia-virus-Chp1_taxid_2003327.gbk|nonstructural protei..|177|NC_001741(4877):4282-4458:1 ^GeneID:1261208^ Chlamydia phage Chp1, complete genome.|neighbours:ID:NP_044322.1(1),end()|neighbour_genes:nonstructural protei..,end()| | aligned:1-58 (58)
+MDSDSKNILH RYPEDFDFCY IGYFDKDKGR FYPVDAGIVT IINAGEFFLD SEYRQEEV

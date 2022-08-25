@@ -1,0 +1,83 @@
+# parameters: max number of processors=10 batchsize=100 $VERBOSE=0
+# raw hmmscan command: /home/abelardo/get_homologues//bin/hmmer-3.1b2/binaries/hmmscan --noali --acc --cut_ga --cpu 1 /home/abelardo/get_homologues/db/Pfam-A.hmm /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/cluster_1_homologues/_Porcine-circovirus-type-1-2a_taxid_720569.gbk.fasta0
+
+# WARNING: using only 0 cores
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/cluster_1_homologues/_Porcine-circovirus-type-1-2a_taxid_720569.gbk.fasta00
+# target HMM database:             /home/abelardo/get_homologues/db/Pfam-A.hmm
+# prefer accessions over names:    yes
+# show alignments in output:       no
+# model-specific thresholding:     GA cutoffs
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       282  [L=312]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    4.5e-18   65.4   0.3    6.6e-18   64.8   0.3    1.3  1  PF02407.18  Putative viral replication protein
+      4e-15   56.2   0.0    1.2e-14   54.7   0.0    1.8  1  PF00910.24  RNA helicase
+
+
+Domain annotation for each model:
+>> PF02407.18  Putative viral replication protein
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   64.8   0.3   6.9e-22   6.6e-18       3      82 .]      13      97 ..      11      97 .. 0.89
+
+>> PF00910.24  RNA helicase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   54.7   0.0   1.2e-18   1.2e-14       2     107 .]     168     254 ..     167     254 .. 0.95
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (312 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       560  (0.0291986); expected 383.6 (0.02)
+Passed bias filter:                      500  (0.0260702); expected 383.6 (0.02)
+Passed Vit filter:                        79  (0.00411909); expected 19.2 (0.001)
+Passed Fwd filter:                         8  (0.000417123); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.19u 0.12s 00:00:00.31 Elapsed: 00:00:00.18
+# Mc/sec: 5648.56
+//
+Query:       283  [L=233]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    8.6e-67  225.2  10.4    1.1e-66  224.8  10.4    1.1  1  PF02443.17  Circovirus capsid protein
+
+
+Domain annotation for each model:
+>> PF02443.17  Circovirus capsid protein
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  224.8  10.4   5.9e-71   1.1e-66       1     235 []       5     226 ..       5     226 .. 0.96
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (233 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       365  (0.0190312); expected 383.6 (0.02)
+Passed bias filter:                      273  (0.0142343); expected 383.6 (0.02)
+Passed Vit filter:                        19  (0.000990667); expected 19.2 (0.001)
+Passed Fwd filter:                         2  (0.000104281); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.23u 0.08s 00:00:00.31 Elapsed: 00:00:00.17
+# Mc/sec: 4466.45
+//
+[ok]
+
+# runtime:  1 wallclock secs ( 0.00 usr  0.00 sys +  0.42 cusr  0.20 csys =  0.62 CPU)

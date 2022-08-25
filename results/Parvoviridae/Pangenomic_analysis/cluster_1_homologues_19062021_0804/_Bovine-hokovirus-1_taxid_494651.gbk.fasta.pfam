@@ -1,0 +1,124 @@
+# parameters: max number of processors=10 batchsize=100 $VERBOSE=0
+# raw hmmscan command: /home/abelardo/get_homologues//bin/hmmer-3.1b2/binaries/hmmscan --noali --acc --cut_ga --cpu 1 /home/abelardo/get_homologues/db/Pfam-A.hmm /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/cluster_1_homologues/_Bovine-hokovirus-1_taxid_494651.gbk.fasta0
+
+# WARNING: using only 0 cores
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/cluster_1_homologues/_Bovine-hokovirus-1_taxid_494651.gbk.fasta00
+# target HMM database:             /home/abelardo/get_homologues/db/Pfam-A.hmm
+# prefer accessions over names:    yes
+# show alignments in output:       no
+# model-specific thresholding:     GA cutoffs
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       79  [L=652]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    1.2e-84  283.8   0.0    1.7e-84  283.2   0.0    1.1  1  PF01057.19  Parvovirus non-structural protein NS1
+    2.6e-08   33.9   0.0    4.6e-08   33.1   0.0    1.3  1  PF08724.12  Rep protein catalytic domain like
+    0.00017   20.6   0.0    0.00029   19.9   0.0    1.2  1  PF00519.19  Papillomavirus helicase
+
+
+Domain annotation for each model:
+>> PF01057.19  Parvovirus non-structural protein NS1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  283.2   0.0   2.7e-88   1.7e-84       3     262 ..     224     480 ..     222     495 .. 0.98
+
+>> PF08724.12  Rep protein catalytic domain like
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.1   0.0   7.2e-12   4.6e-08      70     179 ..      79     189 ..      41     194 .. 0.83
+
+>> PF00519.19  Papillomavirus helicase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   19.9   0.0   4.5e-08   0.00029     255     398 ..     324     473 ..     303     483 .. 0.78
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (652 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       529  (0.0275823); expected 383.6 (0.02)
+Passed bias filter:                      429  (0.0223682); expected 383.6 (0.02)
+Passed Vit filter:                        44  (0.00229418); expected 19.2 (0.001)
+Passed Fwd filter:                         4  (0.000208561); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.29u 0.08s 00:00:00.37 Elapsed: 00:00:00.18
+# Mc/sec: 11804.05
+//
+Query:       80  [L=931]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    2.1e-41  142.3   1.0      3e-40  138.5   1.0    2.1  1  PF00740.20  Parvovirus coat protein VP2
+    1.1e-10   41.8   0.2    6.1e-10   39.4   0.0    2.3  1  PF08398.12  Phospholipase A2-like domain
+
+
+Domain annotation for each model:
+>> PF00740.20  Parvovirus coat protein VP2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  138.5   1.0   3.1e-44     3e-40       4     529 ..     385     887 ..     382     898 .. 0.73
+
+>> PF08398.12  Phospholipase A2-like domain
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   39.4   0.0   6.3e-14   6.1e-10       1      67 [.     226     292 ..     226     308 .. 0.87
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (931 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       349  (0.018197); expected 383.6 (0.02)
+Passed bias filter:                      325  (0.0169456); expected 383.6 (0.02)
+Passed Vit filter:                        21  (0.00109495); expected 19.2 (0.001)
+Passed Fwd filter:                         2  (0.000104281); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.35u 0.07s 00:00:00.42 Elapsed: 00:00:00.18
+# Mc/sec: 16855.17
+//
+Query:       81  [L=553]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    6.5e-42  144.0   1.8      1e-40  140.1   1.8    2.1  1  PF00740.20  Parvovirus coat protein VP2
+
+
+Domain annotation for each model:
+>> PF00740.20  Parvovirus coat protein VP2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  140.1   1.8   5.3e-45     1e-40       4     529 ..       7     509 ..       4     522 .. 0.73
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (553 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       270  (0.0140779); expected 383.6 (0.02)
+Passed bias filter:                      241  (0.0125658); expected 383.6 (0.02)
+Passed Vit filter:                        19  (0.000990667); expected 19.2 (0.001)
+Passed Fwd filter:                         1  (5.21404e-05); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.28u 0.12s 00:00:00.40 Elapsed: 00:00:00.20
+# Mc/sec: 9010.54
+//
+[ok]
+
+# runtime:  0 wallclock secs ( 0.01 usr  0.00 sys +  0.92 cusr  0.27 csys =  1.20 CPU)

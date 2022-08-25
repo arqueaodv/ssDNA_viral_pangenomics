@@ -1,0 +1,197 @@
+# parameters: max number of processors=10 batchsize=100 $VERBOSE=0
+# raw hmmscan command: /home/abelardo/get_homologues//bin/hmmer-3.1b2/binaries/hmmscan --noali --acc --cut_ga --cpu 1 /home/abelardo/get_homologues/db/Pfam-A.hmm /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/Geminiviridae_all_homologues/_Turnip-curly-top-virus_taxid_859650.gbk.fasta0
+
+# WARNING: using only 0 cores
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/Geminiviridae_all_homologues/_Turnip-curly-top-virus_taxid_859650.gbk.fasta00
+# target HMM database:             /home/abelardo/get_homologues/db/Pfam-A.hmm
+# prefer accessions over names:    yes
+# show alignments in output:       no
+# model-specific thresholding:     GA cutoffs
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       3030  [L=125]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each model:
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (125 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       419  (0.0218468); expected 383.6 (0.02)
+Passed bias filter:                      354  (0.0184577); expected 383.6 (0.02)
+Passed Vit filter:                        26  (0.00135565); expected 19.2 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.17u 0.14s 00:00:00.31 Elapsed: 00:00:00.19
+# Mc/sec: 2143.94
+//
+Query:       3031  [L=276]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    2.1e-29  102.8   1.1    2.8e-29  102.4   1.1    1.1  1  PF00844.20  Geminivirus coat protein/nuclear export factor BR
+
+
+Domain annotation for each model:
+>> PF00844.20  Geminivirus coat protein/nuclear export factor BR1 family
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  102.4   1.1   1.5e-33   2.8e-29      15     226 ..      38     255 ..      26     272 .. 0.77
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (276 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       331  (0.0172585); expected 383.6 (0.02)
+Passed bias filter:                      285  (0.01486); expected 383.6 (0.02)
+Passed Vit filter:                        18  (0.000938527); expected 19.2 (0.001)
+Passed Fwd filter:                         1  (5.21404e-05); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.23u 0.11s 00:00:00.34 Elapsed: 00:00:00.19
+# Mc/sec: 4733.82
+//
+Query:       3032  [L=140]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    2.3e-35  121.1   0.8    2.7e-35  120.9   0.8    1.1  1  PF01407.19  Geminivirus AL3 protein
+
+
+Domain annotation for each model:
+>> PF01407.19  Geminivirus AL3 protein
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  120.9   0.8   1.4e-39   2.7e-35       1     115 [.       6     120 ..       6     126 .. 0.97
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (140 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       335  (0.017467); expected 383.6 (0.02)
+Passed bias filter:                      236  (0.0123051); expected 383.6 (0.02)
+Passed Vit filter:                        16  (0.000834246); expected 19.2 (0.001)
+Passed Fwd filter:                         1  (5.21404e-05); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.22u 0.09s 00:00:00.31 Elapsed: 00:00:00.19
+# Mc/sec: 2401.21
+//
+Query:       3033  [L=141]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    7.5e-21   75.0   1.6    9.4e-21   74.7   1.6    1.1  1  PF01440.18  Geminivirus AL2 protein
+
+
+Domain annotation for each model:
+>> PF01440.18  Geminivirus AL2 protein
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   74.7   1.6   4.9e-25   9.4e-21       1     128 []       1     129 [.       1     129 [. 0.85
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (141 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       444  (0.0231503); expected 383.6 (0.02)
+Passed bias filter:                      345  (0.0179884); expected 383.6 (0.02)
+Passed Vit filter:                        31  (0.00161635); expected 19.2 (0.001)
+Passed Fwd filter:                         3  (0.000156421); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.22u 0.07s 00:00:00.29 Elapsed: 00:00:00.17
+# Mc/sec: 2702.88
+//
+Query:       3034  [L=371]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    3.4e-42  143.5   0.1    6.6e-42  142.5   0.1    1.5  1  PF00799.22  Geminivirus Rep catalytic domain
+    6.6e-22   77.7   0.2    5.3e-21   74.8   0.0    2.5  1  PF08283.13  Geminivirus rep protein central domain
+
+
+Domain annotation for each model:
+>> PF00799.22  Geminivirus Rep catalytic domain
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  142.5   0.1   6.9e-46   6.6e-42       1     113 []       8     120 ..       8     120 .. 0.98
+
+>> PF08283.13  Geminivirus rep protein central domain
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   74.8   0.0   5.6e-25   5.3e-21       1     107 []     127     243 ..     127     243 .. 0.86
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (371 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       382  (0.0199176); expected 383.6 (0.02)
+Passed bias filter:                      358  (0.0186662); expected 383.6 (0.02)
+Passed Vit filter:                        43  (0.00224204); expected 19.2 (0.001)
+Passed Fwd filter:                         3  (0.000156421); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.24u 0.10s 00:00:00.34 Elapsed: 00:00:00.17
+# Mc/sec: 7111.82
+//
+Query:       3035  [L=85]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    2.2e-19   69.2   0.5    2.9e-19   68.8   0.5    1.2  1  PF01492.19  Geminivirus C4 protein
+
+
+Domain annotation for each model:
+>> PF01492.19  Geminivirus C4 protein
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   68.8   0.5   1.5e-23   2.9e-19       1      84 []       1      84 [.       1      84 [. 0.93
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (85 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       350  (0.0182491); expected 383.6 (0.02)
+Passed bias filter:                      250  (0.0130351); expected 383.6 (0.02)
+Passed Vit filter:                        16  (0.000834246); expected 19.2 (0.001)
+Passed Fwd filter:                         1  (5.21404e-05); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.21u 0.11s 00:00:00.32 Elapsed: 00:00:00.20
+# Mc/sec: 1384.98
+//
+[ok]
+
+# runtime:  1 wallclock secs ( 0.00 usr  0.00 sys +  1.29 cusr  0.62 csys =  1.91 CPU)

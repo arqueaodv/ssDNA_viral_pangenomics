@@ -1,0 +1,59 @@
+cluster 1_alpha-rep size=52 taxa=1 file: 1_alpha-rep.faa dnafile: 1_alpha-rep.fna
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+cluster 9_replication_protein size=1 taxa=1 file: 9_replication_protein.faa dnafile: 9_replication_protein.fna
+: 
+cluster 27_Rep size=1 taxa=1 Pfam=PF02407, file: 27_Rep.faa dnafile: 27_Rep.fna
+: Melon-chlorotic-mosaic-alphasatellite_taxid_2169825.gbk
+cluster 28_alpha-V2 size=1 taxa=1 file: 28_alpha-V2.faa dnafile: 28_alpha-V2.fna
+: Melon-chlorotic-mosaic-alphasatellite_taxid_2169825.gbk

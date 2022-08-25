@@ -1,0 +1,54 @@
+cluster	prevalence	term	what	familia	algoritmo
+121_putative_replication..	29.82456140350877	viral DNA genome replication [GO:0039693]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+121_putative_replication..	29.82456140350877	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+121_putative_replication..	29.82456140350877	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+123_putative_minor_capsi..	29.82456140350877	viral procapsid maturation [GO:0046797]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+123_putative_minor_capsi..	29.82456140350877	viral release from host cell [GO:0019076]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+123_putative_minor_capsi..	29.82456140350877	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+125_putative_major_capsi..	29.82456140350877	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+125_putative_major_capsi..	29.82456140350877	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+125_putative_major_capsi..	29.82456140350877	virion [GO:0019012]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+125_putative_major_capsi..	29.82456140350877	viral capsid, major subunit [GO:0098017]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+125_putative_major_capsi..	29.82456140350877	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+131_B	28.07017543859649	viral capsid assembly [GO:0019069]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+131_B	28.07017543859649	viral release from host cell [GO:0019076]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+131_B	28.07017543859649	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+131_B	28.07017543859649	viral procapsid [GO:0046729]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+131_B	28.07017543859649	viral scaffold [GO:0046806]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+133_C	28.07017543859649	viral DNA genome packaging [GO:0019073]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+135_E	28.07017543859649	suppression by virus of host peptidoglycan biosynthetic process [GO:0039635]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+135_E	28.07017543859649	enzyme inhibitor activity [GO:0004857]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+136_J	28.07017543859649	viral procapsid maturation [GO:0046797]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+136_J	28.07017543859649	viral release from host cell [GO:0019076]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+136_J	28.07017543859649	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+136_J	28.07017543859649	virion [GO:0019012]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+136_J	28.07017543859649	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+136_J	28.07017543859649	DNA binding [GO:0003677]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+138_G	28.07017543859649	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+138_G	28.07017543859649	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+138_G	28.07017543859649	modulation by virus of host process [GO:0019048]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+138_G	28.07017543859649	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+138_G	28.07017543859649	virion [GO:0019012]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+138_G	28.07017543859649	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+139_H	28.07017543859649	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+139_H	28.07017543859649	viral procapsid [GO:0046729]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+139_H	28.07017543859649	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+20_major_capsid_protein	3.508771929824561	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+20_major_capsid_protein	3.508771929824561	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+20_major_capsid_protein	3.508771929824561	virion [GO:0019012]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+20_major_capsid_protein	3.508771929824561	viral capsid, major subunit [GO:0098017]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+20_major_capsid_protein	3.508771929824561	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+45_mannosyl-glycoprotei..	3.508771929824561	bacterial-type flagellum assembly [GO:0044780]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+45_mannosyl-glycoprotei..	3.508771929824561	peptidoglycan catabolic process [GO:0009253]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+45_mannosyl-glycoprotei..	3.508771929824561	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+45_mannosyl-glycoprotei..	3.508771929824561	glutamine-tRNA ligase activity [GO:0004819]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+45_mannosyl-glycoprotei..	3.508771929824561	amidase activity [GO:0004040]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+45_mannosyl-glycoprotei..	3.508771929824561	lysozyme activity [GO:0003796]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+45_mannosyl-glycoprotei..	3.508771929824561	N-acetylmuramoyl-L-alanine amidase activity [GO:0008745]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+45_mannosyl-glycoprotei..	3.508771929824561	peptidoglycan binding [GO:0042834]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+45_mannosyl-glycoprotei..	3.508771929824561	mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase activity [GO:0033925]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+5_major_capsid_protein	59.64912280701754	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+5_major_capsid_protein	59.64912280701754	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+5_major_capsid_protein	59.64912280701754	virion [GO:0019012]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+5_major_capsid_protein	59.64912280701754	viral capsid, major subunit [GO:0098017]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL
+5_major_capsid_protein	59.64912280701754	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	OMCL

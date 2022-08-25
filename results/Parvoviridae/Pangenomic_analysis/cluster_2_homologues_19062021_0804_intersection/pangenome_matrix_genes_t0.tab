@@ -1,0 +1,14 @@
+source:/home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804_intersection	1_NS1.faa	2_NS2.faa	3_VP.faa	4_NS1.faa	10_NS1.faa	11_putative_VP1.faa	12_hypothetical_protein.faa	13_VP2.faa	14_hypothetical_protein.faa	15_hypothetical_protein.faa	16_non-structural_prote...faa	17_37_kDa_coat_protein.faa	18_nonstructural_protei...faa	19_capsid_protein_1.faa	20_NS1.faa	21_NS2.faa	22_NS3.faa	28_putative_15-kDa_prot...faa	29_rep.faa	30_cap.faa	36_non-structural_prote...faa	37_putative_middle_prot...faa
+Aedes-aegypti-densovirus-2_taxid_1513196.gbk	ID:YP_002854229.1,	ID:YP_002854230.1,	ID:YP_002854231.1,	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Aedes-albopictus-densovirus-2_taxid_1513199.gbk	-	ID:NP_694828.1,	ID:NP_694829.3,	ID:NP_694827.1,	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Anopheles-gambiae-densovirus_taxid_487311.gbk	ID:YP_002265406.1,	ID:YP_002265407.1,	ID:YP_002265408.1,	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Cutavirus_taxid_1867125.gbk	-	-	-	-	ID:YP_009508804.1,	ID:YP_009508805.1,	ID:YP_009508806.1,	ID:YP_009508807.1,	ID:YP_009508808.1,	-	-	-	-	-	-	-	-	-	-	-	-	-
+Decapod-penstyldensovirus-1_taxid_1513224.gbk	-	-	-	-	-	-	-	-	-	ID:YP_003572960.1,	ID:YP_003572961.1,	ID:YP_003572962.1,	-	-	-	-	-	-	-	-	-	-
+Desmodus-rotundus-parvovirus_taxid_1926498.gbk	-	-	-	-	-	-	-	-	-	-	-	-	ID:YP_009328889.1,	ID:YP_009328890.1,	-	-	-	-	-	-	-	-
+Gray-fox-amdovirus_taxid_1093101.gbk	-	-	-	-	-	-	-	ID:YP_009507344.1,ID:YP_009507345.1,	-	-	-	-	-	-	ID:YP_009507341.1,	ID:YP_009507342.1,	ID:YP_009507343.1,	-	-	-	-	-
+Mosquito-densovirus-BR-07_taxid_945962.gbk	ID:YP_004222723.1,	ID:YP_004222724.1,	ID:YP_004222725.1,	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Parvovirus-NIH-CQV_taxid_1341019.gbk	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	ID:YP_008431132.1,	ID:YP_008431133.1,	ID:YP_008431134.1,	-	-
+Penaeus-stylirostris-penstyldensovirus-1_taxid_1513225.gbk	-	-	-	-	-	-	-	-	-	ID:YP_009508779.1,	ID:YP_009508778.1,	ID:YP_009508780.1,	-	-	-	-	-	-	-	-	-	-
+Porcine-parvovirus-7_taxid_1820046.gbk	-	-	-	-	-	-	-	-	-	-	-	-	ID:YP_009551964.1,	ID:YP_009551965.1,	-	-	-	-	-	-	-	-
+Protoparvovirus-Zsana-2013-HUN_taxid_1755694.gbk	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	ID:YP_009666130.1,	ID:YP_009666131.1,
+Skunk-amdoparvovirus_taxid_1961072.gbk	-	-	-	-	-	-	-	ID:YP_009361880.1,ID:YP_009361881.1,	-	-	-	-	-	-	ID:YP_009361877.1,	ID:YP_009361878.1,	ID:YP_009361879.1,	-	-	-	-	-

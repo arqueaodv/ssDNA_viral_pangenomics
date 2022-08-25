@@ -1,0 +1,4 @@
+>ID:YP_009799434.1 |[Haloarcula hispanica pleomorphic virus 4]|1A_s5a-1/hispanica|Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk|PhiH1 repressor|327|NC_047943(15010):1453-1779:1 ^GeneID:54989943^ Haloarcula hispanica pleomorphic virus 4, complete genome.|neighbours:ID:YP_009799433.1(1),ID:YP_009799435.1(1)|neighbour_genes:hypothetical protein,PhiH1-like repressor|
+MRQSGSWMTIWDDRILEIIHEEGNGSPKELEDRDEIRISKSSVSRRLKKLADHDLLQPLANGVYVITEEGEAYLNGEYDAGKERYINRGNSADEENGADATDGPGINS
+>ID:YP_009799435.1 |[Haloarcula hispanica pleomorphic virus 4]|1A_s5a-1/hispanica|Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk|PhiH1-like repressor|294|NC_047943(15010):1797-2090:1 ^GeneID:54989921^ Haloarcula hispanica pleomorphic virus 4, complete genome.|neighbours:ID:YP_009799434.1(1),ID:YP_009799436.1(1)|neighbour_genes:PhiH1 repressor,hypothetical protein|
+MSRKPAKWMVPLDERILEILKDEGWSSPRYIAQKVSLRASVGRVRERCKMLTYAQMIEPLTPQFQNYDITGYGLRYLEGRLDASNQPWPSAKEVLRG

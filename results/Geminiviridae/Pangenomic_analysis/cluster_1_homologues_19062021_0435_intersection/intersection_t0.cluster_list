@@ -1,0 +1,23 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_1_homologues_19062021_0435/Bean-golden-yellow-mosaic-virus-Dominican-Republictaxid222445_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_/,cluster_1_homologues_19062021_0435/Bean-golden-yellow-mosaic-virus-Dominican-Republictaxid222445_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_
+# -o cluster_1_homologues_19062021_0435_intersection
+# -I 
+# -r 0
+64_orf6.faa
+60_BL1.faa
+58_AL2.faa
+56_AR1.faa
+325_AL5.faa
+378_AL4.faa
+323_1R2b.faa
+12_AC4.faa
+6_AC1.faa
+752_AV2.faa
+585_AC4_5_2.faa
+66_orf7.faa
+7_AC4.faa
+276_REn.faa
+30_AV2.faa
+59_BR1.faa
+57_AL3.faa
+# intersection size = 17 clusters

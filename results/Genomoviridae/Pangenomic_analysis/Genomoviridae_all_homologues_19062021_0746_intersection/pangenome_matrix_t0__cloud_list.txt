@@ -1,0 +1,9 @@
+1_capsid_protein.faa
+28_capsid_protein.faa
+52_capsid_protein.faa
+93_hyp.faa
+97_hyp.faa
+123_ORF3.faa
+131_putative_V2_protein.faa
+134_putative_V3_protein.faa
+157_hypothetical_protein.faa

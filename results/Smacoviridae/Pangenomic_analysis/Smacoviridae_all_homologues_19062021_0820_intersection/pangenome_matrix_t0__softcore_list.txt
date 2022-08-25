@@ -1,0 +1,2 @@
+1_capsid_protein.faa
+2_replication_associat...faa

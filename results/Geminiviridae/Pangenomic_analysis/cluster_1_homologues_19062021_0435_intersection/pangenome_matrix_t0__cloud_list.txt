@@ -1,0 +1,7 @@
+64_orf6.faa
+276_REn.faa
+323_1R2b.faa
+325_AL5.faa
+378_AL4.faa
+585_AC4_5_2.faa
+752_AV2.faa

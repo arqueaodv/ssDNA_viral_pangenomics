@@ -1,0 +1,4 @@
+>ID:NP_510877.1 |[Chlamydia phage CPG1]|PhiCPG1|Chlamydia-phage-CPG1_taxid_90963.gbk|hypothetical protein|102|NC_001998(4529):3103-3204:-1 ^GeneID:1261932^ Guinea pig Chlamydia phage, complete genome.|neighbours:ID:NP_510876.1(1),ID:NP_510878.1(1)|neighbour_genes:hypothetical protein,nonstructural protei..| | aligned:1-24 (33)
+MQFLKKVFDFYVAEVCIFFVPFFNLILSLNFGP
+>ID:NP_063899.1 |[Chlamydia virus CPAR39]||Chlamydia-virus-CPAR39_taxid_1986029.gbk|CPA0006|96|NC_002180(4532):3122-3217:-1 ^GeneID:1263021^ Chlamydia phage phiCPAR39, complete sequence.|neighbours:ID:NP_063898.1(1),ID:NP_063900.1(1)|neighbour_genes:CPA0005,CPA0007| | aligned:6-29 (31)
+MDASLMQFLKKVFDFYVAEVCIFFVPFLTSF

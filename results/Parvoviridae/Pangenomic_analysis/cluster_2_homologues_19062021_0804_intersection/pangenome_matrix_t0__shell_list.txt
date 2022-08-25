@@ -1,0 +1,4 @@
+1_NS1.faa
+2_NS2.faa
+3_VP.faa
+13_VP2.faa

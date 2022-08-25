@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_008130280.1       -          YP_008130280.1       -            5.1e-43  144.3  11.1   6.5e-43  144.0  11.1   1.1   1   0   0   1   1   1   1 -
+NP_047370.1          -          YP_008130280.1       -            2.4e-41  139.0  10.6   3.1e-41  138.6  10.6   1.1   1   0   0   1   1   1   1 -
+NP_047357.1          -          YP_008130280.1       -              3e-34  116.3   7.5   3.4e-34  116.1   7.5   1.0   1   0   0   1   1   1   1 -
+NP_040577.1          -          YP_008130280.1       -              3e-31  106.6   4.7   3.6e-31  106.4   4.7   1.0   1   0   0   1   1   1   1 -
+NP_510892.1          -          YP_008130280.1       -            5.6e-31  105.8   4.9   6.6e-31  105.5   4.9   1.1   1   0   0   1   1   1   1 -
+YP_009111304.1       -          YP_008130280.1       -            5.6e-31  105.8   4.9   6.6e-31  105.5   4.9   1.1   1   0   0   1   1   1   1 -
+YP_009008131.1       -          YP_008130280.1       -            2.2e-30  103.9   9.4   2.5e-30  103.7   9.4   1.0   1   0   0   1   1   1   1 -
+NP_047370.1          -          NP_047370.1          -            4.5e-40  134.9  11.2   5.7e-40  134.6  11.2   1.1   1   0   0   1   1   1   1 -
+YP_008130280.1       -          NP_047370.1          -            6.4e-40  134.4  10.8   8.3e-40  134.1  10.8   1.1   1   0   0   1   1   1   1 -
+NP_047357.1          -          NP_047370.1          -            7.9e-34  114.9   8.2   9.2e-34  114.7   8.2   1.1   1   0   0   1   1   1   1 -
+NP_040577.1          -          NP_047370.1          -            3.6e-31  106.4   6.0   4.1e-31  106.2   6.0   1.0   1   0   0   1   1   1   1 -
+NP_510892.1          -          NP_047370.1          -            1.3e-30  104.6   4.8   1.6e-30  104.4   4.8   1.1   1   0   0   1   1   1   1 -
+YP_009111304.1       -          NP_047370.1          -            1.3e-30  104.6   4.8   1.6e-30  104.4   4.8   1.1   1   0   0   1   1   1   1 -
+YP_009008131.1       -          NP_047370.1          -            2.4e-30  103.8  10.2   2.8e-30  103.6  10.2   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/328_orf149/328_orf149_PF17537_.faa
+# Target file:     /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/328_orf149/328_orf149_PF17537__myviral_jackhmmer.table ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/328_orf149/328_orf149_PF17537_.faa /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Tue Dec 21 15:40:34 2021
+# [ok]

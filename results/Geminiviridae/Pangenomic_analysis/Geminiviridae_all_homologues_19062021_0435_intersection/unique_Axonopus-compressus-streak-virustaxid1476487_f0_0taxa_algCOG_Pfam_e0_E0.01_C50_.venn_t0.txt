@@ -1,0 +1,15 @@
+398_putative_V2-like_pro...faa
+322_AC5.faa
+87_V4.faa
+777_V4.faa
+197_C2.faa
+1939_v2.faa
+1563_V4.faa
+1446_hypothetical_v2_prot...faa
+135_replication_associat...faa
+385_AC1.faa
+854_AC6_protein.faa
+7_AC4.faa
+286_hypothetical_protein.faa
+2368_AL1.faa
+108_av2.faa

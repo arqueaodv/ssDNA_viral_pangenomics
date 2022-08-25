@@ -1,0 +1,22 @@
+>ID:YP_512411.1 |[Enterobacteria phage WA13 sensu lato]||Enterobacteria-phage-WA13-sensu-lato_taxid_489828.gbk|K|162|NC_007821(6068):2158-2319:1 ^GeneID:3959373^ Enterobacteria phage WA13, complete genome.|neighbours:ID:YP_512410.1(1),ID:YP_512412.1(1)|neighbour_genes:B,C|
+MKHVNTLLMQELRLLICELKRLKLSAVSDPDFSQEKIHAELDSLLRKLSRYFD
+>ID:YP_512381.1 |[Escherichia phage ID21]||Escherichia-phage-ID21_taxid_338101.gbk|K|189|NC_007818(6068):2160-2348:1 ^GeneID:3959344^ Coliphage ID21, complete genome.|neighbours:ID:YP_512380.1(1),ID:YP_512382.1(1)|neighbour_genes:B,C|
+MKHVNTLLMQELRLLICELKRLKLSAVSDPDFSQEKIHAELNSLLCKLSRYFDEAADVSYKG
+>ID:YP_512391.1 |[Escherichia phage ID32]||Escherichia-phage-ID32_taxid_338102.gbk|K|162|NC_007819(6071):2162-2323:1 ^GeneID:3959354^ Coliphage ID32, complete genome.|neighbours:ID:YP_512390.1(1),ID:YP_512392.1(1)|neighbour_genes:B,C|
+MKHVNTLLMQELRLLICELKRLKLSAVSDPDFSQEKIHAELDSLLRKLSRYFD
+>ID:YP_512441.1 |[Escherichia phage ID62]||Escherichia-phage-ID62_taxid_338107.gbk|K|162|NC_007824(6051):2159-2320:1 ^GeneID:3959409^ Coliphage ID62, complete genome.|neighbours:ID:YP_512440.1(1),ID:YP_512442.1(1)|neighbour_genes:B,C|
+MKHVDTLLMQELRLLICELKRLRLSAVSDPDFSQEKIHAELDSLLCKLSRYFD
+>ID:YP_512431.1 |[Escherichia phage NC28]||Escherichia-phage-NC28_taxid_338106.gbk|K|162|NC_007823(6065):2158-2319:1 ^GeneID:3959395^ Coliphage NC28, complete genome.|neighbours:ID:YP_512430.1(1),ID:YP_512432.1(1)|neighbour_genes:B,C|
+MKHVNTLLMQELRLLICELKRLKLSAVSDPDFSQEKIHAELDSLLRKLSRHFD
+>ID:YP_512472.1 |[Escherichia phage NC29]||Escherichia-phage-NC29_taxid_338110.gbk|K|162|NC_007827(6259):2161-2322:1 ^GeneID:3959447^ Coliphage NC29, complete genome.|neighbours:ID:YP_512471.1(1),ID:YP_512473.1(1)|neighbour_genes:B,C|
+MKHVNTLLMQELRLLICELKRLKLSAVSDPNFSQEKIHAELDSLLRKLSRYFD
+>ID:YP_512401.1 |[Escherichia phage NC35]||Escherichia-phage-NC35_taxid_338103.gbk|K|162|NC_007820(6039):2129-2290:1 ^GeneID:3959362^ Coliphage NC35, complete genome.|neighbours:ID:YP_512400.1(1),ID:YP_512402.1(1)|neighbour_genes:B,C|
+MKHVNTLLMQELRLLICELKRLKLSAVSDPDFSQEEIHAELDSLLRKLSRYFD
+>ID:YP_002985207.1 |[Escherichia phage St-1]||Escherichia-phage-St-1_taxid_10845.gbk|K|177|NC_012868(6094):2142-2318:1 ^GeneID:8044198^ Enterobacteria phage St-1, complete genome.|neighbours:ID:YP_002985206.1(1),ID:YP_002985208.1(1)|neighbour_genes:B,C|
+MGIFLMKHVNTLLMQELRLLICELKRLRLSAVSDPDFSQEKIHAELDSLLRKLSRHFD
+>ID:YP_512421.1 |[Escherichia phage WA45]||Escherichia-phage-WA45_taxid_338105.gbk|K|162|NC_007822(6068):2158-2319:1 ^GeneID:3959388^ Coliphage WA45, complete genome.|neighbours:ID:YP_512420.1(1),ID:YP_512422.1(1)|neighbour_genes:B,C|
+MKHVNTLLMQELRLLICELKRLKLSAVSDPDFSQEKIHAELDSLLRKLSRYFD
+>ID:NP_039592.1 |[Escherichia phage alpha3]||Escherichia-phage-alpha3_taxid_10849.gbk|K|162|NC_001330(6087):2158-2319:1 ^GeneID:1260692,UniProtKB/Swiss-Prot:P31282^ Enterobacteria phage alpha3, complete genome.|neighbours:ID:NP_039591.1(1),ID:NP_039593.1(1)|neighbour_genes:B,C|
+MKHVNTLLMQELRLLICELKRLRLSAVSDPDFSQEKIHAELDSLLCKLSRHFD
+>ID:NP_043944.1 |[Escherichia phage phiK]||Escherichia-phage-phiK_taxid_2507234.gbk|K|162|NC_001730(6089):2157-2318:1 ^GeneID:1261195,UniProtKB/Swiss-Prot:Q38038^ Bacteriophage phiK complete genome.|neighbours:ID:NP_043943.1(1),ID:NP_043945.1(1)|neighbour_genes:B,C|
+MKHVNTLLMQELRLLICELKRLKLSAVSDPDFSQEKIHAELDSLLCKLSRHFD

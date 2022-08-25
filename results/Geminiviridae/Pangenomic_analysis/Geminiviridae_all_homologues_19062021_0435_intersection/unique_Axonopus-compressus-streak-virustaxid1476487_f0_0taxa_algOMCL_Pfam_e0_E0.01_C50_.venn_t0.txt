@@ -1,0 +1,11 @@
+136_RepA.faa
+286_hypothetical_protein.faa
+197_C2.faa
+135_replication_associat...faa
+911_C4.faa
+1197_REn.faa
+108_av2.faa
+7_AC4.faa
+322_AC5.faa
+87_V4.faa
+385_AC1.faa

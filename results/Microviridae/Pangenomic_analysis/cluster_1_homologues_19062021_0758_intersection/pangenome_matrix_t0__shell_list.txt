@@ -1,0 +1,14 @@
+3_minor_capsid_protein.faa
+5_major_capsid_protein.faa
+9_minor_capsid_protein.faa
+19_replication_initiati...faa
+53_nonstructural_protei...faa
+94_A.faa
+96_B.faa
+97_K.faa
+98_C.faa
+99_D.faa
+100_E.faa
+102_F.faa
+103_G.faa
+104_H.faa

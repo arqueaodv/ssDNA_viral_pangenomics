@@ -1,0 +1,10 @@
+>ID:YP_512795.1 |[Enterobacteria phage ID18 sensu lato]||Enterobacteria-phage-ID18-sensu-lato_taxid_489829.gbk|J|81|NC_007856(5486):2436-2516:1 ^GeneID:3959791^ Enterobacteria phage ID18, complete genome.|neighbours:ID:YP_512794.1(1),ID:YP_512796.1(1)|neighbour_genes:E,F| | aligned:1-26 (26)
+MSKKSIRRSGGKSKGARLWYVGGTQF
+>ID:YP_009497843.1 |[Escherichia phage G4]||Escherichia-phage-G4_taxid_10843.gbk|hypothetical protein|78|NC_001420(5577):2477-2554:1 ^GOA:P03652,GeneID:1260913,InterPro:IPR006815,PDB:1GFF,UniProtKB/Swiss-Prot:P03652^ Genome of phage G4 (coliphage).|neighbours:ID:YP_009497842.1(1),ID:YP_009497844.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-25 (25)
+MKKSIRRSGGKSKGARLWYVGGTQY
+>ID:YP_512375.1 |[Escherichia phage ID2 Moscow/ID/2001]||Escherichia-phage-ID2-Moscow-ID-2001_taxid_511969.gbk|J|81|NC_007817(5486):2426-2506:1 ^GeneID:3959336^ Enterobacteria phage ID2 Moscow/ID/2001, complete genome.|neighbours:ID:YP_512374.1(1),ID:YP_512376.1(1)|neighbour_genes:E,F| | aligned:1-26 (26)
+MAKGSRRRSPSRSKGARLWYVGGTQF
+>ID:YP_512456.1 |[Escherichia phage ID52]||Escherichia-phage-ID52_taxid_338108.gbk|J|78|NC_007825(5538):2443-2520:1 ^GeneID:3959425^ Coliphage ID52, complete genome.|neighbours:ID:YP_512455.1(1),ID:YP_512457.1(1)|neighbour_genes:E,F| | aligned:1-25 (25)
+MKKSIRRSGGKSKGARLWYVGGTQY
+>ID:NP_040710.1 |[Escherichia virus phiX174]||Escherichia-virus-phiX174_taxid_10847.gbk|J|117|NC_001422(5386):848-964:1 ^GeneID:2546404^ Coliphage phi-X174, complete genome.|neighbours:ID:NP_040709.1(1),ID:NP_040711.1(1)|neighbour_genes:E,F| | aligned:16-38 (38)
+MSKGKKRSGARPGRPQPLRGTKGKRKGARLWYVGGQQF

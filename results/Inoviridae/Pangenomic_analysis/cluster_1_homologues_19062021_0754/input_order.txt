@@ -1,0 +1,10 @@
+0	Enterobacteria-phage-fd_taxid_10864.gbk
+1	Escherichia-virus-I22_taxid_10869.gbk
+2	Escherichia-virus-M13_taxid_1977402.gbk
+3	Salmonella-phage-IKe_taxid_10867.gbk
+4	Vibrio-phage-KSF1_taxid_292443.gbk
+5	Vibrio-phage-VCY-phi_taxid_1105327.gbk
+6	Vibrio-phage-VEJphi_taxid_642111.gbk
+7	Vibrio-phage-VSK_taxid_181604.gbk
+8	Vibrio-phage-VfO4K68_taxid_127508.gbk
+9	Vibrio-virus-fs1_taxid_70203.gbk

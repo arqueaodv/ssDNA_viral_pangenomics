@@ -1,0 +1,8 @@
+4_v2.faa
+5_rep.faa
+6_rep.faa
+25_truncated_replicatio...faa
+26_hypothetical_protein.faa
+30_hypothetical_protein.faa
+44_orf2.faa
+46_orf3.faa

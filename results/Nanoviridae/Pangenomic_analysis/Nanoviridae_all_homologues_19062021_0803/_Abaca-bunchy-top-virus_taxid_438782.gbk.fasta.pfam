@@ -1,0 +1,170 @@
+# parameters: max number of processors=10 batchsize=100 $VERBOSE=0
+# raw hmmscan command: /home/abelardo/get_homologues//bin/hmmer-3.1b2/binaries/hmmscan --noali --acc --cut_ga --cpu 1 /home/abelardo/get_homologues/db/Pfam-A.hmm /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/Nanoviridae_all_homologues/_Abaca-bunchy-top-virus_taxid_438782.gbk.fasta0
+
+# WARNING: using only 0 cores
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/Nanoviridae_all_homologues/_Abaca-bunchy-top-virus_taxid_438782.gbk.fasta00
+# target HMM database:             /home/abelardo/get_homologues/db/Pfam-A.hmm
+# prefer accessions over names:    yes
+# show alignments in output:       no
+# model-specific thresholding:     GA cutoffs
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       1  [L=286]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    3.5e-35  120.2   0.1    6.2e-35  119.4   0.1    1.4  1  PF02407.18  Putative viral replication protein
+    8.1e-13   48.8   0.0    1.7e-12   47.7   0.0    1.5  1  PF00910.24  RNA helicase
+
+
+Domain annotation for each model:
+>> PF02407.18  Putative viral replication protein
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  119.4   0.1   6.5e-39   6.2e-35       1      81 [.       5      82 ..       5      83 .. 0.97
+
+>> PF00910.24  RNA helicase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   47.7   0.0   1.8e-16   1.7e-12       1     106 [.     176     268 ..     176     269 .. 0.90
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (286 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       505  (0.0263309); expected 383.6 (0.02)
+Passed bias filter:                      434  (0.0226289); expected 383.6 (0.02)
+Passed Vit filter:                        36  (0.00187705); expected 19.2 (0.001)
+Passed Fwd filter:                         2  (0.000104281); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.22u 0.08s 00:00:00.30 Elapsed: 00:00:00.18
+# Mc/sec: 5177.85
+//
+Query:       2  [L=160]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model     Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------  -----------
+   3.3e-100  332.0   3.3   3.8e-100  331.8   3.3    1.0  1  PF19411.1  Cell cycle link protein Clink
+
+
+Domain annotation for each model:
+>> PF19411.1  Cell cycle link protein Clink
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  331.8   3.3    2e-104  3.8e-100       1     141 []       1     141 [.       1     141 [. 1.00
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (160 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       747  (0.0389489); expected 383.6 (0.02)
+Passed bias filter:                      540  (0.0281558); expected 383.6 (0.02)
+Passed Vit filter:                        36  (0.00187705); expected 19.2 (0.001)
+Passed Fwd filter:                         1  (5.21404e-05); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.23u 0.08s 00:00:00.31 Elapsed: 00:00:00.17
+# Mc/sec: 3067.09
+//
+Query:       3  [L=154]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    1.8e-77  258.8   4.0      2e-77  258.7   4.0    1.0  1  PF05629.13  Nanovirus component 8 (C8) protein
+
+
+Domain annotation for each model:
+>> PF05629.13  Nanovirus component 8 (C8) protein
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  258.7   4.0     1e-81     2e-77       1     153 []       2     154 .]       2     154 .] 1.00
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (154 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       543  (0.0283122); expected 383.6 (0.02)
+Passed bias filter:                      310  (0.0161635); expected 383.6 (0.02)
+Passed Vit filter:                        25  (0.00130351); expected 19.2 (0.001)
+Passed Fwd filter:                         2  (0.000104281); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.24u 0.08s 00:00:00.32 Elapsed: 00:00:00.19
+# Mc/sec: 2641.33
+//
+Query:       4  [L=170]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+      3e-82  274.8   0.1    3.3e-82  274.7   0.1    1.0  1  PF04660.14  Nanovirus coat protein
+
+
+Domain annotation for each model:
+>> PF04660.14  Nanovirus coat protein
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  274.7   0.1   1.7e-86   3.3e-82       1     170 []       1     170 []       1     170 [] 1.00
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (170 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       279  (0.0145472); expected 383.6 (0.02)
+Passed bias filter:                      252  (0.0131394); expected 383.6 (0.02)
+Passed Vit filter:                        26  (0.00135565); expected 19.2 (0.001)
+Passed Fwd filter:                         1  (5.21404e-05); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.19u 0.12s 00:00:00.31 Elapsed: 00:00:00.18
+# Mc/sec: 3077.74
+//
+Query:       5  [L=116]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    2.1e-40  137.6   0.1    2.3e-40  137.5   0.1    1.0  1  PF07234.13  Movement and RNA silencing protein
+
+
+Domain annotation for each model:
+>> PF07234.13  Movement and RNA silencing protein
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  137.5   0.1   1.2e-44   2.3e-40       1     117 []       1     116 []       1     116 [] 0.97
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (116 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       970  (0.0505762); expected 383.6 (0.02)
+Passed bias filter:                      616  (0.0321185); expected 383.6 (0.02)
+Passed Vit filter:                        53  (0.00276344); expected 19.2 (0.001)
+Passed Fwd filter:                         1  (5.21404e-05); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.23u 0.09s 00:00:00.32 Elapsed: 00:00:00.19
+# Mc/sec: 1989.57
+//
+[ok]
+
+# runtime:  1 wallclock secs ( 0.00 usr  0.00 sys +  1.11 cusr  0.45 csys =  1.56 CPU)

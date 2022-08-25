@@ -1,0 +1,6 @@
+14_putative_minor_coat_...faa
+43_hypothetical_protein.faa
+64_protein_B.faa
+72_protein_B.faa
+56_protein_B.faa
+36_hypothetical_protein.faa

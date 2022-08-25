@@ -1,0 +1,19 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d Smacoviridae_all_homologues_19062021_0820/Alces-alces-faeces-associated-smacovirus-MP78taxid2219142_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_/,Smacoviridae_all_homologues_19062021_0820/Alces-alces-faeces-associated-smacovirus-MP78taxid2219142_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_
+# -o Smacoviridae_all_homologues_19062021_0820_intersection
+# -I 
+# -r 0
+16_ORF2.faa
+34_capsid_protein.faa
+75_hypothetical_protein.faa
+2_replication_associat...faa
+97_Rep_protein.faa
+32_ORF3_protein.faa
+1_capsid_protein.faa
+43_ORF5.faa
+45_ORF6.faa
+47_ORF4.faa
+33_replication-associat...faa
+78_hypothetical_protein.faa
+44_ORF3.faa
+# intersection size = 13 clusters

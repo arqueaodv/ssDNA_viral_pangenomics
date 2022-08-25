@@ -1,0 +1,78 @@
+cluster	prevalence	term	what	familia	algoritmo
+123_ORF3	0.9615384615384616	Putative function Uniprot hit [GO:PPPPPPP]	bp	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+2_replication_associat..	4.807692307692308	DNA replication [GO:0006260]	bp	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+2_replication_associat..	4.807692307692308	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+3_capsid	95.1923076923077	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+32_replication-associat..	3.8461538461538463	DNA replication [GO:0006260]	bp	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+32_replication-associat..	3.8461538461538463	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+36_replication-associat..	8.653846153846153	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+36_replication-associat..	8.653846153846153	DNA replication [GO:0006260]	bp	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+4_rep	36.53846153846153	DNA replication [GO:0006260]	bp	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+44_replication-associat..	0.9615384615384616	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+44_replication-associat..	0.9615384615384616	DNA replication [GO:0006260]	bp	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+52_capsid_protein	0.9615384615384616	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+64_replication_associat..	0.9615384615384616	DNA replication [GO:0006260]	bp	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+8_replication-associat..	67.3076923076923	DNA replication [GO:0006260]	bp	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+8_replication-associat..	67.3076923076923	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+123_ORF3	0.9615384615384616	Putative function Uniprot hit [GO:PPPPPPP]	cc	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+2_replication_associat..	4.807692307692308	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+3_capsid	95.1923076923077	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+3_capsid	95.1923076923077	viral capsid [GO:0019028]	cc	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+32_replication-associat..	3.8461538461538463	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+36_replication-associat..	8.653846153846153	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+36_replication-associat..	8.653846153846153	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+4_rep	36.53846153846153	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+44_replication-associat..	0.9615384615384616	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+52_capsid_protein	0.9615384615384616	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+64_replication_associat..	0.9615384615384616	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+8_replication-associat..	67.3076923076923	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+8_replication-associat..	67.3076923076923	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+123_ORF3	0.9615384615384616	Putative function Uniprot hit [GO:PPPPPPP]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+2_replication_associat..	4.807692307692308	DNA binding [GO:0003677]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+2_replication_associat..	4.807692307692308	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+2_replication_associat..	4.807692307692308	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+2_replication_associat..	4.807692307692308	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+2_replication_associat..	4.807692307692308	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+2_replication_associat..	4.807692307692308	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+3_capsid	95.1923076923077	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+32_replication-associat..	3.8461538461538463	DNA binding [GO:0003677]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+32_replication-associat..	3.8461538461538463	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+32_replication-associat..	3.8461538461538463	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+32_replication-associat..	3.8461538461538463	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+32_replication-associat..	3.8461538461538463	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+32_replication-associat..	3.8461538461538463	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+36_replication-associat..	8.653846153846153	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+36_replication-associat..	8.653846153846153	DNA binding [GO:0003677]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+36_replication-associat..	8.653846153846153	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+36_replication-associat..	8.653846153846153	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+36_replication-associat..	8.653846153846153	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+36_replication-associat..	8.653846153846153	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+4_rep	36.53846153846153	DNA binding [GO:0003677]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+4_rep	36.53846153846153	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+4_rep	36.53846153846153	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+4_rep	36.53846153846153	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+4_rep	36.53846153846153	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+4_rep	36.53846153846153	ATP binding [GO:0005524]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+4_rep	36.53846153846153	helicase activity [GO:0004386]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+4_rep	36.53846153846153	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+44_replication-associat..	0.9615384615384616	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+44_replication-associat..	0.9615384615384616	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+44_replication-associat..	0.9615384615384616	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+44_replication-associat..	0.9615384615384616	DNA binding [GO:0003677]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+44_replication-associat..	0.9615384615384616	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+44_replication-associat..	0.9615384615384616	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+52_capsid_protein	0.9615384615384616	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+64_replication_associat..	0.9615384615384616	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+64_replication_associat..	0.9615384615384616	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+64_replication_associat..	0.9615384615384616	DNA binding [GO:0003677]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+64_replication_associat..	0.9615384615384616	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+64_replication_associat..	0.9615384615384616	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+8_replication-associat..	67.3076923076923	DNA binding [GO:0003677]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+8_replication-associat..	67.3076923076923	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+8_replication-associat..	67.3076923076923	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+8_replication-associat..	67.3076923076923	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+8_replication-associat..	67.3076923076923	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+8_replication-associat..	67.3076923076923	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+8_replication-associat..	67.3076923076923	ATP binding [GO:0005524]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+8_replication-associat..	67.3076923076923	helicase activity [GO:0004386]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL
+8_replication-associat..	67.3076923076923	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Genomoviridae/Genomoviridae_all_homologues_19062021_0746/	OMCL

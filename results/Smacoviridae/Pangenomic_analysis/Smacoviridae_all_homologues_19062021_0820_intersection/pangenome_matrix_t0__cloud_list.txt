@@ -1,0 +1,10 @@
+32_ORF3_protein.faa
+33_replication-associat...faa
+34_capsid_protein.faa
+43_ORF5.faa
+44_ORF3.faa
+45_ORF6.faa
+47_ORF4.faa
+75_hypothetical_protein.faa
+78_hypothetical_protein.faa
+97_Rep_protein.faa

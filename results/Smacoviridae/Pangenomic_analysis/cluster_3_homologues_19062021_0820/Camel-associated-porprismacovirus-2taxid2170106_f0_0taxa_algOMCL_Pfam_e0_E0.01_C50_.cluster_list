@@ -1,0 +1,22 @@
+cluster 10_rep size=8 taxa=8 file: 10_rep.faa dnafile: 10_rep.fna
+: Camel-associated-drosmacovirus-1_taxid_2169876.gbk
+: Camel-associated-drosmacovirus-2_taxid_2169877.gbk
+: Camel-associated-porprismacovirus-1_taxid_2170105.gbk
+: Camel-associated-porprismacovirus-2_taxid_2170106.gbk
+: Camel-associated-porprismacovirus-3_taxid_2170107.gbk
+: Camel-associated-porprismacovirus-4_taxid_2170108.gbk
+: Fly-associated-circular-virus-4_taxid_2293284.gbk
+: Turkey-associated-porprismacovirus-1_taxid_2170130.gbk
+cluster 2_ORF2 size=3 taxa=3 file: 2_ORF2.faa dnafile: 2_ORF2.fna
+: Camel-associated-drosmacovirus-1_taxid_2169876.gbk
+: Camel-associated-drosmacovirus-2_taxid_2169877.gbk
+: Camel-associated-porprismacovirus-1_taxid_2170105.gbk
+cluster 11_cap size=8 taxa=8 file: 11_cap.faa dnafile: 11_cap.fna
+: Camel-associated-drosmacovirus-1_taxid_2169876.gbk
+: Camel-associated-drosmacovirus-2_taxid_2169877.gbk
+: Camel-associated-porprismacovirus-1_taxid_2170105.gbk
+: Camel-associated-porprismacovirus-2_taxid_2170106.gbk
+: Camel-associated-porprismacovirus-3_taxid_2170107.gbk
+: Camel-associated-porprismacovirus-4_taxid_2170108.gbk
+: Fly-associated-circular-virus-4_taxid_2293284.gbk
+: Turkey-associated-porprismacovirus-1_taxid_2170130.gbk

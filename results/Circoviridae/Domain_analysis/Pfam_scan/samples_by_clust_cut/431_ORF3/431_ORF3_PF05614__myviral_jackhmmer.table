@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_006355434.1       -          YP_006355434.1       -              3e-75  247.9   3.4   3.3e-75  247.8   3.4   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/431_ORF3/431_ORF3_PF05614_.faa
+# Target file:     /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/431_ORF3/431_ORF3_PF05614__myviral_jackhmmer.table ../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/431_ORF3/431_ORF3_PF05614_.faa /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Wed Dec 22 01:37:24 2021
+# [ok]

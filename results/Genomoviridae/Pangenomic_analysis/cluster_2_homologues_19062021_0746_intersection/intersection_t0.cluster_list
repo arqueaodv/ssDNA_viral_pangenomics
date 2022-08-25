@@ -1,0 +1,15 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_2_homologues_19062021_0746/Badger-associated-gemykibivirus-1taxid1634484_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_/,cluster_2_homologues_19062021_0746/Badger-associated-gemykibivirus-1taxid1634484_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_
+# -o cluster_2_homologues_19062021_0746_intersection
+# -I 
+# -r 0
+71_rep1.faa
+72_hyp.faa
+6_replication-associat...faa
+93_putative_V3_protein.faa
+90_putative_V2_protein.faa
+1_capsid.faa
+2_rep.faa
+22_replication-associat...faa
+68_hyp.faa
+# intersection size = 9 clusters

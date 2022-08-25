@@ -1,0 +1,10 @@
+cluster	prevalence	term	what	familia	algoritmo
+65_Rep_protein	2.941176470588235	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Smacoviridae/cluster_2_homologues_19062021_0820/	OMCL
+65_Rep_protein	2.941176470588235	viral DNA cleavage involved in viral genome maturation [GO:0019071]	bp	../results/Get_homologues/Smacoviridae/cluster_2_homologues_19062021_0820/	OMCL
+65_Rep_protein	2.941176470588235	DNA replication [GO:0006260]	bp	../results/Get_homologues/Smacoviridae/cluster_2_homologues_19062021_0820/	OMCL
+65_Rep_protein	2.941176470588235	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Smacoviridae/cluster_2_homologues_19062021_0820/	OMCL
+65_Rep_protein	2.941176470588235	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Smacoviridae/cluster_2_homologues_19062021_0820/	OMCL
+65_Rep_protein	2.941176470588235	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Smacoviridae/cluster_2_homologues_19062021_0820/	OMCL
+65_Rep_protein	2.941176470588235	RNA binding [GO:0003723]	mf	../results/Get_homologues/Smacoviridae/cluster_2_homologues_19062021_0820/	OMCL
+65_Rep_protein	2.941176470588235	DNA binding [GO:0003677]	mf	../results/Get_homologues/Smacoviridae/cluster_2_homologues_19062021_0820/	OMCL
+65_Rep_protein	2.941176470588235	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Smacoviridae/cluster_2_homologues_19062021_0820/	OMCL

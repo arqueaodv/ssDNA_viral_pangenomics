@@ -1,0 +1,24 @@
+VIRAL_FAMILY	Geminiviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	863_truncated_V2.faa
+PREVALENCE	0.4048583
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		negative regulation of gene silencing by RNA [GO:0060967]
+		modulation by virus of host process [GO:0019048]
+	MOLECULAR_FUNCTION
+	CELLULAR_COMPONENT
+		host cell perinuclear region of cytoplasm [GO:0044220]
+		host cell cytoplasm [GO:0030430]
+		viral capsid [GO:0019028]
+
+
+//
+
+>ID:YP_009666107.1 |[Sweet potato golden vein Korea virus]||Sweet-potato-golden-vein-Korea-virus_taxid_2169736.gbk|truncated V2|96|NC_043433(2807):127-222:1 ^GeneID:40526309^ Sweet potato golden vein Korea virus isolate 102_SPGVaV, complete genome.|neighbours:start(),ID:YP_009666108.1(1)|neighbour_genes:start(),V1| ATGGAGCAGTTGTGGGACCCTTTGCAGAACCCACTCCCGGATACTTTATACGGTTTTAGGTGTATGCTATCCGTAAAATACTTGCAGAGTATTTGA
+
+//
+
+>ID:YP_009666107.1 |[Sweet potato golden vein Korea virus]||Sweet-potato-golden-vein-Korea-virus_taxid_2169736.gbk|truncated V2|96|NC_043433(2807):127-222:1 ^GeneID:40526309^ Sweet potato golden vein Korea virus isolate 102_SPGVaV, complete genome.|neighbours:start(),ID:YP_009666108.1(1)|neighbour_genes:start(),V1| MEQLWDPLQNPLPDTLYGFRCMLSVKYLQSI

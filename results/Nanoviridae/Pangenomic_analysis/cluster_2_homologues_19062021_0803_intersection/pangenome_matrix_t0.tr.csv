@@ -1,0 +1,9 @@
+Gene,Non-unique Gene name,Annotation,No. isolates,No. sequences,Avg sequences per isolate,Genome fragment,Order within fragment,Accessory Fragment,Accessory Order with Fragment,QC,Min group size nuc,Max group size nuc,Avg group size nuc,Black-medic-leaf-roll-virus_taxid_2038729.gbk,Cow-vetch-latent-virus_taxid_2056780.gbk,Faba-bean-necrotic-stunt-virus_taxid_283824.gbk,Faba-bean-necrotic-yellows-virus_taxid_59817.gbk,Faba-bean-yellow-leaf-virus_taxid_1137801.gbk,Milk-vetch-dwarf-virus_taxid_67585.gbk,Pea-necrotic-yellow-dwarf-virus_taxid_753670.gbk,Pea-yellow-stunt-virus_taxid_1436892.gbk
+1_Clink.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1
+2_U1.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1
+3_M-Rep.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1
+4_MP.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1
+5_NSP.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1
+6_U4.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1
+7_CP.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1
+8_U2.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1

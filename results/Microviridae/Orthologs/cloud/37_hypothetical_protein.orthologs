@@ -1,0 +1,62 @@
+VIRAL_FAMILY	Microviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	37_hypothetical_protein.faa
+PREVALENCE	2.325581
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		negative regulation of astrocyte differentiation [GO:0048712]
+		adrenal gland development [GO:0030325]
+		regulation of cellular response to drug [GO:2001038]
+		chromosome breakage [GO:0031052]
+		mesodermal-endodermal cell signaling [GO:0003131]
+		pituitary gland development [GO:0021983]
+		negative regulation of double-strand break repair via nonhomologous end joining [GO:2001033]
+		epithelial tube branching involved in lung morphogenesis [GO:0060441]
+		fat pad development [GO:0060613]
+		positive regulation of stem cell proliferation [GO:2000648]
+		positive regulation of epithelial cell proliferation involved in lung morphogenesis [GO:0060501]
+		histone H2A-S139 phosphorylation [GO:0035978]
+		positive regulation of DNA replication origin binding [GO:1902597]
+		lung epithelium development [GO:0060428]
+		regulation of growth hormone secretion [GO:0060123]
+		chondrocyte proliferation [GO:0035988]
+		oncogene-induced cell senescence [GO:0090402]
+		senescence-associated heterochromatin focus assembly [GO:0035986]
+		positive regulation of cellular response to X-ray [GO:2000685]
+		nucleosome assembly [GO:0006334]
+		cell proliferation in forebrain [GO:0021846]
+		negative regulation of single stranded viral RNA replication via double stranded DNA intermediate [GO:0045869]
+		positive regulation of cellular senescence [GO:2000774]
+	MOLECULAR_FUNCTION
+		5'-flap endonuclease activity [GO:0017108]
+		MH1 domain binding [GO:0035501]
+		MH2 domain binding [GO:0035500]
+		C2H2 zinc finger domain binding [GO:0070742]
+		dinitrosyl-iron complex binding [GO:0035731]
+		DNA-dependent protein kinase activity [GO:0004677]
+		nucleosomal DNA binding [GO:0031492]
+		minor groove of adenine-thymine-rich DNA binding [GO:0003680]
+		cAMP response element binding [GO:0035497]
+		satellite DNA binding [GO:0003696]
+		5'-deoxyribose-5-phosphate lyase activity [GO:0051575]
+	CELLULAR_COMPONENT
+		host cell membrane [GO:0033644]
+		integral component of membrane [GO:0016021]
+		senescence-associated heterochromatin focus [GO:0035985]
+		nucleus [GO:0005634]
+		polytene chromosome [GO:0005700]
+		Slx1-Slx4 complex [GO:0033557]
+		nucleosome [GO:0000786]
+		nuclear chromosome [GO:0000228]
+		SMAD protein complex [GO:0071141]
+
+
+//
+
+>ID:NP_073547.1 |[Bdellovibrio phage phiMH2K]||Bdellovibrio-phage-phiMH2K_taxid_145579.gbk|hypothetical protein|330|NC_002643(4594):3997-4326:1 ^GeneID:918750^ Bdellovibrio phage phiMH2K, complete genome.|neighbours:ID:NP_073546.1(1),end()|neighbour_genes:putative DNA binding..,end()| ATGGAGACAAAACCAAACGCCCTCACTGGCACGTCCTTATCTTCAACTTCCGGCCAGACGACGCAAAAAAGCATTACGTTACAGAACTCGGAGAACAAGTATATACCTCAGAATTCATCAGAGACCTTTGGACTCATGGCAATATTGAATTTGGCTCTGTTACTCTGGACTCTGCTAGCTACGTTGCGCGTTACGCTGCAAAAAAACTGGCCCACGGAAACGACCAAGACCACGACTATCACCCAATTCACAACACTTCAAAAAAACACGCCATCGGCAAAAAATGGATTGAAAAATACCACGAACAAACATTCTCACGAGGATATGTAG
+
+//
+
+>ID:NP_073547.1 |[Bdellovibrio phage phiMH2K]||Bdellovibrio-phage-phiMH2K_taxid_145579.gbk|hypothetical protein|330|NC_002643(4594):3997-4326:1 ^GeneID:918750^ Bdellovibrio phage phiMH2K, complete genome.|neighbours:ID:NP_073546.1(1),end()|neighbour_genes:putative DNA binding..,end()| METKPNALTGTSLSSTSGQTTQKSITLQNSENKYIPQNSSETFGLMAILNLALLLWTLLATLRVTLQKNWPTETTKTTTITQFTTLQKNTPSAKNGLKNTTNKHSHEDM

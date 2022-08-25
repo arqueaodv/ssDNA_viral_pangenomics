@@ -1,0 +1,11 @@
+272_DNA_pilot_protein_VP...faa
+204_hypothetical_protein.faa
+32_minor_capsid_protein.faa
+196_hypothetical_protein.faa
+269_hypothetical_protein.faa
+203_hypothetical_protein.faa
+92_nonstructural_protei...faa
+45_minor_CP_2.faa
+2_nonstructural_protei...faa
+198_DNA_pilot_protein_VP...faa
+101_J.faa

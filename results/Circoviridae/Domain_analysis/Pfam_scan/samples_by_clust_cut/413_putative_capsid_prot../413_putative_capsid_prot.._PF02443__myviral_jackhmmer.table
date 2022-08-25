@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_009163898.1       -          YP_009163898.1       -              2e-62  206.1  13.5   3.4e-62  205.3  13.5   1.4   1   0   0   1   1   1   1 -
+YP_003422531.1       -          YP_009163898.1       -             0.0017   17.2   0.6    0.0035   16.2   0.6   1.6   1   0   0   1   1   1   0 -
+NP_937957.1          -          YP_009163898.1       -             0.0019   17.0   0.2    0.0042   15.9   0.2   1.6   1   0   0   1   1   1   0 -
+YP_009506326.1       -          YP_009163898.1       -               0.01   14.7   3.9     0.017   13.9   3.9   1.4   1   0   0   1   1   1   0 -
+YP_003104795.1       -          YP_009163898.1       -               0.26   10.2   5.8      0.54    9.2   5.8   1.5   1   0   0   1   1   1   0 -
+YP_007974238.1       -          YP_009163898.1       -               0.38    9.6   4.3         1    8.3   3.9   2.1   1   1   0   1   1   1   0 -
+YP_009109728.1       -          YP_009163898.1       -               0.98    8.3   7.6       1.2    8.0   6.7   1.7   1   1   0   1   1   1   0 -
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/413_putative_capsid_prot../413_putative_capsid_prot.._PF02443_.faa
+# Target file:     /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/413_putative_capsid_prot../413_putative_capsid_prot.._PF02443__myviral_jackhmmer.table ../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/413_putative_capsid_prot../413_putative_capsid_prot.._PF02443_.faa /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Wed Dec 22 01:29:07 2021
+# [ok]

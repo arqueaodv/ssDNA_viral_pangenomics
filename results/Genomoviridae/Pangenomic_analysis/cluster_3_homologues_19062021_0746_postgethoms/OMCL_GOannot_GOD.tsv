@@ -1,0 +1,21 @@
+cluster	prevalence	term	what	familia	algoritmo
+2_replication_associat..	75	DNA replication [GO:0006260]	bp	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+2_replication_associat..	75	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+2_replication_associat..	75	viral capsid [GO:0019028]	cc	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+2_replication_associat..	75	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+2_replication_associat..	75	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+2_replication_associat..	75	DNA binding [GO:0003677]	mf	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+2_replication_associat..	75	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+2_replication_associat..	75	helicase activity [GO:0004386]	mf	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+2_replication_associat..	75	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+2_replication_associat..	75	ATP binding [GO:0005524]	mf	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+7_RepA	33.33333333333333	DNA replication [GO:0006260]	bp	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+7_RepA	33.33333333333333	viral capsid [GO:0019028]	cc	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+7_RepA	33.33333333333333	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+7_RepA	33.33333333333333	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+7_RepA	33.33333333333333	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+7_RepA	33.33333333333333	helicase activity [GO:0004386]	mf	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+7_RepA	33.33333333333333	DNA binding [GO:0003677]	mf	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+7_RepA	33.33333333333333	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+7_RepA	33.33333333333333	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL
+7_RepA	33.33333333333333	ATP binding [GO:0005524]	mf	../results/Get_homologues/Genomoviridae/cluster_3_homologues_19062021_0746/	OMCL

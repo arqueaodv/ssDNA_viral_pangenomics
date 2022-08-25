@@ -1,0 +1,42 @@
+1	PF01057,PF01057,	Parvovirus non-structural protein NS1;Parvovirus non-structural protein NS1;
+2		
+3		
+4	PF01057,PF00519,	Parvovirus non-structural protein NS1;Papillomavirus helicase;
+5		
+6		
+7	PF01057,PF01057,	Parvovirus non-structural protein NS1;Parvovirus non-structural protein NS1;
+8		
+9		
+10	PF12433,PF01057,	Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;
+11	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+12		
+13	PF00740,	Parvovirus coat protein VP2;
+14		
+15		
+16	PF01057,	Parvovirus non-structural protein NS1;
+17	PF16530,	Infectious hypodermal and haematopoietic necrosis virus, capsid;
+18	PF01057,	Parvovirus non-structural protein NS1;
+19		
+20	PF12475,PF12475,PF12433,PF01057,	Amdovirus non-structural protein;Amdovirus non-structural protein;Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;
+21	PF12475,	Amdovirus non-structural protein;
+22	PF12475,	Amdovirus non-structural protein;
+23	PF00740,	Parvovirus coat protein VP2;
+24	PF00740,	Parvovirus coat protein VP2;
+25	PF01057,PF01057,	Parvovirus non-structural protein NS1;Parvovirus non-structural protein NS1;
+26		
+27		
+28		
+29		
+30	PF08398,	Phospholipase A2-like domain;
+31	PF01057,	Parvovirus non-structural protein NS1;
+32		
+33	PF16530,	Infectious hypodermal and haematopoietic necrosis virus, capsid;
+34	PF01057,	Parvovirus non-structural protein NS1;
+35		
+36	PF08724,PF12433,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;
+37		
+38	PF12475,PF12475,PF12433,PF01057,	Amdovirus non-structural protein;Amdovirus non-structural protein;Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;
+39	PF12475,	Amdovirus non-structural protein;
+40	PF12475,	Amdovirus non-structural protein;
+41	PF00740,	Parvovirus coat protein VP2;
+42	PF00740,	Parvovirus coat protein VP2;

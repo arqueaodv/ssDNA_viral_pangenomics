@@ -1,0 +1,12 @@
+>ID:YP_009008123.1 |[Ralstonia phage 1 NP-2014]|RIP1|Ralstonia-phage-1-NP-2014_taxid_1460070.gbk|single-stranded DNA ..|330|NC_023586(8460):2302-2631:1 ^GeneID:18500555^ Ralstonia phage 1 NP-2014, complete sequence.|neighbours:ID:YP_009008122.1(-1),ID:YP_009008124.1(1)|neighbour_genes:DNA binding protein,highly divergent DNA..| | aligned:1-107 (109)
+MSNSQKLTIIAINSRNGVSAKTGRPYSMHEAQCILTEGVPDANGVVSEQVKVGRVNVADELKDTTPGDYVADFKLFVSRDGELVARIVGLKALNVRPAANAPKAQAAAS
+>ID:YP_009103096.1 |[Ralstonia phage RS603]||Ralstonia-phage-RS603_taxid_1505528.gbk|hypothetical protein|327|NC_025454(7679):1-327:1 ^GeneID:22277975^ Ralstonia phage RS603 DNA, complete genome.|neighbours:start(),ID:YP_009103097.1(1)|neighbour_genes:start(),hypothetical protein| | aligned:1-108 (108)
+MSNTQKLTIIAINSRSGVSAKTGRPYSMHEAQCILTEGVADATGVMSEQMKVGRVNVADELKDTVPGDYVADFKLFVSRDGELVARIVGLKAMTVSRPAPPAAEKKAA
+>ID:YP_863905.1 |[Ralstonia phage RSM1]||Ralstonia-phage-RSM1_taxid_384359.gbk|hypothetical protein|327|NC_008574(9004):1-327:1 ^GeneID:5179359^ Ralstonia phage RSM1, complete genome.|neighbours:start(),ID:YP_863906.1(1)|neighbour_genes:start(),hypothetical protein| | aligned:1-108 (108)
+MSNTQKLTIIAINSRTGVSAKTGRPYSMHEAQCILTEGVADATGVMSEQIKVGRVNVADELKDTVPGDYVADFKLFVSRDGELVARIVGLKALTVSRPAPPATEKKAA
+>ID:YP_002290952.1 |[Ralstonia phage RSM3]||Ralstonia-phage-RSM3_taxid_520962.gbk|hypothetical protein|327|NC_011399(8929):1-327:1 ^GeneID:6998218^ Ralstonia phage RSM3 DNA, complete genome.|neighbours:start(),ID:YP_002290953.1(1)|neighbour_genes:start(),hypothetical protein| | aligned:1-108 (108)
+MSNTQKLTIIAINSRTGVSAKTGRPYSMHEAQCILTEGVADATGVMSEQIKVGRVNVADELKDTVPGDYVADFKLFVSRDGELVARIVGLKALTVSRPAPPATEKKAA
+>ID:YP_009786094.1 |[Ralstonia phage Rs551]||Ralstonia-phage-Rs551_taxid_1852598.gbk|hypothetical protein|327|NC_047765(7929):12-338:1 ^GeneID:54976181^ Ralstonia phage Rs551, complete genome.|neighbours:start(),ID:YP_009786095.1(1)|neighbour_genes:start(),hypothetical protein| | aligned:1-108 (108)
+MSNTQKLTIIAINSRNGVSAKTGRPYSMHEAQCILTEGVADATGGVSEQIKVGRVNVADELKDTVPGDYVADFKLFVSRDGELVARIVGLKALTVSRPVPSSAEKKAA
+>ID:NP_932296.1 |[Ralstonia phage p12J]||Ralstonia-phage-p12J_taxid_247080.gbk|ORF1|363|NC_005131(7118):613-975:1 ^GeneID:2642063^ Ralstonia phage p12J, complete genome.|neighbours:start(),ID:NP_932297.1(1)|neighbour_genes:start(),ORF2| | aligned:10-98 (120)
+MQKNRVVVDIHAITVREGTSKKNGQPYHMEECACMTTTEYVNPEGVVVTETMPGMVMLPKHLNGKVRPGKFEATVGLGQFEGKLTLRIVDLSPVAVQQSGTVTSGSAIGATATKPEKVAA

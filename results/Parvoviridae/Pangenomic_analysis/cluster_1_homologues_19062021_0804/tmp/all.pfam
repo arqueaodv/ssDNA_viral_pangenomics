@@ -1,0 +1,344 @@
+1		
+2	PF01057,	Parvovirus non-structural protein NS1;
+3		
+4	PF02336,	Capsid protein VP4;
+5	PF08398,	Phospholipase A2-like domain;
+6		
+7	PF01057,	Parvovirus non-structural protein NS1;
+8		
+9	PF08398,PF02336,PF02336,	Phospholipase A2-like domain;Capsid protein VP4;Capsid protein VP4;
+10	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+11	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+12	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+13	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+14	PF01057,	Parvovirus non-structural protein NS1;
+15	PF01057,	Parvovirus non-structural protein NS1;
+16	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+17	PF00740,	Parvovirus coat protein VP2;
+18		
+19	PF00740,	Parvovirus coat protein VP2;
+20		
+21	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+22	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+23	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+24	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+25	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+26	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+27	PF12475,PF12475,PF12433,PF01057,	Amdovirus non-structural protein;Amdovirus non-structural protein;Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;
+28		
+29		
+30	PF00740,	Parvovirus coat protein VP2;
+31	PF12475,PF12475,PF12433,PF01057,	Amdovirus non-structural protein;Amdovirus non-structural protein;Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;
+32	PF00740,	Parvovirus coat protein VP2;
+33	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+34	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+35	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+36	PF08398,PF00740,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+37	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+38	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+39	PF01057,	Parvovirus non-structural protein NS1;
+40	PF11733,	Non-capsid protein NP1;
+41	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+42	PF00740,	Parvovirus coat protein VP2;
+43	PF01057,	Parvovirus non-structural protein NS1;
+44	PF11733,	Non-capsid protein NP1;
+45	PF08398,PF00740,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+46	PF00740,PF00740,	Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+47	PF01057,	Parvovirus non-structural protein NS1;
+48	PF11733,	Non-capsid protein NP1;
+49	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+50	PF00740,	Parvovirus coat protein VP2;
+51	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+52	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+53		
+54		
+55	PF01057,	Parvovirus non-structural protein NS1;
+56		
+57	PF02336,	Capsid protein VP4;
+58	PF02336,	Capsid protein VP4;
+59	PF02336,	Capsid protein VP4;
+60	PF01057,	Parvovirus non-structural protein NS1;
+61	PF11733,	Non-capsid protein NP1;
+62	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+63	PF00740,	Parvovirus coat protein VP2;
+64	PF01057,	Parvovirus non-structural protein NS1;
+65	PF11733,	Non-capsid protein NP1;
+66	PF00740,	Parvovirus coat protein VP2;
+67	PF00740,	Parvovirus coat protein VP2;
+68	PF01057,	Parvovirus non-structural protein NS1;
+69		
+70	PF08398,PF01057,	Phospholipase A2-like domain;Parvovirus non-structural protein NS1;
+71	PF01057,	Parvovirus non-structural protein NS1;
+72		
+73		
+74	PF08398,PF01057,	Phospholipase A2-like domain;Parvovirus non-structural protein NS1;
+75	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+76	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+77	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+78	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+79	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+80	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+81	PF00740,	Parvovirus coat protein VP2;
+82	PF01057,	Parvovirus non-structural protein NS1;
+83	PF01057,	Parvovirus non-structural protein NS1;
+84	PF11733,	Non-capsid protein NP1;
+85	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+86	PF00740,	Parvovirus coat protein VP2;
+87	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+88	PF00740,	Parvovirus coat protein VP2;
+89	PF12433,PF01057,	Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;
+90	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+91		
+92	PF00740,	Parvovirus coat protein VP2;
+93	PF01057,	Parvovirus non-structural protein NS1;
+94	PF11733,	Non-capsid protein NP1;
+95	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+96	PF00740,	Parvovirus coat protein VP2;
+97	PF01057,	Parvovirus non-structural protein NS1;
+98	PF11733,	Non-capsid protein NP1;
+99	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+100	PF00740,	Parvovirus coat protein VP2;
+101	PF01057,	Parvovirus non-structural protein NS1;
+102	PF11733,	Non-capsid protein NP1;
+103	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+104	PF00740,	Parvovirus coat protein VP2;
+105	PF01057,	Parvovirus non-structural protein NS1;
+106	PF11733,	Non-capsid protein NP1;
+107	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+108	PF00740,	Parvovirus coat protein VP2;
+109	PF12433,PF01057,PF12117,	Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;Parvovirus non-structural protein 1, C-terminal;
+110	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+111	PF00740,	Parvovirus coat protein VP2;
+112	PF01057,	Parvovirus non-structural protein NS1;
+113		
+114	PF08398,PF01057,	Phospholipase A2-like domain;Parvovirus non-structural protein NS1;
+115	PF01057,	Parvovirus non-structural protein NS1;
+116		
+117	PF00740,PF00740,	Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+118	PF00740,PF00740,	Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+119	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+120		
+121	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+122	PF00740,	Parvovirus coat protein VP2;
+123	PF01057,	Parvovirus non-structural protein NS1;
+124		
+125	PF01057,	Parvovirus non-structural protein NS1;
+126	PF01057,	Parvovirus non-structural protein NS1;
+127		
+128	PF08398,PF01057,	Phospholipase A2-like domain;Parvovirus non-structural protein NS1;
+129		
+130	PF01057,	Parvovirus non-structural protein NS1;
+131	PF02336,PF02336,	Capsid protein VP4;Capsid protein VP4;
+132	PF08398,	Phospholipase A2-like domain;
+133	PF01057,	Parvovirus non-structural protein NS1;
+134	PF11733,	Non-capsid protein NP1;
+135	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+136	PF00740,	Parvovirus coat protein VP2;
+137	PF01057,	Parvovirus non-structural protein NS1;
+138	PF11733,	Non-capsid protein NP1;
+139	PF00740,	Parvovirus coat protein VP2;
+140	PF01057,	Parvovirus non-structural protein NS1;
+141		
+142	PF02336,	Capsid protein VP4;
+143		
+144	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+145	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+146		
+147	PF00740,	Parvovirus coat protein VP2;
+148	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+149	PF08398,PF00740,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+150	PF01057,	Parvovirus non-structural protein NS1;
+151	PF11733,	Non-capsid protein NP1;
+152	PF08398,PF00740,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+153	PF00740,PF00740,	Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+154	PF01057,	Parvovirus non-structural protein NS1;
+155	PF11733,	Non-capsid protein NP1;
+156	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+157	PF00740,	Parvovirus coat protein VP2;
+158	PF01057,	Parvovirus non-structural protein NS1;
+159	PF11733,	Non-capsid protein NP1;
+160	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+161	PF00740,	Parvovirus coat protein VP2;
+162	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+163	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+164	PF00740,	Parvovirus coat protein VP2;
+165	PF00740,	Parvovirus coat protein VP2;
+166		
+167	PF01057,	Parvovirus non-structural protein NS1;
+168	PF08398,PF01057,	Phospholipase A2-like domain;Parvovirus non-structural protein NS1;
+169	PF01057,	Parvovirus non-structural protein NS1;
+170	PF11733,	Non-capsid protein NP1;
+171	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+172	PF00740,	Parvovirus coat protein VP2;
+173	PF01057,	Parvovirus non-structural protein NS1;
+174	PF11733,	Non-capsid protein NP1;
+175	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+176	PF00740,	Parvovirus coat protein VP2;
+177	PF01057,	Parvovirus non-structural protein NS1;
+178	PF01057,	Parvovirus non-structural protein NS1;
+179	PF11733,	Non-capsid protein NP1;
+180	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+181	PF00740,	Parvovirus coat protein VP2;
+182	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+183		
+184	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+185	PF06795,	Erythrovirus X protein;
+186	PF00740,	Parvovirus coat protein VP2;
+187		
+188	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+189	PF08398,PF00740,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+190	PF01057,	Parvovirus non-structural protein NS1;
+191	PF11733,	Non-capsid protein NP1;
+192	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+193	PF01057,	Parvovirus non-structural protein NS1;
+194	PF11733,	Non-capsid protein NP1;
+195	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+196	PF12433,PF01057,	Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;
+197	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+198	PF00740,	Parvovirus coat protein VP2;
+199	PF01057,PF11733,	Parvovirus non-structural protein NS1;Non-capsid protein NP1;
+200	PF01057,	Parvovirus non-structural protein NS1;
+201	PF11733,	Non-capsid protein NP1;
+202	PF08398,PF00740,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+203	PF00740,PF00740,	Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+204	PF01057,	Parvovirus non-structural protein NS1;
+205	PF11733,	Non-capsid protein NP1;
+206	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+207	PF00740,	Parvovirus coat protein VP2;
+208	PF12433,PF01057,PF12117,	Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;Parvovirus non-structural protein 1, C-terminal;
+209	PF12433,PF01057,PF12117,	Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;Parvovirus non-structural protein 1, C-terminal;
+210	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+211		
+212		
+213		
+214	PF00740,	Parvovirus coat protein VP2;
+215	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+216	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+217	PF00740,	Parvovirus coat protein VP2;
+218	PF00740,	Parvovirus coat protein VP2;
+219	PF01057,	Parvovirus non-structural protein NS1;
+220	PF11733,	Non-capsid protein NP1;
+221	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+222	PF00740,	Parvovirus coat protein VP2;
+223		
+224		
+225	PF01057,	Parvovirus non-structural protein NS1;
+226	PF02336,	Capsid protein VP4;
+227		
+228	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+229	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+230	PF00740,	Parvovirus coat protein VP2;
+231	PF01057,	Parvovirus non-structural protein NS1;
+232		
+233	PF08398,PF01057,	Phospholipase A2-like domain;Parvovirus non-structural protein NS1;
+234		
+235	PF01057,	Parvovirus non-structural protein NS1;
+236		
+237	PF02336,	Capsid protein VP4;
+238		
+239	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+240	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+241	PF08398,	Phospholipase A2-like domain;
+242	PF02336,	Capsid protein VP4;
+243	PF01057,	Parvovirus non-structural protein NS1;
+244		
+245	PF01057,	Parvovirus non-structural protein NS1;
+246	PF11733,	Non-capsid protein NP1;
+247	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+248	PF00740,PF00740,	Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+249	PF01057,	Parvovirus non-structural protein NS1;
+250	PF11733,	Non-capsid protein NP1;
+251	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+252	PF00740,	Parvovirus coat protein VP2;
+253	PF01057,	Parvovirus non-structural protein NS1;
+254	PF11733,	Non-capsid protein NP1;
+255	PF08398,PF00740,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+256	PF00740,PF00740,	Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+257	PF01057,	Parvovirus non-structural protein NS1;
+258	PF11733,	Non-capsid protein NP1;
+259	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+260	PF00740,PF00740,	Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+261	PF01057,	Parvovirus non-structural protein NS1;
+262	PF11733,	Non-capsid protein NP1;
+263	PF00740,	Parvovirus coat protein VP2;
+264	PF00740,	Parvovirus coat protein VP2;
+265	PF01057,	Parvovirus non-structural protein NS1;
+266	PF11733,	Non-capsid protein NP1;
+267	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+268	PF00740,	Parvovirus coat protein VP2;
+269	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+270	PF08398,PF00740,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+271	PF00740,PF00740,	Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+272	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+273	PF08398,PF00740,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+274	PF00740,PF00740,	Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+275		
+276	PF12433,PF01057,PF12117,	Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;Parvovirus non-structural protein 1, C-terminal;
+277		
+278	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+279	PF00740,	Parvovirus coat protein VP2;
+280		
+281	PF01057,	Parvovirus non-structural protein NS1;
+282	PF11733,	Non-capsid protein NP1;
+283	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+284	PF00740,	Parvovirus coat protein VP2;
+285	PF12433,PF01057,	Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;
+286	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+287		
+288	PF00740,	Parvovirus coat protein VP2;
+289	PF12475,PF12475,PF12433,PF01057,	Amdovirus non-structural protein;Amdovirus non-structural protein;Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;
+290	PF12475,	Amdovirus non-structural protein;
+291	PF12475,	Amdovirus non-structural protein;
+292	PF00740,	Parvovirus coat protein VP2;
+293	PF00740,	Parvovirus coat protein VP2;
+294	PF01057,	Parvovirus non-structural protein NS1;
+295	PF01057,	Parvovirus non-structural protein NS1;
+296	PF11733,	Non-capsid protein NP1;
+297	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+298	PF00740,	Parvovirus coat protein VP2;
+299		
+300	PF12433,PF01057,PF12117,	Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;Parvovirus non-structural protein 1, C-terminal;
+301	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+302	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+303	PF01057,	Parvovirus non-structural protein NS1;
+304	PF11733,	Non-capsid protein NP1;
+305	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+306	PF01057,	Parvovirus non-structural protein NS1;
+307	PF11733,	Non-capsid protein NP1;
+308	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+309	PF01057,	Parvovirus non-structural protein NS1;
+310	PF11733,	Non-capsid protein NP1;
+311	PF08398,PF00740,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+312	PF08398,PF02336,	Phospholipase A2-like domain;Capsid protein VP4;
+313	PF01057,	Parvovirus non-structural protein NS1;
+314	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+315	PF08398,PF00740,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+316	PF01057,	Parvovirus non-structural protein NS1;
+317		
+318	PF08398,PF01057,	Phospholipase A2-like domain;Parvovirus non-structural protein NS1;
+319	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+320	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+321	PF00740,	Parvovirus coat protein VP2;
+322	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+323	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+325		
+326	PF01057,	Parvovirus non-structural protein NS1;
+327	PF02336,	Capsid protein VP4;
+328	PF08398,	Phospholipase A2-like domain;
+329	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+330	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+331		
+332		
+333	PF00740,PF00740,	Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+334	PF00740,PF00740,	Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+335	PF01057,	Parvovirus non-structural protein NS1;
+336		
+337	PF00740,PF00740,	Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+338	PF00740,PF00740,	Parvovirus coat protein VP2;Parvovirus coat protein VP2;
+339	PF01057,	Parvovirus non-structural protein NS1;
+340	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+341	PF08724,PF01057,	Rep protein catalytic domain like;Parvovirus non-structural protein NS1;
+342	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;
+343	PF00740,	Parvovirus coat protein VP2;
+344	PF12433,PF01057,	Parvovirus non-structural protein 1;Parvovirus non-structural protein NS1;
+345	PF08398,PF00740,	Phospholipase A2-like domain;Parvovirus coat protein VP2;

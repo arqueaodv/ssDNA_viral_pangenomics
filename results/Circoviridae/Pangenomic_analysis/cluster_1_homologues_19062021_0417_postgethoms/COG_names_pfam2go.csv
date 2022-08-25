@@ -1,0 +1,14 @@
+"","Gemini_AL1","RNA_helicase","Viral_Rep","Circo_capsid","TNV_CP","Gemini_AL1_M"
+"1_putative_viral_repli..",NA,TRUE,TRUE,NA,NA,NA
+"3_putative_replication..",NA,NA,TRUE,NA,NA,NA
+"7_putative_capsid_prot..",NA,NA,NA,TRUE,NA,NA
+"34_replication-associat..",TRUE,NA,NA,NA,NA,NA
+"50_putative_capsid_prot..",NA,NA,NA,TRUE,NA,NA
+"77_putative_capsid_prot..",NA,NA,NA,TRUE,NA,NA
+"79_replication_associat..",NA,TRUE,NA,NA,NA,NA
+"87_putative_viral_capsi..",NA,NA,NA,NA,TRUE,NA
+"111_putative_replication..",NA,NA,TRUE,NA,NA,NA
+"230_putative_replication..",TRUE,NA,NA,NA,NA,TRUE
+"238_Cap",NA,NA,NA,TRUE,NA,NA
+"260_capsid_protein",NA,NA,NA,TRUE,NA,NA
+"273_putative_capsid_prot..",NA,NA,NA,TRUE,NA,NA

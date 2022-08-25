@@ -1,0 +1,8 @@
+0	Amphibola-crenata-associated-bacilladnavirus-1_taxid_1941435.gbk
+1	Amphibola-crenata-associated-bacilladnavirus-2_taxid_1941436.gbk
+2	Avon-Heathcote-estuary-associated-bacilladnavirus_taxid_1941437.gbk
+3	Bacillariodnavirus-LDMD-2013_taxid_1379694.gbk
+4	Chaetoceros-protobacilladnavirus-1_taxid_2170140.gbk
+5	Chaetoceros-protobacilladnavirus-3_taxid_2170142.gbk
+6	Chaetoceros-protobacilladnavirus-4_taxid_2170143.gbk
+7	Chaetoceros-sp-DNA-virus-7_taxid_1382995.gbk

@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_039615.1          -          NP_039615.1          -           6.1e-167  550.9   0.2  7.5e-167  550.6   0.2   1.1   1   0   0   1   1   1   1 -
+NP_510885.1          -          NP_039615.1          -              0.047   11.4   0.1      0.11   10.3   0.0   1.6   2   0   0   2   2   2   0 -
+YP_009111297.1       -          NP_039615.1          -              0.049   11.4   0.1      0.11   10.2   0.0   1.6   2   0   0   2   2   2   0 -
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/23_replication_initiati../23_replication_initiati.._PF05144_.faa
+# Target file:     /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/23_replication_initiati../23_replication_initiati.._PF05144__myviral_jackhmmer.table ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/23_replication_initiati../23_replication_initiati.._PF05144_.faa /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Tue Dec 21 13:03:59 2021
+# [ok]

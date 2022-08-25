@@ -1,0 +1,2 @@
+81_hypothetical_protein.faa
+77_hypothetical_protein.faa

@@ -1,0 +1,121 @@
+cluster	prevalence	term	what	familia	algoritmo
+100_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+103_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+105_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+110_ORF2	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+113_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+119_hypothetical_protein	23.46938775510204	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+120_hypothetical_protein	21.428571428571427	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+135_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+15_ORF2	20.408163265306122	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+155_ORF3	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+16_ORF1	74.48979591836735	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+18_VP1	2.0408163265306123	endocytosis involved in viral entry into host cell [GO:0075509]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+18_VP1	2.0408163265306123	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+18_VP1	2.0408163265306123	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+185_ORF3	7.142857142857142	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+219_hypothetical_protein	2.0408163265306123	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+225_ORF3	2.0408163265306123	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+231_ORF1-1	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+232_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+234_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+235_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+236_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+237_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+259_orf2-5	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+260_orf2-4	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+3_VP1	7.142857142857142	endocytosis involved in viral entry into host cell [GO:0075509]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+3_VP1	7.142857142857142	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+3_VP1	7.142857142857142	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+50_ORF2	3.061224489795918	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+52_ORF3	5.1020408163265305	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+6_VP3	5.1020408163265305	induction by virus of host apoptotic process [GO:0019051]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+6_VP3	5.1020408163265305	suppression by virus of host exit from mitosis [GO:0039593]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+62_ORF2	12.244897959183673	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+74_ORF2	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+80_ORF3	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+84_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+100_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+103_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+105_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+106_ORF1	1.0204081632653061	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+110_ORF2	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+113_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+119_hypothetical_protein	23.46938775510204	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+120_hypothetical_protein	21.428571428571427	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+13_ORF1	9.183673469387756	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+135_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+15_ORF2	20.408163265306122	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+155_ORF3	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+16_ORF1	74.48979591836735	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+16_ORF1	74.48979591836735	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+18_VP1	2.0408163265306123	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+18_VP1	2.0408163265306123	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+185_ORF3	7.142857142857142	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+219_hypothetical_protein	2.0408163265306123	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+221_hypothetical_protein	1.0204081632653061	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+224_ORF1	1.0204081632653061	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+225_ORF3	2.0408163265306123	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+231_ORF1-1	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+231_ORF1-1	1.0204081632653061	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+232_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+234_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+235_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+236_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+237_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+238_hypothetical_protein	1.0204081632653061	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+252_hypothetical_protein	1.0204081632653061	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+259_orf2-5	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+260_orf2-4	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+298_ORF1-1	1.0204081632653061	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+3_VP1	7.142857142857142	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+3_VP1	7.142857142857142	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+314_Orf2	1.0204081632653061	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+41_putative_ORF1	3.061224489795918	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+50_ORF2	3.061224489795918	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+52_ORF3	5.1020408163265305	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+6_VP3	5.1020408163265305	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+62_ORF2	12.244897959183673	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+74_ORF2	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+80_ORF3	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+82_hypothetical_protein	1.0204081632653061	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+84_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+100_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+103_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+105_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+110_ORF2	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+113_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+119_hypothetical_protein	23.46938775510204	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+120_hypothetical_protein	21.428571428571427	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+135_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+15_ORF2	20.408163265306122	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+155_ORF3	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+16_ORF1	74.48979591836735	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+17_VP2	1.0204081632653061	protein serine phosphatase activity [GO:0106306]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+17_VP2	1.0204081632653061	protein threonine phosphatase activity [GO:0106307]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+17_VP2	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+18_VP1	2.0408163265306123	DNA binding [GO:0003677]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+185_ORF3	7.142857142857142	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+219_hypothetical_protein	2.0408163265306123	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+225_ORF3	2.0408163265306123	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+231_ORF1-1	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+232_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+234_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+235_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+236_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+237_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+259_orf2-5	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+260_orf2-4	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+28_VP2	1.0204081632653061	protein serine phosphatase activity [GO:0106306]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+28_VP2	1.0204081632653061	protein threonine phosphatase activity [GO:0106307]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+28_VP2	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+3_VP1	7.142857142857142	DNA binding [GO:0003677]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+5_putative_dual-specif..	6.122448979591836	protein serine phosphatase activity [GO:0106306]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+5_putative_dual-specif..	6.122448979591836	protein threonine phosphatase activity [GO:0106307]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+5_putative_dual-specif..	6.122448979591836	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+50_ORF2	3.061224489795918	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+52_ORF3	5.1020408163265305	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+62_ORF2	12.244897959183673	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+74_ORF2	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+80_ORF3	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+84_hypothetical_protein	1.0204081632653061	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG

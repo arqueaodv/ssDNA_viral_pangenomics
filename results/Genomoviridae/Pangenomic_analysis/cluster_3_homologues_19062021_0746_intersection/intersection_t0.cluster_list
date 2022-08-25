@@ -1,0 +1,11 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_3_homologues_19062021_0746/Blackbird-associated-gemykibivirus-1taxid1391038_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_/,cluster_3_homologues_19062021_0746/Blackbird-associated-gemykibivirus-1taxid1391038_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_
+# -o cluster_3_homologues_19062021_0746_intersection
+# -I 
+# -r 0
+11_rep.faa
+1_capsid_protein.faa
+2_replication_associat...faa
+3_capsid_protein.faa
+7_RepA.faa
+# intersection size = 5 clusters

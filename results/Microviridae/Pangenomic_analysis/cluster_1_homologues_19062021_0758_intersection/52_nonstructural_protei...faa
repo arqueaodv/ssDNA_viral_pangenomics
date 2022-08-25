@@ -1,0 +1,4 @@
+>ID:NP_054648.1 |[Chlamydia phage 2]||Chlamydia-phage-2_taxid_105154.gbk|nonstructural protei..|99|NC_002194(4563):1406-1504:1 ^GeneID:7564752,UniProtKB/TrEMBL:Q9MBU5^ Chlamydia phage Chp2, complete genome.|neighbours:ID:NP_054647.1(1),ID:NP_054649.1(1)|neighbour_genes:VP1,nonstructural protei..|
+MTKSLDIRRDLRSIAIRLRKLPASSDQMLQVL
+>ID:YP_338239.1 |[Chlamydia phage 4]||Chlamydia-phage-4_taxid_313629.gbk|ORF7|99|NC_007461(4530):1373-1471:1 ^GeneID:3703678^ Chlamydia phage 4, complete genome.|neighbours:ID:YP_338238.1(1),ID:YP_338240.1(1)|neighbour_genes:VP1,ORF6|
+MSKSLDIRRDLRSIAIRLRKLLASSDQMLQVL

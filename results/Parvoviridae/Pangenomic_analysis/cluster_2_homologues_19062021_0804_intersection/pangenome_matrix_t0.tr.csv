@@ -1,0 +1,23 @@
+Gene,Non-unique Gene name,Annotation,No. isolates,No. sequences,Avg sequences per isolate,Genome fragment,Order within fragment,Accessory Fragment,Accessory Order with Fragment,QC,Min group size nuc,Max group size nuc,Avg group size nuc,Aedes-aegypti-densovirus-2_taxid_1513196.gbk,Aedes-albopictus-densovirus-2_taxid_1513199.gbk,Anopheles-gambiae-densovirus_taxid_487311.gbk,Cutavirus_taxid_1867125.gbk,Decapod-penstyldensovirus-1_taxid_1513224.gbk,Desmodus-rotundus-parvovirus_taxid_1926498.gbk,Gray-fox-amdovirus_taxid_1093101.gbk,Mosquito-densovirus-BR-07_taxid_945962.gbk,Parvovirus-NIH-CQV_taxid_1341019.gbk,Penaeus-stylirostris-penstyldensovirus-1_taxid_1513225.gbk,Porcine-parvovirus-7_taxid_1820046.gbk,Protoparvovirus-Zsana-2013-HUN_taxid_1755694.gbk,Skunk-amdoparvovirus_taxid_1961072.gbk
+1_NS1.faa,,,,,,,,,,,,,,1,0,1,0,0,0,0,1,0,0,0,0,0
+2_NS2.faa,,,,,,,,,,,,,,1,1,1,0,0,0,0,1,0,0,0,0,0
+3_VP.faa,,,,,,,,,,,,,,1,1,1,0,0,0,0,1,0,0,0,0,0
+4_NS1.faa,,,,,,,,,,,,,,0,1,0,0,0,0,0,0,0,0,0,0,0
+10_NS1.faa,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0
+11_putative_VP1.faa,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0
+12_hypothetical_protein.faa,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0
+13_VP2.faa,,,,,,,,,,,,,,0,0,0,1,0,0,1,0,0,0,0,0,1
+14_hypothetical_protein.faa,,,,,,,,,,,,,,0,0,0,1,0,0,0,0,0,0,0,0,0
+15_hypothetical_protein.faa,,,,,,,,,,,,,,0,0,0,0,1,0,0,0,0,1,0,0,0
+16_non-structural_prote...faa,,,,,,,,,,,,,,0,0,0,0,1,0,0,0,0,1,0,0,0
+17_37_kDa_coat_protein.faa,,,,,,,,,,,,,,0,0,0,0,1,0,0,0,0,1,0,0,0
+18_nonstructural_protei...faa,,,,,,,,,,,,,,0,0,0,0,0,1,0,0,0,0,1,0,0
+19_capsid_protein_1.faa,,,,,,,,,,,,,,0,0,0,0,0,1,0,0,0,0,1,0,0
+20_NS1.faa,,,,,,,,,,,,,,0,0,0,0,0,0,1,0,0,0,0,0,1
+21_NS2.faa,,,,,,,,,,,,,,0,0,0,0,0,0,1,0,0,0,0,0,1
+22_NS3.faa,,,,,,,,,,,,,,0,0,0,0,0,0,1,0,0,0,0,0,1
+28_putative_15-kDa_prot...faa,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,0,0,0
+29_rep.faa,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,0,0,0
+30_cap.faa,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,1,0,0,0,0
+36_non-structural_prote...faa,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,1,0
+37_putative_middle_prot...faa,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,1,0

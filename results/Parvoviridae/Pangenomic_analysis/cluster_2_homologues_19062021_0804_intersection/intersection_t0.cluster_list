@@ -1,0 +1,28 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_2_homologues_19062021_0804/Desmodus-rotundus-parvovirustaxid1926498_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_/,cluster_2_homologues_19062021_0804/Desmodus-rotundus-parvovirustaxid1926498_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_
+# -o cluster_2_homologues_19062021_0804_intersection
+# -I 
+# -r 0
+21_NS2.faa
+29_rep.faa
+15_hypothetical_protein.faa
+37_putative_middle_prot...faa
+16_non-structural_prote...faa
+17_37_kDa_coat_protein.faa
+36_non-structural_prote...faa
+13_VP2.faa
+1_NS1.faa
+4_NS1.faa
+18_nonstructural_protei...faa
+2_NS2.faa
+22_NS3.faa
+14_hypothetical_protein.faa
+3_VP.faa
+10_NS1.faa
+30_cap.faa
+19_capsid_protein_1.faa
+20_NS1.faa
+12_hypothetical_protein.faa
+28_putative_15-kDa_prot...faa
+11_putative_VP1.faa
+# intersection size = 22 clusters

@@ -1,0 +1,12 @@
+"","cluster_name","size","taxa","Pfam_IDs","aa_file","na_file","taxids","Percentage_prevalence"
+"1","4_v2",1,1,"PF01524_","4_v2.faa","4_v2.fna","743035",1.0752688172043
+"2","5_rep",1,1,"","5_rep.faa","5_rep.fna","743035",1.0752688172043
+"3","6_rep",1,1,"PF00799_","6_rep.faa","6_rep.fna","743035",1.0752688172043
+"4","25_truncated_replicatio..",1,1,"PF02407_","25_truncated_replicatio...faa","25_truncated_replicatio...fna","2161876",1.0752688172043
+"5","26_hypothetical_protein",1,1,"","26_hypothetical_protein.faa","26_hypothetical_protein.fna","2161876",1.0752688172043
+"6","27_replication_initiato..",8,5,"PF02407_PF00910_","27_replication_initiato...faa","27_replication_initiato...fna","2161876_1819678_1453080_96892_96892_96892_518829_518829",5.37634408602151
+"7","29_replication_initiato..",3,3,"PF02407_","29_replication_initiato...faa","29_replication_initiato...fna","2161880_1188819_2169825",3.2258064516129
+"8","30_hypothetical_protein",1,1,"","30_hypothetical_protein.faa","30_hypothetical_protein.fna","2161880",1.0752688172043
+"9","37_V2",3,3,"","37_V2.faa","37_V2.fna","1188819_1819678_2169825",3.2258064516129
+"10","44_orf2",1,1,"","44_orf2.faa","44_orf2.fna","1453080",1.0752688172043
+"11","46_orf3",1,1,"","46_orf3.faa","46_orf3.fna","1453080",1.0752688172043

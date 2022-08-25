@@ -1,0 +1,56 @@
+>ID:YP_009021761.1 |[Axonopus compressus streak virus]||Axonopus-compressus-streak-virus_taxid_1476487.gbk|movement protein|309|NC_023864(2858):1-309:1 ^GeneID:18938111^ Axonopus compressus streak virus isolate ACSV_NG_g84_oba_2007, complete genome.|neighbours:start(),ID:YP_009021762.1(1)|neighbour_genes:start(),capsid protein|
+MFYRMERGPLPQVSSVYVLSPPAGPAPTTFVGNDGAWRFLVLLLACTALAGGTLFACWRLLGKDLLLTLKARRSRTVTELGFGQTPPGRQAGAGSQPVGPFG
+>ID:NP_612219.1 |[Bean yellow dwarf virus]||Bean-yellow-dwarf-virus_taxid_57119.gbk|V1|279|NC_003493(2561):129-407:1 ^GOA:O39519,GeneID:935293,InterPro:IPR002621,UniProtKB/Swiss-Prot:O39519^ Bean yellow dwarf virus putative genes V1, V2, C1, C1:C2.|neighbours:start(),ID:NP_612220.1(1)|neighbour_genes:start(),V2|
+MERILYQVFPSDTNYSYDPPAVTAPSQGSSQTDFGKVVIALVVILVSVGVFYLAYTLFLKDCILLFKAKKQRTTTEIGFGQTPARNQDHPGP
+>ID:YP_008472702.1 |[Chickpea chlorosis Australia virus]||Chickpea-chlorosis-Australia-virus_taxid_1302848.gbk|movement protein|306|NC_022131(2572):1-306:1 ^GeneID:16691598^ Chickpea chlorosis Australia virus isolate CpCV-D_AU_3494I_2002, complete genome.|neighbours:start(),ID:YP_008472703.1(1)|neighbour_genes:start(),coat protein|
+MYPAKYVVYPSESNYSYTPVGGDSSDTSSGSSSSENIFSKVVVALIIILFTVGIIYLAYTLFLKDLILLLKAKKQRTTTEIGFGNTPARPNSQRQQDVGPV
+>ID:YP_004046665.1 |[Chickpea chlorosis virus-A]||Chickpea-chlorosis-virus-A_taxid_887825.gbk|V2|309|NC_014740(2582):124-432:1 ^GeneID:9994792^ Chickpea chlorosis virus-A, complete genome.|neighbours:start(),ID:YP_004046666.1(1)|neighbour_genes:start(),V1|
+MLGAYYQIFPSEENYSYTPVQTQESFSGAKAGDSSEHVFSKVVVALIIILFSVGIIYLAYSLFLKDLILLLKAKKQRTTTEIGFGNTPGRPGSQPQQNVGPI
+>ID:YP_002014710.1 |[Chickpea chlorotic dwarf virus]||Chickpea-chlorotic-dwarf-virus_taxid_463360.gbk|V1|279|NC_011058(2584):132-410:1 ^GOA:B4ERB7,GeneID:6469715,InterPro:IPR002621,UniProtKB/TrEMBL:B4ERB7^ Chickpea chlorotic dwarf virus, complete genome.|neighbours:start(),ID:YP_002014711.1(1)|neighbour_genes:start(),V2|
+MERILYQVFPTDTNYSYDPPPVNTNSQGSSQTDFGKVVIALVVILVSVGVFYLAYSLFLKDCILLFKAKKQRTTTEIGFGQTPARNQDHPQP
+>ID:YP_004046661.1 |[Chickpea redleaf virus]||Chickpea-redleaf-virus_taxid_887827.gbk|V2|282|NC_014739(2605):161-442:1 ^GeneID:9989642^ Chickpea redleaf virus, complete genome.|neighbours:start(),ID:YP_004046662.1(1)|neighbour_genes:start(),V1|
+MREKKYQIFPPNPNYSEFSPPVEISHGENSQVNFQRVVTALIVVLVAVGVLYLAYTLFIKDCILLFKAKKQRTTTEIGFGQTPGRSSDRPPQP
+>ID:YP_009104361.1 |[Chickpea yellow dwarf virus]||Chickpea-yellow-dwarf-virus_taxid_1568974.gbk|movement protein|306|NC_025475(2547):1-306:1 ^GeneID:22203879^ Chickpea yellow dwarf virus isolate CpYDV-PK_PK103_2012, complete genome.|neighbours:start(),ID:YP_009104362.1(1)|neighbour_genes:start(),capsid protein|
+MLPAKYQVFPGENYSYTPTFAGSYQEVPTSHNSSGETFNKVFVALIVILISVGVCYLAYVLFVKDLILLLKAKKQRTTTEIGFGNTPGRPNSRRQEDAGTV
+>ID:YP_009506575.1 |[Chickpea yellows virus]||Chickpea-yellows-virus_taxid_1162557.gbk|movement protein|282|NC_038478(2557):1-282:1 ^GeneID:37617492^ Chickpea yellows mastrevirus isolate CpYV_AU_3489B_2002, complete genome.|neighbours:start(),ID:YP_009506576.1(1)|neighbour_genes:start(),coat protein|
+MARGKYQIYPPVEDHFPEVSSQVSSPGGHSTVDFGKVVVVLIVILVVVGLLYLSYSLFIKDCILLFKAKKQRTTTEIGFGNTPARGSSDPPHP
+>ID:NP_040962.1 |[Digitaria streak virus]||Digitaria-streak-virus_taxid_10837.gbk|movement protein|330|NC_001478(2701):1-330:1 ^GeneID:1489649^ Digitaria streak virus, complete genome.|neighbours:start(),ID:NP_040963.1(1)|neighbour_genes:start(),coat protein|
+MEWYQSDTGNQKPQSPTQAPSLPWSRLGEIAILTLLAVLCIYLLYIWVLRDLIFVVRSNRGRVAEELEFGPAETRSALAQSAVVPRSEVVPSQGADPPATESHLPCLHR
+>ID:YP_007004036.1 |[Dragonfly-associated mastrevirus]||Dragonfly-associated-mastrevirus_taxid_1249648.gbk|movement protein|285|NC_019497(2650):1-285:1 ^GeneID:14008254^ Dragonfly-associated mastrevirus isolate PR_NZ70_2009, complete genome.|neighbours:start(),ID:YP_007004037.1(1)|neighbour_genes:start(),capsid protein|
+MSYQPPYGDTSFEGGESGVKANPVGIGNDSAWRTLALAFTVTAVTLGLLFGAWKLCVKDCLLTLRAKRSRTTTELGFGNTPQRPGVNQVAPVIA
+>ID:YP_006331071.1 |[Maize streak Reunion virus]||Maize-streak-Reunion-virus_taxid_1182518.gbk|movement protein|309|NC_017917(2882):1-309:1 ^GeneID:12869776^ Maize streak Reunion virus, complete genome.|neighbours:start(),ID:YP_006331072.1(1)|neighbour_genes:start(),capsid protein|
+MEAPSTLQVYPQPLSLVTQSPPAPTAGDPWFRVVFVLVIALICLGIVYLSYRWFIRDVIILLRAKRQRSTEYIGFGNTPARADGGFPIHGRGTDRQGPVPPV
+>ID:YP_009154761.1 |[Maize streak virus - A[Ama]]|MSV-A|Maize-streak-virus--AAma_taxid_268316.gbk|V2|306|NC_001346(2689):150-455:1 ^GeneID:1489622^ Maize streak virus - A[Ama], complete genome.|neighbours:start(),ID:YP_009154762.1(1)|neighbour_genes:start(),V1|
+MDPQNALYYQPRVPTAAPASAGVPWSRVGEVAILSFVALICFYLLYLWVLRDLILVLKARQGRSTEELIFGGQAVDRSNPIPNLPAPPSQGNPGPFVPGTG
+>ID:YP_009551895.1 |[Maize striate mosaic virus]||Maize-striate-mosaic-virus_taxid_2025388.gbk|movement protein|363|NC_040541(2746):1-363:1 ^GeneID:41700906^ Maize striate mosaic virus isolate MSMV_BR_976_Pla_2016, complete genome.|neighbours:start(),ID:YP_009551896.1(1)|neighbour_genes:start(),capsid protein|
+MDFLLQLLPFYRYKSLLSAVAFEMEKGPGPEVFSPPVVEVPFSETPSAGSDQTWRTLVLVFLFVALSIGIVAALYWVCVRDCVLSARAKRARTITEFGFGNTPGDRRAPPPQALAAGGPV
+>ID:YP_001941160.1 |[Oat dwarf virus]||Oat-dwarf-virus_taxid_497863.gbk|V1|252|NC_010799(2740):185-436:1 ^GOA:A6GVJ4,GeneID:6353593,InterPro:IPR002621,UniProtKB/TrEMBL:A6GVJ4^ Oat dwarf virus, complete genome.|neighbours:start(),ID:YP_001941161.1(1)|neighbour_genes:start(),V2|
+MEISQYTPPLPYRDQLYTAPVSTESSDLAWRTFVFVIFGCLVAVGIIYLAYTLFLKDCILVWKAKRQKKTEEIGYGNTPARPQ
+>ID:YP_009553473.1 |[Rice latent virus 1]||Rice-latent-virus-1_taxid_2012856.gbk|movement protein|267|NC_040792(2757):1-267:1 ^GeneID:41700881^ Rice latent virus 1 isolate AU-NA63-2015, complete genome.|neighbours:start(),ID:YP_009553474.1(1)|neighbour_genes:start(),capsid protein|
+MANFSILTDSAYPTVPSPPSQAVSAGFEGALTTLFLVVIGSLLFVGVFYLGWVLCVKDLVLTFKARRQRRTEEIGFGNTPARVDARGV
+>ID:YP_009551798.1 |[Rice latent virus 2]||Rice-latent-virus-2_taxid_2012857.gbk|movement protein|297|NC_040537(2843):1-297:1 ^GeneID:41700887^ Rice latent virus 2 isolate AU-NA24-2015, complete genome.|neighbours:start(),ID:YP_009551799.1(1)|neighbour_genes:start(),capsid protein|
+MWMESGHLPQVGYQVQPSPPAVTSTFVGNDGAWRFLVLLTACSCLAGAAVFACWRMCGKDLLLTLKAKRSRTITELGFGQTPEQRRAGTSSQPVGVIG
+>ID:YP_006666525.1 |[Sporobolus striate mosaic virus 1]||Sporobolus-striate-mosaic-virus-1_taxid_1302849.gbk|movement protein|294|NC_018577(2789):1-294:1 ^GeneID:13564483^ Sporobolus striate mosaic virus 1, complete genome.|neighbours:start(),ID:YP_006666526.1(1)|neighbour_genes:start(),capsid protein|
+MEAGHLPSQQGFPSPLAYSQPSPSGVGNDSAWRTLVLVFTITAVGLACSFALYRLCVKDLVLLLRAKRSRTVTELGFGGTPARQDGVRTGSGVPGLG
+>ID:YP_006666529.1 |[Sporobolus striate mosaic virus 2]||Sporobolus-striate-mosaic-virus-2_taxid_1302850.gbk|movement protein|303|NC_018578(2716):1-303:1 ^GeneID:13564488^ Sporobolus striate mosaic virus 2, complete genome.|neighbours:start(),ID:YP_006666530.1(1)|neighbour_genes:start(),capsid protein|
+MSNPATPLGDYTSSQHQGGTQSGSVGIGNDSAWRALALAFTVTTVTLVLLFGAWRLCLKDCLLTLRAKRSKTTTELGFGQTPRRDPVGGGVTQYPPGVPG
+>ID:YP_009325923.1 |[Sugarcane chlorotic streak virus]||Sugarcane-chlorotic-streak-virus_taxid_1919062.gbk|movement protein|345|NC_032004(2757):119-463:1 ^GeneID:30436253^ Sugarcane chlorotic streak virus isolate Sc10-SR-1, complete genome.|neighbours:start(),ID:YP_009325924.1(1)|neighbour_genes:start(),coat protein|
+MWDRTMEGFYQAPPLLPLGVRPQVAAAAPYSGSLPWSRVGEVAIFTFVAVLGLYLLWLWVLRDLFFVVKAQRGRSTEELHFGPTEVPSVPSARVDLSAPPVGPSGTAPPRPFLG
+>ID:NP_045942.1 |[Sugarcane streak Egypt virus - [Giza]]||Sugarcane-streak-Egypt-virus--Giza_taxid_268785.gbk|V1|318|NC_001868(2706):132-449:1 ^GeneID:1449594^ Sugarcane streak Egypt virus - [Giza], complete genome.|neighbours:start(),ID:NP_045943.1(1)|neighbour_genes:start(),V2|
+MDGSGGALPALPQSVLPRVPSPPPSAGVLPWSRVGEIVIFTFVALVALYLLWLWVLRDLIFLVKARRGISTEEVSFGTSDLVGSQAPTPVGVSASCPPGPVPFTA
+>ID:NP_840050.1 |[Sugarcane streak Reunion virus]|1|Sugarcane-streak-Reunion-virus_taxid_78395.gbk|V1|330|NC_004755(2735):139-468:1 ^GeneID:1449684^ Sugarcane streak virus reunion, complete genome.|neighbours:start(),ID:NP_840051.1(1)|neighbour_genes:start(),V2|
+MDSLEGASPALPAVALPRVPRAAPSAPALPWSRVGEIAIFTFVAVLALYLLWVWVLRDLVFVLKARRGGSTEELHFGPRERESVASADSSRPVAAPSAPPVSDARPFSV
+>ID:YP_009389274.1 |[Sugarcane striate virus]||Sugarcane-striate-virus_taxid_1868659.gbk|movement protein|291|NC_035179(2749):1-291:1 ^GeneID:33374376^ Sugarcane striate virus isolate SCStV_GP_TC9-3_2013, complete genome.|neighbours:start(),ID:YP_009389275.1(1)|neighbour_genes:start(),capsid protein|
+MSPQEAFQVSGGTLPLVLSPPPADPPATPWFKLIFGLTVCLCVVGSIYLTYRWFLRDVIILIRAKRQRTTEEIGFGNTPHRPGSTASQVVGTGPGG
+>ID:YP_009026386.1 |[Sugarcane white streak virus]||Sugarcane-white-streak-virus_taxid_1492296.gbk|movement protein|294|NC_023989(2830):180-473:1 ^GeneID:18995716^ Sugarcane white streak virus isolate SSNV-B [SD-B0069-2013], complete genome.|neighbours:start(),ID:YP_009026387.1(1)|neighbour_genes:start(),capsid protein|
+MAHHMKLLQVSPTVVYTPSPRPPSTDGDSWSHLIFALVVTICVVLTIYVVYRWFGRDLIILFRARRQRSTEEIGFGNTPVNPRAGPGVQVVGGAIPG
+>ID:YP_009362980.1 |[Sweet potato symptomless virus 1]||Sweet-potato-symptomless-virus-1_taxid_603333.gbk|V1|261|NC_034630(2886):1-261:1 ^GeneID:32878894^ Sweetpotato symptomless mastrevirus 1 isolate Z01057b, complete genome.|neighbours:start(),ID:YP_009362981.1(1)|neighbour_genes:start(),V2|
+MNSSVPIFDPFPVYSPTNPKSSSDSRLNSLITVIVVTLLFVGIVYLAYVLFLKDVILLLKAKRQRTTTEIGFGQTPRVNTQGGGVG
+>ID:YP_009111307.1 |[Switchgrass mosaic-associated virus 1]||Switchgrass-mosaic-associated-virus-1_taxid_1571533.gbk|movement protein|300|NC_025834(2739):157-456:1 ^GeneID:22475679^ Switchgrass mosaic-associated virus 1 isolate Cloud Nine movement protein, capsid protein, replication-associated protein RepB, and replication-associated protein genes, complete cds.|neighbours:start(),ID:YP_009111308.1(1)|neighbour_genes:start(),capsid protein|
+MEKGPGPQLYPATITAANPAGVGNDGAWRSLVLIFTIVSITLAAIAGSYYLCVKDCLLTWRARRSRTVTELGFGTTPQRAGGNSAASGSGGPSNPPFPI
+>ID:NP_620724.1 |[Tobacco yellow dwarf virus]||Tobacco-yellow-dwarf-virus_taxid_10830.gbk|V1|309|NC_003822(2580):269-577:1 ^GeneID:944384^ Tobacco yellow dwarf virus, complete genome.|neighbours:start(),ID:NP_620725.1(1)|neighbour_genes:start(),V2|
+MYPAKYQVVPSGINYSDTPVGTFEQYQPQKAGESSEHFFSKVVVALIVILFAVGIVYLAYTLFLKDLILLLKAKKQKTTTEIGFGNTPLRRPGEGNPNGGPV
+>ID:YP_006273068.1 |[Wheat dwarf India virus]||Wheat-dwarf-India-virus_taxid_1174526.gbk|V1|321|NC_017828(2783):175-495:1 ^GeneID:12414008^ Wheat dwarf India virus, complete genome.|neighbours:start(),ID:YP_006273069.1(1)|neighbour_genes:start(),V2|
+MGSARLGEFSPLAYPGSIAYIPQSPPAVQNEDPWIRLVFVFVAVIAAIGLLYLSYRWFVRDVIILLRAKRQRSTEEIGFGNTPARPDGGQPSTRRGPDPSAAAPPY
+>ID:NP_542347.1 |[Wheat dwarf virus]|Wheat|Wheat-dwarf-virus_taxid_10834.gbk|v1|273|NC_003326(2750):171-443:1 ^GeneID:929291,UniProtKB/TrEMBL:Q8UYL2^ Wheat dwarf virus, complete genome.|neighbours:start(),ID:NP_542348.1(1)|neighbour_genes:start(),v2|
+MEQAIAPPLPIRDYQYQTPSNPGSSDYAWRTFVFVTFGLLIAVGVAWLAYTLFLKDLILVCKAKKQRRTEEIGYGNTPARLNGDQQGLPR

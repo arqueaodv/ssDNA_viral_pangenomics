@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_039612.1          -          NP_039612.1          -            4.6e-66  217.8  10.3   5.3e-66  217.6  10.3   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/71_hypothetical_protein/71_hypothetical_protein_PF17525_.faa
+# Target file:     /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/71_hypothetical_protein/71_hypothetical_protein_PF17525__myviral_jackhmmer.table ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/71_hypothetical_protein/71_hypothetical_protein_PF17525_.faa /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Tue Dec 21 17:29:41 2021
+# [ok]

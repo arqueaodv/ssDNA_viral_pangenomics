@@ -1,0 +1,49 @@
+VIRAL_FAMILY	Genomoviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	34_replication-associat...faa
+PREVALENCE	1.333333
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		Uniprot hit without GO [GO:XXXXXXX]
+		DNA replication [GO:0006260]
+		DNA replication [GO:0006260]
+		rolling circle single-stranded viral DNA replication [GO:0039684]
+		DNA replication [GO:0006260]
+	MOLECULAR_FUNCTION
+		Uniprot hit without GO [GO:XXXXXXX]
+		endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]
+		structural molecule activity [GO:0005198]
+		DNA binding [GO:0003677]
+		endonuclease activity [GO:0004519]
+		metal ion binding [GO:0046872]
+		ATP binding [GO:0005524]
+		DNA binding [GO:0003677]
+		endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]
+		helicase activity [GO:0004386]
+		metal ion binding [GO:0046872]
+		nucleotidyltransferase activity [GO:0016779]
+		structural molecule activity [GO:0005198]
+		endonuclease activity [GO:0004519]
+		nucleotidyltransferase activity [GO:0016779]
+		structural molecule activity [GO:0005198]
+		helicase activity [GO:0004386]
+		DNA binding [GO:0003677]
+		endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]
+		metal ion binding [GO:0046872]
+		ATP binding [GO:0005524]
+	CELLULAR_COMPONENT
+		Uniprot hit without GO [GO:XXXXXXX]
+		host cell nucleus [GO:0042025]
+		viral capsid [GO:0019028]
+		host cell nucleus [GO:0042025]
+
+
+//
+
+>ID:YP_009021861.1 |[Dragonfly associated gemykibivirus 1]||Dragonfly-associated-gemykibivirus-1_taxid_1234887.gbk|replication-associat..|234|NC_023872(2225):1044-1277:-1 ^GeneID:18983269^ Dragonfly-associated circular virus 1 isolate FL1-2X-2010, complete genome.|neighbours:ID:YP_009021860.1(-1),ID:YP_009021862.1(-1)|neighbour_genes:spliced replication-..,replication-associat..| ATGCAAGGAGGACTTGAGTTTTTTCACGCTTACAAATTCTGGTTAGGGGCACAGAAACAGTTTTACGCCACAGACAAGTATCGTGGCAAGCAATTGGTCAATTGGGGGAGGCCGTCTATATACATCTCCAACACTAACCCCCTTGCAGACAAAGGGGCAGACGTGGATTGGTTGATGGGGAACTGCGTCATCGTACATGTAGACCGGCCTATCTTTCGTGCCAGTACAGAGTAG
+
+//
+
+>ID:YP_009021861.1 |[Dragonfly associated gemykibivirus 1]||Dragonfly-associated-gemykibivirus-1_taxid_1234887.gbk|replication-associat..|234|NC_023872(2225):1044-1277:-1 ^GeneID:18983269^ Dragonfly-associated circular virus 1 isolate FL1-2X-2010, complete genome.|neighbours:ID:YP_009021860.1(-1),ID:YP_009021862.1(-1)|neighbour_genes:spliced replication-..,replication-associat..| MQGGLEFFHAYKFWLGAQKQFYATDKYRGKQLVNWGRPSIYISNTNPLADKGADVDWLMGNCVIVHVDRPIFRASTE

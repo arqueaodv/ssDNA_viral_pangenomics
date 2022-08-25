@@ -1,0 +1,28 @@
+VIRAL_FAMILY	Pleolipoviridae
+PANGENOMIC_GROUP	shell
+CLUSTER_NAME	13_putative_protein_13.faa
+PREVALENCE	11.11111
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		phosphorelay signal transduction system [GO:0000160]
+		regulation of transcription, DNA-templated [GO:0006355]
+		DNA-templated transcription, initiation [GO:0006352]
+	MOLECULAR_FUNCTION
+		DNA-binding transcription factor activity [GO:0003700]
+		sigma factor activity [GO:0016987]
+		DNA binding [GO:0003677]
+		DNA-directed 5'-3' RNA polymerase activity [GO:0003899]
+	CELLULAR_COMPONENT
+		cytosolic DNA-directed RNA polymerase complex [GO:0000345]
+		intracellular anatomical structure [GO:0005622]
+
+
+//
+
+>ID:YP_009798576.1 |[Haloarcula hispanica pleomorphic virus 3]||Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk|putative protein 13|198|NC_047928(11648):9085-9282:-1 ^GeneID:54989038^ Haloarcula hispanica pleomorphic virus 3, complete genome.|neighbours:ID:YP_009798575.1(-1),ID:YP_009798577.1(-1)|neighbour_genes:putative protein 12,putative protein 14| GTGAGCTCCCAGTCCTCTCTTTTCGACTACAAACCGGACCTGTCGCCGCTGACTGACGCCGAACGAGAAGTGTACGAGGCTGTGGGCATGGGCCAGTATGGGCCGCGCGAGTACGCCCGCCAGACTGGCCGCTCGCCCGGAACTGTCGGGAATCTACTCCGTCGAGCCCGCGAGAAAGTGGAGGTGACTTCGGCATGA
+
+//
+
+>ID:YP_009798576.1 |[Haloarcula hispanica pleomorphic virus 3]||Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk|putative protein 13|198|NC_047928(11648):9085-9282:-1 ^GeneID:54989038^ Haloarcula hispanica pleomorphic virus 3, complete genome.|neighbours:ID:YP_009798575.1(-1),ID:YP_009798577.1(-1)|neighbour_genes:putative protein 12,putative protein 14| MSSQSSLFDYKPDLSPLTDAEREVYEAVGMGQYGPREYARQTGRSPGTVGNLLRRAREKVEVTSA

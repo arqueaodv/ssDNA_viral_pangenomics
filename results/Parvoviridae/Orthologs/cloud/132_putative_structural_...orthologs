@@ -1,0 +1,37 @@
+VIRAL_FAMILY	Parvoviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	132_putative_structural_...faa
+PREVALENCE	1.030928
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		clathrin-dependent endocytosis of virus by host cell [GO:0075512]
+		permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]
+		viral entry via permeabilization of inner membrane [GO:0099008]
+		virion attachment to host cell [GO:0019062]
+		viral genome replication [GO:0019079]
+		virion attachment to host cell [GO:0019062]
+		microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]
+		clathrin-dependent endocytosis of virus by host cell [GO:0075512]
+		permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]
+		viral penetration into host nucleus [GO:0075732]
+		viral entry into host cell [GO:0046718]
+	MOLECULAR_FUNCTION
+		structural molecule activity [GO:0005198]
+		structural molecule activity [GO:0005198]
+	CELLULAR_COMPONENT
+		T=1 icosahedral viral capsid [GO:0039615]
+		T=1 icosahedral viral capsid [GO:0039615]
+		virion [GO:0019012]
+		host cell nucleolus [GO:0044196]
+		host cell nucleus [GO:0042025]
+
+
+//
+
+>ID:YP_009256213.1 |[Diaphorina citri densovirus]||Diaphorina-citri-densovirus_taxid_1776153.gbk|putative structural ..|618|NC_030296(5071):4149-4766:-1 ^GeneID:27963664^ Diaphorina citri densovirus, complete genome.|neighbours:ID:YP_009256212.1(-1),end()|neighbour_genes:putative structural ..,end()| ATGTCATCTGTAAATAATAGTGCTCAGATAAAAGCGATAAAAAAACCCTCCAGCGGCAAGGCCAAACCGAAAAAAACAAATGTAAAACGCGTAGAAAAACCAGTGGCATTCGGGAGTGTTACAACAATGTCTACAACATCGTCTCTGGTGAATCCGTATAGTGTTCCGGATAAGCGATACAAAACGTGGCAAACGAATAAAGGACCATATGTTTTAATGGGATTACATCGTGCTAGCACGCAACAACAACGACGTCGACGTGGCGGTTTTTTGTGGCCCGGGCATAATTATATGGGGCCTGGCAATCCTCTCGACAACGGAGAACCTACAACGAACGCCGATAAAGTTGCGCAACAGCACGATTATGCTTATGCGCATGCCTGGACAGAGGATCATATAAAAGAAGCAGATGCAGAGGCTCGTCATCAGTTTCTCGAGCATCCTACGGAGTTTAGTTCGCTTGTCGGTTACACAGGACTCGGTTTGAAATCGTTACTCGAATCCGTTACGGGAACTGTGTATCCAGCGCCTTCCAAATTACGTGCTAGTACTGCGCAACGTTCGGCCATGGCCGGTATAAAACGTAAGAAGAACAACGATGGCACCGAGGAAGCGTAA
+
+//
+
+>ID:YP_009256213.1 |[Diaphorina citri densovirus]||Diaphorina-citri-densovirus_taxid_1776153.gbk|putative structural ..|618|NC_030296(5071):4149-4766:-1 ^GeneID:27963664^ Diaphorina citri densovirus, complete genome.|neighbours:ID:YP_009256212.1(-1),end()|neighbour_genes:putative structural ..,end()| MSSVNNSAQIKAIKKPSSGKAKPKKTNVKRVEKPVAFGSVTTMSTTSSLVNPYSVPDKRYKTWQTNKGPYVLMGLHRASTQQQRRRRGGFLWPGHNYMGPGNPLDNGEPTTNADKVAQQHDYAYAHAWTEDHIKEADAEARHQFLEHPTEFSSLVGYTGLGLKSLLESVTGTVYPAPSKLRASTAQRSAMAGIKRKKNNDGTEEA

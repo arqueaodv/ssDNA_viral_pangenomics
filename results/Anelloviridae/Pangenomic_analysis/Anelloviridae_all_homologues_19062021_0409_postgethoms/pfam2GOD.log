@@ -1,0 +1,16 @@
+COG.df.csv
+COG_Taxids_clust_presence.mx.csv
+COG_GO_function_pfam2go.csv
+COG_GO_ID_GOD_bp.csv
+COG_GO_ID_GOD_cc.csv
+COG_GO_ID_GOD_mf.csv
+COG_GO_ID_pfam2go.csv
+COG_names_pfam2go.csv
+OMCL.df.csv
+OMCL_Taxids_clust_presence.mx.csv
+OMCL_GO_function_pfam2go.csv
+OMCL_GO_ID_GOD_bp.csv
+OMCL_GO_ID_GOD_cc.csv
+OMCL_GO_ID_GOD_mf.csv
+OMCL_GO_ID_pfam2go.csv
+OMCL_names_pfam2go.csv

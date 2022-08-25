@@ -1,0 +1,382 @@
+cluster 1_putative_viral_repli.. size=101 taxa=100 Pfam=PF02407,PF00910, file: 1_putative_viral_repli...faa dnafile: 1_putative_viral_repli...fna
+: Acartia-tonsa-copepod-circovirus_taxid_1168547.gbk
+: Apteryx-rowi-circovirus-like-virus_taxid_1634476.gbk
+: Arboreal-ant-associated-circular-virus-1_taxid_2293273.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-10_taxid_1618233.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-11_taxid_1618234.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-13_taxid_1618236.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-14_taxid_1618237.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-16_taxid_1618239.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-17_taxid_1618240.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-23_taxid_1618247.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-2_taxid_1618243.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-4_taxid_1618255.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-6_taxid_1618257.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-7_taxid_1618258.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-9_taxid_1618260.gbk
+: Barbel-circovirus_taxid_759938.gbk
+: Bat-associated-circovirus-1_taxid_1868218.gbk
+: Bat-associated-circovirus-2_taxid_1868219.gbk
+: Bat-associated-cyclovirus-2_taxid_2050585.gbk
+: Bat-associated-cyclovirus-3_taxid_2050586.gbk
+: Bat-associated-cyclovirus-4_taxid_2050587.gbk
+: Bat-circovirus-POA-2012-II_taxid_1572237.gbk
+: Bat-circovirus_taxid_1329650.gbk
+: Bat-cyclovirus-GF-4c_taxid_795381.gbk
+: Beak-and-feather-disease-virus_taxid_77856.gbk
+: Canary-circovirus_taxid_142661.gbk
+: Canine-circovirus_taxid_1194757.gbk
+: Chimpanzee-stool-avian-like-circovirus-Chimp17_taxid_743290.gbk
+: Circoviridae-21-LDMD-2013_taxid_1379725.gbk
+: Circovirus-like-genome-DCCV-3_taxid_1788443.gbk
+: Circovirus-like-genome-DHCV-3_taxid_1788452.gbk
+: Cockroach-associated-cyclovirus-1_taxid_2050038.gbk
+: Columbid-circovirus_taxid_126070.gbk
+: Cyclovirus-Chimp11_taxid_742920.gbk
+: Cyclovirus-Equ1_taxid_1673638.gbk
+: Cyclovirus-NG12_taxid_742922.gbk
+: Cyclovirus-NG14_taxid_742923.gbk
+: Cyclovirus-NGchicken15-NGA-2009_taxid_942037.gbk
+: Cyclovirus-NGchicken8-NGA-2009_taxid_942036.gbk
+: Cyclovirus-PK5006_taxid_742915.gbk
+: Cyclovirus-PK5034_taxid_742916.gbk
+: Cyclovirus-PK5222_taxid_742917.gbk
+: Cyclovirus-PK5510_taxid_742918.gbk
+: Cyclovirus-PKbeef23-PAK-2009_taxid_942032.gbk
+: Cyclovirus-PKgoat11-PAK-2009_taxid_942034.gbk
+: Cyclovirus-PKgoat21-PAK-2009_taxid_942033.gbk
+: Cyclovirus-SL-108277_taxid_1520935.gbk
+: Cyclovirus-TN25_taxid_742924.gbk
+: Cyclovirus-TsCyV-1-JP-NUBS-2014_taxid_1592764.gbk
+: Cyclovirus-VN_taxid_1348500.gbk
+: Cyclovirus-ZM36a_taxid_1506568.gbk
+: Cyclovirus-bat-USA-2009_taxid_942035.gbk
+: Didemnum-sp-Sea-Squirt-associated-virus_taxid_1692247.gbk
+: Dragonfly-associated-cyclovirus-1_taxid_1234879.gbk
+: Dragonfly-associated-cyclovirus-2_taxid_1234880.gbk
+: Dragonfly-associated-cyclovirus-3_taxid_1234881.gbk
+: Dragonfly-associated-cyclovirus-3_taxid_1234881.gbk
+: Dragonfly-associated-cyclovirus-4_taxid_1234882.gbk
+: Dragonfly-associated-cyclovirus-5_taxid_1234883.gbk
+: Dragonfly-associated-cyclovirus-6_taxid_1574360.gbk
+: Dragonfly-associated-cyclovirus-7_taxid_1574361.gbk
+: Dragonfly-associated-cyclovirus-8_taxid_1574362.gbk
+: Dragonfly-associated-cyclovirus_taxid_2152567.gbk
+: Duck-associated-cyclovirus-1_taxid_2006585.gbk
+: Duck-circovirus_taxid_324685.gbk
+: Farfantepenaeus-duorarum-circovirus_taxid_1380894.gbk
+: Feline-stool-associated-circular-virus-KU14_taxid_2249941.gbk
+: Finch-circovirus_taxid_400122.gbk
+: Garrulus-glandarius-associated-circular-virus-1_taxid_2006642.gbk
+: Giant-panda-circovirus-4_taxid_2016459.gbk
+: Goose-circovirus_taxid_146032.gbk
+: Gull-circovirus_taxid_400121.gbk
+: Human-associated-cyclovirus-10_taxid_2038728.gbk
+: Human-cyclovirus-VS5700009_taxid_1345637.gbk
+: Human-fecal-virus-Jorvi3_taxid_2017082.gbk
+: Human-stool-associated-circular-virus-NG13_taxid_743300.gbk
+: Labidocera-aestiva-circovirus_taxid_1173709.gbk
+: Meles-meles-circovirus-like-virus_taxid_1128073.gbk
+: Mink-circovirus_taxid_1475143.gbk
+: Molossus-molossus-circovirus-3_taxid_1959844.gbk
+: Molossus-molossus-circovirus-4_taxid_1959845.gbk
+: Mosquito-circovirus_taxid_1611039.gbk
+: Mouse-associated-cyclovirus-1_taxid_2169856.gbk
+: Mulard-duck-circovirus_taxid_232802.gbk
+: Muscovy-duck-circovirus_taxid_257468.gbk
+: Pacific-flying-fox-associated-cyclovirus-1_taxid_1795983.gbk
+: Pacific-flying-fox-associated-cyclovirus-2_taxid_1795984.gbk
+: Pacific-flying-fox-associated-cyclovirus-3_taxid_1795985.gbk
+: Paguma-larvata-circovirus_taxid_2294094.gbk
+: Pleurochrysis-carterae-circular-virus_taxid_2057942.gbk
+: Porcine-circovirus-1_taxid_133704.gbk
+: Porcine-circovirus-2_taxid_85708.gbk
+: Porcine-circovirus-type-1-2a_taxid_720569.gbk
+: Raven-circovirus_taxid_345250.gbk
+: Rhinolophus-ferrumequinum-circovirus-1_taxid_1195373.gbk
+: Silurus-glanis-circovirus_taxid_1126411.gbk
+: Soft-spider-associated-circular-virus-1_taxid_2293301.gbk
+: Starling-circovirus_taxid_349370.gbk
+: Swan-circovirus_taxid_459957.gbk
+: Tadarida-brasiliensis-circovirus-1_taxid_1732201.gbk
+: Zebra-finch-circovirus_taxid_1642515.gbk
+cluster 2_hypothetical_protein size=1 taxa=1 file: 2_hypothetical_protein.faa dnafile: 2_hypothetical_protein.fna
+: Acartia-tonsa-copepod-circovirus_taxid_1168547.gbk
+cluster 3_putative_replication.. size=19 taxa=19 Pfam=PF02407, file: 3_putative_replication...faa dnafile: 3_putative_replication...fna
+: Aiptasia-sp-sea-anemone-associated-circular-virus_taxid_1692242.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-12_taxid_1618235.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-21_taxid_1618245.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-24_taxid_1618248.gbk
+: Bat-circovirus-POA-2012-VI_taxid_1572239.gbk
+: Callinectes-sapidus-associated-circular-virus_taxid_1692246.gbk
+: Ecklonia-radiata-associated-virus-5_taxid_2480195.gbk
+: Fiddler-Crab-associated-circular-virus_taxid_1692249.gbk
+: Gammarus-sp-amphipod-associated-circular-virus_taxid_1692250.gbk
+: Giant-panda-circovirus-2_taxid_2016457.gbk
+: Hermit-crab-associated-circular-virus_taxid_1692252.gbk
+: Littorina-sp-associated-circular-virus_taxid_1692253.gbk
+: Marine-snail-associated-circular-virus_taxid_1692255.gbk
+: Mytilus-sp-clam-associated-circular-virus_taxid_1692256.gbk
+: Palaemonetes-intermedius-brackish-grass-shrimp-associated-circular_taxid_1692257.gbk
+: Palaemonetes-sp-common-grass-shrimp-associated-circular-virus_taxid_1692259.gbk
+: Paramuricea-placomus-associated-circular-virus_taxid_1692260.gbk
+: Penaeus-monodon-circovirus-VN11_taxid_1419711.gbk
+: Petrochirus-diogenes-giant-hermit-crab-associated-circular-virus_taxid_1692261.gbk
+cluster 4_putative_capsid_prot.. size=10 taxa=10 file: 4_putative_capsid_prot...faa dnafile: 4_putative_capsid_prot...fna
+: Aiptasia-sp-sea-anemone-associated-circular-virus_taxid_1692242.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-24_taxid_1618248.gbk
+: Ecklonia-radiata-associated-virus-5_taxid_2480195.gbk
+: Farfantepenaeus-duorarum-pink-shrimp-associated-circular-virus_taxid_1692248.gbk
+: Gammarus-sp-amphipod-associated-circular-virus_taxid_1692250.gbk
+: Giant-panda-circovirus-2_taxid_2016457.gbk
+: Hermit-crab-associated-circular-virus_taxid_1692252.gbk
+: Marine-snail-associated-circular-virus_taxid_1692255.gbk
+: Mytilus-sp-clam-associated-circular-virus_taxid_1692256.gbk
+: Palaemonetes-intermedius-brackish-grass-shrimp-associated-circular_taxid_1692257.gbk
+cluster 6_capsid_protein size=2 taxa=2 file: 6_capsid_protein.faa dnafile: 6_capsid_protein.fna
+: Apteryx-rowi-circovirus-like-virus_taxid_1634476.gbk
+: Meles-meles-circovirus-like-virus_taxid_1128073.gbk
+cluster 7_putative_capsid_prot.. size=4 taxa=4 Pfam=PF02443, file: 7_putative_capsid_prot...faa dnafile: 7_putative_capsid_prot...fna
+: Arboreal-ant-associated-circular-virus-1_taxid_2293273.gbk
+: Bat-cyclovirus-GF-4c_taxid_795381.gbk
+: Cyclovirus-PK5034_taxid_742916.gbk
+: Dragonfly-associated-cyclovirus-3_taxid_1234881.gbk
+cluster 10_putative_capsid_prot.. size=4 taxa=4 file: 10_putative_capsid_prot...faa dnafile: 10_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-10_taxid_1618233.gbk
+: Callinectes-sapidus-associated-circular-virus_taxid_1692246.gbk
+: Circovirus-like-genome-DCCV-9_taxid_1788449.gbk
+: Sicyonia-brevirostris-associated-circular-virus_taxid_1692263.gbk
+cluster 11_putative_capsid_prot.. size=1 taxa=1 file: 11_putative_capsid_prot...faa dnafile: 11_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-11_taxid_1618234.gbk
+cluster 13_putative_capsid_prot.. size=1 taxa=1 file: 13_putative_capsid_prot...faa dnafile: 13_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-12_taxid_1618235.gbk
+cluster 15_putative_capsid_prot.. size=2 taxa=2 file: 15_putative_capsid_prot...faa dnafile: 15_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-13_taxid_1618236.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-14_taxid_1618237.gbk
+cluster 19_putative_capsid_prot.. size=1 taxa=1 file: 19_putative_capsid_prot...faa dnafile: 19_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-16_taxid_1618239.gbk
+cluster 22_putative_capsid_prot.. size=1 taxa=1 file: 22_putative_capsid_prot...faa dnafile: 22_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-17_taxid_1618240.gbk
+cluster 23_replication-associat.. size=8 taxa=8 file: 23_replication-associat...faa dnafile: 23_replication-associat...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-1_taxid_1618232.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-22_taxid_1618246.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-29_taxid_1618253.gbk
+: Avon-Heathcote-Estuary-associated-circular-virus-8_taxid_1618259.gbk
+: Circoviridae-16-LDMD-2013_taxid_1379720.gbk
+: Circovirus-like-genome-DCCV-12_taxid_1788440.gbk
+: Circovirus-like-genome-DCCV-9_taxid_1788449.gbk
+: Farfantepenaeus-duorarum-pink-shrimp-associated-circular-virus_taxid_1692248.gbk
+cluster 24_putative_capsid_prot.. size=1 taxa=1 file: 24_putative_capsid_prot...faa dnafile: 24_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-1_taxid_1618232.gbk
+cluster 25_putative_capsid_prot.. size=4 taxa=4 file: 25_putative_capsid_prot...faa dnafile: 25_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-21_taxid_1618245.gbk
+: Circovirus-like-genome-DHCV-5_taxid_1788454.gbk
+: Molossus-molossus-circovirus-4_taxid_1959845.gbk
+: Penaeus-monodon-circovirus-VN11_taxid_1419711.gbk
+cluster 28_putative_capsid_prot.. size=1 taxa=1 file: 28_putative_capsid_prot...faa dnafile: 28_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-22_taxid_1618246.gbk
+cluster 29_putative_capsid_prot.. size=5 taxa=5 file: 29_putative_capsid_prot...faa dnafile: 29_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-23_taxid_1618247.gbk
+: Circovirus-like-genome-DCCV-3_taxid_1788443.gbk
+: Farfantepenaeus-duorarum-circovirus_taxid_1380894.gbk
+: Fiddler-Crab-associated-circular-virus_taxid_1692249.gbk
+: Human-fecal-virus-Jorvi3_taxid_2017082.gbk
+cluster 33_putative_capsid_prot.. size=2 taxa=2 file: 33_putative_capsid_prot...faa dnafile: 33_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-25_taxid_1618249.gbk
+: Circovirus-like-genome-DCCV-2_taxid_1788442.gbk
+cluster 34_replication-associat.. size=2 taxa=2 Pfam=PF00799, file: 34_replication-associat...faa dnafile: 34_replication-associat...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-25_taxid_1618249.gbk
+: Circovirus-like-genome-DCCV-2_taxid_1788442.gbk
+cluster 35_putative_capsid_prot.. size=1 taxa=1 file: 35_putative_capsid_prot...faa dnafile: 35_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-29_taxid_1618253.gbk
+cluster 38_putative_capsid_prot.. size=1 taxa=1 file: 38_putative_capsid_prot...faa dnafile: 38_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-2_taxid_1618243.gbk
+cluster 40_putative_capsid_prot.. size=1 taxa=1 file: 40_putative_capsid_prot...faa dnafile: 40_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-4_taxid_1618255.gbk
+cluster 42_putative_capsid_prot.. size=1 taxa=1 file: 42_putative_capsid_prot...faa dnafile: 42_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-6_taxid_1618257.gbk
+cluster 44_putative_capsid_prot.. size=1 taxa=1 file: 44_putative_capsid_prot...faa dnafile: 44_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-7_taxid_1618258.gbk
+cluster 45_putative_capsid_prot.. size=1 taxa=1 file: 45_putative_capsid_prot...faa dnafile: 45_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-8_taxid_1618259.gbk
+cluster 48_putative_capsid_prot.. size=1 taxa=1 file: 48_putative_capsid_prot...faa dnafile: 48_putative_capsid_prot...fna
+: Avon-Heathcote-Estuary-associated-circular-virus-9_taxid_1618260.gbk
+cluster 50_putative_capsid_prot.. size=4 taxa=4 Pfam=PF02443, file: 50_putative_capsid_prot...faa dnafile: 50_putative_capsid_prot...fna
+: Barbel-circovirus_taxid_759938.gbk
+: Human-stool-associated-circular-virus-NG13_taxid_743300.gbk
+: Molossus-molossus-circovirus-3_taxid_1959844.gbk
+: Silurus-glanis-circovirus_taxid_1126411.gbk
+cluster 52_cap size=24 taxa=24 Pfam=PF02443, file: 52_cap.faa dnafile: 52_cap.fna
+: Bat-associated-circovirus-1_taxid_1868218.gbk
+: Bat-associated-circovirus-2_taxid_1868219.gbk
+: Bat-circovirus_taxid_1329650.gbk
+: Beak-and-feather-disease-virus_taxid_77856.gbk
+: Canary-circovirus_taxid_142661.gbk
+: Chimpanzee-stool-avian-like-circovirus-Chimp17_taxid_743290.gbk
+: Circovirus-sp_taxid_1964372.gbk
+: Columbid-circovirus_taxid_126070.gbk
+: Duck-circovirus_taxid_324685.gbk
+: Finch-circovirus_taxid_400122.gbk
+: Goose-circovirus_taxid_146032.gbk
+: Gull-circovirus_taxid_400121.gbk
+: Mink-circovirus_taxid_1475143.gbk
+: Mulard-duck-circovirus_taxid_232802.gbk
+: Muscovy-duck-circovirus_taxid_257468.gbk
+: Porcine-circovirus-1_taxid_133704.gbk
+: Porcine-circovirus-2_taxid_85708.gbk
+: Porcine-circovirus-type-1-2a_taxid_720569.gbk
+: Raven-circovirus_taxid_345250.gbk
+: Rhinolophus-ferrumequinum-circovirus-1_taxid_1195373.gbk
+: Starling-circovirus_taxid_349370.gbk
+: Swan-circovirus_taxid_459957.gbk
+: Tadarida-brasiliensis-circovirus-1_taxid_1732201.gbk
+: Zebra-finch-circovirus_taxid_1642515.gbk
+cluster 56_putative_capsid_prot.. size=36 taxa=36 file: 56_putative_capsid_prot...faa dnafile: 56_putative_capsid_prot...fna
+: Bat-associated-cyclovirus-2_taxid_2050585.gbk
+: Bat-associated-cyclovirus-3_taxid_2050586.gbk
+: Bat-associated-cyclovirus-4_taxid_2050587.gbk
+: Bat-circovirus-POA-2012-II_taxid_1572237.gbk
+: Bat-circovirus-POA-2012-VI_taxid_1572239.gbk
+: Cockroach-associated-cyclovirus-1_taxid_2050038.gbk
+: Cyclovirus-Chimp11_taxid_742920.gbk
+: Cyclovirus-NG12_taxid_742922.gbk
+: Cyclovirus-NG14_taxid_742923.gbk
+: Cyclovirus-NGchicken15-NGA-2009_taxid_942037.gbk
+: Cyclovirus-NGchicken8-NGA-2009_taxid_942036.gbk
+: Cyclovirus-PK5006_taxid_742915.gbk
+: Cyclovirus-PK5222_taxid_742917.gbk
+: Cyclovirus-PK5510_taxid_742918.gbk
+: Cyclovirus-PKbeef23-PAK-2009_taxid_942032.gbk
+: Cyclovirus-PKgoat11-PAK-2009_taxid_942034.gbk
+: Cyclovirus-PKgoat21-PAK-2009_taxid_942033.gbk
+: Cyclovirus-SL-108277_taxid_1520935.gbk
+: Cyclovirus-TN25_taxid_742924.gbk
+: Cyclovirus-TsCyV-1-JP-NUBS-2014_taxid_1592764.gbk
+: Cyclovirus-VN_taxid_1348500.gbk
+: Cyclovirus-ZM36a_taxid_1506568.gbk
+: Cyclovirus-bat-USA-2009_taxid_942035.gbk
+: Dragonfly-associated-cyclovirus-1_taxid_1234879.gbk
+: Dragonfly-associated-cyclovirus-2_taxid_1234880.gbk
+: Dragonfly-associated-cyclovirus-4_taxid_1234882.gbk
+: Dragonfly-associated-cyclovirus-5_taxid_1234883.gbk
+: Dragonfly-associated-cyclovirus-6_taxid_1574360.gbk
+: Dragonfly-associated-cyclovirus-7_taxid_1574361.gbk
+: Dragonfly-associated-cyclovirus-8_taxid_1574362.gbk
+: Dragonfly-associated-cyclovirus_taxid_2152567.gbk
+: Feline-cyclovirus_taxid_1530454.gbk
+: Human-associated-cyclovirus-10_taxid_2038728.gbk
+: Human-cyclovirus-VS5700009_taxid_1345637.gbk
+: Indian-encephalitis-associated-cyclovirus_taxid_1755290.gbk
+: Pacific-flying-fox-associated-cyclovirus-3_taxid_1795985.gbk
+cluster 70_V2 size=1 taxa=1 Pfam=PF05080, file: 70_V2.faa dnafile: 70_V2.fna
+: Beak-and-feather-disease-virus_taxid_77856.gbk
+cluster 77_putative_capsid_prot.. size=1 taxa=1 Pfam=PF02443,PF02443, file: 77_putative_capsid_prot...faa dnafile: 77_putative_capsid_prot...fna
+: Canine-circovirus_taxid_1194757.gbk
+cluster 78_capsid_protein size=3 taxa=3 file: 78_capsid_protein.faa dnafile: 78_capsid_protein.fna
+: Chicken-associated-cyclovirus-2_taxid_2109365.gbk
+: Cyclovirus-Equ1_taxid_1673638.gbk
+: Duck-associated-cyclovirus-1_taxid_2006585.gbk
+cluster 79_replication_associat.. size=7 taxa=7 Pfam=PF00910, file: 79_replication_associat...faa dnafile: 79_replication_associat...fna
+: Chicken-associated-cyclovirus-2_taxid_2109365.gbk
+: Circovirus-like-genome-DHCV-5_taxid_1788454.gbk
+: Circovirus-sp_taxid_1964372.gbk
+: Cockroach-associated-cyclovirus-1_taxid_2050038.gbk
+: Feline-cyclovirus_taxid_1530454.gbk
+: Indian-encephalitis-associated-cyclovirus_taxid_1755290.gbk
+: Palaemonetes-kadiakensis-Mississippi-grass-shrimp-associated_taxid_1692258.gbk
+cluster 82_replication-associat.. size=1 taxa=1 file: 82_replication-associat...faa dnafile: 82_replication-associat...fna
+: Circoviridae-16-LDMD-2013_taxid_1379720.gbk
+cluster 84_hypothetical_protein size=1 taxa=1 file: 84_hypothetical_protein.faa dnafile: 84_hypothetical_protein.fna
+: Circoviridae-16-LDMD-2013_taxid_1379720.gbk
+cluster 85_hypothetical_protein size=1 taxa=1 file: 85_hypothetical_protein.faa dnafile: 85_hypothetical_protein.fna
+: Circoviridae-16-LDMD-2013_taxid_1379720.gbk
+cluster 87_putative_viral_capsi.. size=1 taxa=1 Pfam=PF03898, file: 87_putative_viral_capsi...faa dnafile: 87_putative_viral_capsi...fna
+: Circoviridae-21-LDMD-2013_taxid_1379725.gbk
+cluster 88_hypothetical_protein size=1 taxa=1 file: 88_hypothetical_protein.faa dnafile: 88_hypothetical_protein.fna
+: Circoviridae-21-LDMD-2013_taxid_1379725.gbk
+cluster 90_hypothetical_protein size=1 taxa=1 file: 90_hypothetical_protein.faa dnafile: 90_hypothetical_protein.fna
+: Circovirus-like-genome-DCCV-12_taxid_1788440.gbk
+cluster 91_hypothetical_protein size=1 taxa=1 file: 91_hypothetical_protein.faa dnafile: 91_hypothetical_protein.fna
+: Circovirus-like-genome-DCCV-12_taxid_1788440.gbk
+cluster 93_hypothetical_protein size=1 taxa=1 file: 93_hypothetical_protein.faa dnafile: 93_hypothetical_protein.fna
+: Circovirus-like-genome-DCCV-2_taxid_1788442.gbk
+cluster 96_hypothetical_protein size=1 taxa=1 file: 96_hypothetical_protein.faa dnafile: 96_hypothetical_protein.fna
+: Circovirus-like-genome-DCCV-3_taxid_1788443.gbk
+cluster 99_hypothetical_protein size=1 taxa=1 file: 99_hypothetical_protein.faa dnafile: 99_hypothetical_protein.fna
+: Circovirus-like-genome-DCCV-9_taxid_1788449.gbk
+cluster 102_hypothetical_protein size=1 taxa=1 file: 102_hypothetical_protein.faa dnafile: 102_hypothetical_protein.fna
+: Circovirus-like-genome-DHCV-3_taxid_1788452.gbk
+cluster 103_hypothetical_protein size=1 taxa=1 file: 103_hypothetical_protein.faa dnafile: 103_hypothetical_protein.fna
+: Circovirus-like-genome-DHCV-3_taxid_1788452.gbk
+cluster 111_putative_replication.. size=1 taxa=1 Pfam=PF02407, file: 111_putative_replication...faa dnafile: 111_putative_replication...fna
+: Cockroach-associated-cyclovirus-1_taxid_2050038.gbk
+cluster 112_hypothetical_protein size=1 taxa=1 file: 112_hypothetical_protein.faa dnafile: 112_hypothetical_protein.fna
+: Columbid-circovirus_taxid_126070.gbk
+cluster 114_hypothetical_protein size=2 taxa=2 file: 114_hypothetical_protein.faa dnafile: 114_hypothetical_protein.fna
+: Columbid-circovirus_taxid_126070.gbk
+: Duck-circovirus_taxid_324685.gbk
+cluster 115_hypothetical_protein size=1 taxa=1 file: 115_hypothetical_protein.faa dnafile: 115_hypothetical_protein.fna
+: Columbid-circovirus_taxid_126070.gbk
+cluster 156_putative_capsid_prot.. size=1 taxa=1 file: 156_putative_capsid_prot...faa dnafile: 156_putative_capsid_prot...fna
+: Didemnum-sp-Sea-Squirt-associated-virus_taxid_1692247.gbk
+cluster 179_ORFC2 size=3 taxa=3 file: 179_ORFC2.faa dnafile: 179_ORFC2.fna
+: Duck-circovirus_taxid_324685.gbk
+: Goose-circovirus_taxid_146032.gbk
+: Muscovy-duck-circovirus_taxid_257468.gbk
+cluster 191_putative_Cap size=1 taxa=1 file: 191_putative_Cap.faa dnafile: 191_putative_Cap.fna
+: Feline-stool-associated-circular-virus-KU14_taxid_2249941.gbk
+cluster 195_hypothetical_protein size=1 taxa=1 file: 195_hypothetical_protein.faa dnafile: 195_hypothetical_protein.fna
+: Finch-circovirus_taxid_400122.gbk
+cluster 200_putative_cap_protein size=1 taxa=1 file: 200_putative_cap_protein.faa dnafile: 200_putative_cap_protein.fna
+: Garrulus-glandarius-associated-circular-virus-1_taxid_2006642.gbk
+cluster 202_hypothetical_protein size=1 taxa=1 file: 202_hypothetical_protein.faa dnafile: 202_hypothetical_protein.fna
+: Giant-panda-circovirus-2_taxid_2016457.gbk
+cluster 205_capsid_protein size=1 taxa=1 file: 205_capsid_protein.faa dnafile: 205_capsid_protein.fna
+: Giant-panda-circovirus-4_taxid_2016459.gbk
+cluster 206_hypothetical_protein size=1 taxa=1 file: 206_hypothetical_protein.faa dnafile: 206_hypothetical_protein.fna
+: Goose-circovirus_taxid_146032.gbk
+cluster 211_hypothetical_protein size=1 taxa=1 file: 211_hypothetical_protein.faa dnafile: 211_hypothetical_protein.fna
+: Gull-circovirus_taxid_400121.gbk
+cluster 226_putative_structural_.. size=1 taxa=1 file: 226_putative_structural_...faa dnafile: 226_putative_structural_...fna
+: Labidocera-aestiva-circovirus_taxid_1173709.gbk
+cluster 227_putative_capsid_prot.. size=2 taxa=2 file: 227_putative_capsid_prot...faa dnafile: 227_putative_capsid_prot...fna
+: Littorina-sp-associated-circular-virus_taxid_1692253.gbk
+: Palaemonetes-sp-common-grass-shrimp-associated-circular-virus_taxid_1692259.gbk
+cluster 229_putative_capsid_prot.. size=1 taxa=1 file: 229_putative_capsid_prot...faa dnafile: 229_putative_capsid_prot...fna
+: Lytechinus-variegatus-variable-sea-urchin-associated-circular-virus_taxid_1692254.gbk
+cluster 230_putative_replication.. size=1 taxa=1 Pfam=PF00799,PF08283, file: 230_putative_replication...faa dnafile: 230_putative_replication...fna
+: Lytechinus-variegatus-variable-sea-urchin-associated-circular-virus_taxid_1692254.gbk
+cluster 242_capsid size=1 taxa=1 file: 242_capsid.faa dnafile: 242_capsid.fna
+: Mosquito-circovirus_taxid_1611039.gbk
+cluster 244_Cap size=1 taxa=1 file: 244_Cap.faa dnafile: 244_Cap.fna
+: Mouse-associated-cyclovirus-1_taxid_2169856.gbk
+cluster 250_ORFV2 size=1 taxa=1 file: 250_ORFV2.faa dnafile: 250_ORFV2.fna
+: Muscovy-duck-circovirus_taxid_257468.gbk
+cluster 253_capsid_protein size=3 taxa=3 file: 253_capsid_protein.faa dnafile: 253_capsid_protein.fna
+: Pacific-flying-fox-associated-cyclovirus-1_taxid_1795983.gbk
+: Pacific-flying-fox-associated-cyclovirus-2_taxid_1795984.gbk
+: Soft-spider-associated-circular-virus-1_taxid_2293301.gbk
+cluster 260_capsid_protein size=1 taxa=1 Pfam=PF02443, file: 260_capsid_protein.faa dnafile: 260_capsid_protein.fna
+: Paguma-larvata-circovirus_taxid_2294094.gbk
+cluster 264_putative_capsid_prot.. size=1 taxa=1 file: 264_putative_capsid_prot...faa dnafile: 264_putative_capsid_prot...fna
+: Palaemonetes-kadiakensis-Mississippi-grass-shrimp-associated_taxid_1692258.gbk
+cluster 267_putative_capsid_prot.. size=1 taxa=1 file: 267_putative_capsid_prot...faa dnafile: 267_putative_capsid_prot...fna
+: Paramuricea-placomus-associated-circular-virus_taxid_1692260.gbk
+cluster 271_nonstructural_protei.. size=1 taxa=1 file: 271_nonstructural_protei...faa dnafile: 271_nonstructural_protei...fna
+: Penaeus-monodon-circovirus-VN11_taxid_1419711.gbk
+cluster 273_putative_capsid_prot.. size=1 taxa=1 Pfam=PF02443, file: 273_putative_capsid_prot...faa dnafile: 273_putative_capsid_prot...fna
+: Petrochirus-diogenes-giant-hermit-crab-associated-circular-virus_taxid_1692261.gbk
+cluster 274_hypothetical_protein size=1 taxa=1 file: 274_hypothetical_protein.faa dnafile: 274_hypothetical_protein.fna
+: Pleurochrysis-carterae-circular-virus_taxid_2057942.gbk
+cluster 276_capsid_protein size=1 taxa=1 file: 276_capsid_protein.faa dnafile: 276_capsid_protein.fna
+: Pleurochrysis-carterae-circular-virus_taxid_2057942.gbk
+cluster 280_ORF3 size=1 taxa=1 Pfam=PF05614, file: 280_ORF3.faa dnafile: 280_ORF3.fna
+: Porcine-circovirus-2_taxid_85708.gbk
+cluster 288_putative_replication.. size=1 taxa=1 file: 288_putative_replication...faa dnafile: 288_putative_replication...fna
+: Sicyonia-brevirostris-associated-circular-virus_taxid_1692263.gbk
+cluster 295_hypothetical_protein size=1 taxa=1 file: 295_hypothetical_protein.faa dnafile: 295_hypothetical_protein.fna
+: Starling-circovirus_taxid_349370.gbk
+cluster 302_ORFV2 size=1 taxa=1 file: 302_ORFV2.faa dnafile: 302_ORFV2.fna
+: Zebra-finch-circovirus_taxid_1642515.gbk
+cluster 304_ORFC2 size=1 taxa=1 file: 304_ORFC2.faa dnafile: 304_ORFC2.fna
+: Zebra-finch-circovirus_taxid_1642515.gbk

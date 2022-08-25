@@ -1,0 +1,34 @@
+cluster	prevalence	term	what	familia	algoritmo
+3_M-Rep	100	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	viral protein processing [GO:0019082]	bp	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	RNA-protein covalent cross-linking [GO:0018144]	bp	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	pore-mediated entry of viral genome into host cell [GO:0044694]	bp	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	suppression by virus of host translation initiation factor activity [GO:0039611]	bp	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	protein complex oligomerization [GO:0051259]	bp	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	induction by virus of host autophagy [GO:0039520]	bp	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	suppression by virus of host mRNA export from nucleus [GO:0039522]	bp	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	pore formation by virus in membrane of host cell [GO:0039707]	bp	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	positive stranded viral RNA replication [GO:0039690]	bp	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	DNA replication [GO:0006260]	bp	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	transcription, DNA-templated [GO:0006351]	bp	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	viral DNA cleavage involved in viral genome maturation [GO:0019071]	bp	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	host cell mitochondrial outer membrane [GO:0044193]	cc	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	extrachromosomal circular DNA [GO:0005727]	cc	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	integral to membrane of host cell [GO:0044385]	cc	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	membrane [GO:0016020]	cc	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	host cell cytoplasmic vesicle membrane [GO:0044162]	cc	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	T=pseudo3 icosahedral viral capsid [GO:0039618]	cc	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	RNA binding [GO:0003723]	mf	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	DNA binding [GO:0003677]	mf	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	ribonuclease T2 activity [GO:0033897]	mf	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	ion channel activity [GO:0005216]	mf	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	cysteine-type endopeptidase activity [GO:0004197]	mf	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	RNA-directed 5'-3' RNA polymerase activity [GO:0003968]	mf	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+3_M-Rep	100	ATP binding [GO:0005524]	mf	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG
+7_CP	100	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Nanoviridae/cluster_2_homologues_19062021_0803/	COG

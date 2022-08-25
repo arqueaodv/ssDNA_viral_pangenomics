@@ -1,0 +1,40 @@
+VIRAL_FAMILY	Parvoviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	111_hypothetical_protein.faa
+PREVALENCE	1.030928
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		clathrin-dependent endocytosis of virus by host cell [GO:0075512]
+		microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]
+		permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]
+		viral entry via permeabilization of inner membrane [GO:0099008]
+		viral penetration into host nucleus [GO:0075732]
+		virion attachment to host cell [GO:0019062]
+		virion attachment to host cell [GO:0019062]
+		microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]
+		clathrin-dependent endocytosis of virus by host cell [GO:0075512]
+		permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]
+		viral penetration into host nucleus [GO:0075732]
+		viral entry into host cell [GO:0046718]
+	MOLECULAR_FUNCTION
+		metal ion binding [GO:0046872]
+		structural molecule activity [GO:0005198]
+		structural molecule activity [GO:0005198]
+	CELLULAR_COMPONENT
+		host cell nucleus [GO:0042025]
+		T=1 icosahedral viral capsid [GO:0039615]
+		host cell nucleolus [GO:0044196]
+		T=1 icosahedral viral capsid [GO:0039615]
+		virion [GO:0019012]
+		host cell nucleus [GO:0042025]
+
+
+//
+
+>ID:NP_041401.1 |[Canine parvovirus]|CPV-N|Canine-parvovirus_taxid_10788.gbk|hypothetical protein|204|NC_001539(5323):5110-5313:1 ^GeneID:1724589^ Canine parvovirus, complete genome.|neighbours:ID:NP_041400.1(1),end()|neighbour_genes:polyprotein,end()| ATGTCAAGAATTGTAACTTACTCAGATTTTTGGTGGAAAGGTAAATTAGTATTTAAAGCTAAACTAAGAGCCTCTCATACTTGGAATCCAATTCAACAAATGAGTATTAATGTAGATAACCAATTTAACTATGTACCAAGTAATATTGGAGGTATGAAAATTGTATATGAAAAATCTCAACTAGCACCTAGAAAATTATATTAA
+
+//
+
+>ID:NP_041401.1 |[Canine parvovirus]|CPV-N|Canine-parvovirus_taxid_10788.gbk|hypothetical protein|204|NC_001539(5323):5110-5313:1 ^GeneID:1724589^ Canine parvovirus, complete genome.|neighbours:ID:NP_041400.1(1),end()|neighbour_genes:polyprotein,end()| MSRIVTYSDFWWKGKLVFKAKLRASHTWNPIQQMSINVDNQFNYVPSNIGGMKIVYEKSQLAPRKLY

@@ -1,0 +1,9 @@
+43_hypothetical_protein.faa
+83_memb3.faa
+91_Vpf81.faa
+106_hypothetical_protein.faa
+92_Vpf504.faa
+68_minor_capsid_protein.faa
+99_hypothetical_protein.faa
+77_membrane_glycoprotei...faa
+56_hypothetical_protein.faa

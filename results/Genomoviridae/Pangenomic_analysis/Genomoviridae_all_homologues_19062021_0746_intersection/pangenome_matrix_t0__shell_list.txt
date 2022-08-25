@@ -1,0 +1,4 @@
+4_rep.faa
+8_replication-associat...faa
+32_replication-associat...faa
+96_rep1.faa

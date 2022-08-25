@@ -1,0 +1,38 @@
+VIRAL_FAMILY	Circoviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	230_putative_replication...faa
+PREVALENCE	0.729927
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		DNA replication [GO:0006260]
+		DNA replication [GO:0006260]
+	MOLECULAR_FUNCTION
+		ATP binding [GO:0005524]
+		DNA binding [GO:0003677]
+		endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]
+		helicase activity [GO:0004386]
+		metal ion binding [GO:0046872]
+		nucleotidyltransferase activity [GO:0016779]
+		structural molecule activity [GO:0005198]
+		nucleotidyltransferase activity [GO:0016779]
+		structural molecule activity [GO:0005198]
+		DNA binding [GO:0003677]
+		endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]
+		helicase activity [GO:0004386]
+		metal ion binding [GO:0046872]
+		ATP binding [GO:0005524]
+	CELLULAR_COMPONENT
+		host cell nucleus [GO:0042025]
+		host cell nucleus [GO:0042025]
+		viral capsid [GO:0019028]
+
+
+//
+
+>ID:YP_009163938.1 |[Lytechinus variegatus variable sea urchin associated circular virus]||Lytechinus-variegatus-variable-sea-urchin-associated-circular-virus_taxid_1692254.gbk|putative replication..|627|NC_027801(2167):1253-1879:1 ^GeneID:25479249^ Lytechinus variegatus variable sea urchin associated circular virus isolate I0021, complete genome.|neighbours:ID:YP_009163937.1(-1),end()|neighbour_genes:putative capsid prot..,end()| ATGCCATCTTTCCGCGTCTGTGCTAAAAATTTCTTTTTAACGTACCCCAGATCAATCGACCTATCTAAACAGGACCTCTTCGACTTCTTGCTCTCTTTTGAACCGAACTATCTCCTTGTTGCTGAAGAGAAGCATGCCGATGGTACTCCGCACCTGCACGCCTTACTCTGTCTTGCACGAAGACGCGATATTCGTGACCCCCGACACTTTGATTGTCAGGGTTACCATTGCAACATCACATCTACTAGATCTATTGCAAGATGTATCGACTATTGTAAGAAGGATGATTGTAGTCCACTGTCATCCGGCGATGTGCCTGGACGAGATGGATGGGGCGCGATTTGCGAGTGTGGAACTCGAGAGGACTTCATGGGAGCGGTTCGACGTTATTATCCGCGTGATTATGTCCTGAACTACGAGAAACTGCTTGCTTACGCTGATGCTCACTTTAATGCTAATGTACCCTACGAGCCTCAATTTACTGATTTCGTGTTACCTACCGAGGTAGATGATTGGTTGACAGACAACTTTAAGGTTCGTGGCGAAAATGCGTTCCACCCTACGGGCGGGATATTGATAGGGCCCGTCGTGCGTCGTGCATTTTACCCCTTGTGTAAGGGTCCATGA
+
+//
+
+>ID:YP_009163938.1 |[Lytechinus variegatus variable sea urchin associated circular virus]||Lytechinus-variegatus-variable-sea-urchin-associated-circular-virus_taxid_1692254.gbk|putative replication..|627|NC_027801(2167):1253-1879:1 ^GeneID:25479249^ Lytechinus variegatus variable sea urchin associated circular virus isolate I0021, complete genome.|neighbours:ID:YP_009163937.1(-1),end()|neighbour_genes:putative capsid prot..,end()| MPSFRVCAKNFFLTYPRSIDLSKQDLFDFLLSFEPNYLLVAEEKHADGTPHLHALLCLARRRDIRDPRHFDCQGYHCNITSTRSIARCIDYCKKDDCSPLSSGDVPGRDGWGAICECGTREDFMGAVRRYYPRDYVLNYEKLLAYADAHFNANVPYEPQFTDFVLPTEVDDWLTDNFKVRGENAFHPTGGILIGPVVRRAFYPLCKGP

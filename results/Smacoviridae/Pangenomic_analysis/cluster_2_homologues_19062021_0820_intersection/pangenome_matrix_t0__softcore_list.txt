@@ -1,0 +1,2 @@
+1_putative_capsid_prot...faa
+2_replication_associat...faa

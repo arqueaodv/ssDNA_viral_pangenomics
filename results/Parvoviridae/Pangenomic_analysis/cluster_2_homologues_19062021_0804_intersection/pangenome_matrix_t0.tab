@@ -1,0 +1,14 @@
+source:/home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804_intersection	1_NS1.faa	2_NS2.faa	3_VP.faa	4_NS1.faa	10_NS1.faa	11_putative_VP1.faa	12_hypothetical_protein.faa	13_VP2.faa	14_hypothetical_protein.faa	15_hypothetical_protein.faa	16_non-structural_prote...faa	17_37_kDa_coat_protein.faa	18_nonstructural_protei...faa	19_capsid_protein_1.faa	20_NS1.faa	21_NS2.faa	22_NS3.faa	28_putative_15-kDa_prot...faa	29_rep.faa	30_cap.faa	36_non-structural_prote...faa	37_putative_middle_prot...faa
+Aedes-aegypti-densovirus-2_taxid_1513196.gbk	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Aedes-albopictus-densovirus-2_taxid_1513199.gbk	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Anopheles-gambiae-densovirus_taxid_487311.gbk	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cutavirus_taxid_1867125.gbk	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Decapod-penstyldensovirus-1_taxid_1513224.gbk	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0
+Desmodus-rotundus-parvovirus_taxid_1926498.gbk	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+Gray-fox-amdovirus_taxid_1093101.gbk	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	1	1	0	0	0	0	0
+Mosquito-densovirus-BR-07_taxid_945962.gbk	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Parvovirus-NIH-CQV_taxid_1341019.gbk	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0
+Penaeus-stylirostris-penstyldensovirus-1_taxid_1513225.gbk	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0
+Porcine-parvovirus-7_taxid_1820046.gbk	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+Protoparvovirus-Zsana-2013-HUN_taxid_1755694.gbk	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1
+Skunk-amdoparvovirus_taxid_1961072.gbk	0	0	0	0	0	0	0	2	0	0	0	0	0	0	1	1	1	0	0	0	0	0

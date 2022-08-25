@@ -1,0 +1,13 @@
+"","DNA binding","structural molecule activity","DNA replication","viral DNA genome packaging","viral entry into host cell","modulation by virus of host process","amidase activity","viral capsid assembly","viral procapsid maturation","enzyme inhibitor activity","modulation by virus of host cellular process"
+"5_major_capsid_protein",NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20_major_capsid_protein",NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45_mannosyl-glycoprotei..",NA,NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA
+"121_putative_replication..",NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA
+"123_putative_minor_capsi..",NA,NA,NA,NA,NA,NA,NA,NA,TRUE,NA,NA
+"125_putative_major_capsi..",NA,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"131_B",NA,NA,NA,NA,NA,NA,NA,TRUE,NA,NA,NA
+"133_C",NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+"135_E",NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE,TRUE
+"136_J",TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138_G",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA
+"139_H",NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA

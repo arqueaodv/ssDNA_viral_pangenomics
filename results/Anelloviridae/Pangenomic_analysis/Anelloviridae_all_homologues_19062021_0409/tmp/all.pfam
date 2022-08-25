@@ -1,0 +1,311 @@
+1		
+2	PF02957,	TT viral ORF2;
+3	PF04162,	Gyrovirus capsid protein (VP1);
+4		
+5	PF02957,	TT viral ORF2;
+6	PF04771,	Chicken anaemia virus VP-3 protein;
+7	PF04162,	Gyrovirus capsid protein (VP1);
+8		
+9	PF02957,	TT viral ORF2;
+10	PF04771,	Chicken anaemia virus VP-3 protein;
+11	PF04162,	Gyrovirus capsid protein (VP1);
+12		
+13	PF02956,	TT viral orf 1;
+14		
+15	PF02957,	TT viral ORF2;
+16	PF02956,	TT viral orf 1;
+17		
+18	PF04162,PF04162,PF04162,	Gyrovirus capsid protein (VP1);Gyrovirus capsid protein (VP1);Gyrovirus capsid protein (VP1);
+19	PF02957,	TT viral ORF2;
+20	PF04771,	Chicken anaemia virus VP-3 protein;
+21	PF04162,	Gyrovirus capsid protein (VP1);
+22	PF02957,	TT viral ORF2;
+23	PF04771,	Chicken anaemia virus VP-3 protein;
+24	PF04162,	Gyrovirus capsid protein (VP1);
+25	PF02957,	TT viral ORF2;
+26		
+27	PF04162,	Gyrovirus capsid protein (VP1);
+28	PF02957,	TT viral ORF2;
+29		
+30	PF04162,PF04162,PF04162,	Gyrovirus capsid protein (VP1);Gyrovirus capsid protein (VP1);Gyrovirus capsid protein (VP1);
+31	PF02957,	TT viral ORF2;
+32	PF04771,	Chicken anaemia virus VP-3 protein;
+33	PF04162,	Gyrovirus capsid protein (VP1);
+34	PF02957,	TT viral ORF2;
+35	PF02957,	TT viral ORF2;
+36	PF02956,	TT viral orf 1;
+37		
+38	PF02956,	TT viral orf 1;
+39		
+40	PF02956,	TT viral orf 1;
+41	PF02956,PF02956,	TT viral orf 1;TT viral orf 1;
+42		
+43	PF02956,	TT viral orf 1;
+44		
+45	PF02956,PF02956,	TT viral orf 1;TT viral orf 1;
+46	PF02956,PF02956,	TT viral orf 1;TT viral orf 1;
+47	PF02956,	TT viral orf 1;
+48		
+49		
+50	PF02957,	TT viral ORF2;
+51	PF02956,	TT viral orf 1;
+52		
+53		
+54	PF02956,	TT viral orf 1;
+55		
+56		
+57	PF02956,	TT viral orf 1;
+58		
+59	PF02957,	TT viral ORF2;
+60	PF02956,	TT viral orf 1;
+61	PF05501,	Domain of unknown function (DUF755);
+62	PF02957,	TT viral ORF2;
+63	PF02956,	TT viral orf 1;
+64	PF05501,	Domain of unknown function (DUF755);
+65		
+66	PF02957,	TT viral ORF2;
+67	PF02956,	TT viral orf 1;
+69		
+70	PF02957,	TT viral ORF2;
+71	PF02956,	TT viral orf 1;
+72		
+73		
+74	PF08197,PF02957,	pORF2a truncated protein;TT viral ORF2;
+75	PF02956,	TT viral orf 1;
+76	PF05501,	Domain of unknown function (DUF755);
+77		
+78	PF02957,	TT viral ORF2;
+79	PF02956,	TT viral orf 1;
+80	PF05501,	Domain of unknown function (DUF755);
+81	PF02957,	TT viral ORF2;
+82	PF02956,	TT viral orf 1;
+83	PF02956,	TT viral orf 1;
+84	PF05501,	Domain of unknown function (DUF755);
+85		
+86	PF02957,	TT viral ORF2;
+87	PF02956,	TT viral orf 1;
+88	PF05501,	Domain of unknown function (DUF755);
+89		
+90	PF02957,	TT viral ORF2;
+91	PF02956,	TT viral orf 1;
+92		
+93		
+94	PF02957,	TT viral ORF2;
+95	PF02956,	TT viral orf 1;
+96		
+98	PF02956,	TT viral orf 1;
+99	PF05501,	Domain of unknown function (DUF755);
+100		
+101		
+102	PF02956,PF02956,	TT viral orf 1;TT viral orf 1;
+103	PF02957,	TT viral ORF2;
+104	PF02956,	TT viral orf 1;
+105		
+106	PF02956,	TT viral orf 1;
+107		
+108		
+109		
+110		
+111	PF02956,	TT viral orf 1;
+112		
+113		
+115	PF02956,	TT viral orf 1;
+116		
+117	PF02956,	TT viral orf 1;
+118	PF02957,	TT viral ORF2;
+119	PF02957,	TT viral ORF2;
+120	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+121	PF02957,	TT viral ORF2;
+122	PF02956,	TT viral orf 1;
+123	PF02957,	TT viral ORF2;
+124	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+125	PF02957,	TT viral ORF2;
+126	PF02956,	TT viral orf 1;
+127	PF02957,	TT viral ORF2;
+128	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+129	PF02957,	TT viral ORF2;
+130	PF02956,	TT viral orf 1;
+131	PF02957,	TT viral ORF2;
+132	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+133	PF02957,	TT viral ORF2;
+134	PF02956,	TT viral orf 1;
+135	PF02957,	TT viral ORF2;
+136	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+137	PF02957,	TT viral ORF2;
+138	PF02956,	TT viral orf 1;
+139	PF02957,	TT viral ORF2;
+140	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+141	PF02957,	TT viral ORF2;
+142	PF02956,	TT viral orf 1;
+143	PF02957,	TT viral ORF2;
+144	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+145	PF02957,	TT viral ORF2;
+146	PF02956,	TT viral orf 1;
+147	PF02957,	TT viral ORF2;
+148	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+149	PF02957,	TT viral ORF2;
+150	PF02956,	TT viral orf 1;
+151	PF02957,	TT viral ORF2;
+152	PF02956,	TT viral orf 1;
+153	PF02957,	TT viral ORF2;
+154	PF02956,	TT viral orf 1;
+155	PF05501,	Domain of unknown function (DUF755);
+156	PF02957,	TT viral ORF2;
+157	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+158	PF02957,	TT viral ORF2;
+159	PF02956,	TT viral orf 1;
+160	PF02957,	TT viral ORF2;
+161	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+162	PF02957,	TT viral ORF2;
+163	PF02956,	TT viral orf 1;
+164	PF02957,	TT viral ORF2;
+165	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+166	PF02957,	TT viral ORF2;
+167	PF02956,	TT viral orf 1;
+168	PF02957,	TT viral ORF2;
+169	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+170	PF02957,	TT viral ORF2;
+171	PF02956,	TT viral orf 1;
+172	PF02957,	TT viral ORF2;
+173	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+174	PF02957,	TT viral ORF2;
+175	PF02956,	TT viral orf 1;
+176	PF02957,	TT viral ORF2;
+177	PF02956,	TT viral orf 1;
+178	PF05501,	Domain of unknown function (DUF755);
+179		
+180	PF02957,	TT viral ORF2;
+181	PF02956,	TT viral orf 1;
+182	PF05501,	Domain of unknown function (DUF755);
+183	PF02957,	TT viral ORF2;
+184	PF02956,	TT viral orf 1;
+185	PF05501,	Domain of unknown function (DUF755);
+186		
+187	PF02957,	TT viral ORF2;
+188	PF02956,	TT viral orf 1;
+189	PF05501,	Domain of unknown function (DUF755);
+190	PF02957,	TT viral ORF2;
+191	PF02956,	TT viral orf 1;
+192	PF05501,	Domain of unknown function (DUF755);
+193	PF02957,	TT viral ORF2;
+194	PF02956,	TT viral orf 1;
+195	PF05501,	Domain of unknown function (DUF755);
+196	PF02957,	TT viral ORF2;
+197	PF02956,	TT viral orf 1;
+198	PF05501,	Domain of unknown function (DUF755);
+199	PF02957,	TT viral ORF2;
+200	PF02956,	TT viral orf 1;
+201	PF02957,	TT viral ORF2;
+202	PF02956,	TT viral orf 1;
+203	PF05501,	Domain of unknown function (DUF755);
+204	PF02957,	TT viral ORF2;
+205	PF02956,	TT viral orf 1;
+206	PF05501,	Domain of unknown function (DUF755);
+207	PF02957,	TT viral ORF2;
+208	PF02956,	TT viral orf 1;
+209	PF02957,	TT viral ORF2;
+210	PF02956,	TT viral orf 1;
+211	PF02957,	TT viral ORF2;
+212	PF02956,	TT viral orf 1;
+213	PF05501,	Domain of unknown function (DUF755);
+214	PF02957,	TT viral ORF2;
+215	PF02956,	TT viral orf 1;
+216	PF05501,	Domain of unknown function (DUF755);
+217		
+218	PF02956,	TT viral orf 1;
+219		
+220		
+221	PF02956,	TT viral orf 1;
+222		
+223		
+224	PF02956,	TT viral orf 1;
+225		
+227	PF02956,	TT viral orf 1;
+228		
+229		
+230	PF02956,	TT viral orf 1;
+231		
+232		
+233	PF02956,	TT viral orf 1;
+234		
+235		
+236	PF02957,	TT viral ORF2;
+238	PF02956,PF02956,	TT viral orf 1;TT viral orf 1;
+239	PF02957,	TT viral ORF2;
+240	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+241	PF02957,	TT viral ORF2;
+242	PF02956,	TT viral orf 1;
+243	PF02957,	TT viral ORF2;
+244	PF02956,	TT viral orf 1;
+245	PF02957,	TT viral ORF2;
+246	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+247	PF02957,	TT viral ORF2;
+248	PF02956,	TT viral orf 1;
+249	PF02957,	TT viral ORF2;
+250	PF02956,	TT viral orf 1;
+251	PF02957,	TT viral ORF2;
+252	PF02956,PF05501,	TT viral orf 1;Domain of unknown function (DUF755);
+253	PF02957,	TT viral ORF2;
+254	PF02956,	TT viral orf 1;
+255	PF02957,	TT viral ORF2;
+256	PF02956,	TT viral orf 1;
+257	PF02957,	TT viral ORF2;
+258	PF02956,	TT viral orf 1;
+259	PF02957,	TT viral ORF2;
+260	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+261	PF02956,	TT viral orf 1;
+262	PF02957,	TT viral ORF2;
+263	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+264	PF02957,	TT viral ORF2;
+265	PF02956,	TT viral orf 1;
+266	PF02957,	TT viral ORF2;
+267	PF02956,	TT viral orf 1;
+268	PF02957,	TT viral ORF2;
+269	PF02956,	TT viral orf 1;
+270	PF02957,	TT viral ORF2;
+271	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+272	PF02957,	TT viral ORF2;
+273	PF02956,	TT viral orf 1;
+274	PF02957,	TT viral ORF2;
+275	PF02956,	TT viral orf 1;
+276		
+277	PF02957,	TT viral ORF2;
+278	PF02956,	TT viral orf 1;
+279		
+280	PF02957,	TT viral ORF2;
+281	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+282	PF02957,	TT viral ORF2;
+283	PF02956,	TT viral orf 1;
+284	PF02957,	TT viral ORF2;
+285	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+286	PF02957,	TT viral ORF2;
+287	PF02956,	TT viral orf 1;
+288	PF02957,	TT viral ORF2;
+289	PF02956,	TT viral orf 1;
+290		
+291	PF02957,	TT viral ORF2;
+292	PF02956,	TT viral orf 1;
+293	PF02957,	TT viral ORF2;
+294	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+295	PF02957,	TT viral ORF2;
+296		
+297	PF02956,	TT viral orf 1;
+298		
+299	PF02957,	TT viral ORF2;
+300	PF02956,	TT viral orf 1;
+301	PF02957,	TT viral ORF2;
+302	PF02956,	TT viral orf 1;
+303	PF02957,	TT viral ORF2;
+304	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+305	PF02957,	TT viral ORF2;
+306	PF02956,	TT viral orf 1;
+307	PF02957,	TT viral ORF2;
+308	PF02956,	TT viral orf 1;
+309		
+310	PF02957,	TT viral ORF2;
+311	PF02957,PF05501,	TT viral ORF2;Domain of unknown function (DUF755);
+312	PF02957,	TT viral ORF2;
+313	PF02956,	TT viral orf 1;
+314		
+315	PF02956,	TT viral orf 1;
+316		

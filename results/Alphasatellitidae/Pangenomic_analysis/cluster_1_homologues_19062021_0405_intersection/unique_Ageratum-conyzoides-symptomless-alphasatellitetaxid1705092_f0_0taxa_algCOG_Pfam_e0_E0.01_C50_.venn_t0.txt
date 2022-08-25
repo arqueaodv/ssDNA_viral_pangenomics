@@ -1,0 +1,2 @@
+1_alpha-rep.faa
+9_replication_protein.faa

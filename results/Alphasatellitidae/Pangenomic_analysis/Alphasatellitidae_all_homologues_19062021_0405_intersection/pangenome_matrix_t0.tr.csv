@@ -1,0 +1,12 @@
+Gene,Non-unique Gene name,Annotation,No. isolates,No. sequences,Avg sequences per isolate,Genome fragment,Order within fragment,Accessory Fragment,Accessory Order with Fragment,QC,Min group size nuc,Max group size nuc,Avg group size nuc,Ageratum-leaf-curl-Cameroon-alphasatellite_taxid_743035.gbk,Coconut-foliar-decay-alphasatellite-3_taxid_2161876.gbk,Coconut-foliar-decay-alphasatellite-7_taxid_2161880.gbk,Cuban-alphasatellite-1_taxid_1188819.gbk,Cucurbit-yellow-mosaic-alphasatellite_taxid_1819678.gbk,Faba-bean-necrotic-yellows-C1-alphasatellite_taxid_1453080.gbk,Melon-chlorotic-mosaic-alphasatellite_taxid_2169825.gbk,Nanovirus-like-particle_taxid_96892.gbk,Okra-leaf-curl-alphasatellite_taxid_518829.gbk
+4_v2.faa,,,,,,,,,,,,,,1,0,0,0,0,0,0,0,0
+5_rep.faa,,,,,,,,,,,,,,1,0,0,0,0,0,0,0,0
+6_rep.faa,,,,,,,,,,,,,,1,0,0,0,0,0,0,0,0
+25_truncated_replicatio...faa,,,,,,,,,,,,,,0,1,0,0,0,0,0,0,0
+26_hypothetical_protein.faa,,,,,,,,,,,,,,0,1,0,0,0,0,0,0,0
+27_replication_initiato...faa,,,,,,,,,,,,,,0,1,0,0,1,1,0,1,1
+29_replication_initiato...faa,,,,,,,,,,,,,,0,0,1,1,0,0,1,0,0
+30_hypothetical_protein.faa,,,,,,,,,,,,,,0,0,1,0,0,0,0,0,0
+37_V2.faa,,,,,,,,,,,,,,0,0,0,1,1,0,1,0,0
+44_orf2.faa,,,,,,,,,,,,,,0,0,0,0,0,1,0,0,0
+46_orf3.faa,,,,,,,,,,,,,,0,0,0,0,0,1,0,0,0

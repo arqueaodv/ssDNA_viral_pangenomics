@@ -1,0 +1,4 @@
+cluster1_alpha-rep	size52	taxa1		file1_alpha-rep.faa	dnafile1_alpha-rep.fna		_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+cluster9_replication_protein	size1	taxa1		file9_replication_protein.faa	dnafile9_replication_protein.fna		
+cluster27_Rep	size1	taxa1	PfamPF02407,	file27_Rep.faa	dnafile27_Rep.fna	2169825
+cluster28_alpha-V2	size1	taxa1		file28_alpha-V2.faa	dnafile28_alpha-V2.fna	2169825

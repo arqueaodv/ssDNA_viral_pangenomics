@@ -1,0 +1,14 @@
+>ID:YP_863907.1 |[Ralstonia phage RSM1]||Ralstonia-phage-RSM1_taxid_384359.gbk|hypothetical protein|198|NC_008574(9004):708-905:1 ^GeneID:5179357^ Ralstonia phage RSM1, complete genome.|neighbours:ID:YP_863906.1(1),ID:YP_863908.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-64 (65)
+MVVVVRRDHR QLDLFGGAGH PHVRQMQRVV LAMVASSEVV WNKPAAVRMR VLYCNALGVK RIRRS
+
+>ID:YP_002290954.1 |[Ralstonia phage RSM3]||Ralstonia-phage-RSM3_taxid_520962.gbk|hypothetical protein|198|NC_011399(8929):624-821:1 ^GeneID:6998206^ Ralstonia phage RSM3 DNA, complete genome.|neighbours:ID:YP_002290953.1(1),ID:YP_002290955.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-64 (65)
+MVVVVRRDYR QLDLFGGAGH PHVRQMQRVV LAMVASSEVV WNKPAAVCMR VLYCNALGIK RIRRL
+
+>ID:YP_007011044.1 |[Ralstonia phage RSS0]||Ralstonia-phage-RSS0_taxid_1150992.gbk|hypothetical protein|207|NC_019548(7288):1-207:1 ^GeneID:14017252^ Ralstonia phage RSS0, complete genome.|neighbours:start(),ID:YP_007011045.1(1)|neighbour_genes:start(),hypothetical protein| | aligned:1-68 (68)
+MQQRDHRQLD LIGDVLHPHG AQLAIVMAAV LRGACCLQSR PAMHRIDDLL KNSRQAELAN WYRREGAR
+
+>ID:YP_863921.1 |[Ralstonia phage RSS1]||Ralstonia-phage-RSS1_taxid_384360.gbk|hypothetical protein|207|NC_008575(6662):1-207:1 ^GeneID:4525378^ Ralstonia phage RSS1, complete genome.|neighbours:ID:YP_863920.1(1),ID:YP_863922.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-68 (68)
+MQQRDHRQLD LIGDVLHPHG AQLAIVMAAV LRGACCLQSR PAMHRIDDLL KNSRQAELAN WYRREGAR
+
+>ID:YP_008320406.1 |[Ralstonia phage RSS20]||Ralstonia-phage-RSS20_taxid_1354496.gbk|hypothetical protein|207|NC_021866(7219):1-207:1 ^GeneID:16513229^ Ralstonia phage RSS20 DNA.|neighbours:start(),ID:YP_008320407.1(1)|neighbour_genes:start(),hypothetical protein| | aligned:1-68 (68)
+MQQRDHRQLD LIGDVLHPHG AQLAIVMAAV LRGACCLQSR PAMHRIDDLL KNSRQAELAN WYRREGAR

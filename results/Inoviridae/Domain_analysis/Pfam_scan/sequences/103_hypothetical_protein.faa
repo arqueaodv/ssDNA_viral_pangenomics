@@ -1,0 +1,14 @@
+>ID:YP_009103101.1 |[Ralstonia phage RS603]||Ralstonia-phage-RS603_taxid_1505528.gbk|hypothetical protein|249|NC_025454(7679):1297-1545:1 ^GeneID:22277967^ Ralstonia phage RS603 DNA, complete genome.|neighbours:ID:YP_009103100.1(1),ID:YP_009103102.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-82 (82)
+MAQCVVIQNGGLVFTTDPPQSCSGYLLLQPSEYSNVMALSGAFTYPSASDFAAAFIAGFQWPVFFFIVAMLVSKVASFFDRG
+>ID:YP_863911.1 |[Ralstonia phage RSM1]||Ralstonia-phage-RSM1_taxid_384359.gbk|hypothetical protein|141|NC_008574(9004):1730-1870:1 ^GeneID:5179356^ Ralstonia phage RSM1, complete genome.|neighbours:ID:YP_863910.1(1),ID:YP_863912.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-46 (46)
+MALSGAFTYPSASDFAAAFTAGFQWPVFFFIVAMLVSKVASFFDRG
+>ID:YP_002290958.1 |[Ralstonia phage RSM3]||Ralstonia-phage-RSM3_taxid_520962.gbk|hypothetical protein|249|NC_011399(8929):1538-1786:1 ^GeneID:6998210^ Ralstonia phage RSM3 DNA, complete genome.|neighbours:ID:YP_002290957.1(1),ID:YP_002290959.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-82 (82)
+MAQCLVIQNGGLVFTTDPPQSCSGYLLLQPSEYSNVMALSGAFTYPSASDFAAAFTAGFQWPVFFFIVAMLVSKVASFFDRG
+>ID:YP_009786099.1 |[Ralstonia phage Rs551]||Ralstonia-phage-Rs551_taxid_1852598.gbk|hypothetical protein|249|NC_047765(7929):1292-1540:1 ^GeneID:54976172^ Ralstonia phage Rs551, complete genome.|neighbours:ID:YP_009786098.1(1),ID:YP_009786100.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-82 (82)
+MAQCVVIQNGGLVFTTDPPQSCSGYLLLQPSEYSNVMALSGAFTYPSASDFAAAFTAGFQWPVFFFIVAMLVSKVASFFDRG
+>ID:YP_008130368.1 |[Stenotrophomonas phage SMA7]||Stenotrophomonas-phage-SMA7_taxid_1343494.gbk|hypothetical protein|258|NC_021569(7069):2470-2727:1 ^GeneID:15957220,UniProtKB/TrEMBL:S0F2C2^ Stenotrophomonas phage phiSMA7 proviral complete genome.|neighbours:ID:YP_008130367.1(1),ID:YP_008130369.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-85 (85)
+MAVCVSLTAEGTLVPTGEPASQCGGYVLVSAAEHAQASILIDLFQWPEPEVATGWFSGVFTLVLALNVLGYIVGAVVKSVSTERD
+>ID:NP_059533.1 |[Vibrio phage VfO3K6]||Vibrio-phage-VfO3K6_taxid_127507.gbk|Vpf76|231|NC_002362(8784):958-1188:1 ^GeneID:1262773^ Vibrio phage VfO3K6, complete genome.|neighbours:ID:NP_059532.1(1),ID:NP_059534.1(1)|neighbour_genes:hypothetical protein,Vpf81| | aligned:1-76 (76)
+MSVCVTVVNQYGNLKATKTPVADCQEYVLISAVDYQEYKEPVLFNGDLFLYVSGVLLINMVVGHWVGRVVRLMSKR
+>ID:NP_059543.1 |[Vibrio phage VfO4K68]||Vibrio-phage-VfO4K68_taxid_127508.gbk|Vpf76|231|NC_002363(6891):958-1188:1 ^GeneID:1262782^ Vibrio phage VfO4K68, complete genome.|neighbours:ID:NP_059542.1(1),ID:NP_059544.1(1)|neighbour_genes:hypothetical protein,Vpf81| | aligned:1-76 (76)
+MSVCVTVVNQYGNLKATKTPVADCQEYVLISAVDYQEYKEPVLFNGDLFLYVSGVLLINMVVGHWVGRVVRLMSKR

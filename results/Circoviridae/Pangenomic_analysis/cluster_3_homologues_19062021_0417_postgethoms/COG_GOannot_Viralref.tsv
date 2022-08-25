@@ -1,0 +1,56 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_replication_associat..	14.285714285714285	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+1_replication_associat..	14.285714285714285	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+1_replication_associat..	14.285714285714285	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+11_replication-associat..	14.285714285714285	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+11_replication-associat..	14.285714285714285	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+11_replication-associat..	14.285714285714285	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+15_replication-associat..	14.285714285714285	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+15_replication-associat..	14.285714285714285	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+15_replication-associat..	14.285714285714285	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+4_replication-associat..	28.57142857142857	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+4_replication-associat..	28.57142857142857	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+4_replication-associat..	28.57142857142857	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+8_replication-associat..	42.857142857142854	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+8_replication-associat..	42.857142857142854	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+8_replication-associat..	42.857142857142854	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+1_replication_associat..	14.285714285714285	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+11_replication-associat..	14.285714285714285	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+15_replication-associat..	14.285714285714285	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+4_replication-associat..	28.57142857142857	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+8_replication-associat..	42.857142857142854	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+1_replication_associat..	14.285714285714285	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+1_replication_associat..	14.285714285714285	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+1_replication_associat..	14.285714285714285	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+1_replication_associat..	14.285714285714285	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+1_replication_associat..	14.285714285714285	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+1_replication_associat..	14.285714285714285	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+1_replication_associat..	14.285714285714285	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+11_replication-associat..	14.285714285714285	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+11_replication-associat..	14.285714285714285	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+11_replication-associat..	14.285714285714285	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+11_replication-associat..	14.285714285714285	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+11_replication-associat..	14.285714285714285	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+11_replication-associat..	14.285714285714285	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+11_replication-associat..	14.285714285714285	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+15_replication-associat..	14.285714285714285	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+15_replication-associat..	14.285714285714285	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+15_replication-associat..	14.285714285714285	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+15_replication-associat..	14.285714285714285	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+15_replication-associat..	14.285714285714285	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+15_replication-associat..	14.285714285714285	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+15_replication-associat..	14.285714285714285	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+4_replication-associat..	28.57142857142857	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+4_replication-associat..	28.57142857142857	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+4_replication-associat..	28.57142857142857	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+4_replication-associat..	28.57142857142857	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+4_replication-associat..	28.57142857142857	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+4_replication-associat..	28.57142857142857	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+4_replication-associat..	28.57142857142857	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+8_replication-associat..	42.857142857142854	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+8_replication-associat..	42.857142857142854	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+8_replication-associat..	42.857142857142854	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+8_replication-associat..	42.857142857142854	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+8_replication-associat..	42.857142857142854	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+8_replication-associat..	42.857142857142854	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG
+8_replication-associat..	42.857142857142854	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	COG

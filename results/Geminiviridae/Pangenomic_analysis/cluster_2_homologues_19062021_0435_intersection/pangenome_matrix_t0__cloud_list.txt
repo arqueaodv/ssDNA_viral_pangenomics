@@ -1,0 +1,15 @@
+55_V4.faa
+56_V2.faa
+57_V3.faa
+61_C3.faa
+172_AC1.faa
+354_AV3_protein.faa
+431_movement_protein.faa
+432_capsid_protein.faa
+564_V1.faa
+565_V2.faa
+753_CP.faa
+795_c1.faa
+863_truncated_V2.faa
+880_AC4.faa
+1114_V1.faa

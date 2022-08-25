@@ -1,0 +1,132 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_putative_viral_repli..	66.49214659685863	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+1_putative_viral_repli..	66.49214659685863	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+1_putative_viral_repli..	66.49214659685863	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+101_replication_associat..	8.900523560209423	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+101_replication_associat..	8.900523560209423	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+101_replication_associat..	8.900523560209423	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+102_replication_associat..	2.094240837696335	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+102_replication_associat..	2.094240837696335	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+102_replication_associat..	2.094240837696335	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+152_replication-associat..	0.5235602094240838	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+152_replication-associat..	0.5235602094240838	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+152_replication-associat..	0.5235602094240838	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+222_putative_replication..	0.5235602094240838	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+222_putative_replication..	0.5235602094240838	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+222_putative_replication..	0.5235602094240838	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	viral entry via permeabilization of inner membrane [GO:0099008]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	lipid catabolic process [GO:0016042]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	receptor-mediated virion attachment to host cell [GO:0046813]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+29_replication-associat..	6.282722513089005	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+29_replication-associat..	6.282722513089005	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+29_replication-associat..	6.282722513089005	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+29_replication-associat..	6.282722513089005	Putative function Uniprot hit [GO:PPPPPPP]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+3_putative_replication..	14.659685863874344	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+3_putative_replication..	14.659685863874344	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+3_putative_replication..	14.659685863874344	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+368_putative_replication..	0.5235602094240838	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+42_replication-associat..	1.0471204188481675	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+42_replication-associat..	1.0471204188481675	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+70_cap	13.089005235602095	endocytosis involved in viral entry into host cell [GO:0075509]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+70_cap	13.089005235602095	viral capsid assembly [GO:0019069]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+70_cap	13.089005235602095	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+70_cap	13.089005235602095	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+74_putative_capsid_prot..	18.848167539267017	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+9_putative_capsid_prot..	2.094240837696335	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+1_putative_viral_repli..	66.49214659685863	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+101_replication_associat..	8.900523560209423	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+102_replication_associat..	2.094240837696335	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+152_replication-associat..	0.5235602094240838	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+222_putative_replication..	0.5235602094240838	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	viral capsid [GO:0019028]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+29_replication-associat..	6.282722513089005	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+29_replication-associat..	6.282722513089005	Putative function Uniprot hit [GO:PPPPPPP]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+3_putative_replication..	14.659685863874344	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+368_putative_replication..	0.5235602094240838	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+42_replication-associat..	1.0471204188481675	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+70_cap	13.089005235602095	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+70_cap	13.089005235602095	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+74_putative_capsid_prot..	18.848167539267017	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+9_putative_capsid_prot..	2.094240837696335	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+1_putative_viral_repli..	66.49214659685863	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+1_putative_viral_repli..	66.49214659685863	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+1_putative_viral_repli..	66.49214659685863	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+1_putative_viral_repli..	66.49214659685863	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+1_putative_viral_repli..	66.49214659685863	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+1_putative_viral_repli..	66.49214659685863	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+1_putative_viral_repli..	66.49214659685863	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+101_replication_associat..	8.900523560209423	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+101_replication_associat..	8.900523560209423	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+101_replication_associat..	8.900523560209423	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+101_replication_associat..	8.900523560209423	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+101_replication_associat..	8.900523560209423	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+101_replication_associat..	8.900523560209423	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+101_replication_associat..	8.900523560209423	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+102_replication_associat..	2.094240837696335	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+102_replication_associat..	2.094240837696335	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+102_replication_associat..	2.094240837696335	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+102_replication_associat..	2.094240837696335	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+102_replication_associat..	2.094240837696335	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+102_replication_associat..	2.094240837696335	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+102_replication_associat..	2.094240837696335	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+152_replication-associat..	0.5235602094240838	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+152_replication-associat..	0.5235602094240838	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+152_replication-associat..	0.5235602094240838	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+152_replication-associat..	0.5235602094240838	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+152_replication-associat..	0.5235602094240838	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+152_replication-associat..	0.5235602094240838	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+152_replication-associat..	0.5235602094240838	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+222_putative_replication..	0.5235602094240838	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+222_putative_replication..	0.5235602094240838	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+222_putative_replication..	0.5235602094240838	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+222_putative_replication..	0.5235602094240838	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+222_putative_replication..	0.5235602094240838	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+222_putative_replication..	0.5235602094240838	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+222_putative_replication..	0.5235602094240838	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	phospholipase A2 activity [GO:0004623]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	phospholipase A2 activity (consuming 1,2-dipalmitoylphosphatidylcholine) [GO:0102567]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+27_putative_capsid_prot..	0.5235602094240838	phospholipase A2 activity consuming 1,2-dioleoylphosphatidylethanolamine) [GO:0102568]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+29_replication-associat..	6.282722513089005	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+29_replication-associat..	6.282722513089005	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+29_replication-associat..	6.282722513089005	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+29_replication-associat..	6.282722513089005	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+29_replication-associat..	6.282722513089005	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+29_replication-associat..	6.282722513089005	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+29_replication-associat..	6.282722513089005	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+29_replication-associat..	6.282722513089005	Putative function Uniprot hit [GO:PPPPPPP]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+3_putative_replication..	14.659685863874344	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+3_putative_replication..	14.659685863874344	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+3_putative_replication..	14.659685863874344	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+3_putative_replication..	14.659685863874344	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+3_putative_replication..	14.659685863874344	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+3_putative_replication..	14.659685863874344	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+3_putative_replication..	14.659685863874344	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+368_putative_replication..	0.5235602094240838	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+368_putative_replication..	0.5235602094240838	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+368_putative_replication..	0.5235602094240838	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+368_putative_replication..	0.5235602094240838	helicase activity [GO:0004386]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+368_putative_replication..	0.5235602094240838	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+368_putative_replication..	0.5235602094240838	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+368_putative_replication..	0.5235602094240838	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+42_replication-associat..	1.0471204188481675	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+42_replication-associat..	1.0471204188481675	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+42_replication-associat..	1.0471204188481675	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+42_replication-associat..	1.0471204188481675	helicase activity [GO:0004386]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+42_replication-associat..	1.0471204188481675	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+42_replication-associat..	1.0471204188481675	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+42_replication-associat..	1.0471204188481675	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+42_replication-associat..	1.0471204188481675	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+70_cap	13.089005235602095	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+74_putative_capsid_prot..	18.848167539267017	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL
+9_putative_capsid_prot..	2.094240837696335	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417/	OMCL

@@ -1,0 +1,7 @@
+Gene,Non-unique Gene name,Annotation,No. isolates,No. sequences,Avg sequences per isolate,Genome fragment,Order within fragment,Accessory Fragment,Accessory Order with Fragment,QC,Min group size nuc,Max group size nuc,Avg group size nuc,Faeces-associated-gemycircularvirus-7_taxid_1391036.gbk,Gemycircularvirus-sp_taxid_1983771.gbk,Human-associated-gemyvongvirus-1_taxid_1985415.gbk,Mosquito-VEM-virus-SDBVL-G_taxid_1034805.gbk,Pacific-flying-fox-faeces-associated-gemycircularvirus-12_taxid_1795991.gbk,Sewage-associated-gemycircularvirus-7a_taxid_1519402.gbk
+1_capsid_protein.faa,,,,,,,,,,,,,,1,1,1,1,1,1
+2_replication_associat...faa,,,,,,,,,,,,,,1,0,0,1,1,0
+3_Rep.faa,,,,,,,,,,,,,,0,1,1,0,1,1
+7_ORF3.faa,,,,,,,,,,,,,,0,0,1,0,0,0
+9_hypothetical_protein.faa,,,,,,,,,,,,,,0,0,0,1,0,0
+10_Rep2.faa,,,,,,,,,,,,,,0,0,0,1,0,0

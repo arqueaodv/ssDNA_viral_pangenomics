@@ -1,0 +1,15 @@
+2_Putative_nonstructur...faa
+4_Putative_structural_...faa
+10_nonstructural_protei...faa
+11_capsid_protein.faa
+14_Rep_40_protein.faa
+17_major_coat_protein_V...faa
+27_hypothetical_protein.faa
+36_Cap.faa
+40_NP1.faa
+46_VP2.faa
+69_NS2.faa
+70_capsid_protein_VP.faa
+89_NS1.faa
+109_polyprotein.faa
+116_NP1.faa

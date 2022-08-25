@@ -1,0 +1,35 @@
+>ID:YP_008997804.1 |[Black medic leaf roll virus]||Black-medic-leaf-roll-virus_taxid_2038729.gbk|U1|477|NC_023306(1011):314-790:1 ^GeneID:18158314^ Black medic leafroll virus isolate Bjuv_153 segment DNA-U1, complete sequence.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:9-154 (158)
+MVYEDERLFG VSELRDEATD EIISHVKKSE GVICDEDNIQ VMNIKVEDLH IDMFDKVRFS VRIRLNHKFK KQLKIVLLGC
+YVKIITHLKT TSERSVRSLL QKRLSGICKS NYVISIKMFY INIIQLLNTC KWINYIEDVH PICTLYHGVD DVSNHVLD
+
+>ID:YP_009553300.1 |[Cow vetch latent virus]||Cow-vetch-latent-virus_taxid_2056780.gbk|U1|483|NC_040749(988):318-800:1 ^GeneID:41704226^ Cow vetch latent virus isolate Nano_VcLV_Sambuc_2010 segment DNA-U1, complete sequence.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-147 (160)
+MVVGISSVIR VILVEEASEE IIGYRRRQQA VVCDDVRLVK SFQVMNIKIE DIYLNMDDKA VVKMKFLLNY RYRKQLNIVV
+LGCRMKVTTT LRSPGAESMR RLLQSRLNTI CKSNYVISIN QFFCNIHELL NTCTWVSRVE TCVLYVVYIM LHDICLCILY
+
+>ID:YP_003104742.1 |[Faba bean necrotic stunt virus]|Ethiopia:Holetta|Faba-bean-necrotic-stunt-virus_taxid_283824.gbk|U1 protein|474|NC_013099(986):352-825:1 ^GeneID:8303654^ Faba bean necrotic stunt virus DNA U1, complete genome.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-149 (157)
+MPLVDYLLVD EATEELITSE RKRRSVVCSD DDSQVINVKV EDIAIDLEDR VVVKLKFRLC YKYRRLLDLT LLGCRMKVHT
+VLKTTSAPSL KSVLQKRLNM ICDGNHLISI RLFFININQL INNCKWISSV EDVYPICTLY HIQYSNVINA NEIFNNT
+
+>ID:NP_619568.1 |[Faba bean necrotic yellows virus]||Faba-bean-necrotic-yellows-virus_taxid_59817.gbk|C3-Eg|468|NC_003561(996):372-839:1 ^GeneID:993374,UniProtKB/Swiss-Prot:Q9WIJ6^ Faba bean necrotic yellows virus DNA-U1, complete genome.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-153 (155)
+MGVSPVRDSW LVDEASDELI SSERKLIAVE CHDDDSQVIN VKVEDICKDM SDKVVLKLQF RLCHKYRKLL DITLLGCRMK
+VYTQLKNTSL NSLKSLLQKR MINICIGNYA IGIRMFFVNI NQFIKSCKWI VNTEDVYTIC TLYHTRDTDV LNVIK
+
+>ID:YP_009508215.1 |[Faba bean yellow leaf virus]||Faba-bean-yellow-leaf-virus_taxid_1137801.gbk|ORF U1|465|NC_038905(990):356-820:1 ^GeneID:37619546,UniProtKB/TrEMBL:K4Q5R2^ Faba bean yellow leaf virus ORF U1 gene for U1 protein, segment DNA-U1, isolate Eth-231.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-152 (154)
+MAITHVSDSL LVDEASEEII TIERKLKSVE CHDDINQVIN VKVEDVDLDM RDRVVLKLQF RLCYTYKKKL DITLLGCRLK
+VHTELKNTSA AVVKSILQKR MNMICNGNYV IGIRLFFINI NQLINTCKWI IRIEDVYPIC TLYHMNNNTD VICI
+
+>ID:NP_619763.1 |[Milk vetch dwarf virus]||Milk-vetch-dwarf-virus_taxid_67585.gbk|viral non-structural..|453|NC_003642(989):376-828:1 ^GeneID:995282^ Milk vetch dwarf virus segment DNA-U1, complete sequence.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-150 (150)
+MSVNDYSLFD EATDELVSSE RKLIAVDCHD DDSQVINVKV EDIFCDMSDK VVLKLQFRLC YKYRKLLDIT LLGCRMKVYT
+ELKTPSERSL KSILQKKMNI ISDGNYLIGI RMFFININQL INTCKWITRI EDVYPICTLY HVNNTPVIDI
+
+>ID:YP_008992024.1 |[Pea necrotic yellow dwarf virus]|Germany|Pea-necrotic-yellow-dwarf-virus_taxid_753670.gbk|U1 protein|465|NC_023160(978):332-796:1 ^GeneID:18114097^ Pea necrotic yellow dwarf virus segment DNA-U1, complete sequence.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-154 (154)
+MVQGFFKLGD IPIVDEGTEA LISDSRKRQG MFCSDEKLVK KLQVINIKVE DISYGIDDDD ARIRFKFRLN YRFRKQLGIV
+LLGVRMTAIT RLETPSAKSV QSLLQRRLNG ICDSNEVISI FMFFNNIGQL LNSTKWIHRV DEVNPICTLY SMED
+
+>ID:YP_008997801.1 |[Pea yellow stunt virus]||Pea-yellow-stunt-virus_taxid_1436892.gbk|U1|456|NC_023303(970):318-773:1 ^GeneID:18158308^ Pea yellow stunt virus segment DNA-U1, complete sequence.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-151 (151)
+MVIGIKALLD TPLVDEATEE VIDSRRKLHE IICNDSRLIK KFQVINFKVD DLLSDMEDNV LMKWNFRLNY RYRKQLKIVL
+LGCRMEVRTT LKKASPSSIK SILQPRLNRI CNDNHFMSIN MFLCNITELL YTCKWITHIV DVHPICTLYD V
+
+>ID:NP_620701.1 |[Subterranean clover stunt virus]||Subterranean-clover-stunt-virus_taxid_36772.gbk|SCSV7|441|NC_003819(988):379-819:1 ^GeneID:991164^ Subterranean clover stunt virus (SCSV7) gene, complete cds.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:4-145 (146)
+MVSFSFPEIY DVSDDVLVSD SRRSVAVEVE EKVQVINVKV LRLIEAVDED RVGVKVMFRL CYRYRRELKI TLLGCKMELW
+TSLKSSGKYS VQSLLQRKLN GICVSNYCIG IDMFVSNVKE LINRCKWITS VQGVNPICCL YHMDEE

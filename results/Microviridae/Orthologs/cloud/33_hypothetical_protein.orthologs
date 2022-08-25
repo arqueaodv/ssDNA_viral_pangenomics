@@ -1,0 +1,22 @@
+VIRAL_FAMILY	Microviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	33_hypothetical_protein.faa
+PREVALENCE	2.325581
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		Uniprot hit without GO [GO:XXXXXXX]
+	MOLECULAR_FUNCTION
+		Uniprot hit without GO [GO:XXXXXXX]
+	CELLULAR_COMPONENT
+		Uniprot hit without GO [GO:XXXXXXX]
+
+
+//
+
+>ID:NP_073543.1 |[Bdellovibrio phage phiMH2K]||Bdellovibrio-phage-phiMH2K_taxid_145579.gbk|hypothetical protein|156|NC_002643(4594):1836-1991:1 ^GeneID:918752^ Bdellovibrio phage phiMH2K, complete genome.|neighbours:ID:NP_073542.1(1),ID:NP_073544.1(1)|neighbour_genes:minor capsid protein,minor capsid protein| ATGGCAAGAACAAATGTCAAACTCTGCCCACCAAAGAGAAGCAAACGACCTTCAAACAGCAGGTCTAAATCGACTTCTCACAGCAACAGGCGGAGCCTCAACTCCCTCAGGCGGACAAGGACAAGCCGCCGGAGCAACAATGGAAAATTCACTTAA
+
+//
+
+>ID:NP_073543.1 |[Bdellovibrio phage phiMH2K]||Bdellovibrio-phage-phiMH2K_taxid_145579.gbk|hypothetical protein|156|NC_002643(4594):1836-1991:1 ^GeneID:918752^ Bdellovibrio phage phiMH2K, complete genome.|neighbours:ID:NP_073542.1(1),ID:NP_073544.1(1)|neighbour_genes:minor capsid protein,minor capsid protein| MARTNVKLCPPKRSKRPSNSRSKSTSHSNRRSLNSLRRTRTSRRSNNGKFT

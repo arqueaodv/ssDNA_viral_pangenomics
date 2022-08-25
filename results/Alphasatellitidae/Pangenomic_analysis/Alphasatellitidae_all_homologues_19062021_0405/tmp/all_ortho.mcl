@@ -1,0 +1,68 @@
+# cline: mcl /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/Alphasatellitidae_all_homologues/tmp/all_ortho.mtx "-I" "1.5" "-o" "/home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/Alphasatellitidae_all_homologues/tmp/all_ortho.mcl" "-V" "all" "-te" "10"
+(mclheader
+mcltype matrix
+dimensions 72x60
+)
+(mclmatrix
+begin
+0  27 29 36 38 45 58 66 67 68 70 71 $
+1  37 39 59 $
+2  0 $
+3  1 $
+4  2 $
+5  3 $
+6  4 $
+7  5 $
+8  6 $
+9  7 $
+10 8 $
+11 9 $
+12 10 $
+13 11 $
+14 12 $
+15 13 $
+16 14 $
+17 15 $
+18 16 $
+19 17 $
+20 18 $
+21 19 $
+22 20 $
+23 21 $
+24 22 $
+25 23 $
+26 24 $
+27 25 $
+28 26 $
+29 28 $
+30 30 $
+31 31 $
+32 32 $
+33 33 $
+34 34 $
+35 35 $
+36 40 $
+37 41 $
+38 42 $
+39 43 $
+40 44 $
+41 46 $
+42 47 $
+43 48 $
+44 49 $
+45 50 $
+46 51 $
+47 52 $
+48 53 $
+49 54 $
+50 55 $
+51 56 $
+52 57 $
+53 60 $
+54 61 $
+55 62 $
+56 63 $
+57 64 $
+58 65 $
+59 69 $
+)

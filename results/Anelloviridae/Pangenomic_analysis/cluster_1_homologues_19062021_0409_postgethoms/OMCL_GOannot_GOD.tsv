@@ -1,0 +1,22 @@
+cluster	prevalence	term	what	familia	algoritmo
+13_ORF1	17.647058823529413	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+140_hypothetical_protein	3.9215686274509802	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+15_ORF2	39.21568627450981	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+151_hypothetical_protein	1.9607843137254901	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+153_hypothetical_protein	1.9607843137254901	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+16_ORF1	41.17647058823529	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+18_VP1	3.9215686274509802	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+2_VP2	3.9215686274509802	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+28_VP2	1.9607843137254901	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+3_VP1	13.725490196078432	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+34_ORF3	1.9607843137254901	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+36_ORF1	13.725490196078432	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+43_ORF2	5.88235294117647	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+5_putative_dual-specif..	9.803921568627452	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+56_hypothetical_protein	1.9607843137254901	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+6_VP3	9.803921568627452	induction by virus of host apoptotic process [GO:0019051]	bp	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+6_VP3	9.803921568627452	suppression by virus of host exit from mitosis [GO:0039593]	bp	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+6_VP3	9.803921568627452	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+76_hypothetical_protein	1.9607843137254901	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+77_ORF1	1.9607843137254901	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL
+89_orf2	1.9607843137254901	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_1_homologues_19062021_0409/	OMCL

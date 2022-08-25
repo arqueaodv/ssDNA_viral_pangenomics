@@ -1,0 +1,40 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_510886.1          -          YP_009111297.1       -            7.3e-57  188.5   0.1     9e-57  188.2   0.1   1.1   1   0   0   1   1   1   1 -
+YP_009111298.1       -          YP_009111297.1       -            7.3e-57  188.5   0.1     9e-57  188.2   0.1   1.1   1   0   0   1   1   1   1 -
+NP_510885.1          -          YP_009111297.1       -              1e-55  184.8   0.1   2.1e-55  183.8   0.1   1.5   1   0   0   1   1   1   1 -
+YP_009111297.1       -          YP_009111297.1       -            1.1e-55  184.8   0.1   2.1e-55  183.8   0.1   1.5   1   0   0   1   1   1   1 -
+NP_040571.1          -          YP_009111297.1       -            3.2e-52  173.6   0.4   4.3e-52  173.2   0.4   1.2   1   0   0   1   1   1   1 -
+NP_040570.1          -          YP_009111297.1       -            3.6e-51  170.2   0.9   7.7e-51  169.2   0.4   1.8   2   0   0   2   2   2   1 -
+NP_039616.1          -          YP_009111297.1       -            2.9e-18   64.8   0.1   3.8e-18   64.4   0.1   1.2   1   0   0   1   1   1   1 -
+NP_039615.1          -          YP_009111297.1       -              2e-17   62.1   0.4   5.4e-17   60.7   0.0   1.9   2   0   0   2   2   2   1 -
+NP_047361.1          -          YP_009111297.1       -              0.022   13.9   0.0      0.06   12.5   0.0   1.7   1   0   0   1   1   1   0 -
+NP_510886.1          -          NP_510885.1          -            7.3e-57  188.5   0.1     9e-57  188.2   0.1   1.1   1   0   0   1   1   1   1 -
+YP_009111298.1       -          NP_510885.1          -            7.3e-57  188.5   0.1     9e-57  188.2   0.1   1.1   1   0   0   1   1   1   1 -
+NP_510885.1          -          NP_510885.1          -              1e-55  184.8   0.1   2.1e-55  183.8   0.1   1.5   1   0   0   1   1   1   1 -
+YP_009111297.1       -          NP_510885.1          -            1.1e-55  184.8   0.1   2.1e-55  183.8   0.1   1.5   1   0   0   1   1   1   1 -
+NP_040571.1          -          NP_510885.1          -            3.2e-52  173.6   0.4   4.3e-52  173.2   0.4   1.2   1   0   0   1   1   1   1 -
+NP_040570.1          -          NP_510885.1          -            3.6e-51  170.2   0.9   7.7e-51  169.2   0.4   1.8   2   0   0   2   2   2   1 -
+NP_039616.1          -          NP_510885.1          -            2.9e-18   64.8   0.1   3.8e-18   64.4   0.1   1.2   1   0   0   1   1   1   1 -
+NP_039615.1          -          NP_510885.1          -              2e-17   62.1   0.4   5.4e-17   60.7   0.0   1.9   2   0   0   2   2   2   1 -
+NP_047361.1          -          NP_510885.1          -              0.022   13.9   0.0      0.06   12.5   0.0   1.7   1   0   0   1   1   1   0 -
+NP_510886.1          -          NP_040570.1          -            8.7e-55  181.8   0.2   1.1e-54  181.5   0.2   1.1   1   0   0   1   1   1   1 -
+YP_009111298.1       -          NP_040570.1          -            8.7e-55  181.8   0.2   1.1e-54  181.5   0.2   1.1   1   0   0   1   1   1   1 -
+NP_040571.1          -          NP_040570.1          -            5.9e-54  179.1   0.4   7.8e-54  178.7   0.4   1.2   1   0   0   1   1   1   1 -
+NP_510885.1          -          NP_040570.1          -            1.2e-53  178.1   0.2   2.4e-53  177.1   0.2   1.5   1   0   0   1   1   1   1 -
+YP_009111297.1       -          NP_040570.1          -            1.2e-53  178.1   0.2   2.4e-53  177.1   0.2   1.5   1   0   0   1   1   1   1 -
+NP_040570.1          -          NP_040570.1          -              5e-53  176.1   0.4   1.4e-52  174.7   0.4   1.8   1   0   0   1   1   1   1 -
+NP_039616.1          -          NP_040570.1          -            2.3e-18   65.1   0.0   3.1e-18   64.6   0.0   1.2   1   0   0   1   1   1   1 -
+NP_039615.1          -          NP_040570.1          -            1.8e-17   62.2   0.3   4.6e-17   60.9   0.0   1.8   2   0   0   2   2   2   1 -
+NP_047361.1          -          NP_040570.1          -              0.019   14.1   0.0      0.05   12.7   0.0   1.7   1   0   0   1   1   1   0 -
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/1_II/1_II_PF05155_.faa
+# Target file:     /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/1_II/1_II_PF05155__myviral_jackhmmer.table ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/1_II/1_II_PF05155_.faa /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Tue Dec 21 07:30:59 2021
+# [ok]

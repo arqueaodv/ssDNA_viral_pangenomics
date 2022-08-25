@@ -1,0 +1,4 @@
+53_hypothetical_protein.faa
+55_hypothetical_protein.faa
+56_hypothetical_protein.faa
+62_hypothetical_protein.faa

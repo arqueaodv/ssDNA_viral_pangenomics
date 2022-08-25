@@ -1,0 +1,8 @@
+16_hypothetical_protein.faa
+28_putative_phage_DNA_r...faa
+55_protein_A.faa
+58_protein_D.faa
+59_protein_E.faa
+60_protein_F.faa
+61_protein_G.faa
+62_protein_H.faa

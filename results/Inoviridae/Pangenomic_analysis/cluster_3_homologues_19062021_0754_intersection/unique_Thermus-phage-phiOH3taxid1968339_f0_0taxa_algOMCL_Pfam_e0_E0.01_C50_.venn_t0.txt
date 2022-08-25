@@ -1,0 +1,2 @@
+56_protein_B.faa
+14_putative_minor_coat_...faa

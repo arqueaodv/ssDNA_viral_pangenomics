@@ -1,0 +1,4 @@
+77_hypothetical_protein.faa
+68_ORF3.faa
+81_hypothetical_protein.faa
+90_hypothetical_protein.faa

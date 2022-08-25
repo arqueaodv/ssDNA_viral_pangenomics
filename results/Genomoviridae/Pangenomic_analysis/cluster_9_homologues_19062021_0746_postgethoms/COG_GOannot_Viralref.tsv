@@ -1,0 +1,27 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_capsid_protein	100	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+10_Rep2	16.666666666666664	DNA replication [GO:0006260]	bp	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+2_replication_associat..	50	DNA replication [GO:0006260]	bp	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+3_Rep	66.66666666666666	DNA replication [GO:0006260]	bp	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+7_ORF3	16.666666666666664	Putative function Uniprot hit [GO:PPPPPPP]	bp	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+1_capsid_protein	100	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+1_capsid_protein	100	viral capsid [GO:0019028]	cc	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+10_Rep2	16.666666666666664	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+7_ORF3	16.666666666666664	Putative function Uniprot hit [GO:PPPPPPP]	cc	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+1_capsid_protein	100	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+10_Rep2	16.666666666666664	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+10_Rep2	16.666666666666664	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+10_Rep2	16.666666666666664	DNA binding [GO:0003677]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+10_Rep2	16.666666666666664	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+10_Rep2	16.666666666666664	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+2_replication_associat..	50	DNA binding [GO:0003677]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+2_replication_associat..	50	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+2_replication_associat..	50	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+2_replication_associat..	50	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+2_replication_associat..	50	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+3_Rep	66.66666666666666	DNA binding [GO:0003677]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+3_Rep	66.66666666666666	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+3_Rep	66.66666666666666	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+3_Rep	66.66666666666666	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+3_Rep	66.66666666666666	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG
+7_ORF3	16.666666666666664	Putative function Uniprot hit [GO:PPPPPPP]	mf	../results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746/	COG

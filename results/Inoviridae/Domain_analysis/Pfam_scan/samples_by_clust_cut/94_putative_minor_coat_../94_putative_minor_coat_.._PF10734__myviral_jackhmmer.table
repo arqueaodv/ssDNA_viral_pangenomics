@@ -1,0 +1,35 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_004327585.1       -          YP_004327585.1       -            3.5e-40  134.7  10.9   4.3e-40  134.4  10.9   1.1   1   0   0   1   1   1   1 -
+NP_932301.1          -          YP_004327585.1       -            5.4e-36  121.3  14.2   6.5e-36  121.0  14.2   1.1   1   0   0   1   1   1   1 -
+NP_040654.1          -          YP_004327585.1       -            1.5e-27   94.3   6.3   1.8e-27   94.0   6.3   1.1   1   0   0   1   1   1   1 -
+YP_007011051.1       -          YP_004327585.1       -            5.8e-25   86.0  11.7   6.8e-25   85.7  11.7   1.1   1   0   0   1   1   1   1 -
+YP_863928.1          -          YP_004327585.1       -            5.8e-25   86.0  11.7   6.8e-25   85.7  11.7   1.1   1   0   0   1   1   1   1 -
+YP_008320413.1       -          YP_004327585.1       -            8.2e-25   85.5  11.7   1.1e-24   85.1  11.7   1.2   1   0   0   1   1   1   1 -
+YP_004539136.1       -          YP_004327585.1       -              2e-07   29.8   8.1   2.3e-07   29.5   8.1   1.1   1   0   0   1   1   1   1 -
+NP_835478.1          -          YP_004327585.1       -             0.0006   18.6   1.2    0.0009   18.0   1.2   1.4   1   1   0   1   1   1   1 -
+YP_002925194.1       -          YP_004327585.1       -            0.00093   18.0   1.9    0.0018   17.1   1.9   1.7   1   1   0   1   1   1   1 -
+YP_009664519.1       -          YP_004327585.1       -             0.0013   17.5   0.5    0.0019   17.0   0.5   1.4   1   1   0   1   1   1   0 -
+NP_542360.1          -          YP_004327585.1       -             0.0016   17.2   2.4    0.0031   16.3   2.4   1.7   1   1   0   1   1   1   0 -
+NP_695194.1          -          YP_004327585.1       -             0.0018   17.1   2.0    0.0036   16.1   2.0   1.7   1   1   0   1   1   1   0 -
+YP_031684.1          -          YP_004327585.1       -             0.0024   16.6   4.7    0.0083   14.9   4.7   1.9   1   1   0   1   1   1   0 -
+YP_031691.1          -          YP_004327585.1       -             0.0024   16.6   4.7    0.0083   14.9   4.7   1.9   1   1   0   1   1   1   0 -
+NP_932301.1          -          NP_932301.1          -            5.7e-49  163.1  16.0   6.7e-49  162.8  16.0   1.1   1   0   0   1   1   1   1 -
+YP_004327585.1       -          NP_932301.1          -            6.2e-45  150.1  10.1   7.5e-45  149.9  10.1   1.1   1   0   0   1   1   1   1 -
+YP_008320413.1       -          NP_932301.1          -             0.0015   17.5   1.7    0.0015   17.5   1.7   1.9   1   1   1   2   2   2   0 -
+YP_007011051.1       -          NP_932301.1          -             0.0026   16.7   6.3     0.012   14.6   6.1   1.9   1   1   0   1   1   1   0 -
+YP_863928.1          -          NP_932301.1          -             0.0026   16.7   6.3     0.012   14.6   6.1   1.9   1   1   0   1   1   1   0 -
+NP_040654.1          -          NP_932301.1          -             0.0055   15.7   4.0    0.0088   15.0   4.0   1.4   1   0   0   1   1   1   0 -
+YP_031684.1          -          NP_932301.1          -              0.049   12.7   2.8      0.12   11.5   2.8   1.6   1   1   0   1   1   1   0 -
+YP_031691.1          -          NP_932301.1          -              0.049   12.7   2.8      0.12   11.5   2.8   1.6   1   1   0   1   1   1   0 -
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/94_putative_minor_coat_../94_putative_minor_coat_.._PF10734_.faa
+# Target file:     /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/94_putative_minor_coat_../94_putative_minor_coat_.._PF10734__myviral_jackhmmer.table ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/94_putative_minor_coat_../94_putative_minor_coat_.._PF10734_.faa /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Tue Dec 21 18:45:29 2021
+# [ok]

@@ -1,0 +1,7 @@
+source:/home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/results/Get_homologues/Genomoviridae/cluster_9_homologues_19062021_0746_intersection	Faeces-associated-gemycircularvirus-7_taxid_1391036.gbk	Gemycircularvirus-sp_taxid_1983771.gbk	Human-associated-gemyvongvirus-1_taxid_1985415.gbk	Mosquito-VEM-virus-SDBVL-G_taxid_1034805.gbk	Pacific-flying-fox-faeces-associated-gemycircularvirus-12_taxid_1795991.gbk	Sewage-associated-gemycircularvirus-7a_taxid_1519402.gbk	
+1_capsid_protein.faa	ID:YP_009109724.1,	ID:YP_009551493.1,	ID:YP_009181995.1,	ID:YP_009506589.1,	ID:YP_009506634.1,	ID:YP_009115535.1,	
+2_replication_associat...faa	ID:YP_009109725.1,	-	-	ID:YP_009506586.1,	ID:YP_009506635.1,	-	
+3_Rep.faa	-	ID:YP_009551492.1,	ID:YP_009181996.1,	-	ID:YP_009506636.1,	ID:YP_009115515.1,ID:YP_009115516.1,	
+7_ORF3.faa	-	-	ID:YP_009181997.1,	-	-	-	
+9_hypothetical_protein.faa	-	-	-	ID:YP_009506587.1,	-	-	
+10_Rep2.faa	-	-	-	ID:YP_009506588.1,	-	-	

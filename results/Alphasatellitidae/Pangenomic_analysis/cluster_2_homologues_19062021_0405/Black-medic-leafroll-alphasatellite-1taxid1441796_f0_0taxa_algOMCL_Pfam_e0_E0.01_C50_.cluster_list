@@ -1,0 +1,6 @@
+cluster 4_orf2 size=1 taxa=1 file: 4_orf2.faa dnafile: 4_orf2.fna
+: Faba-bean-necrotic-yellows-C1-alphasatellite_taxid_1453080.gbk
+cluster 5_orf1 size=1 taxa=1 Pfam=PF02407,PF00910, file: 5_orf1.faa dnafile: 5_orf1.fna
+: Faba-bean-necrotic-yellows-C1-alphasatellite_taxid_1453080.gbk
+cluster 6_orf3 size=1 taxa=1 file: 6_orf3.faa dnafile: 6_orf3.fna
+: Faba-bean-necrotic-yellows-C1-alphasatellite_taxid_1453080.gbk

@@ -1,0 +1,597 @@
+cluster 1_Putative_nonstructur.. size=1 taxa=1 file: 1_Putative_nonstructur...faa dnafile: 1_Putative_nonstructur...fna
+: Acheta-domestica-densovirus_taxid_185639.gbk
+cluster 2_Putative_nonstructur.. size=27 taxa=27 Pfam=PF01057, file: 2_Putative_nonstructur...faa dnafile: 2_Putative_nonstructur...fna
+: Acheta-domestica-densovirus_taxid_185639.gbk
+: Acheta-domestica-mini-ambidensovirus_taxid_1404345.gbk
+: Blattella-germanica-densovirus-1_taxid_220638.gbk
+: Bombus-cryptarum-densovirus_taxid_2094261.gbk
+: Bombyx-mori-densovirus-1_taxid_46253.gbk
+: Bombyx-mori-densovirus-5_taxid_125788.gbk
+: Casphalia-extranea-densovirus_taxid_180586.gbk
+: Cherax-quadricarinatus-densovirus_taxid_1642018.gbk
+: Culex-pipiens-densovirus_taxid_185638.gbk
+: Danaus-plexippus-plexippus-iteravirus_taxid_1469956.gbk
+: Dendrolimus-punctatus-densovirus_taxid_292208.gbk
+: Diaphorina-citri-densovirus_taxid_1776153.gbk
+: Diatraea-saccharalis-densovirus_taxid_72003.gbk
+: Dysaphis-plantaginea-densovirus_taxid_551224.gbk
+: Galleria-mellonella-densovirus_taxid_37138.gbk
+: Helicoverpa-armigera-densovirus_taxid_1045778.gbk
+: Junonia-coenia-densovirus_taxid_12524.gbk
+: Mythimna-loreyi-densovirus_taxid_185636.gbk
+: Myzus-persicae-densovirus_taxid_210016.gbk
+: Papilio-polyxenes-densovirus_taxid_1221208.gbk
+: Parus-major-densovirus_taxid_1907771.gbk
+: Periplaneta-fuliginosa-densovirus_taxid_97344.gbk
+: Planococcus-citri-densovirus_taxid_159153.gbk
+: Pseudoplusia-includens-densovirus_taxid_185637.gbk
+: Sea-star-associated-densovirus_taxid_1979755.gbk
+: Sibine-fusca-densovirus_taxid_1217821.gbk
+: Solenopsis-invicta-densovirus_taxid_1414671.gbk
+cluster 3_Putative_nonstructur.. size=12 taxa=12 file: 3_Putative_nonstructur...faa dnafile: 3_Putative_nonstructur...fna
+: Acheta-domestica-densovirus_taxid_185639.gbk
+: Blattella-germanica-densovirus-1_taxid_220638.gbk
+: Cherax-quadricarinatus-densovirus_taxid_1642018.gbk
+: Culex-pipiens-densovirus_taxid_185638.gbk
+: Diatraea-saccharalis-densovirus_taxid_72003.gbk
+: Galleria-mellonella-densovirus_taxid_37138.gbk
+: Junonia-coenia-densovirus_taxid_12524.gbk
+: Mythimna-loreyi-densovirus_taxid_185636.gbk
+: Parus-major-densovirus_taxid_1907771.gbk
+: Periplaneta-fuliginosa-densovirus_taxid_97344.gbk
+: Pseudoplusia-includens-densovirus_taxid_185637.gbk
+: Solenopsis-invicta-densovirus_taxid_1414671.gbk
+cluster 4_Putative_structural_.. size=22 taxa=12 Pfam=PF02336, file: 4_Putative_structural_...faa dnafile: 4_Putative_structural_...fna
+: Acheta-domestica-densovirus_taxid_185639.gbk
+: Blattella-germanica-densovirus-1_taxid_220638.gbk
+: Blattella-germanica-densovirus-1_taxid_220638.gbk
+: Blattella-germanica-densovirus-1_taxid_220638.gbk
+: Diatraea-saccharalis-densovirus_taxid_72003.gbk
+: Diatraea-saccharalis-densovirus_taxid_72003.gbk
+: Diatraea-saccharalis-densovirus_taxid_72003.gbk
+: Dysaphis-plantaginea-densovirus_taxid_551224.gbk
+: Galleria-mellonella-densovirus_taxid_37138.gbk
+: Galleria-mellonella-densovirus_taxid_37138.gbk
+: Galleria-mellonella-densovirus_taxid_37138.gbk
+: Mythimna-loreyi-densovirus_taxid_185636.gbk
+: Mythimna-loreyi-densovirus_taxid_185636.gbk
+: Mythimna-loreyi-densovirus_taxid_185636.gbk
+: Myzus-persicae-densovirus_taxid_210016.gbk
+: Parus-major-densovirus_taxid_1907771.gbk
+: Periplaneta-fuliginosa-densovirus_taxid_97344.gbk
+: Planococcus-citri-densovirus_taxid_159153.gbk
+: Pseudoplusia-includens-densovirus_taxid_185637.gbk
+: Pseudoplusia-includens-densovirus_taxid_185637.gbk
+: Pseudoplusia-includens-densovirus_taxid_185637.gbk
+: Solenopsis-invicta-densovirus_taxid_1414671.gbk
+cluster 5_Putative_structural_.. size=2 taxa=2 Pfam=PF08398, file: 5_Putative_structural_...faa dnafile: 5_Putative_structural_...fna
+: Acheta-domestica-densovirus_taxid_185639.gbk
+: Periplaneta-fuliginosa-densovirus_taxid_97344.gbk
+cluster 6_NS3 size=1 taxa=1 file: 6_NS3.faa dnafile: 6_NS3.fna
+: Acheta-domestica-mini-ambidensovirus_taxid_1404345.gbk
+cluster 8_NS2 size=1 taxa=1 file: 8_NS2.faa dnafile: 8_NS2.fna
+: Acheta-domestica-mini-ambidensovirus_taxid_1404345.gbk
+cluster 9_VP1 size=1 taxa=1 Pfam=PF08398,PF02336,PF02336, file: 9_VP1.faa dnafile: 9_VP1.fna
+: Acheta-domestica-mini-ambidensovirus_taxid_1404345.gbk
+cluster 10_nonstructural_protei.. size=45 taxa=44 Pfam=PF08724,PF01057, file: 10_nonstructural_protei...faa dnafile: 10_nonstructural_protei...fna
+: Adeno-associated-virus--1_taxid_85106.gbk
+: Adeno-associated-virus--2_taxid_10804.gbk
+: Adeno-associated-virus--2_taxid_10804.gbk
+: Adeno-associated-virus--3_taxid_46350.gbk
+: Adeno-associated-virus--4_taxid_57579.gbk
+: Adeno-associated-virus--5_taxid_82300.gbk
+: Adeno-associated-virus--7_taxid_202812.gbk
+: Adeno-associated-virus--8_taxid_202813.gbk
+: Adeno-associated-virus_taxid_272636.gbk
+: Artibeus-jamaicensis-parvovirus-1_taxid_1131485.gbk
+: Avian-adeno-associated-virus-ATCC-VR-865_taxid_219704.gbk
+: Avian-adeno-associated-virus-strain-DA-1_taxid_281492.gbk
+: Bat-adeno-associated-virus-YNM_taxid_727962.gbk
+: Bearded-dragon-parvovirus_taxid_1670662.gbk
+: Bosavirus-MS-2016a_taxid_1917013.gbk
+: Bovine-adeno-associated-virus_taxid_256548.gbk
+: Bovine-hokovirus-1_taxid_494651.gbk
+: Bovine-parvovirus--2_taxid_172296.gbk
+: Bovine-parvovirus-3_taxid_172297.gbk
+: California-sea-lion-adeno-associated-virus-1_taxid_1073950.gbk
+: Chipmunk-parvovirus_taxid_56820.gbk
+: Eidolon-helvum-bat-parvovirus_taxid_1131483.gbk
+: Equine-parvovirus-H_taxid_2079554.gbk
+: Goose-parvovirus_taxid_38251.gbk
+: Human-erythrovirus-V9_taxid_72197.gbk
+: Human-parvovirus-4-G1_taxid_1511919.gbk
+: Human-parvovirus-B19_taxid_10798.gbk
+: Muscovy-duck-parvovirus_taxid_37325.gbk
+: Ovine-hokovirus_taxid_1096142.gbk
+: Parvovirus-YX-2010-CHN_taxid_754189.gbk
+: Pig-tailed-macaque-parvovirus_taxid_119755.gbk
+: Porcine-hokovirus_taxid_494652.gbk
+: Porcine-partetravirus_taxid_1208310.gbk
+: Porcine-parvovirus-2_taxid_1126383.gbk
+: Porcine-parvovirus-4_taxid_707546.gbk
+: Porcine-parvovirus-5_taxid_1241957.gbk
+: Porcine-parvovirus-6_taxid_1472911.gbk
+: Rhesus-macaque-parvovirus_taxid_119756.gbk
+: Sesavirus-CSL10538_taxid_1519097.gbk
+: Simian-parvovirus_taxid_31598.gbk
+: Slow-loris-parvovirus-1_taxid_1581151.gbk
+: Snake-adeno-associated-virus_taxid_252602.gbk
+: Tetraparvovirus-sp_taxid_1908804.gbk
+: Ungulate-tetraparvovirus-1_taxid_1511914.gbk
+: Ungulate-tetraparvovirus-3_taxid_1511916.gbk
+cluster 11_capsid_protein size=72 taxa=72 Pfam=PF08398,PF00740, file: 11_capsid_protein.faa dnafile: 11_capsid_protein.fna
+: Adeno-associated-virus--1_taxid_85106.gbk
+: Adeno-associated-virus--2_taxid_10804.gbk
+: Adeno-associated-virus--3_taxid_46350.gbk
+: Adeno-associated-virus--4_taxid_57579.gbk
+: Adeno-associated-virus--5_taxid_82300.gbk
+: Adeno-associated-virus--7_taxid_202812.gbk
+: Adeno-associated-virus--8_taxid_202813.gbk
+: Adeno-associated-virus_taxid_272636.gbk
+: Artibeus-jamaicensis-parvovirus-1_taxid_1131485.gbk
+: Avian-adeno-associated-virus-strain-DA-1_taxid_281492.gbk
+: Bat-adeno-associated-virus-YNM_taxid_727962.gbk
+: Bat-bocavirus-WM40_taxid_2259810.gbk
+: Bat-bocavirus_taxid_1329649.gbk
+: Bearded-dragon-parvovirus_taxid_1670662.gbk
+: Bocavirus-gorilla-GBoV1-2009_taxid_864686.gbk
+: Bosavirus-MS-2016a_taxid_1917013.gbk
+: Bovine-adeno-associated-virus_taxid_256548.gbk
+: Bovine-hokovirus-1_taxid_494651.gbk
+: Bovine-parvovirus-1_taxid_365609.gbk
+: Bovine-parvovirus_taxid_10784.gbk
+: Bufavirus-3_taxid_1391667.gbk
+: California-sea-lion-adeno-associated-virus-1_taxid_1073950.gbk
+: California-sea-lion-bocavirus-1_taxid_1073959.gbk
+: California-sea-lion-bocavirus-3_taxid_1073961.gbk
+: Canine-bocavirus-1_taxid_1511885.gbk
+: Canine-minute-virus_taxid_329639.gbk
+: Canine-parvovirus_taxid_10788.gbk
+: Chipmunk-parvovirus_taxid_56820.gbk
+: Cutavirus_taxid_1867125.gbk
+: Dromedary-camel-bocaparvovirus-1_taxid_2014603.gbk
+: Eidolon-helvum-bat-parvovirus_taxid_1131483.gbk
+: Eulipotyphla-protoparvovirus-1_taxid_2170148.gbk
+: Feline-bocaparvovirus-3_taxid_2259807.gbk
+: Feline-bocavirus_taxid_1174530.gbk
+: Goose-parvovirus_taxid_38251.gbk
+: Human-bocavirus-2c-PK_taxid_1511882.gbk
+: Human-bocavirus-3_taxid_638313.gbk
+: Human-bocavirus-4-NI_taxid_1511883.gbk
+: Human-erythrovirus-V9_taxid_72197.gbk
+: Human-parvovirus-B19_taxid_10798.gbk
+: Lagomorph-bocaparvovirus-1_taxid_2169774.gbk
+: Lupine-bocavirus_taxid_2017714.gbk
+: Megabat-bufavirus-1_taxid_1756191.gbk
+: Mink-bocavirus-1_taxid_2259808.gbk
+: Minute-virus-of-mice_taxid_10794.gbk
+: Muscovy-duck-parvovirus_taxid_37325.gbk
+: Myotis-myotis-bocavirus-1_taxid_1195367.gbk
+: Ovine-hokovirus_taxid_1096142.gbk
+: Parvovirus-YX-2010-CHN_taxid_754189.gbk
+: Pig-tailed-macaque-parvovirus_taxid_119755.gbk
+: Porcine-bocavirus-1-pig-ZJD-China-2006_taxid_795694.gbk
+: Porcine-bocavirus-3_taxid_1084715.gbk
+: Porcine-bocavirus-5-JS677_taxid_1131622.gbk
+: Porcine-bocavirus_taxid_1165907.gbk
+: Porcine-parvovirus-2_taxid_1126383.gbk
+: Porcine-parvovirus_taxid_10796.gbk
+: Primate-bocaparvovirus-1_taxid_1511871.gbk
+: Primate-protoparvovirus-1_taxid_1511907.gbk
+: Rat-bocavirus_taxid_1788315.gbk
+: Rat-bufavirus-SY-2015_taxid_1763507.gbk
+: Rhesus-macaque-parvovirus_taxid_119756.gbk
+: Rhinolophus-pusillus-bocaparvovirus-1_taxid_2053079.gbk
+: Rhinolophus-pusillus-bocaparvovirus-2_taxid_2053080.gbk
+: Sea-otter-parvovirus-1_taxid_1882382.gbk
+: Simian-parvovirus_taxid_31598.gbk
+: Slow-loris-parvovirus-1_taxid_1581151.gbk
+: Snake-adeno-associated-virus_taxid_252602.gbk
+: Tetraparvovirus-sp_taxid_1908804.gbk
+: Ungulate-bocaparvovirus-6_taxid_1864484.gbk
+: Ungulate-tetraparvovirus-1_taxid_1511914.gbk
+: Ungulate-tetraparvovirus-3_taxid_1511916.gbk
+: Wuharv-parvovirus-1_taxid_1245561.gbk
+cluster 14_Rep_40_protein size=47 taxa=41 Pfam=PF01057, file: 14_Rep_40_protein.faa dnafile: 14_Rep_40_protein.fna
+: Adeno-associated-virus--2_taxid_10804.gbk
+: Adeno-associated-virus--2_taxid_10804.gbk
+: Bat-bocavirus-WM40_taxid_2259810.gbk
+: Bat-bocavirus-XM30_taxid_2259811.gbk
+: Bat-bocavirus_taxid_1329649.gbk
+: Bocavirus-gorilla-GBoV1-2009_taxid_864686.gbk
+: Bocavirus-pig-SX-China-2010_taxid_912967.gbk
+: Bovine-parvovirus-1_taxid_365609.gbk
+: Bovine-parvovirus-1_taxid_365609.gbk
+: Bovine-parvovirus_taxid_10784.gbk
+: California-sea-lion-bocavirus-1_taxid_1073959.gbk
+: California-sea-lion-bocavirus-3_taxid_1073961.gbk
+: Canine-bocavirus-1_taxid_1511885.gbk
+: Canine-minute-virus_taxid_329639.gbk
+: Chicken-parvovirus-ABU-P1_taxid_717641.gbk
+: Dromedary-camel-bocaparvovirus-1_taxid_2014603.gbk
+: Dromedary-camel-bocaparvovirus-2_taxid_2014604.gbk
+: Feline-bocaparvovirus-2_taxid_1417756.gbk
+: Feline-bocaparvovirus-3_taxid_2259807.gbk
+: Feline-bocavirus_taxid_1174530.gbk
+: Human-bocavirus-2c-PK_taxid_1511882.gbk
+: Human-bocavirus-3_taxid_638313.gbk
+: Human-bocavirus-4-NI_taxid_1511883.gbk
+: Human-bocavirus-4-NI_taxid_1511883.gbk
+: Lagomorph-bocaparvovirus-1_taxid_2169774.gbk
+: Lupine-bocavirus_taxid_2017714.gbk
+: Miniopterus-schreibersii-bat-bocavirus_taxid_1911554.gbk
+: Mink-bocavirus-1_taxid_2259808.gbk
+: Myotis-myotis-bocavirus-1_taxid_1195367.gbk
+: Porcine-bocavirus-1-pig-ZJD-China-2006_taxid_795694.gbk
+: Porcine-bocavirus-3_taxid_1084715.gbk
+: Porcine-bocavirus-4-1_taxid_1084717.gbk
+: Porcine-bocavirus-5-JS677_taxid_1131622.gbk
+: Porcine-bocavirus-H18_taxid_1511887.gbk
+: Porcine-bocavirus_taxid_1165907.gbk
+: Primate-bocaparvovirus-1_taxid_1511871.gbk
+: Rat-bocavirus_taxid_1788315.gbk
+: Rat-bocavirus_taxid_1788315.gbk
+: Red-crowned-crane-parvovirus_taxid_2079601.gbk
+: Red-crowned-crane-parvovirus_taxid_2079601.gbk
+: Rhinolophus-pusillus-bocaparvovirus-1_taxid_2053079.gbk
+: Rhinolophus-pusillus-bocaparvovirus-2_taxid_2053080.gbk
+: Rhinolophus-sinicus-bocaparvovirus_taxid_1911555.gbk
+: Rhinolophus-sinicus-bocaparvovirus_taxid_1911555.gbk
+: Rousettus-leschenaultii-bocaparvovirus-1_taxid_2053082.gbk
+: Turkey-parvovirus-260_taxid_740934.gbk
+: Ungulate-bocaparvovirus-6_taxid_1864484.gbk
+cluster 17_major_coat_protein_V.. size=60 taxa=51 Pfam=PF00740, file: 17_major_coat_protein_V...faa dnafile: 17_major_coat_protein_V...fna
+: Adeno-associated-virus--2_taxid_10804.gbk
+: Adeno-associated-virus--2_taxid_10804.gbk
+: Aleutian-mink-disease-virus_taxid_28314.gbk
+: Amdoparvovirus-sp_taxid_1908805.gbk
+: Bat-bocavirus-WM40_taxid_2259810.gbk
+: Bat-bocavirus_taxid_1329649.gbk
+: Bocavirus-gorilla-GBoV1-2009_taxid_864686.gbk
+: Bocavirus-pig-SX-China-2010_taxid_912967.gbk
+: Bocavirus-pig-SX-China-2010_taxid_912967.gbk
+: Bovine-hokovirus-1_taxid_494651.gbk
+: Bovine-parvovirus-1_taxid_365609.gbk
+: Bovine-parvovirus-3_taxid_172297.gbk
+: Bovine-parvovirus_taxid_10784.gbk
+: Bufavirus-3_taxid_1391667.gbk
+: California-sea-lion-bocavirus-1_taxid_1073959.gbk
+: California-sea-lion-bocavirus-3_taxid_1073961.gbk
+: Canine-bocavirus-1_taxid_1511885.gbk
+: Canine-minute-virus_taxid_329639.gbk
+: Chipmunk-parvovirus_taxid_56820.gbk
+: Cutavirus_taxid_1867125.gbk
+: Dromedary-camel-bocaparvovirus-1_taxid_2014603.gbk
+: Dromedary-camel-bocaparvovirus-2_taxid_2014604.gbk
+: Eidolon-helvum-bat-parvovirus_taxid_1131483.gbk
+: Eulipotyphla-protoparvovirus-1_taxid_2170148.gbk
+: Feline-bocaparvovirus-3_taxid_2259807.gbk
+: Feline-bocavirus_taxid_1174530.gbk
+: Goose-parvovirus_taxid_38251.gbk
+: Goose-parvovirus_taxid_38251.gbk
+: Gray-fox-amdovirus_taxid_1093101.gbk
+: Gray-fox-amdovirus_taxid_1093101.gbk
+: Human-bocavirus-2c-PK_taxid_1511882.gbk
+: Human-bocavirus-3_taxid_638313.gbk
+: Human-bocavirus-4-NI_taxid_1511883.gbk
+: Human-erythrovirus-V9_taxid_72197.gbk
+: Human-parvovirus-B19_taxid_10798.gbk
+: Megabat-bufavirus-1_taxid_1756191.gbk
+: Mink-bocavirus-1_taxid_2259808.gbk
+: Minute-virus-of-mice_taxid_10794.gbk
+: Muscovy-duck-parvovirus_taxid_37325.gbk
+: Muscovy-duck-parvovirus_taxid_37325.gbk
+: Myotis-myotis-bocavirus-1_taxid_1195367.gbk
+: Ovine-hokovirus_taxid_1096142.gbk
+: Porcine-bocavirus-3_taxid_1084715.gbk
+: Porcine-bocavirus-H18_taxid_1511887.gbk
+: Porcine-bocavirus-H18_taxid_1511887.gbk
+: Porcine-bocavirus_taxid_1165907.gbk
+: Porcine-parvovirus_taxid_10796.gbk
+: Primate-bocaparvovirus-1_taxid_1511871.gbk
+: Primate-protoparvovirus-1_taxid_1511907.gbk
+: Raccoon-dog-amdovirus_taxid_1513315.gbk
+: Raccoon-dog-amdovirus_taxid_1513315.gbk
+: Rat-bocavirus_taxid_1788315.gbk
+: Rat-bufavirus-SY-2015_taxid_1763507.gbk
+: Red-crowned-crane-parvovirus_taxid_2079601.gbk
+: Red-crowned-crane-parvovirus_taxid_2079601.gbk
+: Sea-otter-parvovirus-1_taxid_1882382.gbk
+: Simian-parvovirus_taxid_31598.gbk
+: Skunk-amdoparvovirus_taxid_1961072.gbk
+: Skunk-amdoparvovirus_taxid_1961072.gbk
+: Ungulate-tetraparvovirus-1_taxid_1511914.gbk
+cluster 18_assembly_activating_.. size=2 taxa=2 file: 18_assembly_activating_...faa dnafile: 18_assembly_activating_...fna
+: Adeno-associated-virus--2_taxid_10804.gbk
+: Bearded-dragon-parvovirus_taxid_1670662.gbk
+cluster 20_X_gene size=1 taxa=1 file: 20_X_gene.faa dnafile: 20_X_gene.fna
+: Adeno-associated-virus--2_taxid_10804.gbk
+cluster 33_NS1 size=3 taxa=3 Pfam=PF01057,PF01057, file: 33_NS1.faa dnafile: 33_NS1.fna
+: Aedes-aegypti-densovirus-2_taxid_1513196.gbk
+: Anopheles-gambiae-densovirus_taxid_487311.gbk
+: Mosquito-densovirus-BR-07_taxid_945962.gbk
+cluster 34_NS2 size=4 taxa=4 file: 34_NS2.faa dnafile: 34_NS2.fna
+: Aedes-aegypti-densovirus-2_taxid_1513196.gbk
+: Aedes-albopictus-densovirus-2_taxid_1513199.gbk
+: Anopheles-gambiae-densovirus_taxid_487311.gbk
+: Mosquito-densovirus-BR-07_taxid_945962.gbk
+cluster 35_VP size=4 taxa=4 file: 35_VP.faa dnafile: 35_VP.fna
+: Aedes-aegypti-densovirus-2_taxid_1513196.gbk
+: Aedes-albopictus-densovirus-2_taxid_1513199.gbk
+: Anopheles-gambiae-densovirus_taxid_487311.gbk
+: Mosquito-densovirus-BR-07_taxid_945962.gbk
+cluster 36_NS1 size=1 taxa=1 Pfam=PF01057,PF00519, file: 36_NS1.faa dnafile: 36_NS1.fna
+: Aedes-albopictus-densovirus-2_taxid_1513199.gbk
+cluster 39_hypothetical_protein size=5 taxa=5 Pfam=PF12475,PF12475,PF12433,PF01057, file: 39_hypothetical_protein.faa dnafile: 39_hypothetical_protein.fna
+: Aleutian-mink-disease-virus_taxid_28314.gbk
+: Amdoparvovirus-sp_taxid_1908805.gbk
+: Gray-fox-amdovirus_taxid_1093101.gbk
+: Raccoon-dog-amdovirus_taxid_1513315.gbk
+: Skunk-amdoparvovirus_taxid_1961072.gbk
+cluster 40_hypothetical_protein size=1 taxa=1 file: 40_hypothetical_protein.faa dnafile: 40_hypothetical_protein.fna
+: Aleutian-mink-disease-virus_taxid_28314.gbk
+cluster 41_hypothetical_protein size=1 taxa=1 file: 41_hypothetical_protein.faa dnafile: 41_hypothetical_protein.fna
+: Aleutian-mink-disease-virus_taxid_28314.gbk
+cluster 51_Cap size=15 taxa=15 Pfam=PF08398,PF00740,PF00740, file: 51_Cap.faa dnafile: 51_Cap.fna
+: Avian-adeno-associated-virus-ATCC-VR-865_taxid_219704.gbk
+: Bat-bocavirus-XM30_taxid_2259811.gbk
+: Bovine-parvovirus--2_taxid_172296.gbk
+: Equine-parvovirus-H_taxid_2079554.gbk
+: Feline-bocaparvovirus-2_taxid_1417756.gbk
+: Human-parvovirus-4-G1_taxid_1511919.gbk
+: Miniopterus-schreibersii-bat-bocavirus_taxid_1911554.gbk
+: Porcine-bocavirus-4-1_taxid_1084717.gbk
+: Porcine-hokovirus_taxid_494652.gbk
+: Porcine-partetravirus_taxid_1208310.gbk
+: Porcine-parvovirus-5_taxid_1241957.gbk
+: Porcine-parvovirus-6_taxid_1472911.gbk
+: Rhinolophus-sinicus-bocaparvovirus_taxid_1911555.gbk
+: Rousettus-leschenaultii-bocaparvovirus-1_taxid_2053082.gbk
+: Sesavirus-CSL10538_taxid_1519097.gbk
+cluster 57_NP1 size=36 taxa=36 Pfam=PF11733, file: 57_NP1.faa dnafile: 57_NP1.fna
+: Bat-bocavirus-WM40_taxid_2259810.gbk
+: Bat-bocavirus-XM30_taxid_2259811.gbk
+: Bat-bocavirus_taxid_1329649.gbk
+: Bocavirus-gorilla-GBoV1-2009_taxid_864686.gbk
+: Bocavirus-pig-SX-China-2010_taxid_912967.gbk
+: Bovine-parvovirus-1_taxid_365609.gbk
+: Bovine-parvovirus_taxid_10784.gbk
+: California-sea-lion-bocavirus-1_taxid_1073959.gbk
+: California-sea-lion-bocavirus-3_taxid_1073961.gbk
+: Canine-bocavirus-1_taxid_1511885.gbk
+: Canine-minute-virus_taxid_329639.gbk
+: Dromedary-camel-bocaparvovirus-1_taxid_2014603.gbk
+: Dromedary-camel-bocaparvovirus-2_taxid_2014604.gbk
+: Feline-bocaparvovirus-2_taxid_1417756.gbk
+: Feline-bocaparvovirus-3_taxid_2259807.gbk
+: Feline-bocavirus_taxid_1174530.gbk
+: Human-bocavirus-2c-PK_taxid_1511882.gbk
+: Human-bocavirus-3_taxid_638313.gbk
+: Human-bocavirus-4-NI_taxid_1511883.gbk
+: Lagomorph-bocaparvovirus-1_taxid_2169774.gbk
+: Lupine-bocavirus_taxid_2017714.gbk
+: Miniopterus-schreibersii-bat-bocavirus_taxid_1911554.gbk
+: Mink-bocavirus-1_taxid_2259808.gbk
+: Myotis-myotis-bocavirus-1_taxid_1195367.gbk
+: Porcine-bocavirus-1-pig-ZJD-China-2006_taxid_795694.gbk
+: Porcine-bocavirus-3_taxid_1084715.gbk
+: Porcine-bocavirus-4-1_taxid_1084717.gbk
+: Porcine-bocavirus-5-JS677_taxid_1131622.gbk
+: Porcine-bocavirus-H18_taxid_1511887.gbk
+: Porcine-bocavirus_taxid_1165907.gbk
+: Primate-bocaparvovirus-1_taxid_1511871.gbk
+: Rat-bocavirus_taxid_1788315.gbk
+: Rhinolophus-pusillus-bocaparvovirus-1_taxid_2053079.gbk
+: Rhinolophus-pusillus-bocaparvovirus-2_taxid_2053080.gbk
+: Rhinolophus-sinicus-bocaparvovirus_taxid_1911555.gbk
+: Rousettus-leschenaultii-bocaparvovirus-1_taxid_2053082.gbk
+cluster 63_VP2 size=18 taxa=14 Pfam=PF00740,PF00740, file: 63_VP2.faa dnafile: 63_VP2.fna
+: Bat-bocavirus-XM30_taxid_2259811.gbk
+: Chicken-parvovirus-ABU-P1_taxid_717641.gbk
+: Chicken-parvovirus-ABU-P1_taxid_717641.gbk
+: Feline-bocaparvovirus-2_taxid_1417756.gbk
+: Miniopterus-schreibersii-bat-bocavirus_taxid_1911554.gbk
+: Porcine-bocavirus-1-pig-ZJD-China-2006_taxid_795694.gbk
+: Porcine-bocavirus-4-1_taxid_1084717.gbk
+: Porcine-bocavirus-5-JS677_taxid_1131622.gbk
+: Porcine-hokovirus_taxid_494652.gbk
+: Porcine-partetravirus_taxid_1208310.gbk
+: Porcine-parvovirus-4_taxid_707546.gbk
+: Red-crowned-crane-parvovirus_taxid_2079601.gbk
+: Red-crowned-crane-parvovirus_taxid_2079601.gbk
+: Rhinolophus-sinicus-bocaparvovirus_taxid_1911555.gbk
+: Turkey-parvovirus-1078_taxid_740933.gbk
+: Turkey-parvovirus-1078_taxid_740933.gbk
+: Turkey-parvovirus-260_taxid_740934.gbk
+: Turkey-parvovirus-260_taxid_740934.gbk
+cluster 71_non-structural_prote.. size=3 taxa=3 file: 71_non-structural_prote...faa dnafile: 71_non-structural_prote...fna
+: Blattella-germanica-densovirus-1_taxid_220638.gbk
+: Parus-major-densovirus_taxid_1907771.gbk
+: Periplaneta-fuliginosa-densovirus_taxid_97344.gbk
+cluster 86_putative_NS2 size=1 taxa=1 file: 86_putative_NS2.faa dnafile: 86_putative_NS2.fna
+: Bombus-cryptarum-densovirus_taxid_2094261.gbk
+cluster 87_putative_VP1 size=7 taxa=7 Pfam=PF08398,PF02336, file: 87_putative_VP1.faa dnafile: 87_putative_VP1.fna
+: Bombus-cryptarum-densovirus_taxid_2094261.gbk
+: Culex-pipiens-densovirus_taxid_185638.gbk
+: Diatraea-saccharalis-densovirus_taxid_72003.gbk
+: Galleria-mellonella-densovirus_taxid_37138.gbk
+: Junonia-coenia-densovirus_taxid_12524.gbk
+: Mythimna-loreyi-densovirus_taxid_185636.gbk
+: Pseudoplusia-includens-densovirus_taxid_185637.gbk
+cluster 89_NS2 size=7 taxa=7 file: 89_NS2.faa dnafile: 89_NS2.fna
+: Bombyx-mori-densovirus-1_taxid_46253.gbk
+: Bombyx-mori-densovirus-5_taxid_125788.gbk
+: Casphalia-extranea-densovirus_taxid_180586.gbk
+: Danaus-plexippus-plexippus-iteravirus_taxid_1469956.gbk
+: Dendrolimus-punctatus-densovirus_taxid_292208.gbk
+: Papilio-polyxenes-densovirus_taxid_1221208.gbk
+: Sibine-fusca-densovirus_taxid_1217821.gbk
+cluster 90_capsid_protein_VP size=7 taxa=7 Pfam=PF08398,PF01057, file: 90_capsid_protein_VP.faa dnafile: 90_capsid_protein_VP.fna
+: Bombyx-mori-densovirus-1_taxid_46253.gbk
+: Bombyx-mori-densovirus-5_taxid_125788.gbk
+: Casphalia-extranea-densovirus_taxid_180586.gbk
+: Dendrolimus-punctatus-densovirus_taxid_292208.gbk
+: Helicoverpa-armigera-densovirus_taxid_1045778.gbk
+: Papilio-polyxenes-densovirus_taxid_1221208.gbk
+: Sibine-fusca-densovirus_taxid_1217821.gbk
+cluster 93_orf4 size=1 taxa=1 file: 93_orf4.faa dnafile: 93_orf4.fna
+: Bombyx-mori-densovirus-5_taxid_125788.gbk
+cluster 115_NS1 size=8 taxa=8 Pfam=PF12433,PF01057, file: 115_NS1.faa dnafile: 115_NS1.fna
+: Bufavirus-3_taxid_1391667.gbk
+: Cutavirus_taxid_1867125.gbk
+: Eulipotyphla-protoparvovirus-1_taxid_2170148.gbk
+: Megabat-bufavirus-1_taxid_1756191.gbk
+: Primate-protoparvovirus-1_taxid_1511907.gbk
+: Rat-bufavirus-SY-2015_taxid_1763507.gbk
+: Sea-otter-parvovirus-1_taxid_1882382.gbk
+: Wuharv-parvovirus-1_taxid_1245561.gbk
+cluster 117_hypothetical_protein size=3 taxa=3 file: 117_hypothetical_protein.faa dnafile: 117_hypothetical_protein.fna
+: Bufavirus-3_taxid_1391667.gbk
+: Cutavirus_taxid_1867125.gbk
+: Primate-protoparvovirus-1_taxid_1511907.gbk
+cluster 137_polyprotein size=5 taxa=4 Pfam=PF12433,PF01057,PF12117, file: 137_polyprotein.faa dnafile: 137_polyprotein.fna
+: Canine-parvovirus_taxid_10788.gbk
+: Minute-virus-of-mice_taxid_10794.gbk
+: Minute-virus-of-mice_taxid_10794.gbk
+: Porcine-parvovirus_taxid_10796.gbk
+: Rat-parvovirus-1_taxid_74581.gbk
+cluster 139_hypothetical_protein size=1 taxa=1 Pfam=PF00740, file: 139_hypothetical_protein.faa dnafile: 139_hypothetical_protein.fna
+: Canine-parvovirus_taxid_10788.gbk
+cluster 143_NS3 size=1 taxa=1 file: 143_NS3.faa dnafile: 143_NS3.fna
+: Cherax-quadricarinatus-densovirus_taxid_1642018.gbk
+cluster 146_VP size=2 taxa=2 Pfam=PF08398,PF02336, file: 146_VP.faa dnafile: 146_VP.fna
+: Cherax-quadricarinatus-densovirus_taxid_1642018.gbk
+: Sea-star-associated-densovirus_taxid_1979755.gbk
+cluster 148_NP1 size=3 taxa=3 file: 148_NP1.faa dnafile: 148_NP1.fna
+: Chicken-parvovirus-ABU-P1_taxid_717641.gbk
+: Turkey-parvovirus-1078_taxid_740933.gbk
+: Turkey-parvovirus-260_taxid_740934.gbk
+cluster 152_NS2 size=1 taxa=1 file: 152_NS2.faa dnafile: 152_NS2.fna
+: Chipmunk-parvovirus_taxid_56820.gbk
+cluster 155_NS-3 size=1 taxa=1 file: 155_NS-3.faa dnafile: 155_NS-3.fna
+: Culex-pipiens-densovirus_taxid_185638.gbk
+cluster 163_hypothetical_protein size=1 taxa=1 file: 163_hypothetical_protein.faa dnafile: 163_hypothetical_protein.fna
+: Cutavirus_taxid_1867125.gbk
+cluster 166_cap size=1 taxa=1 Pfam=PF01057, file: 166_cap.faa dnafile: 166_cap.fna
+: Danaus-plexippus-plexippus-iteravirus_taxid_1469956.gbk
+cluster 167_hypothetical_protein size=2 taxa=2 file: 167_hypothetical_protein.faa dnafile: 167_hypothetical_protein.fna
+: Decapod-penstyldensovirus-1_taxid_1513224.gbk
+: Penaeus-stylirostris-penstyldensovirus-1_taxid_1513225.gbk
+cluster 168_non-structural_prote.. size=2 taxa=2 Pfam=PF01057, file: 168_non-structural_prote...faa dnafile: 168_non-structural_prote...fna
+: Decapod-penstyldensovirus-1_taxid_1513224.gbk
+: Penaeus-stylirostris-penstyldensovirus-1_taxid_1513225.gbk
+cluster 169_37_kDa_coat_protein size=2 taxa=2 Pfam=PF16530, file: 169_37_kDa_coat_protein.faa dnafile: 169_37_kDa_coat_protein.fna
+: Decapod-penstyldensovirus-1_taxid_1513224.gbk
+: Penaeus-stylirostris-penstyldensovirus-1_taxid_1513225.gbk
+cluster 173_nonstructural_protei.. size=3 taxa=3 Pfam=PF01057, file: 173_nonstructural_protei...faa dnafile: 173_nonstructural_protei...fna
+: Desmodus-rotundus-parvovirus_taxid_1926498.gbk
+: Mouse-kidney-parvovirus_taxid_2316143.gbk
+: Porcine-parvovirus-7_taxid_1820046.gbk
+cluster 174_capsid_protein_1 size=3 taxa=3 file: 174_capsid_protein_1.faa dnafile: 174_capsid_protein_1.fna
+: Desmodus-rotundus-parvovirus_taxid_1926498.gbk
+: Mouse-kidney-parvovirus_taxid_2316143.gbk
+: Porcine-parvovirus-7_taxid_1820046.gbk
+cluster 175_putative_nonstructur.. size=1 taxa=1 file: 175_putative_nonstructur...faa dnafile: 175_putative_nonstructur...fna
+: Diaphorina-citri-densovirus_taxid_1776153.gbk
+cluster 177_putative_structural_.. size=1 taxa=1 Pfam=PF02336,PF02336, file: 177_putative_structural_...faa dnafile: 177_putative_structural_...fna
+: Diaphorina-citri-densovirus_taxid_1776153.gbk
+cluster 178_putative_structural_.. size=1 taxa=1 Pfam=PF08398, file: 178_putative_structural_...faa dnafile: 178_putative_structural_...fna
+: Diaphorina-citri-densovirus_taxid_1776153.gbk
+cluster 179_nonstructural_protei.. size=5 taxa=5 Pfam=PF17530, file: 179_nonstructural_protei...faa dnafile: 179_nonstructural_protei...fna
+: Diatraea-saccharalis-densovirus_taxid_72003.gbk
+: Galleria-mellonella-densovirus_taxid_37138.gbk
+: Junonia-coenia-densovirus_taxid_12524.gbk
+: Mythimna-loreyi-densovirus_taxid_185636.gbk
+: Pseudoplusia-includens-densovirus_taxid_185637.gbk
+cluster 194_putative_non-structu.. size=1 taxa=1 file: 194_putative_non-structu...faa dnafile: 194_putative_non-structu...fna
+: Dysaphis-plantaginea-densovirus_taxid_551224.gbk
+cluster 196_putative_structural_.. size=2 taxa=2 file: 196_putative_structural_...faa dnafile: 196_putative_structural_...fna
+: Dysaphis-plantaginea-densovirus_taxid_551224.gbk
+: Myzus-persicae-densovirus_taxid_210016.gbk
+cluster 199_MARF size=1 taxa=1 file: 199_MARF.faa dnafile: 199_MARF.fna
+: Eidolon-helvum-bat-parvovirus_taxid_1131483.gbk
+cluster 218_NS2 size=3 taxa=3 file: 218_NS2.faa dnafile: 218_NS2.fna
+: Fenneropenaeus-chinensis-hepandensovirus_taxid_797418.gbk
+: Penaeus-monodon-hepandensovirus-1_taxid_1513204.gbk
+: Penaeus-monodon-hepandensovirus-4_taxid_1513208.gbk
+cluster 219_NS1 size=3 taxa=3 Pfam=PF00519, file: 219_NS1.faa dnafile: 219_NS1.fna
+: Fenneropenaeus-chinensis-hepandensovirus_taxid_797418.gbk
+: Penaeus-monodon-hepandensovirus-1_taxid_1513204.gbk
+: Penaeus-monodon-hepandensovirus-4_taxid_1513208.gbk
+cluster 220_CP size=3 taxa=3 file: 220_CP.faa dnafile: 220_CP.fna
+: Fenneropenaeus-chinensis-hepandensovirus_taxid_797418.gbk
+: Penaeus-monodon-hepandensovirus-1_taxid_1513204.gbk
+: Penaeus-monodon-hepandensovirus-4_taxid_1513208.gbk
+cluster 233_NS2 size=3 taxa=3 Pfam=PF12475, file: 233_NS2.faa dnafile: 233_NS2.fna
+: Gray-fox-amdovirus_taxid_1093101.gbk
+: Raccoon-dog-amdovirus_taxid_1513315.gbk
+: Skunk-amdoparvovirus_taxid_1961072.gbk
+cluster 234_NS3 size=3 taxa=3 Pfam=PF12475, file: 234_NS3.faa dnafile: 234_NS3.fna
+: Gray-fox-amdovirus_taxid_1093101.gbk
+: Raccoon-dog-amdovirus_taxid_1513315.gbk
+: Skunk-amdoparvovirus_taxid_1961072.gbk
+cluster 237_NS2 size=1 taxa=1 file: 237_NS2.faa dnafile: 237_NS2.fna
+: Helicoverpa-armigera-densovirus_taxid_1045778.gbk
+cluster 254_7.5-kDa size=2 taxa=2 file: 254_7.5-kDa.faa dnafile: 254_7.5-kDa.fna
+: Human-erythrovirus-V9_taxid_72197.gbk
+: Human-parvovirus-B19_taxid_10798.gbk
+cluster 256_X size=2 taxa=2 Pfam=PF06795, file: 256_X.faa dnafile: 256_X.fna
+: Human-erythrovirus-V9_taxid_72197.gbk
+: Human-parvovirus-B19_taxid_10798.gbk
+cluster 258_11-kDa size=2 taxa=2 file: 258_11-kDa.faa dnafile: 258_11-kDa.fna
+: Human-erythrovirus-V9_taxid_72197.gbk
+: Human-parvovirus-B19_taxid_10798.gbk
+cluster 280_NS1 size=1 taxa=1 Pfam=PF01057,PF11733, file: 280_NS1.faa dnafile: 280_NS1.fna
+: Miniopterus-schreibersii-bat-bocavirus_taxid_1911554.gbk
+cluster 292_VP size=1 taxa=1 file: 292_VP.faa dnafile: 292_VP.fna
+: Minute-virus-of-mice_taxid_10794.gbk
+cluster 293_VP size=1 taxa=1 file: 293_VP.faa dnafile: 293_VP.fna
+: Minute-virus-of-mice_taxid_10794.gbk
+cluster 294_VP size=1 taxa=1 file: 294_VP.faa dnafile: 294_VP.fna
+: Minute-virus-of-mice_taxid_10794.gbk
+cluster 299_nonstructural_protei.. size=2 taxa=1 file: 299_nonstructural_protei...faa dnafile: 299_nonstructural_protei...fna
+: Mouse-kidney-parvovirus_taxid_2316143.gbk
+: Mouse-kidney-parvovirus_taxid_2316143.gbk
+cluster 318_putative_nonstructur.. size=1 taxa=1 file: 318_putative_nonstructur...faa dnafile: 318_putative_nonstructur...fna
+: Myzus-persicae-densovirus_taxid_210016.gbk
+cluster 319_putative_nonstructur.. size=1 taxa=1 file: 319_putative_nonstructur...faa dnafile: 319_putative_nonstructur...fna
+: Myzus-persicae-densovirus_taxid_210016.gbk
+cluster 333_ORF2 size=1 taxa=1 file: 333_ORF2.faa dnafile: 333_ORF2.fna
+: Parus-major-densovirus_taxid_1907771.gbk
+cluster 334_putative_15-kDa_prot.. size=1 taxa=1 file: 334_putative_15-kDa_prot...faa dnafile: 334_putative_15-kDa_prot...fna
+: Parvovirus-NIH-CQV_taxid_1341019.gbk
+cluster 335_rep size=1 taxa=1 file: 335_rep.faa dnafile: 335_rep.fna
+: Parvovirus-NIH-CQV_taxid_1341019.gbk
+cluster 336_cap size=1 taxa=1 Pfam=PF08398, file: 336_cap.faa dnafile: 336_cap.fna
+: Parvovirus-NIH-CQV_taxid_1341019.gbk
+cluster 350_hypothetical_protein size=1 taxa=1 file: 350_hypothetical_protein.faa dnafile: 350_hypothetical_protein.fna
+: Periplaneta-fuliginosa-densovirus_taxid_97344.gbk
+cluster 351_hypothetical_protein size=1 taxa=1 file: 351_hypothetical_protein.faa dnafile: 351_hypothetical_protein.fna
+: Periplaneta-fuliginosa-densovirus_taxid_97344.gbk
+cluster 355_structural_protein_f.. size=1 taxa=1 file: 355_structural_protein_f...faa dnafile: 355_structural_protein_f...fna
+: Periplaneta-fuliginosa-densovirus_taxid_97344.gbk
+cluster 358_putative_structural_.. size=1 taxa=1 Pfam=PF08398, file: 358_putative_structural_...faa dnafile: 358_putative_structural_...fna
+: Planococcus-citri-densovirus_taxid_159153.gbk
+cluster 361_putative_nonstructur.. size=1 taxa=1 file: 361_putative_nonstructur...faa dnafile: 361_putative_nonstructur...fna
+: Planococcus-citri-densovirus_taxid_159153.gbk
+cluster 395_ORF3_protein size=1 taxa=1 file: 395_ORF3_protein.faa dnafile: 395_ORF3_protein.fna
+: Porcine-parvovirus-4_taxid_707546.gbk
+cluster 403_PT4 size=3 taxa=2 file: 403_PT4.faa dnafile: 403_PT4.fna
+: Porcine-parvovirus_taxid_10796.gbk
+: Porcine-parvovirus_taxid_10796.gbk
+: Rat-parvovirus-1_taxid_74581.gbk
+cluster 408_SAT size=1 taxa=1 file: 408_SAT.faa dnafile: 408_SAT.fna
+: Porcine-parvovirus_taxid_10796.gbk
+cluster 417_non-structural_prote.. size=1 taxa=1 Pfam=PF08724,PF12433,PF01057, file: 417_non-structural_prote...faa dnafile: 417_non-structural_prote...fna
+: Protoparvovirus-Zsana-2013-HUN_taxid_1755694.gbk
+cluster 418_putative_middle_prot.. size=1 taxa=1 file: 418_putative_middle_prot...faa dnafile: 418_putative_middle_prot...fna
+: Protoparvovirus-Zsana-2013-HUN_taxid_1755694.gbk
+cluster 442_NP size=2 taxa=1 file: 442_NP.faa dnafile: 442_NP.fna
+: Red-crowned-crane-parvovirus_taxid_2079601.gbk
+: Red-crowned-crane-parvovirus_taxid_2079601.gbk
+cluster 487_NS3 size=1 taxa=1 file: 487_NS3.faa dnafile: 487_NS3.fna
+: Solenopsis-invicta-densovirus_taxid_1414671.gbk
+cluster 491_VP1 size=1 taxa=1 Pfam=PF08398, file: 491_VP1.faa dnafile: 491_VP1.fna
+: Solenopsis-invicta-densovirus_taxid_1414671.gbk
+cluster 494_NP size=1 taxa=1 file: 494_NP.faa dnafile: 494_NP.fna
+: Turkey-parvovirus-1078_taxid_740933.gbk

@@ -1,0 +1,6 @@
+"","RNA binding","DNA replication","nucleotidyltransferase activity","RNA helicase activity","modulation by virus of host process","negative regulation of gene silencing by RNA","host cell cytoplasm","endodeoxyribonuclease activity, producing 5'-phosphomonoesters","protein-DNA covalent cross-linking"
+"4_v2",NA,NA,NA,NA,TRUE,TRUE,TRUE,NA,NA
+"6_rep",NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+"25_truncated_replicatio..",NA,TRUE,TRUE,NA,NA,NA,NA,TRUE,TRUE
+"27_replication_initiato..",TRUE,TRUE,TRUE,TRUE,NA,NA,NA,TRUE,TRUE
+"29_replication_initiato..",NA,TRUE,TRUE,NA,NA,NA,NA,TRUE,TRUE

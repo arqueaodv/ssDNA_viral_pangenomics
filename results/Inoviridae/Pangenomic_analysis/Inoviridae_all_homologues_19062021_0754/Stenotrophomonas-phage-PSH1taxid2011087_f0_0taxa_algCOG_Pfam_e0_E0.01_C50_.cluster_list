@@ -1,0 +1,649 @@
+cluster 1_II size=3 taxa=3 Pfam=PF05144,PF05155, file: 1_II.faa dnafile: 1_II.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 2_X size=3 taxa=3 Pfam=PF05155, file: 2_X.faa dnafile: 2_X.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 208_hypothetical_protein size=9 taxa=9 Pfam=PF02303, file: 208_hypothetical_protein.faa dnafile: 208_hypothetical_protein.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+: Stenotrophomonas-phage-PSH1_taxid_2011087.gbk
+: Stenotrophomonas-phage-SMA6_taxid_1346893.gbk
+: Stenotrophomonas-phage-SMA9_taxid_334856.gbk
+: Stenotrophomonas-phage-phiSHP2_taxid_1027253.gbk
+: Xanthomonas-phage-Xf109_taxid_1852597.gbk
+: Xanthomonas-virus-Cf1c_taxid_10862.gbk
+cluster 4_VII size=3 taxa=3 Pfam=PF19978, file: 4_VII.faa dnafile: 4_VII.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-phage-If1_taxid_10868.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+cluster 5_IX size=2 taxa=2 file: 5_IX.faa dnafile: 5_IX.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+cluster 6_VIII size=5 taxa=5 Pfam=PF19199, file: 6_VIII.faa dnafile: 6_VIII.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-phage-If1_taxid_10868.gbk
+: Escherichia-virus-I22_taxid_10869.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 7_III size=2 taxa=2 Pfam=PF05357,PF05357, file: 7_III.faa dnafile: 7_III.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+cluster 8_VI size=4 taxa=4 Pfam=PF17537, file: 8_VI.faa dnafile: 8_VI.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-phage-If1_taxid_10868.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 9_I size=8 taxa=8 Pfam=PF05707, file: 9_I.faa dnafile: 9_I.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-phage-If1_taxid_10868.gbk
+: Escherichia-virus-I22_taxid_10869.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+: Vibrio-phage-VFJ_taxid_1340745.gbk
+: Vibrio-phage-fs2_taxid_83201.gbk
+cluster 10_IV size=3 taxa=3 Pfam=PF00263, file: 10_IV.faa dnafile: 10_IV.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-phage-If1_taxid_10868.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+cluster 11_ss-DNA_binding_prote.. size=1 taxa=1 file: 11_ss-DNA_binding_prote...faa dnafile: 11_ss-DNA_binding_prote...fna
+: Escherichia-phage-If1_taxid_10868.gbk
+cluster 13_IX size=1 taxa=1 file: 13_IX.faa dnafile: 13_IX.fna
+: Escherichia-phage-If1_taxid_10868.gbk
+cluster 15_III size=1 taxa=1 Pfam=PF05357, file: 15_III.faa dnafile: 15_III.fna
+: Escherichia-phage-If1_taxid_10868.gbk
+cluster 19_hypothetical_protein size=1 taxa=1 Pfam=PF01385,PF07282, file: 19_hypothetical_protein.faa dnafile: 19_hypothetical_protein.fna
+: Escherichia-phage-If1_taxid_10868.gbk
+cluster 20_hypothetical_protein size=1 taxa=1 Pfam=PF05155, file: 20_hypothetical_protein.faa dnafile: 20_hypothetical_protein.fna
+: Escherichia-phage-If1_taxid_10868.gbk
+cluster 22_IV size=5 taxa=5 Pfam=PF03958,PF00263, file: 22_IV.faa dnafile: 22_IV.fna
+: Escherichia-virus-I22_taxid_10869.gbk
+: Pseudomonas-phage-Pf3_taxid_10872.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+: Vibrio-phage-VFJ_taxid_1340745.gbk
+: Vibrio-phage-fs2_taxid_83201.gbk
+cluster 23_replication_initiati.. size=1 taxa=1 Pfam=PF05144,PF05155, file: 23_replication_initiati...faa dnafile: 23_replication_initiati...fna
+: Escherichia-virus-I22_taxid_10869.gbk
+cluster 24_X size=1 taxa=1 Pfam=PF05155, file: 24_X.faa dnafile: 24_X.fna
+: Escherichia-virus-I22_taxid_10869.gbk
+cluster 25_gene_V_product size=1 taxa=1 Pfam=PF17426, file: 25_gene_V_product.faa dnafile: 25_gene_V_product.fna
+: Escherichia-virus-I22_taxid_10869.gbk
+cluster 26_VII size=2 taxa=2 Pfam=PF19978, file: 26_VII.faa dnafile: 26_VII.fna
+: Escherichia-virus-I22_taxid_10869.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 27_IX size=2 taxa=2 file: 27_IX.faa dnafile: 27_IX.fna
+: Escherichia-virus-I22_taxid_10869.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 29_III size=2 taxa=2 Pfam=PF05357, file: 29_III.faa dnafile: 29_III.fna
+: Escherichia-virus-I22_taxid_10869.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 40_hypothetical_protein size=1 taxa=1 file: 40_hypothetical_protein.faa dnafile: 40_hypothetical_protein.fna
+: Propionibacterium-phage-B5_taxid_189836.gbk
+cluster 41_hypothetical_protein size=1 taxa=1 file: 41_hypothetical_protein.faa dnafile: 41_hypothetical_protein.fna
+: Propionibacterium-phage-B5_taxid_189836.gbk
+cluster 42_Putative_structural_.. size=1 taxa=1 file: 42_Putative_structural_...faa dnafile: 42_Putative_structural_...fna
+: Propionibacterium-phage-B5_taxid_189836.gbk
+cluster 43_Putative_structural_.. size=1 taxa=1 file: 43_Putative_structural_...faa dnafile: 43_Putative_structural_...fna
+: Propionibacterium-phage-B5_taxid_189836.gbk
+cluster 44_Putative_coat_protei.. size=1 taxa=1 file: 44_Putative_coat_protei...faa dnafile: 44_Putative_coat_protei...fna
+: Propionibacterium-phage-B5_taxid_189836.gbk
+cluster 45_Putative_structural_.. size=1 taxa=1 file: 45_Putative_structural_...faa dnafile: 45_Putative_structural_...fna
+: Propionibacterium-phage-B5_taxid_189836.gbk
+cluster 46_Putative_structural_.. size=1 taxa=1 file: 46_Putative_structural_...faa dnafile: 46_Putative_structural_...fna
+: Propionibacterium-phage-B5_taxid_189836.gbk
+cluster 47_hypothetical_protein size=2 taxa=2 Pfam=PF05707, file: 47_hypothetical_protein.faa dnafile: 47_hypothetical_protein.fna
+: Propionibacterium-phage-B5_taxid_189836.gbk
+: Thermus-phage-phiOH3_taxid_1968339.gbk
+cluster 48_Putative_replication.. size=1 taxa=1 Pfam=PF01446, file: 48_Putative_replication...faa dnafile: 48_Putative_replication...fna
+: Propionibacterium-phage-B5_taxid_189836.gbk
+cluster 49_hypothetical_protein size=1 taxa=1 file: 49_hypothetical_protein.faa dnafile: 49_hypothetical_protein.fna
+: Propionibacterium-phage-B5_taxid_189836.gbk
+cluster 50_hypothetical_protein size=1 taxa=1 file: 50_hypothetical_protein.faa dnafile: 50_hypothetical_protein.fna
+: Pseudomonas-phage-Pf3_taxid_10872.gbk
+cluster 51_major_coat_protein size=1 taxa=1 Pfam=PF05356, file: 51_major_coat_protein.faa dnafile: 51_major_coat_protein.fna
+: Pseudomonas-phage-Pf3_taxid_10872.gbk
+cluster 52_50-kDa_virion_protei.. size=1 taxa=1 Pfam=PF05616, file: 52_50-kDa_virion_protei...faa dnafile: 52_50-kDa_virion_protei...fna
+: Pseudomonas-phage-Pf3_taxid_10872.gbk
+cluster 53_putative_minor_coat_.. size=1 taxa=1 Pfam=PF10734, file: 53_putative_minor_coat_...faa dnafile: 53_putative_minor_coat_...fna
+: Pseudomonas-phage-Pf3_taxid_10872.gbk
+cluster 211_hypothetical_protein size=9 taxa=9 Pfam=PF05707, file: 211_hypothetical_protein.faa dnafile: 211_hypothetical_protein.fna
+: Pseudomonas-phage-Pf3_taxid_10872.gbk
+: Ralstonia-phage-PE226_taxid_926543.gbk
+: Ralstonia-phage-RSS0_taxid_1150992.gbk
+: Ralstonia-phage-RSS1_taxid_384360.gbk
+: Ralstonia-phage-p12J_taxid_247080.gbk
+: Stenotrophomonas-phage-PSH1_taxid_2011087.gbk
+: Stenotrophomonas-phage-phiSHP2_taxid_1027253.gbk
+: Xanthomonas-phage-Xf109_taxid_1852597.gbk
+: Xanthomonas-virus-Cf1c_taxid_10862.gbk
+cluster 56_hypothetical_protein size=1 taxa=1 file: 56_hypothetical_protein.faa dnafile: 56_hypothetical_protein.fna
+: Pseudomonas-phage-Pf3_taxid_10872.gbk
+cluster 57_hypothetical_protein size=1 taxa=1 file: 57_hypothetical_protein.faa dnafile: 57_hypothetical_protein.fna
+: Pseudomonas-phage-Pf3_taxid_10872.gbk
+cluster 58_ssDNA-binding_protei.. size=1 taxa=1 file: 58_ssDNA-binding_protei...faa dnafile: 58_ssDNA-binding_protei...fna
+: Pseudomonas-phage-Pf3_taxid_10872.gbk
+cluster 59_ssDNA_binding_protei.. size=1 taxa=1 file: 59_ssDNA_binding_protei...faa dnafile: 59_ssDNA_binding_protei...fna
+: Pseudomonas-virus-Pf1_taxid_2011081.gbk
+cluster 60_hypothetical_protein size=1 taxa=1 file: 60_hypothetical_protein.faa dnafile: 60_hypothetical_protein.fna
+: Pseudomonas-virus-Pf1_taxid_2011081.gbk
+cluster 61_hypothetical_protein size=1 taxa=1 file: 61_hypothetical_protein.faa dnafile: 61_hypothetical_protein.fna
+: Pseudomonas-virus-Pf1_taxid_2011081.gbk
+cluster 62_major_coat_protein size=1 taxa=1 Pfam=PF05356, file: 62_major_coat_protein.faa dnafile: 62_major_coat_protein.fna
+: Pseudomonas-virus-Pf1_taxid_2011081.gbk
+cluster 63_hypothetical_protein size=1 taxa=1 file: 63_hypothetical_protein.faa dnafile: 63_hypothetical_protein.fna
+: Pseudomonas-virus-Pf1_taxid_2011081.gbk
+cluster 64_hypothetical_protein size=1 taxa=1 Pfam=PF10734, file: 64_hypothetical_protein.faa dnafile: 64_hypothetical_protein.fna
+: Pseudomonas-virus-Pf1_taxid_2011081.gbk
+cluster 65_putative_assembly_pr.. size=5 taxa=5 Pfam=PF05707, file: 65_putative_assembly_pr...faa dnafile: 65_putative_assembly_pr...fna
+: Pseudomonas-virus-Pf1_taxid_2011081.gbk
+: Vibrio-phage-KSF1_taxid_292443.gbk
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+: Vibrio-phage-VfO3K6_taxid_127507.gbk
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+cluster 66_hypothetical_protein size=1 taxa=1 file: 66_hypothetical_protein.faa dnafile: 66_hypothetical_protein.fna
+: Pseudomonas-virus-Pf1_taxid_2011081.gbk
+cluster 67_putative_integrase size=1 taxa=1 file: 67_putative_integrase.faa dnafile: 67_putative_integrase.fna
+: Pseudomonas-virus-Pf1_taxid_2011081.gbk
+cluster 68_hypothetical_protein size=1 taxa=1 file: 68_hypothetical_protein.faa dnafile: 68_hypothetical_protein.fna
+: Pseudomonas-virus-Pf1_taxid_2011081.gbk
+cluster 69_hypothetical_protein size=1 taxa=1 file: 69_hypothetical_protein.faa dnafile: 69_hypothetical_protein.fna
+: Pseudomonas-virus-Pf1_taxid_2011081.gbk
+cluster 70_hypothetical_protein size=1 taxa=1 file: 70_hypothetical_protein.faa dnafile: 70_hypothetical_protein.fna
+: Pseudomonas-virus-Pf1_taxid_2011081.gbk
+cluster 71_hypothetical_protein size=1 taxa=1 Pfam=PF17525, file: 71_hypothetical_protein.faa dnafile: 71_hypothetical_protein.fna
+: Pseudomonas-virus-Pf1_taxid_2011081.gbk
+cluster 72_hypothetical_protein size=1 taxa=1 file: 72_hypothetical_protein.faa dnafile: 72_hypothetical_protein.fna
+: Pseudomonas-virus-Pf1_taxid_2011081.gbk
+cluster 73_rolling_circle_DNA_r.. size=6 taxa=6 file: 73_rolling_circle_DNA_r...faa dnafile: 73_rolling_circle_DNA_r...fna
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+: Ralstonia-phage-RS603_taxid_1505528.gbk
+: Ralstonia-phage-RSM1_taxid_384359.gbk
+: Ralstonia-phage-RSM3_taxid_520962.gbk
+: Ralstonia-phage-Rs551_taxid_1852598.gbk
+: Ralstonia-phage-p12J_taxid_247080.gbk
+cluster 74_hypothetical_protein size=1 taxa=1 file: 74_hypothetical_protein.faa dnafile: 74_hypothetical_protein.fna
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+cluster 75_resolvase size=4 taxa=4 Pfam=PF00239, file: 75_resolvase.faa dnafile: 75_resolvase.fna
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+: Ralstonia-phage-RSM1_taxid_384359.gbk
+: Ralstonia-phage-RSM3_taxid_520962.gbk
+: Ralstonia-phage-Rs551_taxid_1852598.gbk
+cluster 76_DNA_binding_protein size=1 taxa=1 file: 76_DNA_binding_protein.faa dnafile: 76_DNA_binding_protein.fna
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+cluster 77_single-stranded_DNA_.. size=6 taxa=6 file: 77_single-stranded_DNA_...faa dnafile: 77_single-stranded_DNA_...fna
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+: Ralstonia-phage-RS603_taxid_1505528.gbk
+: Ralstonia-phage-RSM1_taxid_384359.gbk
+: Ralstonia-phage-RSM3_taxid_520962.gbk
+: Ralstonia-phage-Rs551_taxid_1852598.gbk
+: Ralstonia-phage-p12J_taxid_247080.gbk
+cluster 78_highly_divergent_DNA.. size=1 taxa=1 file: 78_highly_divergent_DNA...faa dnafile: 78_highly_divergent_DNA...fna
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+cluster 79_hypothetical_protein size=1 taxa=1 file: 79_hypothetical_protein.faa dnafile: 79_hypothetical_protein.fna
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+cluster 80_GRPE-like_protein size=1 taxa=1 file: 80_GRPE-like_protein.faa dnafile: 80_GRPE-like_protein.fna
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+cluster 81_minor_capsid_protein size=1 taxa=1 file: 81_minor_capsid_protein.faa dnafile: 81_minor_capsid_protein.fna
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+cluster 82_minor_capsid_protein size=1 taxa=1 file: 82_minor_capsid_protein.faa dnafile: 82_minor_capsid_protein.fna
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+cluster 83_phage_assembly_prote.. size=1 taxa=1 file: 83_phage_assembly_prote...faa dnafile: 83_phage_assembly_prote...fna
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+cluster 84_termination_of_virio.. size=1 taxa=1 file: 84_termination_of_virio...faa dnafile: 84_termination_of_virio...fna
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+cluster 85_termination_of_virio.. size=1 taxa=1 Pfam=PF17537, file: 85_termination_of_virio...faa dnafile: 85_termination_of_virio...fna
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+cluster 87_hypothetical_protein size=1 taxa=1 file: 87_hypothetical_protein.faa dnafile: 87_hypothetical_protein.fna
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+cluster 88_hypothetical_protein size=1 taxa=1 file: 88_hypothetical_protein.faa dnafile: 88_hypothetical_protein.fna
+: Ralstonia-phage-1-NP-2014_taxid_1460070.gbk
+cluster 89_hypothetical_protein size=4 taxa=4 file: 89_hypothetical_protein.faa dnafile: 89_hypothetical_protein.fna
+: Ralstonia-phage-PE226_taxid_926543.gbk
+: Ralstonia-phage-RSS0_taxid_1150992.gbk
+: Ralstonia-phage-RSS1_taxid_384360.gbk
+: Ralstonia-phage-RSS20_taxid_1354496.gbk
+cluster 90_putative_minor_coat_.. size=6 taxa=6 file: 90_putative_minor_coat_...faa dnafile: 90_putative_minor_coat_...fna
+: Ralstonia-phage-PE226_taxid_926543.gbk
+: Ralstonia-phage-RS603_taxid_1505528.gbk
+: Ralstonia-phage-RSM1_taxid_384359.gbk
+: Ralstonia-phage-RSM3_taxid_520962.gbk
+: Ralstonia-phage-Rs551_taxid_1852598.gbk
+: Ralstonia-phage-p12J_taxid_247080.gbk
+cluster 91_putative_minor_coat_.. size=1 taxa=1 file: 91_putative_minor_coat_...faa dnafile: 91_putative_minor_coat_...fna
+: Ralstonia-phage-PE226_taxid_926543.gbk
+cluster 92_putative_major_coat_.. size=2 taxa=2 Pfam=PF05356, file: 92_putative_major_coat_...faa dnafile: 92_putative_major_coat_...fna
+: Ralstonia-phage-PE226_taxid_926543.gbk
+: Ralstonia-phage-p12J_taxid_247080.gbk
+cluster 93_putative_minor_coat_.. size=1 taxa=1 file: 93_putative_minor_coat_...faa dnafile: 93_putative_minor_coat_...fna
+: Ralstonia-phage-PE226_taxid_926543.gbk
+cluster 94_putative_minor_coat_.. size=2 taxa=2 Pfam=PF10734, file: 94_putative_minor_coat_...faa dnafile: 94_putative_minor_coat_...fna
+: Ralstonia-phage-PE226_taxid_926543.gbk
+: Ralstonia-phage-p12J_taxid_247080.gbk
+cluster 96_hypothetical_protein size=1 taxa=1 file: 96_hypothetical_protein.faa dnafile: 96_hypothetical_protein.fna
+: Ralstonia-phage-PE226_taxid_926543.gbk
+cluster 207_putative_replication.. size=21 taxa=20 Pfam=PF02486, file: 207_putative_replication...faa dnafile: 207_putative_replication...fna
+: Ralstonia-phage-PE226_taxid_926543.gbk
+: Ralstonia-phage-RSS0_taxid_1150992.gbk
+: Ralstonia-phage-RSS1_taxid_384360.gbk
+: Ralstonia-phage-RSS20_taxid_1354496.gbk
+: Stenotrophomonas-phage-PSH1_taxid_2011087.gbk
+: Stenotrophomonas-phage-SMA6_taxid_1346893.gbk
+: Stenotrophomonas-phage-SMA7_taxid_1343494.gbk
+: Stenotrophomonas-phage-SMA9_taxid_334856.gbk
+: Stenotrophomonas-phage-phiSHP2_taxid_1027253.gbk
+: Vibrio-phage-CTXphi_taxid_2785247.gbk
+: Vibrio-phage-CTXphi_taxid_2785247.gbk
+: Vibrio-phage-KSF1_taxid_292443.gbk
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VGJ_taxid_223524.gbk
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-phage-Vf12_taxid_127511.gbk
+: Vibrio-phage-VfO3K6_taxid_127507.gbk
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+: Vibrio-virus-Vf33_taxid_127509.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 99_hypothetical_protein size=2 taxa=2 file: 99_hypothetical_protein.faa dnafile: 99_hypothetical_protein.fna
+: Ralstonia-phage-RS603_taxid_1505528.gbk
+: Ralstonia-phage-Rs551_taxid_1852598.gbk
+cluster 101_hypothetical_protein size=4 taxa=4 file: 101_hypothetical_protein.faa dnafile: 101_hypothetical_protein.fna
+: Ralstonia-phage-RS603_taxid_1505528.gbk
+: Ralstonia-phage-RSM1_taxid_384359.gbk
+: Ralstonia-phage-RSM3_taxid_520962.gbk
+: Ralstonia-phage-Rs551_taxid_1852598.gbk
+cluster 102_hypothetical_protein size=3 taxa=3 file: 102_hypothetical_protein.faa dnafile: 102_hypothetical_protein.fna
+: Ralstonia-phage-RS603_taxid_1505528.gbk
+: Ralstonia-phage-RSM3_taxid_520962.gbk
+: Ralstonia-phage-Rs551_taxid_1852598.gbk
+cluster 103_hypothetical_protein size=5 taxa=5 file: 103_hypothetical_protein.faa dnafile: 103_hypothetical_protein.fna
+: Ralstonia-phage-RS603_taxid_1505528.gbk
+: Ralstonia-phage-RSM1_taxid_384359.gbk
+: Ralstonia-phage-RSM3_taxid_520962.gbk
+: Ralstonia-phage-Rs551_taxid_1852598.gbk
+: Stenotrophomonas-phage-SMA7_taxid_1343494.gbk
+cluster 104_hypothetical_protein size=4 taxa=4 file: 104_hypothetical_protein.faa dnafile: 104_hypothetical_protein.fna
+: Ralstonia-phage-RS603_taxid_1505528.gbk
+: Ralstonia-phage-RSM1_taxid_384359.gbk
+: Ralstonia-phage-RSM3_taxid_520962.gbk
+: Ralstonia-phage-Rs551_taxid_1852598.gbk
+cluster 105_hypothetical_protein size=4 taxa=4 file: 105_hypothetical_protein.faa dnafile: 105_hypothetical_protein.fna
+: Ralstonia-phage-RS603_taxid_1505528.gbk
+: Ralstonia-phage-RSM1_taxid_384359.gbk
+: Ralstonia-phage-RSM3_taxid_520962.gbk
+: Ralstonia-phage-Rs551_taxid_1852598.gbk
+cluster 106_hypothetical_protein size=3 taxa=3 Pfam=PF10734, file: 106_hypothetical_protein.faa dnafile: 106_hypothetical_protein.fna
+: Ralstonia-phage-RS603_taxid_1505528.gbk
+: Ralstonia-phage-RSM1_taxid_384359.gbk
+: Ralstonia-phage-Rs551_taxid_1852598.gbk
+cluster 107_hypothetical_protein size=13 taxa=13 Pfam=PF05707, file: 107_hypothetical_protein.faa dnafile: 107_hypothetical_protein.fna
+: Ralstonia-phage-RS603_taxid_1505528.gbk
+: Ralstonia-phage-RSM1_taxid_384359.gbk
+: Ralstonia-phage-RSM3_taxid_520962.gbk
+: Ralstonia-phage-Rs551_taxid_1852598.gbk
+: Stenotrophomonas-phage-SMA6_taxid_1346893.gbk
+: Stenotrophomonas-phage-SMA7_taxid_1343494.gbk
+: Stenotrophomonas-phage-SMA9_taxid_334856.gbk
+: Vibrio-phage-CTXphi_taxid_2785247.gbk
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VGJ_taxid_223524.gbk
+: Vibrio-phage-Vf12_taxid_127511.gbk
+: Vibrio-virus-Vf33_taxid_127509.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 108_hypothetical_protein size=1 taxa=1 file: 108_hypothetical_protein.faa dnafile: 108_hypothetical_protein.fna
+: Ralstonia-phage-RS603_taxid_1505528.gbk
+cluster 110_hypothetical_protein size=2 taxa=2 file: 110_hypothetical_protein.faa dnafile: 110_hypothetical_protein.fna
+: Ralstonia-phage-RS603_taxid_1505528.gbk
+: Ralstonia-phage-Rs551_taxid_1852598.gbk
+cluster 112_hypothetical_protein size=1 taxa=1 file: 112_hypothetical_protein.faa dnafile: 112_hypothetical_protein.fna
+: Ralstonia-phage-RSM1_taxid_384359.gbk
+cluster 113_hypothetical_protein size=4 taxa=4 file: 113_hypothetical_protein.faa dnafile: 113_hypothetical_protein.fna
+: Ralstonia-phage-RSM1_taxid_384359.gbk
+: Ralstonia-phage-RSS0_taxid_1150992.gbk
+: Ralstonia-phage-RSS1_taxid_384360.gbk
+: Ralstonia-phage-RSS20_taxid_1354496.gbk
+cluster 116_hypothetical_protein size=1 taxa=1 file: 116_hypothetical_protein.faa dnafile: 116_hypothetical_protein.fna
+: Ralstonia-phage-RSM1_taxid_384359.gbk
+cluster 123_hypothetical_protein size=2 taxa=2 file: 123_hypothetical_protein.faa dnafile: 123_hypothetical_protein.fna
+: Ralstonia-phage-RSM1_taxid_384359.gbk
+: Ralstonia-phage-RSM3_taxid_520962.gbk
+cluster 125_hypothetical_protein size=2 taxa=2 file: 125_hypothetical_protein.faa dnafile: 125_hypothetical_protein.fna
+: Ralstonia-phage-RSM1_taxid_384359.gbk
+: Ralstonia-phage-RSM3_taxid_520962.gbk
+cluster 127_hypothetical_protein size=1 taxa=1 file: 127_hypothetical_protein.faa dnafile: 127_hypothetical_protein.fna
+: Ralstonia-phage-RSM3_taxid_520962.gbk
+cluster 128_hypothetical_protein size=1 taxa=1 file: 128_hypothetical_protein.faa dnafile: 128_hypothetical_protein.fna
+: Ralstonia-phage-RSM3_taxid_520962.gbk
+cluster 135_hypothetical_protein size=3 taxa=3 file: 135_hypothetical_protein.faa dnafile: 135_hypothetical_protein.fna
+: Ralstonia-phage-RSM3_taxid_520962.gbk
+: Stenotrophomonas-phage-SMA7_taxid_1343494.gbk
+: Stenotrophomonas-phage-SMA9_taxid_334856.gbk
+cluster 144_major_coat_protein size=3 taxa=3 Pfam=PF05356, file: 144_major_coat_protein.faa dnafile: 144_major_coat_protein.fna
+: Ralstonia-phage-RSS0_taxid_1150992.gbk
+: Ralstonia-phage-RSS1_taxid_384360.gbk
+: Ralstonia-phage-RSS20_taxid_1354496.gbk
+cluster 145_hypothetical_protein size=3 taxa=3 file: 145_hypothetical_protein.faa dnafile: 145_hypothetical_protein.fna
+: Ralstonia-phage-RSS0_taxid_1150992.gbk
+: Ralstonia-phage-RSS1_taxid_384360.gbk
+: Ralstonia-phage-RSS20_taxid_1354496.gbk
+cluster 146_hypothetical_protein size=3 taxa=3 file: 146_hypothetical_protein.faa dnafile: 146_hypothetical_protein.fna
+: Ralstonia-phage-RSS0_taxid_1150992.gbk
+: Ralstonia-phage-RSS1_taxid_384360.gbk
+: Ralstonia-phage-RSS20_taxid_1354496.gbk
+cluster 147_hypothetical_protein size=3 taxa=3 file: 147_hypothetical_protein.faa dnafile: 147_hypothetical_protein.fna
+: Ralstonia-phage-RSS0_taxid_1150992.gbk
+: Ralstonia-phage-RSS1_taxid_384360.gbk
+: Ralstonia-phage-RSS20_taxid_1354496.gbk
+cluster 148_hypothetical_protein size=3 taxa=3 Pfam=PF10734, file: 148_hypothetical_protein.faa dnafile: 148_hypothetical_protein.fna
+: Ralstonia-phage-RSS0_taxid_1150992.gbk
+: Ralstonia-phage-RSS1_taxid_384360.gbk
+: Ralstonia-phage-RSS20_taxid_1354496.gbk
+cluster 150_hypothetical_protein size=2 taxa=2 Pfam=PF02178, file: 150_hypothetical_protein.faa dnafile: 150_hypothetical_protein.fna
+: Ralstonia-phage-RSS0_taxid_1150992.gbk
+: Ralstonia-phage-RSS1_taxid_384360.gbk
+cluster 151_hypothetical_protein size=2 taxa=2 Pfam=PF01724, file: 151_hypothetical_protein.faa dnafile: 151_hypothetical_protein.fna
+: Ralstonia-phage-RSS0_taxid_1150992.gbk
+: Ralstonia-phage-RSS1_taxid_384360.gbk
+cluster 152_hypothetical_protein size=1 taxa=1 Pfam=PF07022, file: 152_hypothetical_protein.faa dnafile: 152_hypothetical_protein.fna
+: Ralstonia-phage-RSS0_taxid_1150992.gbk
+cluster 153_hypothetical_protein size=1 taxa=1 file: 153_hypothetical_protein.faa dnafile: 153_hypothetical_protein.fna
+: Ralstonia-phage-RSS1_taxid_384360.gbk
+cluster 173_hypothetical_protein size=1 taxa=1 file: 173_hypothetical_protein.faa dnafile: 173_hypothetical_protein.fna
+: Ralstonia-phage-RSS20_taxid_1354496.gbk
+cluster 185_hypothetical_protein size=1 taxa=1 file: 185_hypothetical_protein.faa dnafile: 185_hypothetical_protein.fna
+: Ralstonia-phage-Rs551_taxid_1852598.gbk
+cluster 190_ORF3 size=1 taxa=1 file: 190_ORF3.faa dnafile: 190_ORF3.fna
+: Ralstonia-phage-p12J_taxid_247080.gbk
+cluster 192_ORF5 size=1 taxa=1 file: 192_ORF5.faa dnafile: 192_ORF5.fna
+: Ralstonia-phage-p12J_taxid_247080.gbk
+cluster 195_ORF8 size=1 taxa=1 Pfam=PF02178, file: 195_ORF8.faa dnafile: 195_ORF8.fna
+: Ralstonia-phage-p12J_taxid_247080.gbk
+cluster 209_hypothetical_protein size=3 taxa=3 file: 209_hypothetical_protein.faa dnafile: 209_hypothetical_protein.fna
+: Stenotrophomonas-phage-PSH1_taxid_2011087.gbk
+: Stenotrophomonas-phage-SMA6_taxid_1346893.gbk
+: Xanthomonas-phage-Xf109_taxid_1852597.gbk
+cluster 210_hypothetical_protein size=3 taxa=3 file: 210_hypothetical_protein.faa dnafile: 210_hypothetical_protein.fna
+: Stenotrophomonas-phage-PSH1_taxid_2011087.gbk
+: Stenotrophomonas-phage-SMA6_taxid_1346893.gbk
+: Xanthomonas-phage-Xf109_taxid_1852597.gbk
+cluster 212_hypothetical_protein size=5 taxa=5 Pfam=PF12375, file: 212_hypothetical_protein.faa dnafile: 212_hypothetical_protein.fna
+: Stenotrophomonas-phage-PSH1_taxid_2011087.gbk
+: Stenotrophomonas-phage-SMA6_taxid_1346893.gbk
+: Stenotrophomonas-phage-SMA7_taxid_1343494.gbk
+: Stenotrophomonas-phage-SMA9_taxid_334856.gbk
+: Stenotrophomonas-phage-phiSHP2_taxid_1027253.gbk
+cluster 213_hypothetical_protein size=1 taxa=1 Pfam=PF12472, file: 213_hypothetical_protein.faa dnafile: 213_hypothetical_protein.fna
+: Stenotrophomonas-phage-PSH1_taxid_2011087.gbk
+cluster 218_hypothetical_protein size=2 taxa=2 Pfam=PF10734, file: 218_hypothetical_protein.faa dnafile: 218_hypothetical_protein.fna
+: Stenotrophomonas-phage-SMA6_taxid_1346893.gbk
+: Xanthomonas-phage-Xf109_taxid_1852597.gbk
+cluster 220_trbP-related size=3 taxa=3 Pfam=PF05857, file: 220_trbP-related.faa dnafile: 220_trbP-related.fna
+: Stenotrophomonas-phage-SMA6_taxid_1346893.gbk
+: Xanthomonas-phage-Xf109_taxid_1852597.gbk
+: Xanthomonas-virus-Cf1c_taxid_10862.gbk
+cluster 222_hypothetical_protein size=12 taxa=12 Pfam=PF12472, file: 222_hypothetical_protein.faa dnafile: 222_hypothetical_protein.fna
+: Stenotrophomonas-phage-SMA6_taxid_1346893.gbk
+: Stenotrophomonas-phage-SMA7_taxid_1343494.gbk
+: Stenotrophomonas-phage-SMA9_taxid_334856.gbk
+: Stenotrophomonas-phage-phiSHP2_taxid_1027253.gbk
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VFJ_taxid_1340745.gbk
+: Vibrio-phage-VGJ_taxid_223524.gbk
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-phage-VfO3K6_taxid_127507.gbk
+: Xanthomonas-phage-Xf109_taxid_1852597.gbk
+: Xanthomonas-virus-Cf1c_taxid_10862.gbk
+cluster 223_hypothetical_protein size=1 taxa=1 file: 223_hypothetical_protein.faa dnafile: 223_hypothetical_protein.fna
+: Stenotrophomonas-phage-SMA6_taxid_1346893.gbk
+cluster 226_hypothetical_protein size=1 taxa=1 file: 226_hypothetical_protein.faa dnafile: 226_hypothetical_protein.fna
+: Stenotrophomonas-phage-SMA7_taxid_1343494.gbk
+cluster 228_hypothetical_protein size=1 taxa=1 file: 228_hypothetical_protein.faa dnafile: 228_hypothetical_protein.fna
+: Stenotrophomonas-phage-SMA7_taxid_1343494.gbk
+cluster 229_hypothetical_protein size=1 taxa=1 file: 229_hypothetical_protein.faa dnafile: 229_hypothetical_protein.fna
+: Stenotrophomonas-phage-SMA7_taxid_1343494.gbk
+cluster 230_hypothetical_protein size=1 taxa=1 file: 230_hypothetical_protein.faa dnafile: 230_hypothetical_protein.fna
+: Stenotrophomonas-phage-SMA7_taxid_1343494.gbk
+cluster 239_hypothetical_protein size=1 taxa=1 file: 239_hypothetical_protein.faa dnafile: 239_hypothetical_protein.fna
+: Stenotrophomonas-phage-SMA9_taxid_334856.gbk
+cluster 243_hypothetical_protein size=1 taxa=1 file: 243_hypothetical_protein.faa dnafile: 243_hypothetical_protein.fna
+: Stenotrophomonas-phage-phiSHP2_taxid_1027253.gbk
+cluster 244_hypothetical_protein size=1 taxa=1 file: 244_hypothetical_protein.faa dnafile: 244_hypothetical_protein.fna
+: Stenotrophomonas-phage-phiSHP2_taxid_1027253.gbk
+cluster 245_hypothetical_protein size=1 taxa=1 file: 245_hypothetical_protein.faa dnafile: 245_hypothetical_protein.fna
+: Stenotrophomonas-phage-phiSHP2_taxid_1027253.gbk
+cluster 246_hypothetical_protein size=1 taxa=1 Pfam=PF10734, file: 246_hypothetical_protein.faa dnafile: 246_hypothetical_protein.fna
+: Stenotrophomonas-phage-phiSHP2_taxid_1027253.gbk
+cluster 250_II size=1 taxa=1 file: 250_II.faa dnafile: 250_II.fna
+: Thermus-phage-phiOH3_taxid_1968339.gbk
+cluster 251_V size=1 taxa=1 file: 251_V.faa dnafile: 251_V.fna
+: Thermus-phage-phiOH3_taxid_1968339.gbk
+cluster 252_VII size=1 taxa=1 file: 252_VII.faa dnafile: 252_VII.fna
+: Thermus-phage-phiOH3_taxid_1968339.gbk
+cluster 253_IX size=1 taxa=1 file: 253_IX.faa dnafile: 253_IX.fna
+: Thermus-phage-phiOH3_taxid_1968339.gbk
+cluster 254_VIII size=1 taxa=1 file: 254_VIII.faa dnafile: 254_VIII.fna
+: Thermus-phage-phiOH3_taxid_1968339.gbk
+cluster 255_III size=1 taxa=1 Pfam=PF18884,PF18884, file: 255_III.faa dnafile: 255_III.fna
+: Thermus-phage-phiOH3_taxid_1968339.gbk
+cluster 256_VI size=1 taxa=1 file: 256_VI.faa dnafile: 256_VI.fna
+: Thermus-phage-phiOH3_taxid_1968339.gbk
+cluster 258_protein_A size=3 taxa=3 file: 258_protein_A.faa dnafile: 258_protein_A.fna
+: Uncultured-phage-WW-nAnB-strain-2_taxid_1449896.gbk
+: Uncultured-phage-WW-nAnB-strain-3_taxid_1449897.gbk
+: uncultured-phage-WW-nAnB_taxid_1074044.gbk
+cluster 259_protein_B size=1 taxa=1 file: 259_protein_B.faa dnafile: 259_protein_B.fna
+: Uncultured-phage-WW-nAnB-strain-2_taxid_1449896.gbk
+cluster 260_protein_C size=2 taxa=2 file: 260_protein_C.faa dnafile: 260_protein_C.fna
+: Uncultured-phage-WW-nAnB-strain-2_taxid_1449896.gbk
+: uncultured-phage-WW-nAnB_taxid_1074044.gbk
+cluster 261_protein_D size=3 taxa=3 file: 261_protein_D.faa dnafile: 261_protein_D.fna
+: Uncultured-phage-WW-nAnB-strain-2_taxid_1449896.gbk
+: Uncultured-phage-WW-nAnB-strain-3_taxid_1449897.gbk
+: uncultured-phage-WW-nAnB_taxid_1074044.gbk
+cluster 262_protein_E size=3 taxa=3 file: 262_protein_E.faa dnafile: 262_protein_E.fna
+: Uncultured-phage-WW-nAnB-strain-2_taxid_1449896.gbk
+: Uncultured-phage-WW-nAnB-strain-3_taxid_1449897.gbk
+: uncultured-phage-WW-nAnB_taxid_1074044.gbk
+cluster 263_protein_F size=3 taxa=3 file: 263_protein_F.faa dnafile: 263_protein_F.fna
+: Uncultured-phage-WW-nAnB-strain-2_taxid_1449896.gbk
+: Uncultured-phage-WW-nAnB-strain-3_taxid_1449897.gbk
+: uncultured-phage-WW-nAnB_taxid_1074044.gbk
+cluster 264_protein_G size=3 taxa=3 file: 264_protein_G.faa dnafile: 264_protein_G.fna
+: Uncultured-phage-WW-nAnB-strain-2_taxid_1449896.gbk
+: Uncultured-phage-WW-nAnB-strain-3_taxid_1449897.gbk
+: uncultured-phage-WW-nAnB_taxid_1074044.gbk
+cluster 265_protein_H size=3 taxa=3 Pfam=PF05707, file: 265_protein_H.faa dnafile: 265_protein_H.fna
+: Uncultured-phage-WW-nAnB-strain-2_taxid_1449896.gbk
+: Uncultured-phage-WW-nAnB-strain-3_taxid_1449897.gbk
+: uncultured-phage-WW-nAnB_taxid_1074044.gbk
+cluster 267_protein_B size=1 taxa=1 file: 267_protein_B.faa dnafile: 267_protein_B.fna
+: Uncultured-phage-WW-nAnB-strain-3_taxid_1449897.gbk
+cluster 268_protein_C size=1 taxa=1 file: 268_protein_C.faa dnafile: 268_protein_C.fna
+: Uncultured-phage-WW-nAnB-strain-3_taxid_1449897.gbk
+cluster 274_rstR size=2 taxa=1 Pfam=PF01381, file: 274_rstR.faa dnafile: 274_rstR.fna
+: Vibrio-phage-CTXphi_taxid_2785247.gbk
+: Vibrio-phage-CTXphi_taxid_2785247.gbk
+cluster 276_rstB size=3 taxa=2 Pfam=PF07459, file: 276_rstB.faa dnafile: 276_rstB.fna
+: Vibrio-phage-CTXphi_taxid_2785247.gbk
+: Vibrio-phage-CTXphi_taxid_2785247.gbk
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+cluster 277_rstC size=1 taxa=1 file: 277_rstC.faa dnafile: 277_rstC.fna
+: Vibrio-phage-CTXphi_taxid_2785247.gbk
+cluster 281_cep size=1 taxa=1 file: 281_cep.faa dnafile: 281_cep.fna
+: Vibrio-phage-CTXphi_taxid_2785247.gbk
+cluster 282_hypothetical_protein size=1 taxa=1 Pfam=PF16710, file: 282_hypothetical_protein.faa dnafile: 282_hypothetical_protein.fna
+: Vibrio-phage-CTXphi_taxid_2785247.gbk
+cluster 283_ace size=5 taxa=5 Pfam=PF10734, file: 283_ace.faa dnafile: 283_ace.fna
+: Vibrio-phage-CTXphi_taxid_2785247.gbk
+: Vibrio-phage-KSF1_taxid_292443.gbk
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+: Vibrio-phage-VfO3K6_taxid_127507.gbk
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+cluster 285_ctxA size=1 taxa=1 Pfam=PF01375, file: 285_ctxA.faa dnafile: 285_ctxA.fna
+: Vibrio-phage-CTXphi_taxid_2785247.gbk
+cluster 286_ctxB size=1 taxa=1 Pfam=PF01376, file: 286_ctxB.faa dnafile: 286_ctxB.fna
+: Vibrio-phage-CTXphi_taxid_2785247.gbk
+cluster 288_hypothetical_protein size=9 taxa=9 Pfam=PF06950, file: 288_hypothetical_protein.faa dnafile: 288_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VGJ_taxid_223524.gbk
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-phage-Vf12_taxid_127511.gbk
+: Vibrio-phage-VfO3K6_taxid_127507.gbk
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+: Vibrio-virus-Vf33_taxid_127509.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 289_hypothetical_protein size=1 taxa=1 file: 289_hypothetical_protein.faa dnafile: 289_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+cluster 290_hypothetical_protein size=1 taxa=1 file: 290_hypothetical_protein.faa dnafile: 290_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+cluster 291_hypothetical_protein size=1 taxa=1 file: 291_hypothetical_protein.faa dnafile: 291_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+cluster 292_hypothetical_protein size=1 taxa=1 file: 292_hypothetical_protein.faa dnafile: 292_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+cluster 293_hypothetical_protein size=1 taxa=1 file: 293_hypothetical_protein.faa dnafile: 293_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+cluster 296_hypothetical_protein size=2 taxa=2 file: 296_hypothetical_protein.faa dnafile: 296_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+cluster 297_hypothetical_protein size=1 taxa=1 file: 297_hypothetical_protein.faa dnafile: 297_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+cluster 298_hypothetical_protein size=1 taxa=1 file: 298_hypothetical_protein.faa dnafile: 298_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+cluster 299_hypothetical_protein size=1 taxa=1 file: 299_hypothetical_protein.faa dnafile: 299_hypothetical_protein.fna
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+cluster 302_hypothetical_protein size=1 taxa=1 file: 302_hypothetical_protein.faa dnafile: 302_hypothetical_protein.fna
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+cluster 303_hypothetical_protein size=3 taxa=3 file: 303_hypothetical_protein.faa dnafile: 303_hypothetical_protein.fna
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+: Vibrio-phage-VfO3K6_taxid_127507.gbk
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+cluster 304_minor_capsid_protein size=1 taxa=1 file: 304_minor_capsid_protein.faa dnafile: 304_minor_capsid_protein.fna
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+cluster 308_hypothetical_protein size=5 taxa=5 file: 308_hypothetical_protein.faa dnafile: 308_hypothetical_protein.fna
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VGJ_taxid_223524.gbk
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-phage-VfO3K6_taxid_127507.gbk
+cluster 312_hypothetical_protein size=6 taxa=6 file: 312_hypothetical_protein.faa dnafile: 312_hypothetical_protein.fna
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VGJ_taxid_223524.gbk
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-phage-Vf12_taxid_127511.gbk
+: Vibrio-virus-Vf33_taxid_127509.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 313_major_capsid_protein size=5 taxa=5 file: 313_major_capsid_protein.faa dnafile: 313_major_capsid_protein.fna
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VGJ_taxid_223524.gbk
+: Vibrio-phage-Vf12_taxid_127511.gbk
+: Vibrio-virus-Vf33_taxid_127509.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 314_putative_minor_capsi.. size=3 taxa=3 file: 314_putative_minor_capsi...faa dnafile: 314_putative_minor_capsi...fna
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VGJ_taxid_223524.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 315_minor_capsid_protein size=9 taxa=9 file: 315_minor_capsid_protein.faa dnafile: 315_minor_capsid_protein.fna
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VFJ_taxid_1340745.gbk
+: Vibrio-phage-VGJ_taxid_223524.gbk
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-phage-Vf12_taxid_127511.gbk
+: Vibrio-phage-VfO3K6_taxid_127507.gbk
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+: Vibrio-phage-fs2_taxid_83201.gbk
+: Vibrio-virus-Vf33_taxid_127509.gbk
+cluster 316_putative_minor_coat_.. size=6 taxa=6 Pfam=PF10734, file: 316_putative_minor_coat_...faa dnafile: 316_putative_minor_coat_...fna
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VGJ_taxid_223524.gbk
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-phage-Vf12_taxid_127511.gbk
+: Vibrio-virus-Vf33_taxid_127509.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 320_hypothetical_protein size=2 taxa=2 file: 320_hypothetical_protein.faa dnafile: 320_hypothetical_protein.fna
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VGJ_taxid_223524.gbk
+cluster 321_orf113 size=1 taxa=1 Pfam=PF12961, file: 321_orf113.faa dnafile: 321_orf113.fna
+: Vibrio-phage-VFJ_taxid_1340745.gbk
+cluster 322_orf698 size=2 taxa=2 Pfam=PF05840, file: 322_orf698.faa dnafile: 322_orf698.fna
+: Vibrio-phage-VFJ_taxid_1340745.gbk
+: Vibrio-phage-fs2_taxid_83201.gbk
+cluster 323_orf104 size=2 taxa=2 file: 323_orf104.faa dnafile: 323_orf104.fna
+: Vibrio-phage-VFJ_taxid_1340745.gbk
+: Vibrio-phage-fs2_taxid_83201.gbk
+cluster 324_orf38 size=2 taxa=2 file: 324_orf38.faa dnafile: 324_orf38.fna
+: Vibrio-phage-VFJ_taxid_1340745.gbk
+: Vibrio-phage-fs2_taxid_83201.gbk
+cluster 325_orf38-2 size=2 taxa=2 file: 325_orf38-2.faa dnafile: 325_orf38-2.fna
+: Vibrio-phage-VFJ_taxid_1340745.gbk
+: Vibrio-phage-fs2_taxid_83201.gbk
+cluster 326_orf73 size=2 taxa=2 Pfam=PF19199, file: 326_orf73.faa dnafile: 326_orf73.fna
+: Vibrio-phage-VFJ_taxid_1340745.gbk
+: Vibrio-phage-fs2_taxid_83201.gbk
+cluster 328_orf149 size=2 taxa=2 Pfam=PF17537, file: 328_orf149.faa dnafile: 328_orf149.fna
+: Vibrio-phage-VFJ_taxid_1340745.gbk
+: Vibrio-phage-fs2_taxid_83201.gbk
+cluster 331_orf135 size=1 taxa=1 Pfam=PF12375, file: 331_orf135.faa dnafile: 331_orf135.fna
+: Vibrio-phage-VFJ_taxid_1340745.gbk
+cluster 341_hypothetical_protein size=1 taxa=1 file: 341_hypothetical_protein.faa dnafile: 341_hypothetical_protein.fna
+: Vibrio-phage-VGJ_taxid_223524.gbk
+cluster 344_hypothetical_protein size=1 taxa=1 file: 344_hypothetical_protein.faa dnafile: 344_hypothetical_protein.fna
+: Vibrio-phage-VGJ_taxid_223524.gbk
+cluster 348_prim-VSK size=2 taxa=2 file: 348_prim-VSK.faa dnafile: 348_prim-VSK.fna
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 349_membrane_glycoprotei.. size=1 taxa=1 file: 349_membrane_glycoprotei...faa dnafile: 349_membrane_glycoprotei...fna
+: Vibrio-phage-VSK_taxid_181604.gbk
+cluster 353_major_coat_protein size=1 taxa=1 file: 353_major_coat_protein.faa dnafile: 353_major_coat_protein.fna
+: Vibrio-phage-VSK_taxid_181604.gbk
+cluster 354_memb2 size=2 taxa=2 file: 354_memb2.faa dnafile: 354_memb2.fna
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 357_VSK-tox1 size=1 taxa=1 Pfam=PF05707, file: 357_VSK-tox1.faa dnafile: 357_VSK-tox1.fna
+: Vibrio-phage-VSK_taxid_181604.gbk
+cluster 358_VSK_tox2 size=1 taxa=1 file: 358_VSK_tox2.faa dnafile: 358_VSK_tox2.fna
+: Vibrio-phage-VSK_taxid_181604.gbk
+cluster 359_hypothetical_protein size=2 taxa=2 file: 359_hypothetical_protein.faa dnafile: 359_hypothetical_protein.fna
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 369_Vpf76 size=2 taxa=2 file: 369_Vpf76.faa dnafile: 369_Vpf76.fna
+: Vibrio-phage-VfO3K6_taxid_127507.gbk
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+cluster 374_Vpf497 size=1 taxa=1 file: 374_Vpf497.faa dnafile: 374_Vpf497.fna
+: Vibrio-phage-VfO3K6_taxid_127507.gbk
+cluster 384_Vpf215 size=1 taxa=1 file: 384_Vpf215.faa dnafile: 384_Vpf215.fna
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+cluster 404_hypothetical_protein size=1 taxa=1 file: 404_hypothetical_protein.faa dnafile: 404_hypothetical_protein.fna
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 408_hypothetical_protein size=1 taxa=1 file: 408_hypothetical_protein.faa dnafile: 408_hypothetical_protein.fna
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 409_hypothetical_protein size=1 taxa=1 file: 409_hypothetical_protein.faa dnafile: 409_hypothetical_protein.fna
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 411_hypothetical_protein size=1 taxa=1 file: 411_hypothetical_protein.faa dnafile: 411_hypothetical_protein.fna
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 412_hypothetical_protein size=1 taxa=1 file: 412_hypothetical_protein.faa dnafile: 412_hypothetical_protein.fna
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 416_replication_initiati.. size=2 taxa=2 Pfam=PF11726, file: 416_replication_initiati...faa dnafile: 416_replication_initiati...fna
+: Xanthomonas-phage-Xf109_taxid_1852597.gbk
+: Xanthomonas-virus-Cf1c_taxid_10862.gbk
+cluster 419_major_coat_protein size=1 taxa=1 Pfam=PF05356, file: 419_major_coat_protein.faa dnafile: 419_major_coat_protein.fna
+: Xanthomonas-phage-Xf109_taxid_1852597.gbk
+cluster 424_hypothetical_protein size=2 taxa=2 file: 424_hypothetical_protein.faa dnafile: 424_hypothetical_protein.fna
+: Xanthomonas-phage-Xf109_taxid_1852597.gbk
+: Xanthomonas-virus-Cf1c_taxid_10862.gbk
+cluster 426_hypothetical_protein size=1 taxa=1 file: 426_hypothetical_protein.faa dnafile: 426_hypothetical_protein.fna
+: Xanthomonas-phage-Xf109_taxid_1852597.gbk
+cluster 427_hypothetical_protein size=1 taxa=1 file: 427_hypothetical_protein.faa dnafile: 427_hypothetical_protein.fna
+: Xanthomonas-phage-Xf109_taxid_1852597.gbk
+cluster 429_B_coat_protein size=1 taxa=1 file: 429_B_coat_protein.faa dnafile: 429_B_coat_protein.fna
+: Xanthomonas-virus-Cf1c_taxid_10862.gbk
+cluster 430_A_coat_protein size=1 taxa=1 file: 430_A_coat_protein.faa dnafile: 430_A_coat_protein.fna
+: Xanthomonas-virus-Cf1c_taxid_10862.gbk
+cluster 433_hypothetical_protein size=1 taxa=1 Pfam=PF13511, file: 433_hypothetical_protein.faa dnafile: 433_hypothetical_protein.fna
+: Xanthomonas-virus-Cf1c_taxid_10862.gbk
+cluster 438_protein_B size=1 taxa=1 file: 438_protein_B.faa dnafile: 438_protein_B.fna
+: uncultured-phage-WW-nAnB_taxid_1074044.gbk

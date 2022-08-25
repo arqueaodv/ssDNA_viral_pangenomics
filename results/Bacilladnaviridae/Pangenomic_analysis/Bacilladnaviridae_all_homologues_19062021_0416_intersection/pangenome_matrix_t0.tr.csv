@@ -1,0 +1,17 @@
+Gene,Non-unique Gene name,Annotation,No. isolates,No. sequences,Avg sequences per isolate,Genome fragment,Order within fragment,Accessory Fragment,Accessory Order with Fragment,QC,Min group size nuc,Max group size nuc,Avg group size nuc,Amphibola-crenata-associated-bacilladnavirus-1_taxid_1941435.gbk,Amphibola-crenata-associated-bacilladnavirus-2_taxid_1941436.gbk,Avon-Heathcote-estuary-associated-bacilladnavirus_taxid_1941437.gbk,Bacillariodnavirus-LDMD-2013_taxid_1379694.gbk,Chaetoceros-protobacilladnavirus-1_taxid_2170140.gbk,Chaetoceros-protobacilladnavirus-3_taxid_2170142.gbk,Chaetoceros-protobacilladnavirus-4_taxid_2170143.gbk,Chaetoceros-sp-DNA-virus-7_taxid_1382995.gbk
+1_P3.faa,,,,,,,,,,,,,,1,0,0,0,0,0,0,0
+2_P2.faa,,,,,,,,,,,,,,1,1,0,0,0,0,0,0
+4_replication_associat...faa,,,,,,,,,,,,,,1,1,1,1,1,0,0,0
+5_P3.faa,,,,,,,,,,,,,,0,1,0,0,0,0,0,0
+9_P3.faa,,,,,,,,,,,,,,0,0,1,0,0,0,0,0
+10_hypothetical_protein.faa,,,,,,,,,,,,,,0,0,1,0,0,0,0,0
+11_P2.faa,,,,,,,,,,,,,,0,0,1,0,0,0,0,0
+14_hypothetical_protein.faa,,,,,,,,,,,,,,0,0,0,1,0,0,0,0
+15_hypothetical_protein.faa,,,,,,,,,,,,,,0,0,0,1,0,0,0,0
+18_hypothetical_protein.faa,,,,,,,,,,,,,,0,0,0,0,1,0,0,0
+20_hypothetical_protein.faa,,,,,,,,,,,,,,0,0,0,0,1,0,0,0
+21_hypothetical_protein.faa,,,,,,,,,,,,,,0,0,0,0,1,0,0,0
+24_hypothetical_protein.faa,,,,,,,,,,,,,,0,0,0,0,1,1,0,1
+25_hypothetical_protein.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1
+26_putative_replication-associated_protein.faa,,,,,,,,,,,,,,0,0,0,0,0,1,1,1
+27_hypothetical_protein.faa,,,,,,,,,,,,,,0,0,0,0,0,0,1,0

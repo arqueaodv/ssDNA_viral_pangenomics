@@ -1,0 +1,62 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d Geminiviridae_all_homologues_19062021_0435/Axonopus-compressus-streak-virustaxid1476487_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_/,Geminiviridae_all_homologues_19062021_0435/Axonopus-compressus-streak-virustaxid1476487_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_
+# -o Geminiviridae_all_homologues_19062021_0435_intersection
+# -I 
+# -r 0
+33_AV2.faa
+2241_C3.faa
+2140_AC4.faa
+853_C3_protein.faa
+89_V3.faa
+1329_1R2b.faa
+19_AC4.faa
+2367_AL2.faa
+1_BV1.faa
+858_AV3_protein.faa
+485_AC1.faa
+1445_hypothetical_protein.faa
+776_V2.faa
+3030_V2.faa
+2123_truncated_V2.faa
+1683_AC5.faa
+2355_V2.faa
+2867_ORF_V2.faa
+2_BC1.faa
+2354_V3.faa
+1339_Rep.faa
+547_C5.faa
+133_movement_protein.faa
+195_V2.faa
+923_C2.faa
+1338_putative_replication...faa
+2062_BV1.faa
+1307_hypothetical_protein.faa
+1312_V3_protein.faa
+267_movement_protein.faa
+2214_hypothetical_protein.faa
+169_orf6.faa
+676_AC4.faa
+194_V3.faa
+120_V1.faa
+1337_putative_movement_pr...faa
+1331_AL5.faa
+1375_V2.faa
+850_V3_protein.faa
+285_hypothetical_protein.faa
+2361_hypothetical_protein.faa
+939_C2.faa
+171_orf7.faa
+134_capsid_protein.faa
+4_AC3.faa
+2969_BV2.faa
+88_V2.faa
+848_V2_protein.faa
+93_C3.faa
+119_V2.faa
+729_movement_protein.faa
+1336_capsid.faa
+575_AC5.faa
+242_AV3.faa
+1313_V2_protein.faa
+5_AC2.faa
+# intersection size = 56 clusters

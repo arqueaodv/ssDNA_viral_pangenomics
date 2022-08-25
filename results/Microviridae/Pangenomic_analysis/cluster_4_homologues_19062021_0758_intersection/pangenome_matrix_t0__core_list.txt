@@ -1,0 +1,10 @@
+1_A.faa
+2_B.faa
+3_K.faa
+4_C.faa
+5_D.faa
+6_E.faa
+7_J.faa
+8_F.faa
+9_G.faa
+10_H.faa

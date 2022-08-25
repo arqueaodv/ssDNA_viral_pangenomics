@@ -1,0 +1,6 @@
+>ID:YP_009103101.1 |[Ralstonia phage RS603]||Ralstonia-phage-RS603_taxid_1505528.gbk|hypothetical protein|249|NC_025454(7679):1297-1545:1 ^GeneID:22277967^ Ralstonia phage RS603 DNA, complete genome.|neighbours:ID:YP_009103100.1(1),ID:YP_009103102.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-82 (82)
+MAQCVVIQNGGLVFTTDPPQSCSGYLLLQPSEYSNVMALSGAFTYPSASDFAAAFIAGFQWPVFFFIVAMLVSKVASFFDRG
+>ID:YP_009786099.1 |[Ralstonia phage Rs551]||Ralstonia-phage-Rs551_taxid_1852598.gbk|hypothetical protein|249|NC_047765(7929):1292-1540:1 ^GeneID:54976172^ Ralstonia phage Rs551, complete genome.|neighbours:ID:YP_009786098.1(1),ID:YP_009786100.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-82 (82)
+MAQCVVIQNGGLVFTTDPPQSCSGYLLLQPSEYSNVMALSGAFTYPSASDFAAAFTAGFQWPVFFFIVAMLVSKVASFFDRG
+>ID:YP_008130368.1 |[Stenotrophomonas phage SMA7]||Stenotrophomonas-phage-SMA7_taxid_1343494.gbk|hypothetical protein|258|NC_021569(7069):2470-2727:1 ^GeneID:15957220,UniProtKB/TrEMBL:S0F2C2^ Stenotrophomonas phage phiSMA7 proviral complete genome.|neighbours:ID:YP_008130367.1(1),ID:YP_008130369.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-85 (85)
+MAVCVSLTAEGTLVPTGEPASQCGGYVLVSAAEHAQASILIDLFQWPEPEVATGWFSGVFTLVLALNVLGYIVGAVVKSVSTERD

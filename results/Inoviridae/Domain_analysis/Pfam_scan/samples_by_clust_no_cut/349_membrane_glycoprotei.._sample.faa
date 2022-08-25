@@ -1,0 +1,5 @@
+>ID:NP_542354.1 |[Vibrio phage VSK]||Vibrio-phage-VSK_taxid_181604.gbk|membrane glycoprotei..|180|NC_003327(6882):1041-1220:1 ^GeneID:955962^ Vibrio phage VSK, complete genome.|neighbours:ID:NP_542353.1(1),ID:NP_542355.1(1)|neighbour_genes:prim-VSK,DNA replication init..| | aligned:16-46 (59)
+MGISSTTTTN PTSGSTCISF GGIVSLKTGL SLSNTLPFTM ALTHINWLKS LTKTTTNCC
+
+>ID:NP_695200.1 |[Vibrio virus fs1]||Vibrio-virus-fs1_taxid_70203.gbk|hypothetical protein|138|NC_004306(6340):4419-4556:1 ^GeneID:955583^ Vibrio phage fs1, complete genome.|neighbours:ID:NP_695199.1(1),ID:NP_695201.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:16-45 (45)
+MISSTTTTNP TSELTCISFG GIVSLKTGLS LSNILPFTMA LTHIN

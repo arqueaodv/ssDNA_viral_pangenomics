@@ -1,0 +1,6 @@
+>ID:YP_004934227.1 |[Vibrio phage VCY-phi]||Vibrio-phage-VCY-phi_taxid_1105327.gbk|hypothetical protein|210|NC_016162(7103):2092-2301:1 ^GeneID:11447731^ Vibrio phage VCY-phi, complete genome.|neighbours:ID:YP_004934226.1(1),ID:YP_004934228.1(1)|neighbour_genes:hypothetical protein,minor capsid protein| | aligned:24-69 (69)
+MKFRNMAKKFGVVVAASVPSYGVFAADDISAQLTAAITSGQANYTMVVVGVIGLAAIAFGLGRILGILK
+>ID:NP_059534.1 |[Vibrio phage VfO3K6]||Vibrio-phage-VfO3K6_taxid_127507.gbk|Vpf81|246|NC_002362(8784):1194-1439:1 ^GeneID:1262774^ Vibrio phage VfO3K6, complete genome.|neighbours:ID:NP_059533.1(1),ID:NP_059535.1(1)|neighbour_genes:Vpf76,Vpf504| | aligned:1-81 (81)
+MKKLELVVTNVKHAVVNKKTAAGAALMAASVSPAFAEVDITGAINSAVSGGQANVSLVVAGLIGMAALGFGVTMVVGFLRR
+>ID:NP_059544.1 |[Vibrio phage VfO4K68]||Vibrio-phage-VfO4K68_taxid_127508.gbk|Vpf81|246|NC_002363(6891):1194-1439:1 ^GeneID:1262783^ Vibrio phage VfO4K68, complete genome.|neighbours:ID:NP_059543.1(1),ID:NP_059545.1(1)|neighbour_genes:Vpf76,Vpf504| | aligned:1-81 (81)
+MKKLELVVTNVKHAVVNKKTAAGAALMAASVSPAFAEVDITGAINSAVSGGQANVSLVVAGLIGMAALGFGVTMVVGFLRR

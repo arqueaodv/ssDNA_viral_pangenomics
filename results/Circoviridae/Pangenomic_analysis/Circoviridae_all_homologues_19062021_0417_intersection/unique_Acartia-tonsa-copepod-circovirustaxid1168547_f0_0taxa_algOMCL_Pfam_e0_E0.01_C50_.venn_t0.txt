@@ -1,0 +1,12 @@
+33_putative_capsid_prot...faa
+68_putative_capsid_prot...faa
+12_putative_capsid_prot...faa
+100_capsid_protein.faa
+132_hypothetical_protein.faa
+70_cap.faa
+37_putative_capsid_prot...faa
+173_hypothetical_protein.faa
+53_putative_capsid_prot...faa
+42_replication-associat...faa
+4_putative_capsid_prot...faa
+74_putative_capsid_prot...faa

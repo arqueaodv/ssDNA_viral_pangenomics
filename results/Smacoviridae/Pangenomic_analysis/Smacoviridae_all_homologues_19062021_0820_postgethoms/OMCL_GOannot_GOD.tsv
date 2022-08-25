@@ -1,0 +1,38 @@
+cluster	prevalence	term	what	familia	algoritmo
+33_replication-associat..	2.0408163265306123	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	viral protein processing [GO:0019082]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	RNA-protein covalent cross-linking [GO:0018144]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	pore-mediated entry of viral genome into host cell [GO:0044694]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	suppression by virus of host translation initiation factor activity [GO:0039611]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	protein complex oligomerization [GO:0051259]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	induction by virus of host autophagy [GO:0039520]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	suppression by virus of host mRNA export from nucleus [GO:0039522]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	pore formation by virus in membrane of host cell [GO:0039707]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	positive stranded viral RNA replication [GO:0039690]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	DNA replication [GO:0006260]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	transcription, DNA-templated [GO:0006351]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	host cell mitochondrial outer membrane [GO:0044193]	cc	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	extrachromosomal circular DNA [GO:0005727]	cc	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	integral to membrane of host cell [GO:0044385]	cc	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	membrane [GO:0016020]	cc	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	host cell cytoplasmic vesicle membrane [GO:0044162]	cc	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	T=pseudo3 icosahedral viral capsid [GO:0039618]	cc	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	ribonuclease T2 activity [GO:0033897]	mf	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	ion channel activity [GO:0005216]	mf	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	cysteine-type endopeptidase activity [GO:0004197]	mf	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	RNA-directed 5'-3' RNA polymerase activity [GO:0003968]	mf	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	RNA binding [GO:0003723]	mf	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+33_replication-associat..	2.0408163265306123	ATP binding [GO:0005524]	mf	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+97_Rep_protein	2.0408163265306123	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+97_Rep_protein	2.0408163265306123	viral DNA cleavage involved in viral genome maturation [GO:0019071]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+97_Rep_protein	2.0408163265306123	DNA replication [GO:0006260]	bp	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+97_Rep_protein	2.0408163265306123	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+97_Rep_protein	2.0408163265306123	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+97_Rep_protein	2.0408163265306123	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+97_Rep_protein	2.0408163265306123	RNA binding [GO:0003723]	mf	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+97_Rep_protein	2.0408163265306123	DNA binding [GO:0003677]	mf	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL
+97_Rep_protein	2.0408163265306123	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Smacoviridae/Smacoviridae_all_homologues_19062021_0820/	OMCL

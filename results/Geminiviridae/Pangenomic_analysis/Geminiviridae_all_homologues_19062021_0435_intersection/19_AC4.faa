@@ -1,0 +1,758 @@
+>ID:YP_004207823.1 |[Abutilon mosaic Bolivia virus]|AbMBoV|Abutilon-mosaic-Bolivia-virus_taxid_932071.gbk|AC4|258|NC_015045(2717):2178-2435:-1 ^GeneID:10191525^ Abutilon mosaic Bolivia virus DNA-A, complete genome.|neighbours:ID:YP_004207822.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLIYMCCSSSKANTTAKIKDSSTWSPHIVQHSSMGTIKELGPAPTSSPTSTKTGIFLYGENSRSTGDLLEEVSKQLMTLQQRR
+>ID:YP_007974226.1 |[Ageratum Yellow vein China virus - OX1]|OX1|Ageratum-Yellow-vein-China-virus--OX1_taxid_1329380.gbk|AC4|297|NC_021202(2739):2155-2451:-1 ^GeneID:15486948^ Ageratum Yellow vein China virus - OX1, complete genome.|neighbours:ID:YP_007974225.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGALISTCLSNSKANTNAKITDSSTWSPQPGQHISIRTFRELNPAPTSSPTWRRTETPSNGENFRSTDALQEGDNRQPMTLTPRQLTAAVSLRLLE
+>ID:NP_598191.1 |[Ageratum enation virus]||Ageratum-enation-virus_taxid_188333.gbk|C4|258|NC_003434(2746):2183-2440:-1 ^GeneID:935163,InterPro:IPR002488,UniProtKB/TrEMBL:Q8QVG9^ Ageratum enation virus, complete genome.|neighbours:ID:NP_598190.1(-1),end()|neighbour_genes:Rep,end()|
+MGALISMCSSSSKGNISARINDSSTWSPQTGQHISIRTFRELNPAPTSSPTSTRTETPSNGESSRSMGDLHEEVNRQLMMLLQKP
+>ID:YP_003987455.1 |[Ageratum leaf curl Cameroon virus]||Ageratum-leaf-curl-Cameroon-virus_taxid_912033.gbk|C4|303|NC_014645(2792):2175-2477:-1 ^GeneID:9923533,InterPro:IPR002488,UniProtKB/TrEMBL:E3W7F5^ Ageratum leaf curl Cameroon virus, complete genome.|neighbours:ID:YP_003987454.1(-1),end()|neighbour_genes:Rep,end()|
+MANLISMCLCNSKGSTSARISDSSTSYPLTGQHISIRTYRELNPAPMSSPTSTRTATPSNGENFKSMQDLQEEANKQPMMLTPEQLTQEVNKRLLIYLRN
+>ID:YP_133835.1 |[Ageratum leaf curl virus - [G52]]||Ageratum-leaf-curl-virus--G52_taxid_298650.gbk|AC4|297|NC_006384(2735):2151-2447:-1 ^GeneID:3126059,InterPro:IPR002488,UniProtKB/TrEMBL:Q5W1N0^ Ageratum leaf curl virus - [G52], complete genome.|neighbours:ID:YP_133834.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGALISTCLSNLKANTNAKITDSSTWSPQPGQHISIRTFRELNPAPTSSPTWRRTETPSNGESFRSTDALQEGDNRQPMTLTPRQLTAAVSLRLLE
+>ID:NP_671447.1 |[Ageratum yellow vein China virus - [Hn2]]||Ageratum-yellow-vein-China-virus--Hn2_taxid_222078.gbk|AC4|294|NC_004090(2768):2178-2471:-1 ^GeneID:951461,InterPro:IPR002488,UniProtKB/TrEMBL:Q8JLM1^ Ageratum yellow vein China virus-[Hn2] complete genome, isolate Hn2.|neighbours:ID:NP_671446.1(-1),end()|neighbour_genes:AC1,end()|
+MGLHTCMFSSSSKENSNARIKDSSISPPQVGQHISIRTFRELKAQQMLKHTWKKTETCLIMEFSKSMEDQLEEVAKLPTTHMPRQSIQGPKQRPSIY
+>ID:YP_009508228.1 |[Ageratum yellow vein Hualian virus-[Taiwan:Hualian4:2000]]||Ageratum-yellow-vein-Hualian-virus-Taiwan-Hualian4-2000_taxid_437061.gbk|AC4|291|NC_038913(2753):2154-2444:-1 ^GeneID:37619566^ Ageratum yellow vein Hualian virus-[Taiwan:Hualian4:2000] segment DNA A, complete sequence.|neighbours:ID:YP_009508227.1(-1),end()|neighbour_genes:AC1,end()|
+MGALICTCLSSSKENTSARISDSSTWYPQPGQHISIRTFRELNPAPTSSPISTRTETPSNGESFRSTDDLQEGDNNQQMTLTPRRLTAEVRQRLST
+>ID:YP_001950238.1 |[Ageratum yellow vein Hualian virus]|Taiwan:Hsinchu:tom:2003|Ageratum-yellow-vein-Hualian-virus_taxid_437063.gbk|AC4|294|NC_010812(2756):2151-2444:-1 ^GeneID:6369686^ Ageratum yellow vein Hualian virus-[Taiwan:Hsinchu:tom:2003] DNA A, complete sequence.|neighbours:ID:YP_001950237.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCTFSSNSKENSNAKTTDSSTSHPQAGQHISIRTFRELRARQMSKPTWRKTETCLIMEFSKSMEDQLEEVANLPTTHMPRQSTQGPKLRPSIY
+>ID:NP_148956.1 |[Ageratum yellow vein Sri Lanka virus]||Ageratum-yellow-vein-Sri-Lanka-virus_taxid_222079.gbk|C4|294|NC_002981(2748):2143-2436:-1 ^GeneID:921512^ Ageratum yellow vein Sri Lanka virus segment A, complete genome.|neighbours:ID:NP_148955.1(-1),end()|neighbour_genes:C1,end()|
+MGLLTCMFSSSSKENSSAGTIDSSTLPPQPGQHISIRTFRELKAQVMLKPTWRKTETSLIMEFSKSMEDQLEEVANLPTTHMPRQSIQGQKHRPSIY
+>ID:NP_803552.1 |[Ageratum yellow vein Taiwan virus]||Ageratum-yellow-vein-Taiwan-virus_taxid_222441.gbk|C4|258|NC_004627(2734):2190-2447:-1 ^GeneID:1482970^ Ageratum yellow vein Taiwan virus, complete genome.|neighbours:ID:NP_803551.1(-1),end()|neighbour_genes:C1,end()|
+MGLCISTRSYNSKVKPNSGIVDTSTLHTPTPPHNSIQTSRELSPVPMSSPTSRRTVITSTGVYFRSTEDLLEEVNRRLTMQLQKR
+>ID:YP_001974398.1 |[Allamanda leaf curl virus]||Allamanda-leaf-curl-virus_taxid_452758.gbk|AC4|258|NC_010947(2755):2188-2445:-1 ^GeneID:6390860^ Allamanda leaf curl virus DNA-A, complete genome.|neighbours:ID:YP_001974397.1(-1),end()|neighbour_genes:AC1,end()|
+MGALISTCSCSSKANSTARIRDSSTWYPQPGQHISIQTFRELNPAPMSSPTSTRMETPLNGVSSRSTEEVLGEAARMLMTHVQRR
+>ID:YP_009026397.1 |[Allamanda leaf mottle distortion virus]||Allamanda-leaf-mottle-distortion-virus_taxid_1317107.gbk|AC4|258|NC_024009(2772):2196-2453:-1 ^GeneID:18995866^ Allamanda leaf mottle distortion virus isolate Al-K1 segment DNA-A, complete sequence.|neighbours:ID:YP_009026396.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCISMPSSSSRVRPSSETPDISMSLTLITPPISTQISRELSPHPMSSPTSRRTVITSTGVSFRSMEDLLEEVNRELMMLLQKL
+>ID:YP_271829.1 |[Alternanthera yellow vein virus]||Alternanthera-yellow-vein-virus_taxid_337826.gbk|ac4|291|NC_007211(2745):2171-2461:-1 ^GeneID:3562309,InterPro:IPR002488,UniProtKB/TrEMBL:Q4GZI4^ Alternanthera yellow vein virus DNA-A, complete genome.|neighbours:ID:YP_271828.1(-1),end()|neighbour_genes:ac1,end()|
+METLISMLLCNSRASSTSRIRDSSTYSHPTPPPNTTASSPMLSPVQTLRHTSRRTGTYLTGAPSRLMEDLQEGDNRQQTMLTQEQLTQAIRIKLLM
+>ID:YP_009129273.1 |[Apple geminivirus PL-2015]||Apple-geminivirus-PL-2015_taxid_1633752.gbk|C4|234|NC_026760(2932):2399-2632:-1 ^GeneID:24018657^ Apple geminivirus PL-2015 isolate China, complete genome.|neighbours:ID:YP_009129272.1(-1),end()|neighbour_genes:C1,end()|
+MGSLISTCLSNSKGSTHARINDSSTWYPQPDQHISIQTYRELRARPMSRPILRREGNFLTMEFSRSMPEVQGGRASI
+>ID:YP_009121941.1 |[Asystasia mosaic Madagascar virus]||Asystasia-mosaic-Madagascar-virus_taxid_1611435.gbk|AC4|198|NC_026514(2738):2235-2432:-1 ^GeneID:23632159^ Asystasia mosaic Madagascar virus isolate MG493 segment DNA-A, complete sequence.|neighbours:ID:YP_009121940.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLISMCYYNSKENTSAQIRDSSTWFPQTDQHLSIRTFRELRARQMSRHILRKEETSSTMGNSR
+>ID:YP_007024784.1 |[Bean chlorosis virus]||Bean-chlorosis-virus_taxid_1227354.gbk|AC4|258|NC_019569(2647):2087-2344:-1 ^GeneID:14056177^ Bean chlorosis virus isolate Venezuela:La Barinesa 459:2006 segment DNA-A, complete sequence.|neighbours:ID:YP_007024783.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISMCSSSSKENTSARITDSSIWSPQPGQHISIQTYRELSLAPTSSPISTRTETQSNGEISRSTADLLEEASSLLMIHMPRR
+>ID:YP_008400126.1 |[Bean white chlorosis mosaic virus]||Bean-white-chlorosis-mosaic-virus_taxid_2169732.gbk|AC4|258|NC_022005(2597):2050-2307:-1 ^GeneID:16536386^ Bean white chlorosis mosaic virus isolate Venezuela:Rubio 932:2007 segment DNA-A, complete sequence.|neighbours:ID:YP_008400125.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIYMCSSSSKENTSARITDSSIWSPQPGQHISIRTYRELNQAPTSSPTSTRTEIQLNGDSSRSTADLLEEVSNLLTTHMLKR
+>ID:YP_002576172.1 |[Bhendi yellow vein Bhubhaneswar virus]||Bhendi-yellow-vein-Bhubhaneswar-virus_taxid_591160.gbk|AC4|303|NC_012041(2757):2141-2443:-1 ^GeneID:7409771^ Bhendi yellow vein Bhubhaneswar virus DNA-A, complete genome.|neighbours:ID:YP_002576171.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCMFSSNSKENTSAKTTDSSTSHPQTGQHISIRTFRELKPAPTSSPTSTRTGTFSNGANFRSTEGQQEEGSRQPTTLTPQHLTREVSQRLLESLRN
+>ID:YP_002519382.1 |[Bhendi yellow vein Delhi virus [2004:New Delhi]]||Bhendi-yellow-vein-Delhi-virus-2004-New-Delhi_taxid_587620.gbk|AC4|303|NC_011919(2751):2136-2438:-1 ^GeneID:7318381^ Bhendi yellow vein Delhi virus [2004:New Delhi] DNA-A, complete genome.|neighbours:ID:YP_002519381.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLICTCSSSSRANTSARISDSSTWSPQAGQYISIRTFRELNQAQMSSPTSTRTETPSNGESFRSMDDLQEGDSKQPTTLTPQHLTQAVSQRLLKSLGS
+>ID:YP_009666344.1 |[Bhendi yellow vein Haryana virus [2003:Karnal]]||Bhendi-yellow-vein-Haryana-virus-2003-Karnal_taxid_658650.gbk|AC4|294|NC_043513(2740):2134-2427:-1 ^GeneID:40526606^ Bhendi yellow vein Haryana virus [2003:Karnal] isolate OY76 segment DNA-A, complete sequence.|neighbours:ID:YP_009666343.1(-1),end()|neighbour_genes:AC1,end()|
+MGHRISMFLSNSRENSNARITDSSTWCPQVGQHISIRTFRELNQHRTSKRTSTKTETSLSGVFSRSMDDLLVVVRKQQTMHMLRRLTQEIKMMPLKY
+>ID:YP_004123086.1 |[Bhendi yellow vein India virus [India:Dharwad OYDWR2:2006]]||Bhendi-yellow-vein-India-virus-India-Dharwad-OYDWR2-2006_taxid_908028.gbk|AC4|294|NC_014845(2739):2141-2434:-1 ^GeneID:10067326^ Bhendi yellow vein India virus [India:Dharwad OYDWR2:2006] DNA-A, complete genome.|neighbours:ID:YP_004123085.1(-1),end()|neighbour_genes:AC1,end()|
+MGILTCVFSSSSKESSSAGTIDSSTSPPQLGQHISIRTFRELKAQAMSKPTWRKTETSLIMEFSKSMEDQLQEVAKLPTTHMPRQSTQGPKLRPSIY
+>ID:NP_579977.1 |[Bhendi yellow vein mosaic virus]||Bhendi-yellow-vein-mosaic-virus_taxid_120168.gbk|AC4|309|NC_003418(2741):2130-2438:-1 ^GeneID:935145^ Bhendi yellow vein mosaic virus, complete genome.|neighbours:ID:NP_579976.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGNLIFTCSSSSKENTSARIRDSSTWSPQTGQHISIQTFRELNPAPTSSPISTRTEIPLNGGNSRSTADLQGEDNNQPMTLTRQHLTQEVRQRLLEFLKN
+>ID:YP_009058925.1 |[Bitter gourd yellow vein virus]||Bitter-gourd-yellow-vein-virus_taxid_1513489.gbk|AC4|294|NC_024894(2737):2134-2427:-1 ^GeneID:20358475^ Bitter gourd yellow vein virus isolate BD12C8 segment DNA-A, complete sequence.|neighbours:ID:YP_009058924.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIYTCSSSSKANSNVKTTDSSTWFPQPGQPISIRTFRELRARQMSKPMWRKTETSLILEFSRSMDDQLEEVANLPTMHMPRQSIQGPKLRPSIF
+>ID:YP_001960963.1 |[Blainvillea yellow spot virus]||Blainvillea-yellow-spot-virus_taxid_536081.gbk|AC4|258|NC_010837(2666):2110-2367:-1 ^GeneID:6395825^ Blainvillea yellow spot virus DNA-A, complete genome.|neighbours:ID:YP_001960962.1(-1),end()|neighbour_genes:Rep,end()|
+MGSLISMLCCNSKGNSRARIADSSIYDIQEIPMFVMASTNHAGHPPTPNHMLRRTEITSNGVIFRSTEDLLEEVNRQLTIHTQRR
+>ID:YP_006905834.1 |[Blechum interveinal chlorosis virus]||Blechum-interveinal-chlorosis-virus_taxid_1246650.gbk|AC4|264|NC_019035(2645):2096-2359:-1 ^GeneID:13900903^ Blechum interveinal chlorosis virus DNA A, complete genome.|neighbours:ID:YP_006905833.1(-1),end()|neighbour_genes:Rep,end()|
+MKMGNHICTCLSSLRGNTTARITDSSTWYPQSGQHISIRTFRELNPAPTSSPTSARMEIQLTGENSRSTAELLEEVNIQLMMLQQRH
+>ID:YP_009507982.1 |[Cabbage leaf curl Jamaica virus]||Cabbage-leaf-curl-Jamaica-virus_taxid_345184.gbk|ac4|264|NC_038792(2575):2029-2292:-1 ^GeneID:37619189^ Cabbage leaf curl Jamaica virus clone 1910 Cu-A6 segment DNA-A, complete sequence.|neighbours:ID:YP_009507981.1(-1),end()|neighbour_genes:rep,end()|
+MKMGSLISTFSYSSKGSTTARITDSSTWSPHPGQHISIRTYRELNPAPTSSPTSTRTEIQLNGECSRSTEEVLEAVSKQLTTQPPRH
+>ID:YP_005352918.1 |[Cassava mosaic Madagascar virus]||Cassava-mosaic-Madagascar-virus_taxid_1125764.gbk|AC4|258|NC_017004(2769):2207-2464:-1 ^GeneID:11945854^ Cassava mosaic Madagascar virus DNA A, complete genome.|neighbours:ID:YP_005352917.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLISTCLFNSKANSHAQISDYSTWYPQQRQPISIQTFKEPNPAPTSSPTSTKMGIQLSGANSRSTQDLLEAAAKMLMTHVPKP
+>ID:YP_009112877.1 |[Catharanthus yellow mosaic virus]||Catharanthus-yellow-mosaic-virus_taxid_1076345.gbk|C4|258|NC_025964(2752):2195-2452:-1 ^GeneID:22647535^ Catharanthus yellow mosaic virus complete genome, isolate DR-151.|neighbours:ID:YP_009112876.1(-1),end()|neighbour_genes:Rep,end()|
+MGLCISMPSSSSKVNPSSETPDILMSLTPIPQLNSTQTSRELSPALMSSPTSRRTVITSTGVSFRSMEDLLEEVNRQLMMLQQRR
+>ID:YP_005352894.1 |[Centrosema yellow spot virus]||Centrosema-yellow-spot-virus_taxid_1129032.gbk|AC4 protein|258|NC_016998(2675):2124-2381:-1 ^GeneID:11946056^ Centrosema yellow spot virus DNA-A, complete genome.|neighbours:ID:YP_005352893.1(-1),end()|neighbour_genes:replication-associat..,end()|
+MGNLISTCLSNSKAKHRSQIRDCSTWYPQPGQHISIQTFRELNHRPTSSPTSTRTEILSNGVNSRSTADLLEEVSRLLTTLPQRQ
+>ID:NP_803409.1 |[Chayote yellow mosaic virus]||Chayote-yellow-mosaic-virus_taxid_222450.gbk|C4|258|NC_004618(2787):2233-2490:-1 ^GeneID:1482976,InterPro:IPR002488,UniProtKB/TrEMBL:O56819^ Chayote yellow mosaic virus, complete genome.|neighbours:ID:NP_803408.1(-1),end()|neighbour_genes:C1,end()|
+MGNLICMPSFSSRANTSAKISDSSIWSPQLDQHISIQTFRELSRVPTSSPTSRRTVIASSGESSRSTDVVLEAAAIRLMTQPPRR
+>ID:YP_009170681.1 |[Chilli leaf curl Ahmedabad virus-India [India/Ahmedabad/2014]]||Chilli-leaf-curl-Ahmedabad-virus-India-India-Ahmedabad-2014_taxid_1678003.gbk|C4|294|NC_028046(2744):2163-2456:-1 ^GeneID:26045595^ Chilli leaf curl Ahmedabad virus-India [India/Ahmedabad/2014], complete genome.|neighbours:ID:YP_009170680.1(-1),end()|neighbour_genes:C1,end()|
+MGNLIYTCSSNSRGNINAQTTDSSTSFPQPGQHISIQTFRELRALQMSKPMWRKTETSLTLEFSRSMADQLEEVANLPTTHMPRQSIQGPSLRPSIF
+>ID:YP_009508112.1 |[Chilli leaf curl India virus]||Chilli-leaf-curl-India-virus_taxid_577124.gbk|AC4|258|NC_038875(2755):2198-2455:-1 ^GeneID:37619396,InterPro:IPR002488,UniProtKB/TrEMBL:D3UBT4^ Chilli leaf curl India virus segment A, complete genome.|neighbours:ID:YP_009508111.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCISMPSSNSKVNPNSETPDISMSLTLIHQPNSTQTSREQSPAPMSSPISRRTVITSTGVSFRSMDDLLEEVNRQLMMLQQRP
+>ID:YP_009506389.1 |[Chilli leaf curl Kanpur virus [India/Kanpur/2008]]||Chilli-leaf-curl-Kanpur-virus-India-Kanpur-2008_taxid_1000665.gbk|AC4|258|NC_038441(2754):2202-2459:-1 ^GeneID:37617256^ Chilli leaf curl Kanpur virus [India/Kanpur/2008] clone pChKanB19 segment DNA-A, complete sequence.|neighbours:ID:YP_009506388.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCISMPSSNSKVNPNSETPDISMSLTLITPPNSTQTSRELSPALMSSPTSRRTVITSTGVGFRSMDDLLEEVNRQLMMLQQRP
+>ID:YP_009506395.1 |[Chilli leaf curl Vellanad virus [India/Vellanad/2008]]||Chilli-leaf-curl-Vellanad-virus-India-Vellanad-2008_taxid_1000664.gbk|AC4|258|NC_038442(2788):2233-2490:-1 ^GeneID:37617263^ Chilli Leaf curl Vellanad virus [India/Vellanad/2008] clone pChVelK52 segment DNA-A, complete sequence.|neighbours:ID:YP_009506394.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCISTPSSSSRVKPSSETPDISMSLTLTPHPNSIQTSRELSPPPMSSPTSRRTEITSTGVVFRSMDDLLEEVSRQLMMLQQRP
+>ID:NP_803558.1 |[Chilli leaf curl virus]||Chilli-leaf-curl-virus_taxid_172278.gbk|C4|294|NC_004628(2754):2160-2453:-1 ^GeneID:1463445^ Chilli leaf curl virus, complete genome.|neighbours:ID:NP_803557.1(-1),end()|neighbour_genes:C1,end()|
+MGNLIYTCSSNSRENTNAQTTDSSTLFPQPGQQISIRTFRELKALQMSKPMWRKTETSLTLEFSKSMADQLEEVANLPTTHMPRQSIQGPSLRPSIF
+>ID:NP_620749.1 |[Chino del tomate virus]||Chino-del-tomate-virus_taxid_47838.gbk|ac4|264|NC_003830(2634):2087-2350:-1 ^GeneID:993334^ Chino del tomate virus DNA A, complete sequence.|neighbours:ID:NP_620748.1(-1),end()|neighbour_genes:ac1,end()|
+MRMGSLISTFSSNSKGSTSARITDSSIWSPQPGQHISIRTYRELNPAPTSSPTSTRTEIQLSGENSRSTADQLEEVSNLLTTHMPRR
+>ID:YP_004958243.1 |[Cleome leaf crumple virus]||Cleome-leaf-crumple-virus_taxid_666144.gbk|AC4|294|NC_016578(2725):2127-2420:-1 ^GeneID:11537587^ Cleome leaf crumple virus DNA-A, complete genome.|neighbours:ID:YP_004958242.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISTCFSNSRGSSNARIKDSSTWYPRPGQHISIRTYRELSRAPTSSPTSTKTGILWNGEHSRSTGEVLEAVANRLTTHTPKSLTPSLQRKHCRF
+>ID:YP_001911133.1 |[Clerodendron golden mosaic virus]||Clerodendron-golden-mosaic-virus_taxid_390438.gbk|AC4|432|NC_010713(2767):2135-2566:-1 ^GeneID:6308656^ Clerodendrum golden mosaic virus DNA-A, complete sequence.|neighbours:ID:YP_001911132.1(-1),end()|neighbour_genes:AC1,end()|
+MPKIIFSLIHNAHSQKKKLLPDFWQLLHQPIKNSSRFAENSTKMGALISTFLCNSRANSNARINDSSIWYPQQDQPTSILTFKGQNRVPTSSPIWIRTGTHWNGENSRSTGDLHEEVHRQLMMLTPRRLTLAVSTKLLRSLKN
+>ID:YP_001210304.1 |[Clerodendron yellow mosaic virus]||Clerodendron-yellow-mosaic-virus_taxid_326811.gbk|AC4|258|NC_009451(2760):2174-2431:-1 ^GeneID:5129787^ Clerodendron yellow mosaic virus, complete genome.|neighbours:ID:YP_001210303.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCISMLSYNSRVKPSSEMRDISMSLIPTPPPNSMRTSRELDPALMSRDTSRRTEITSNGVDFRSMEDLLEEVNRQLTMLQLRH
+>ID:YP_002268199.1 |[Clerodendrum golden mosaic China virus]||Clerodendrum-golden-mosaic-China-virus_taxid_559878.gbk|AC4|291|NC_011346(2776):2152-2442:-1 ^GeneID:6965688^ Clerodendrum golden mosaic China virus DNA A, complete genome.|neighbours:ID:YP_002268198.1(-1),end()|neighbour_genes:AC1,end()|
+MEALISMCLYSSKANTSAQITDCSTWSPQPDQHISIRTYRELNPAPTSSHILIRTGTHWNGGSFRSTDVLQGAVNNQQTMLTPRRLTREVSRMLLG
+>ID:YP_009508118.1 |[Clerodendrum golden mosaic Jiangsu virus]||Clerodendrum-golden-mosaic-Jiangsu-virus_taxid_649509.gbk|AC4|258|NC_038876(2753):2184-2441:-1 ^GeneID:37619403,InterPro:IPR002488,UniProtKB/TrEMBL:C5J9I8^ Clerodendrum golden mosaic Jiangsu virus complete DNA-A genome, isolate YX2.|neighbours:ID:YP_009508117.1(-1),end()|neighbour_genes:AC1,end()|
+MGALISMCLCNSRENTTAQITDSSTWYPQPGQHISIRTFRELNPAPTSSPISTRMEIHSNGENFKSTAEVLEEAARMLTTHVRKH
+>ID:YP_009508393.1 |[Cnidoscolus mosaic leaf deformation virus]||Cnidoscolus-mosaic-leaf-deformation-virus_taxid_1747500.gbk|AC4 protein|294|NC_038982(2641):2045-2338:-1 ^GeneID:37619834^ Cnidoscolus mosaic leaf deformation virus isolate BR-Mes3-15 segment DNA-A, complete sequence.|neighbours:ID:YP_009508392.1(-1),end()|neighbour_genes:replication-associat..,end()|
+MGNLTSMCSFNSRENTTARTTGSSISSPQLGQHISIRTFRELRAPQTLKPMWRKTETSLIMEFSKSTADLLEEVSNLPTTRMPRSSIQDQSWRPSIY
+>ID:YP_009056859.1 |[Coccinia mosaic Tamil Nadu virus]||Coccinia-mosaic-Tamil-Nadu-virus_taxid_1532882.gbk|AC4|258|NC_024810(2749):2167-2424:-1 ^GeneID:20304630^ Coccinia mosaic Tamil Nadu virus isolate TN TDV Coc 1 segment DNA A, complete sequence.|neighbours:ID:YP_009056858.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCTSTPLSSSKVKPSSETPDTSMLFTLIAPPSSTRTSREQSPAPTSNHISRRTVITSTGVSFRSMDDLLEEVSRQLMMRQRRR
+>ID:YP_009508416.1 |[Common bean mottle virus]||Common-bean-mottle-virus_taxid_1915202.gbk|AC4|327|NC_038988(2631):2121-2447:-1 ^GeneID:37619861^ Common bean mottle virus isolate CU/Mayabeque 6/2014 segment DNA-A, complete sequence.|neighbours:ID:YP_009508415.1(-1),end()|neighbour_genes:AC1,end()|
+MQRTTSSHIQNVLFLKKRHYHNYNNYPHLSTKNTSRSAANCMKMGNHICMFSSNSKVNTNARIIDSSTWYPQPGQHISIRTFRELNLAQTSNPTSTKTGIHSNGESFK
+>ID:YP_009325425.1 |[Common bean severe mosaic virus]||Common-bean-severe-mosaic-virus_taxid_1915203.gbk|AC4|264|NC_031961(2613):2065-2328:-1 ^GeneID:34443315^ Common bean severe mosaic virus isolate Cuba/Mayabeque 16/2014 segment DNA-A, complete sequence.|neighbours:ID:YP_009325424.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGNLIFTCSSNSKENTNARITDSSTWFPHPGQHISIQTFRELSRAPTSSPTSIKTEIHLNGESFKSTADLLEEVNNRLTIHMQGR
+>ID:YP_001333688.1 |[Corchorus golden mosaic virus]||Corchorus-golden-mosaic-virus_taxid_390436.gbk|AC4|303|NC_009644(2677):2031-2333:-1 ^GeneID:5329903^ Corchorus golden mosaic virus DNA-A, complete sequence.|neighbours:ID:YP_001333687.1(-1),end()|neighbour_genes:AC1,end()|
+MGRLTCMPWFNSRKNSSAQIVDYSTSPIHRTHVNSTVTLKLRAPPPTPNHISKKMECSANGALSRWTEDRREAVNRQLMRLMQRRLTAEVRTRLLISLRS
+>ID:YP_007517193.1 |[Corchorus yellow vein mosaic virus]||Corchorus-yellow-vein-mosaic-virus_taxid_1297645.gbk|AC4|303|NC_020473(2743):2122-2424:-1 ^GeneID:14690376^ Corchorus yellow vein mosaic virus isolate CEA8, complete genome.|neighbours:ID:YP_007517192.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIYTCSSSSRANTSARISDSSTWYPQPGQHISIRTFRELNPAPTSSPISTRTETHLSGESSKSTADLQEEASRLQTTLMQRHLTQAVSQRLLASLEN
+>ID:YP_115512.1 |[Corchorus yellow vein virus - [Hoa Binh]]||Corchorus-yellow-vein-virus--Hoa-Binh_taxid_293284.gbk|AC4|291|NC_006358(2724):2087-2377:-1 ^GeneID:3105164^ Corchorus yellow vein virus - [Hoa Binh] DNA A, complete genome.|neighbours:ID:YP_115511.1(-1),end()|neighbour_genes:AC1,end()|
+MALRICMPWFNSRRSTDARTADCSIYPIQIHHNNTIVIYRLHAPPPTPNRTSKKMEYSANGVNSRSTADHPEEDNNPQTMHTLKHLTAEVRTKLSQ
+>ID:NP_795355.1 |[Cotton leaf curl Alabad virus]|Pakistan|Cotton-leaf-curl-Alabad-virus_taxid_222456.gbk|AC4|258|NC_004582(2744):2177-2434:-1 ^GeneID:1482983,InterPro:IPR002488,UniProtKB/TrEMBL:O73569^ Cotton leaf curl Alabad virus, complete genome.|neighbours:ID:NP_795354.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCISMHSSNSKVKPSSETPDISMSLTLIPPPNSIQTSRELSPALMLSPTSRRTEITSTGAHFRSMEDLQEEVNRQLMMLLQKP
+>ID:YP_277440.1 |[Cotton leaf curl Bangalore virus]||Cotton-leaf-curl-Bangalore-virus_taxid_307110.gbk|AC4|303|NC_007290(2751):2142-2444:-1 ^GeneID:3563246^ Cotton leaf curl Bangalore virus segment A, complete genome.|neighbours:ID:YP_277439.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIFTCSSSSKGSTSAKIRDSSTWYPQPGQHISIRTFRELNQAQMSRTTSTRTETLSSGESFRSMEDQQEEDNRQPTTLTPQRLTREVSQRLLESLRN
+>ID:YP_002640510.1 |[Cotton leaf curl Burewala virus]||Cotton-leaf-curl-Burewala-virus_taxid_620894.gbk|C4|546|NC_012137(2759):2137-2682:-1 ^GeneID:7557862,UniProtKB/TrEMBL:B7ZEN8^ Cotton leaf curl Burewala virus - [India:Vehari:2004], complete genome.|neighbours:ID:YP_002640509.1(-1),end()|neighbour_genes:Rep,end()|
+MPFGDNINCIQSPIPRVKAHQLSLIDQSQWLPPNVLKYKPKTISSLIHSAHSLKRKHFPKFKPSTHPRIKNISNSAESYTKMGALISMCSSSSRANSSARITDSSTWYPQPGQHISIRTFRELNQAQMSRPTSTRTGTLSSGESFRSMEDQQEEDSRQPTTLTPQHLTQAVSQRLLESLRN
+>ID:NP_062872.1 |[Cotton leaf curl Gezira virus]||Cotton-leaf-curl-Gezira-virus_taxid_222459.gbk|AC4|294|NC_002510(2764):2183-2476:-1 ^GeneID:1482993^ Cotton leaf curl Gezira virus, complete genome.|neighbours:ID:NP_062871.1(-1),end()|neighbour_genes:AC1,end()|
+MANLIYMCFSSSKGSSSAKIRDSSTWSPQIGQHISIQTFRELNPAPTSSPTSTRMETHWNGENSRSTEDLQEEDNRPPMTLTPQRLTQEVRQRLLGL
+>ID:NP_795351.1 |[Cotton leaf curl Kokhran virus]|Pakistan|Cotton-leaf-curl-Kokhran-virus_taxid_222464.gbk|AC4|303|NC_004583(2748):2137-2439:-1 ^GeneID:1482999,InterPro:IPR002488,UniProtKB/TrEMBL:O73581^ Cotton leaf curl Kokhran virus, complete genome.|neighbours:ID:NP_795350.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCMFSSSSKGNSSARICDSSTWSPQAGQHISIRTYRELNPAPTSNPTSRRTGTFSTGGNFRSTEGQQEEGNRQPMTLTPQHLTREVSRRLLESLRN
+>ID:YP_009237911.1 |[Cotton leaf curl Shahdadpur virus]||Cotton-leaf-curl-Shahdadpur-virus_taxid_674996.gbk|AC4|303|NC_029648(2748):2137-2439:-1 ^GeneID:27028841,InterPro:IPR002488,UniProtKB/TrEMBL:D2U4U9^ Cotton leaf curl Shadadpur virus, complete genome, isolate Sha.|neighbours:ID:YP_009237910.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCMFSSSSKGNSSARICDSSTWSPQAGQHISIRTYRELNPAPTSNPTSTRTGTLSSGESFRSTEGQQEEGNRQPMTLTPQHLTREVSQRLLESLRN
+>ID:YP_009316021.1 |[Cotton leaf curl virus]||Cotton-leaf-curl-virus_taxid_53010.gbk|AC4|303|NC_031760(2753):2142-2444:-1 ^GeneID:30144437^ Cotton leaf curl virus isolate Faz-14, complete genome.|neighbours:ID:YP_009316020.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCMFSSSSKGNSSARICDSSTWSPQAGQHISIRTYRELNPAPTSNPTSRRTGTFSTGGNFRSTEGQQEEGNRQPMTLTPQHLTQAVSQRLLESLRN
+>ID:YP_009256564.1 |[Cotton yellow mosaic virus]||Cotton-yellow-mosaic-virus_taxid_79236.gbk|AC4|291|NC_030310(2766):2173-2463:-1 ^GeneID:27986402^ Cotton yellow mosaic virus isolate Benin-Gossypium raimondii-55-14 segment DNA-A, complete sequence.|neighbours:ID:YP_009256563.1(-1),end()|neighbour_genes:AC1,end()|
+MGNRIFMCCCSSRANSHVPTIASSIVYTQAVAPVSTPTFRELNQARTSSRTWTKTETPSNGDSFRSMGDLQEEVKSLQMTLTPEQLTREVSRKLLA
+>ID:YP_009506410.1 |[Cowpea golden mosaic virus-[Nigeria]]||Cowpea-golden-mosaic-virus-Nigeria_taxid_223260.gbk|c4|294|NC_038445(2728):2124-2417:-1 ^GeneID:37617281^ Cowpea golden mosaic virus-[Nigeria] DNA-A, complete sequence.|neighbours:ID:YP_009506409.1(-1),end()|neighbour_genes:rep,end()|
+MGNLICTYCYNSKVSSRSQIQDCSTLSLETDLPCFIQTFREQNRAPTSSPISRRMETPSHGANSRSMEDLAEEDNNQPTTLTPQQLTLEVRRRLSTL
+>ID:YP_001004151.1 |[Crassocephalum yellow vein virus - Jinghong]||Crassocephalum-yellow-vein-virus--Jinghong_taxid_417288.gbk|AC4|294|NC_008794(2745):2150-2443:-1 ^GeneID:4711921^ Crassocephalum yellow vein virus - Jinghong, complete genome.|neighbours:ID:YP_001004150.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCISSSSSKGNSSVKIKDSSISYPQTGQHISIRTFRELKAQQMLNHTWKKTETCLIMEFSRSMDDRLEEVANLPTTHMPRQSIRGPKHRPSIY
+>ID:NP_694934.1 |[Croton yellow vein mosaic virus]||Croton-yellow-vein-mosaic-virus_taxid_207697.gbk|AC4|258|NC_004300(2757):2201-2458:-1 ^GeneID:955452,InterPro:IPR002488,UniProtKB/TrEMBL:Q8B8N3^ Croton yellow vein mosaic virus, complete genome.|neighbours:ID:NP_694933.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCISMPSSNSKVNPSSETPDISMSLTLIAPPNSIQTSRELSPAPMSSPTSRRTVITSTGVSFRSMEDLHEEVNRQLMMLQQRP
+>ID:YP_003864099.1 |[Croton yellow vein virus]||Croton-yellow-vein-virus_taxid_671095.gbk|c4|258|NC_014473(2744):2197-2454:-1 ^GeneID:9715140,InterPro:IPR002488,UniProtKB/TrEMBL:E0WD91^ Croton yellow vein virus, complete genome.|neighbours:ID:YP_003864098.1(-1),end()|neighbour_genes:c1,end()|
+MGACISTHSSNSKVNPSSETPDISMSLTLITPPNSTQTSREQSPALMSSPTSRRTVITSTGVSFRSMEDLLEEVNRQLMMLQQRP
+>ID:YP_006860600.1 |[Dalechampia chlorotic mosaic virus]||Dalechampia-chlorotic-mosaic-virus_taxid_1227356.gbk|AC4|351|NC_018716(2616):1978-2328:-1 ^GeneID:13791652^ Dalechampia chlorotic mosaic virus isolate Venezuela:Albarico 1020:2007 segment DNA-A, complete sequence.|neighbours:ID:YP_006860599.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISMCLSSSKVNTNVLMKDSSTSSPQPGQHISIQTFRELNQHLMSRPTWRKTETSLILENFKSIPVPPEEVNNLPMTPMPRFSTQTLSPRPSIYSEKSSPKTSCSSSTRYVQT
+>ID:YP_009666816.1 |[Datura leaf curl virus]||Datura-leaf-curl-virus_taxid_1038082.gbk|AC4|258|NC_043531(2782):2206-2463:-1 ^GeneID:40527095^ Datura leaf curl virus isolate Sudan-Datura 435-2016, complete genome.|neighbours:ID:YP_009666815.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCISMLSSSSRVRPSSETPDISMSLTLITPPNSTQISRELSPHPMSSHTSRRTVITSTGVNFRSMEDLLEEVNRQLMMLQQRP
+>ID:YP_006860605.1 |[Datura leaf distortion virus]||Datura-leaf-distortion-virus_taxid_1227357.gbk|AC4|258|NC_018717(2599):2051-2308:-1 ^GeneID:13791659^ Datura leaf distortion virus isolate Venezuela:Rubio 933:2007 segment DNA-A, complete sequence.|neighbours:ID:YP_006860604.1(-1),end()|neighbour_genes:AC1,end()|
+MGILISTCSSNSKENTSARIIDSSIWSPHPGQHISIRTFRELNPAPTSSPTSTKMEIQLNGENSRSTADLLEEVSSQLTIHMPRR
+>ID:YP_009241414.1 |[Deinbollia mosaic virus]||Deinbollia-mosaic-virus_taxid_1812308.gbk|AC4|240|NC_029804(2759):2214-2453:-1 ^GeneID:27209964^ Deinbollia mosaic virus isolate DB_T1A segment DNA-A, complete sequence.|neighbours:ID:YP_009241413.1(-1),end()|neighbour_genes:AC1,end()|
+MPWFNSRANTTAQIRDSSTWNPQPGQHITIQTFRELNQAQMSSPISTRTATQPAGENIRSTADLLEEASRILTTWAQRP
+>ID:YP_009508454.1 |[Desmodium mottle virus]||Desmodium-mottle-virus_taxid_1960710.gbk|AC4|177|NC_039001(2767):2277-2453:-1 ^GeneID:37619912^ Desmodium mottle virus isolate UG5 segment DNA-A, complete sequence.|neighbours:ID:YP_009508453.1(-1),end()|neighbour_genes:AC1,end()|
+MGNHISMCLSSLRESVKSLTRNTSTSYPQCDQHITIRTFRELNQAPTSKNTLIKMEIP
+>ID:YP_009029993.1 |[Dolichos yellow mosaic virus]||Dolichos-yellow-mosaic-virus_taxid_333968.gbk|AC4|246|NC_005338(2761):2235-2480:-1 ^GeneID:2716761^ Dolichos yellow mosaic virus isolate DA segment DNA A, complete sequence.|neighbours:ID:YP_009029992.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCISMPSSSSRVRPSSEMQDISTLPILIAHRFSMEMSREQRAHLMSNPTSPRTVITSTGEHFRSTDDLLEEVVRQLTML
+>ID:YP_009508383.1 |[Duranta leaf curl virus]||Duranta-leaf-curl-virus_taxid_742163.gbk|C4|258|NC_038980(2759):2198-2455:-1 ^GeneID:37619822^ Duranta leaf curl virus isolate 57SA segment DNA-A, complete sequence.|neighbours:ID:YP_009508382.1(-1),end()|neighbour_genes:replication associat..,end()|
+MGLCISMPSSSSRVNPSSETPDISMSLTLIHPHNSTQTSRELSPHPMSSPTSRRTVITSTGVSFRSMEDLLEEVNRQLMMLQQRR
+>ID:YP_002317399.1 |[East African cassava mosaic Kenya virus]||East-African-cassava-mosaic-Kenya-virus_taxid_393599.gbk|AC4|291|NC_011583(2797):2197-2487:-1 ^GeneID:7042753,InterPro:IPR002488,UniProtKB/TrEMBL:Q2A8E1^ East African cassava mosaic Kenya virus DNA A, complete genome.|neighbours:ID:YP_002317398.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLICMPSFSSRASTIVPTIDSSTSYPHPGQHISIQTFRELNQAPTSSPIWTRTETPSNGARFRSTDDLLEEDNNQPMTLTPRLLTQQISQRLLM
+>ID:NP_808888.1 |[East African cassava mosaic Zanzibar virus]||East-African-cassava-mosaic-Zanzibar-virus_taxid_223275.gbk|AC4|258|NC_004655(2785):2230-2487:-1 ^GeneID:988107^ East African cassava mosaic Zanzibar virus DNA-A, complete genome.|neighbours:ID:NP_808887.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLISTCLFSSKANSHAQISDSSTWYPQHDQHISIRTFKELNPAPTSSPTSTKMGIPLSGANSRSTPDRLEAAATMLMTHVPKH
+>ID:NP_817113.1 |[East African cassava mosaic virus]|Uganda2 Severe|East-African-cassava-mosaic-virus_taxid_62079.gbk|ac4|234|NC_004674(2799):2252-2485:-1 ^GeneID:993387^ East African cassava mosaic virus DNA A, complete sequence.|neighbours:ID:NP_817112.1(-1),end()|neighbour_genes:ac1,end()|
+MGCLISMFSSNSKASSNVPTRDSSISFPHPDQHISIRTFRELNHRPMSKLTLKREGNFLTLDFSKSMPEVQGGRANI
+>ID:YP_005087581.1 |[Eclipta yellow vein virus]||Eclipta-yellow-vein-virus_taxid_875324.gbk|C4|303|NC_016660(2740):2143-2445:-1 ^GeneID:16185594^ Eclipta yellow vein virus clone EcYVV-[PK,Fai,06], complete genome.|neighbours:ID:YP_005087580.1(-1),end()|neighbour_genes:C1,end()|
+MGNLIYTCSSSSRESTSARITDSSTWSPQPGQHISIRTFRELNQARTSSHTSRRTETPSTGESFRSMEDLQEGDNSQPMTLTPQHLTQAVSQRLLESLKN
+>ID:YP_009408601.1 |[Emilia sonchifolia yellow vein Thailand virus]||Emilia-sonchifolia-yellow-vein-Thailand-virus_taxid_2020881.gbk|AC4|294|NC_035473(2746):2147-2440:-1 ^GeneID:33868349^ Emilia sonchifolia yellow vein Thailand virus isolate TH4872-6 segment DNA-A, complete sequence.|neighbours:ID:YP_009408600.1(-1),end()|neighbour_genes:AC1,end()|
+MGILTCMFSSSSKANSNARTTDSSTSHPQPGQHISIRTFRQLKARQMLNPTWTKTETCLILDLSKSMEDRLEEVAKLPTTHMPRQSTQGPKLRPSIY
+>ID:YP_001661462.1 |[Emilia yellow vein virus-[Fz1]]||Emilia-yellow-vein-virus-Fz1_taxid_498805.gbk|AC4|300|NC_010307(2725):2134-2433:-1 ^GeneID:5867670^ Emilia yellow vein virus-[Fz1], complete genome.|neighbours:ID:YP_001661461.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGLLTCMFSSNSKANSNAKTTDSSISYPQIGQHISIRTFRELKAQQMSKPTWRKTEMYLIMDLSRSMEDRLEEAANLPTTHMPRQSIQGQKLRPSIY
+>ID:YP_001285753.1 |[Erectites yellow mosaic virus]||Erectites-yellow-mosaic-virus_taxid_390443.gbk|AC4|294|NC_009549(2751):2144-2437:-1 ^GeneID:5220082^ Erectites yellow mosaic virus DNA-A, complete sequence.|neighbours:ID:YP_001285752.1(-1),end()|neighbour_genes:AC1,end()|
+MELLTCISSSNSKGNSSVKIKDSSISYPQPGQHISIQTFRELKAHQMLNHTWKKTETCLIMEFSRSMDDRLEEVANLPTTHMPRHSIQGPKHRPSIY
+>ID:NP_619558.1 |[Eupatorium yellow vein mosaic virus]||Eupatorium-yellow-vein-mosaic-virus_taxid_186637.gbk|C4|300|NC_003556(2766):2316-2615:-1 ^GeneID:940177^ Eupatorium yellow vein virus, complete genome.|neighbours:ID:NP_619557.1(-1),end()|neighbour_genes:C1,end()|
+MKMGALISTSSSNSKENTNAKINDSSTSYPQVGQHISIRTFRRLKARQMSSPTWRKTETSLILEFSKSMEDQLGEVANLPTTHMPRQSTQDQSHRHSIY
+>ID:YP_009664847.1 |[Eupatorium yellow vein virus - [Yamaguchi]]||Eupatorium-yellow-vein-virus--Yamaguchi_taxid_269095.gbk|C4|423|NC_043119(2765):2156-2578:-1 ^GeneID:40524960^ Eupatorium yellow vein virus - [Yamaguchi] DNA, complete genome.|neighbours:ID:YP_009664846.1(-1),end()|neighbour_genes:C1,end()|
+MRKTFFSHIHTALLQKRKHSRRSNNSKPQQINCLYESVVNCTKMGALISTSSSSSKANTPAEIKDSSISFPQTDQHISIRTFRRLKARQMSRPTWRKTETSLILEFSKSMDDQLEEVAKMPTTHMPRQSTQDLSHRHSIY
+>ID:YP_009664859.1 |[Eupatorium yellow vein virus-[Japan:Kagawa:Tomato:1997]]||Eupatorium-yellow-vein-virus-Japan-Kagawa-Tomato-1997_taxid_519350.gbk|AC4|294|NC_043121(2767):2156-2449:-1 ^GeneID:40524975^ Eupatorium yellow vein virus-[Japan: Kagawa: Tomato: 1997] DNA, complete genome.|neighbours:ID:YP_009664858.1(-1),end()|neighbour_genes:AC1,end()|
+METLISTSSSSSKENTGARIKDSSTWYPQPGQHISIRTFRELKARQMSKPTWRKTETSLILEFSKSMEDQLEEVANLPTTHMPRQSTQDLNHRPSIY
+>ID:YP_009666037.1 |[Eupatorium yellow vein virus-[MNS2]]||Eupatorium-yellow-vein-virus-MNS2_taxid_223276.gbk|AC4|423|NC_043418(2765):2156-2578:-1 ^GeneID:40526213,InterPro:IPR002488,UniProtKB/TrEMBL:Q8B3L5^ Eupatorium yellow vein virus-[MNS2] complete genome, isolate Fukuoka-MNS2.|neighbours:ID:YP_009666036.1(-1),end()|neighbour_genes:AC1,end()|
+MRKTISSHIHTALLQKRKHSRRSSNSKPQQINCLYESVVNCTKMGALISTSSSSSKANTPAEIKDSSTSFPQTGQHISIRTFRRLKARQMSRPTWRKTETSLILEFSKSMDDQLEEVAKMPTTHMPRQSTQDLSHRHSIY
+>ID:YP_009508127.1 |[Eupatorium yellow vein virus-[SOJ3]]||Eupatorium-yellow-vein-virus-SOJ3_taxid_335404.gbk|AC4|309|NC_038879(2778):2148-2456:-1 ^GeneID:37619416,InterPro:IPR002488,UniProtKB/TrEMBL:Q8B3K9^ Eupatorium yellow vein virus-[SOJ3] complete genome, isolate Fukuoka-SOJ3.|neighbours:ID:YP_009508126.1(-1),end()|neighbour_genes:AC1,end()|
+MKTGLLTCIPFFNSKGNSNAQIRDSSTWYPQIGQHISIATFRELNPAPTSSPTSRRTVNSPTGENSRSMGEVQEVDSNQPMTLTPRQLTLEVSQRLLGSSRN
+>ID:YP_009664853.1 |[Eupatorium yellow vein virus-[Suya]]||Eupatorium-yellow-vein-virus-Suya_taxid_436246.gbk|AC4|294|NC_043120(2760):2156-2449:-1 ^GeneID:40524968^ Eupatorium yellow vein virus-[Suya] DNA, complete genome, isolate: Suya-2003.|neighbours:ID:YP_009664852.1(-1),end()|neighbour_genes:AC1,end()|
+MGALTCTSSSNSKENSNVQIKDSSTSYPQVGQHISIRTFRQLKARQMSSPTWRKTETSLILEFSKSMDDQLEEVANLPTTHMPRQSTQDLSHRHSIY
+>ID:YP_009508907.1 |[Euphorbia leaf curl Guangxi virus]||Euphorbia-leaf-curl-Guangxi-virus_taxid_412688.gbk|AC4|294|NC_038881(2747):2149-2442:-1 ^GeneID:37619425,InterPro:IPR002488,UniProtKB/TrEMBL:A1KQS9^ Euphorbia leaf curl Guangxi virus complete genome, isolate G35-1.|neighbours:ID:YP_009508906.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCMSSSNSKANSSAKTTDSSISPPQVGQHISIRTFRELKAPQMLKHTWKKTETCLIMEFSKSMEDQLEEVANLPTTHMPRQSIQGPKQRPSIY
+>ID:NP_955736.1 |[Euphorbia leaf curl virus]||Euphorbia-leaf-curl-virus_taxid_270117.gbk|AC4|291|NC_005319(2746):2163-2453:-1 ^GeneID:2703624^ Euphorbia leaf curl virus DNA A, complete sequence.|neighbours:ID:NP_955735.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIFTCSSSSKGNTSAQITDSSTWYPQPGQHISIRTFRELNQARTSSPIWRRTETPSTGESFRSMADLQEGVNRQPMMLTPQHLTQAVSQRLLE
+>ID:YP_009508362.1 |[Euphorbia yellow leaf curl virus]||Euphorbia-yellow-leaf-curl-virus_taxid_1578825.gbk|AC4|303|NC_038976(2731):2136-2438:-1 ^GeneID:37619797^ Euphorbia yellow leaf curl virus isolate PK1A, complete genome.|neighbours:ID:YP_009508361.1(-1),end()|neighbour_genes:replication initiati..,end()|
+MGNLIFTCSSSSKGSTSARITDSSTWYPQPGQHISIRTFRELNQARTSSPIWRRTEIPSNGESFRSTDDLLEEVNRRPTTLTPQRLTQAVSQRLSESLRS
+>ID:YP_006491267.1 |[French bean leaf curl virus]||French-bean-leaf-curl-virus_taxid_2050584.gbk|AC4|303|NC_018090(2741):2134-2436:-1 ^GeneID:13224834^ French bean leaf curl virus isolate FbLCV-Kanpur segment DNA-A, complete sequence.|neighbours:ID:YP_006491266.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIYTCSSSSRGNTSARISDSSTWYPRPGQHISIRTFRELNPAPTSSPTSTRTETHWSGETSRSTADLQEGASRQQTTLTQQHLTREASRKLLKYLGS
+>ID:YP_002455913.1 |[Gossypium darwinii symptomless virus]||Gossypium-darwinii-symptomless-virus_taxid_509531.gbk|AC4|303|NC_011804(2740):2131-2433:-1 ^GeneID:7205536^ Gossypium darwinii symptomless virus DNA-A, complete genome.|neighbours:ID:YP_002455912.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIFTCSSNSRGNTSARISDSSTWYPQPGQHISIRTFRELNQAQMSRTTSTRTGTLSNGESFRSMEDQQEEDNRQQTTLTPQHLTQAVSQRLLESLRN
+>ID:YP_002455919.1 |[Gossypium punctatum mild leaf curl virus]||Gossypium-punctatum-mild-leaf-curl-virus_taxid_509532.gbk|AC4|258|NC_011805(2737):2179-2436:-1 ^GeneID:7205543^ Gossypium punctatum mild leaf curl virus DNA A, complete genome.|neighbours:ID:YP_002455918.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCISTPSSSSKVKPSSETPDISMSLTLITPPNSIQTSRELSPVPMSNPTSRRTMITSTGVSFRSTEDLLEEVNRQLMMQQQRP
+>ID:YP_009305429.1 |[Grapevine geminivirus A]||Grapevine-geminivirus-A_taxid_1906317.gbk|HAP/C4|258|NC_031340(2905):2390-2647:-1 ^GeneID:29295307^ Grapevine geminivirus A isolate Tamar, complete genome.|neighbours:ID:YP_009305428.1(-1),end()|neighbour_genes:Rep/C1,end()|
+MGNRICMHCFNSRGNSRRQINDSSTWYPQADQHISIQTFRELNPRPTSSPISRRTEMSSPGENFRSTADHLEEVCNRLTTLMLRR
+>ID:YP_009506421.1 |[Hedyotis uncinella yellow mosaic virus]||Hedyotis-uncinella-yellow-mosaic-virus_taxid_1428190.gbk|AC4 protein|291|NC_038448(2749):2153-2443:-1 ^GeneID:37617297^ Hedyotis uncinella yellow mosaic virus isolate VN1 segment DNA-A, complete sequence.|neighbours:ID:YP_009506420.1(-1),end()|neighbour_genes:AC1 protein,end()|
+MGALISMCSCSSKVNTGARITDSSTLYPPPGQHISIRTFRELNPAPTSSPISIRTETPSNGENSRSMHDLQGEDNNPPMMLTPRHLTQEVSQRLLM
+>ID:YP_008411026.1 |[Hemidesmus yellow mosaic virus]||Hemidesmus-yellow-mosaic-virus_taxid_1383052.gbk|AC4|303|NC_022073(2825):2222-2524:-1 ^GeneID:16548214^ Hemidesmus yellow mosaic virus clone H1 segment DNA-A, complete sequence.|neighbours:ID:YP_008411025.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLISMCCCSSRENTTAPPIVSSICLTQAVAPVSTQTFNALSPPPTSRHISERTETPSTGVSFRSTMRSARGGQKSANDAYVSAITQEVSRRLLILLKN
+>ID:NP_665675.1 |[Hollyhock leaf crumple virus]||Hollyhock-leaf-crumple-virus_taxid_199587.gbk|C4|294|NC_004071(2755):2159-2452:-1 ^GeneID:951239^ Hollyhock leaf crumple virus, complete genome.|neighbours:ID:NP_665674.1(-1),end()|neighbour_genes:C1,end()|
+MGNLICMPLFNSRESTSARITDSSTWYPQADQHISIRTFRELNQAPTSSPIWRRTETPSNGESFRSMQDLQEGDNRPPMTLTPQRLTQEVSQRLLGL
+>ID:YP_009508133.1 |[Hollyhock leaf curl virus]||Hollyhock-leaf-curl-virus_taxid_163655.gbk|ac4|309|NC_038884(2748):2141-2449:-1 ^GeneID:37619437^ Hollyhock leaf curl virus, complete genome, isolate [Pakistan:20-4:06] Faisalabad3.|neighbours:ID:YP_009508132.1(-1),end()|neighbour_genes:ac1,end()|
+MKMGNLIFTCSSSSRANTNAKITDSSTSYPQPGQHISIQTFRELNPAPTSSPTSLRTGTFSTGANFRSTEDQQEEGNKQPTTLTPQHLTREVSQRLLESLRN
+>ID:YP_009140568.1 |[Hollyhock yellow vein mosaic Islamabad virus]||Hollyhock-yellow-vein-mosaic-Islamabad-virus_taxid_1504732.gbk|C4|303|NC_027129(2741):2145-2447:-1 ^GeneID:24404832^ Hollyhock yellow vein mosaic Islamabad virus complete genome, isolate 3AK.|neighbours:ID:YP_009140567.1(-1),end()|neighbour_genes:Rep,end()|
+MGNLIFTCSYSSMGSTSARTNDSSTSYPQPGQHISIRTFRELNQARTSSPIWRRTETPSTGESFRSMEDLQEGDNSQPMMLTPQRLTQAVSQRLLESLRN
+>ID:YP_005086958.1 |[Hollyhock yellow vein mosaic virus]||Hollyhock-yellow-vein-mosaic-virus_taxid_944994.gbk|ac4|309|NC_016649(2750):2142-2450:-1 ^GeneID:11537859^ Hollyhock yellow vein mosaic virus, complete genome.|neighbours:ID:YP_005086957.1(-1),end()|neighbour_genes:ac1,end()|
+MKMGNLIFTCSSSSKANTSAKITDSSTSYPQPGQHISIRTFRELNPAPTSSPTSPRTGTFSTGENFRSMEDQQEEGNRQPTTLTPQHLTREVSRRLLESLRN
+>ID:YP_001004145.1 |[Honeysuckle yellow vein Kagoshima virus]||Honeysuckle-yellow-vein-Kagoshima-virus_taxid_1233675.gbk|C4|294|NC_008793(2762):2160-2453:-1 ^GeneID:4711806^ Honeysuckle yellow vein mosaic virus-[Kagoshima], complete genome.|neighbours:ID:YP_001004144.1(-1),end()|neighbour_genes:C1,end()|
+MGALISTSSSNSKGNINAQIKDSSISYPQLGQHISIQTFRELRARQMSRPTWRKTETSLTLEFSKSMEDQLEEVANLPTTRMPRQSTQDLSHRHSVY
+>ID:NP_619683.1 |[Honeysuckle yellow vein mosaic virus]||Honeysuckle-yellow-vein-mosaic-virus_taxid_180587.gbk|C4|294|NC_003609(2757):2307-2600:-1 ^GeneID:940215^ Honeysuckle yellow vein mosaic virus, complete genome.|neighbours:ID:NP_619682.1(-1),end()|neighbour_genes:C1,end()|
+MGALISTSSCNSKENTDAQINDSSISYPQLGQHISIRTFRELRARRTSRPTWKKTGTSLILEFSRSMEDQLEEVASLPTTHMPRQSTQGPSHRPCLY
+>ID:NP_981939.1 |[Horsegram yellow mosaic virus]||Horsegram-yellow-mosaic-virus_taxid_263793.gbk|ac4|300|NC_005635(2728):2158-2457:-1 ^GeneID:2752779,InterPro:IPR002488,UniProtKB/TrEMBL:Q701P7^ Horsegram yellow mosaic virus, complete genome.|neighbours:ID:NP_981938.1(-1),end()|neighbour_genes:ac1,end()|
+MRMENLISMFCCNSKANSTHVTKGSSTWYPQPGQHISIRTFRQLKAAQMLSNTWRKTETSLIMEPSKSMEDRLEEVNSLQTTRMPRHSTVDPNHRPSIY
+>ID:NP_047234.1 |[Indian cassava mosaic virus]||Indian-cassava-mosaic-virus_taxid_31600.gbk|AL0|309|NC_001932(2815):2357-2665:-1 ^GeneID:991057,UniProtKB/Swiss-Prot:Q08588^ Indian cassava mosaic virus DNA A, complete sequence.|neighbours:ID:NP_047232.1(-1),end()|neighbour_genes:AL2,end()|
+MRMGSLICTCSSSSKANTNARISDSSTWYHQPGQHISIQTFRELNPAPTSSPTSTRTVILGDGEHFRSMDDQPEGVNNLQTTLTPRHLTAAVNQRLLRSLEN
+>ID:YP_003084281.1 |[Ipomoea yellow vein virus]||Ipomoea-yellow-vein-virus_taxid_653358.gbk|C4|258|NC_013022(2791):2215-2472:-1 ^GeneID:8207078^ Ipomoea yellow vein virus, complete genome.|neighbours:ID:YP_003084280.1(-1),end()|neighbour_genes:C1,end()|
+MGLCISMFSSSSRGKQSSKTHDISTYNIHITPPNSIQISRQLSPPRMSSHTSRRTETTSTGVNSRSTADLLEEASRLLTTLPQRH
+>ID:YP_009508297.1 |[Jacquemontia yellow mosaic virus]||Jacquemontia-yellow-mosaic-virus_taxid_1490227.gbk|AC4|258|NC_038960(2611):2052-2309:-1 ^GeneID:37619716^ Jacquemontia yellow mosaic virus isolate [Venezuela:Rio Cocollar 1250:2009] segment DNA-A, complete sequence.|neighbours:ID:YP_009508296.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLISTCLSNSRVNTTARITDSSTLYPQTGQHISIQTYRELNPAPMSSPTWTRTETLLNGENSRLTGDLLEEVNRRLTTHMPRR
+>ID:YP_009109708.1 |[Jatropha leaf crumple virus]||Jatropha-leaf-crumple-virus_taxid_1547577.gbk|C4|303|NC_025725(2735):2143-2445:-1 ^GeneID:22284063^ Jatropha leaf crumple virus isolate SKJ1, complete genome.|neighbours:ID:YP_009109707.1(-1),end()|neighbour_genes:C1,end()|
+MGSLICMCSSNSTENTNARIRDSSTWYPQPGQHISIRTYRELNPAPTSSPTSTRTEIPLNGAHSRSTDDLHGGVNRLQTTLTPQQLTAEVSQRLLGSLGN
+>ID:YP_009508304.1 |[Jatropha leaf curl Gujarat virus]||Jatropha-leaf-curl-Gujarat-virus_taxid_2169734.gbk|C4|303|NC_038962(2758):2142-2444:-1 ^GeneID:37619724^ Jatropha leaf curl Gujarat virus, complete genome.|neighbours:ID:YP_009508303.1(-1),end()|neighbour_genes:C1,end()|
+MGSLICMCSSNSTENTNARISDSSTWYPQPGQHISIRTYRELNPAPTSSPTSTRTEIPLNGAHSRSTGDLHGGVNRLRTTLTPQQLTAEVSQRLLGSLGN
+>ID:YP_009508289.1 |[Jatropha leaf yellow mosaic Katarniaghat virus]||Jatropha-leaf-yellow-mosaic-Katarniaghat-virus_taxid_1530093.gbk|AC4|303|NC_038956(2744):2143-2445:-1 ^GeneID:37619703^ Jatropha leaf yellow mosaic Katarniaghat virus isolate Katerniaghat 2 segment DNA-A, complete sequence.|neighbours:ID:YP_009508288.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLICMCSSSTKASSNARIRDSSTWYPRPGQHISIQTFRELNPAPTSSPISTRTEILWNGENSRSMAGLHGEVNSRQMMHTPPQLTAAVSQRLLRSLES
+>ID:YP_009506427.1 |[Jatropha mosaic India virus-[Lucknow]]|SK-2|Jatropha-mosaic-India-virus-Lucknow_taxid_569949.gbk|AC4|303|NC_038449(2740):2143-2445:-1 ^GeneID:37617304^ Jatropha mosaic India virus-[Lucknow] strain SK-2 segment DNA-A, complete sequence.|neighbours:ID:YP_009506426.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLICMCSSSTRASSNARIRDSSTWYPQPGQHISIQTFRELNPAPTSSPTSTRTEILWNGENSRSTAGLHGEANSRQMMHTPPQLTAAVSQRLLRSLES
+>ID:YP_006905840.1 |[Jatropha mosaic Nigeria virus]||Jatropha-mosaic-Nigeria-virus_taxid_1213406.gbk|C4|234|NC_019034(2781):2221-2454:-1 ^GeneID:13900899^ Jatropha mosaic Nigerian virus isolate 2 segment DNA-A, complete sequence.|neighbours:ID:YP_006905839.1(-1),end()|neighbour_genes:C1,end()|
+MGNLICMCSSNSRAKSDSRIADCSTWYPQPGQHISIRTFRELSLAPMSRHILRRTETSSTGANSRSIDDQREEANNQ
+>ID:YP_009026404.1 |[Jatropha mosaic virus]|Jamaica:Spanish Town:2004|Jatropha-mosaic-virus_taxid_75574.gbk|AC4|264|NC_024012(2610):2052-2315:-1 ^GeneID:18995874^ Jatropha mosaic virus strain Jamaica:Spanish Town:2004 clone A1 segment DNA-A, complete sequence.|neighbours:ID:YP_009026403.1(-1),end()|neighbour_genes:Rep,end()|
+MRMGSLISMCSYSSKGSTTARITDSSIWSPQHGQHISIRTYRELNRAPTSSPTSTRTEIHWNGENSRSTDEVLGEAANLLMIHMPRR
+>ID:YP_002261484.2 |[Jatropha yellow mosaic virus]||Jatropha-yellow-mosaic-virus_taxid_1485012.gbk|AC4|294|NC_011309(2757):2157-2450:-1 ^GeneID:6964594^ Jatropha yellow mosaic virus segment DNA-A, complete sequence.|neighbours:ID:YP_002261483.2(-1),end()|neighbour_genes:AC1,end()|
+MGNPTYMFLSSSKENTSANISDSLIWSPQPGQHNSIQTSRELKAPATSSPIWRRTETPSTGESFRSMEDLHEEDNNQPMTLTPQRLTQGQKLRPSIY
+>ID:YP_001718511.1 |[Kenaf leaf curl virus-[India:Bahraich:2007]]||Kenaf-leaf-curl-virus-India-Bahraich-2007_taxid_508750.gbk|AC4|300|NC_010435(2740):2138-2437:-1 ^GeneID:6000181^ Kenaf leaf curl virus DNA A, complete sequence.|neighbours:ID:YP_001718510.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGLLTCMFSFSSKGSSSAETIDSSTSHLQAGQHISIQTFRELKAQAMSKPTWRKTETSLIMEFSRSMEDQLEEVANLPTTHMPRQSTQGPKLRPSIY
+>ID:YP_001333681.1 |[Kudzu mosaic virus]||Kudzu-mosaic-virus_taxid_390437.gbk|AC4|183|NC_009645(2731):2277-2459:-1 ^GeneID:5329911^ Kudzu mosaic virus DNA-A, complete sequence.|neighbours:ID:YP_001333680.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGNLTSMFCFNLKENSSAATKGSSTSYPKPGQHISIRTFRELRAAQMLKSTWRKTETS
+>ID:YP_001285759.1 |[Lindernia anagallis yellow vein virus]||Lindernia-anagallis-yellow-vein-virus_taxid_300411.gbk|AC4|258|NC_009550(2740):2176-2433:-1 ^GeneID:5220044^ Lindernia anagallis yellow vein virus DNA-A, complete sequence.|neighbours:ID:YP_001285758.1(-1),end()|neighbour_genes:AC1,end()|
+MGALISMCSCNSKGNSSARITDSSIWYPQPGQHISIRTFRELNPAPTSSPIWRRMETPSTGENSRSTEEVLEEVARTLTTHVQRR
+>ID:YP_009310419.1 |[Lisianthus enation leaf curl virus]|Lis|Lisianthus-enation-leaf-curl-virus_taxid_1740165.gbk|C4|291|NC_031466(2759):2155-2445:-1 ^GeneID:29720220^ Lisianthus enation leaf curl virus DNA, complete genome, isolate: BG-1.|neighbours:ID:YP_009310418.1(-1),end()|neighbour_genes:C1,end()|
+MGALISTCLSNSRGNSDARINDSSIWYPQQGQHISIQTFRELNRARTSSPIWTRTETPSNGESFRSTVDLQEEDNNQPTTLTPKRLTQEVSQRLLM
+>ID:YP_009506436.1 |[Ludwigia yellow vein Vietnam virus]||Ludwigia-yellow-vein-Vietnam-virus_taxid_390444.gbk|AC4|291|NC_038451(2751):2170-2460:-1 ^GeneID:37617313^ Ludwigia yellow vein Vietnam virus segment DNA-A, complete sequence.|neighbours:ID:YP_009506435.1(-1),end()|neighbour_genes:AC1,end()|
+MGALISMCSCSSKGSTTARIHDSSTWYPQVGAHISIRTYRGLNRVQMSSPTWRRTETPSIGESFRSTDDLQEGDNRQPMTLTPRRLTAAVSQRLLM
+>ID:YP_271823.1 |[Ludwigia yellow vein virus]||Ludwigia-yellow-vein-virus_taxid_325111.gbk|ac4|258|NC_007210(2758):2204-2461:-1 ^GeneID:3562303,InterPro:IPR002488,UniProtKB/TrEMBL:Q4GZJ0^ Ludwigia yellow vein virus DNA-A, complete genome.|neighbours:ID:YP_271822.1(-1),end()|neighbour_genes:ac1,end()|
+MGHCISMPSSNSKVKPNSGTPGILTLRIPTPPHNSIRTSKEPSPVLMSSPISRRTVITSTGVFFKSTEDLLEEVSRRLMMQQQKR
+>ID:YP_009508373.1 |[Lycianthes yellow mosaic virus]||Lycianthes-yellow-mosaic-virus_taxid_1779714.gbk|AC4|258|NC_038978(2752):2185-2442:-1 ^GeneID:37619807^ Lycianthes yellow mosaic virus isolate GD segment DNA-A, complete sequence.|neighbours:ID:YP_009508372.1(-1),end()|neighbour_genes:AC1,end()|
+MGHCISMPLFNSKVKPNSEMKDISISPILMLQESSILISKEHAPRQMSRHILRRTEITSTGVVFKSMEDLLEEVHMQHMMLRRRR
+>ID:YP_009310066.1 |[Macroptilium bright mosaic virus]||Macroptilium-bright-mosaic-virus_taxid_1904880.gbk|AC4|258|NC_031452(2636):2075-2332:-1 ^GeneID:29345004^ Macroptilium bright mosaic virus isolate ALM33_5B segment DNA-A, complete sequence.|neighbours:ID:YP_009310065.1(-1),end()|neighbour_genes:REP,end()|
+MGSLISMSCFNSRPNSTARIRDSSTLSPQIGQHISIQTYRELSRAPTSSPMSTRTETPLNGENSRSTLVLQEVANRLRTSHTPRF
+>ID:YP_009310072.1 |[Macroptilium common mosaic virus]||Macroptilium-common-mosaic-virus_taxid_1904881.gbk|AC4|258|NC_031448(2632):2083-2340:-1 ^GeneID:29344967^ Macroptilium common mosaic virus isolate ALM2_5B segment DNA-A, complete sequence.|neighbours:ID:YP_009310071.1(-1),end()|neighbour_genes:REP,end()|
+MGNRICMLSFNSKESSSARIADSSTSYIQTPLPSPMPIYRVQSHPLMSSPTSRKTVITSNGVIFKSTEDLLEEVNRQLMMQHRRH
+>ID:YP_009408647.1 |[Macroptilium golden yellow mosaic virus]||Macroptilium-golden-yellow-mosaic-virus_taxid_2021666.gbk|AC4|264|NC_035487(2631):2074-2337:-1 ^GeneID:34700380^ Macroptilium golden yellow mosaic virus isolate DR:M45:16 segment DNA A, complete sequence.|neighbours:ID:YP_009408646.1(-1),end()|neighbour_genes:Rep,end()|
+MKMGSLISMCSFNSKASSSARIKDCSTWCPLPGQHISIRTFRELNPAPTSSPTSTRTGTPWNGANSRLTVEVLEEAARVLTIHTPKP
+>ID:NP_671462.1 |[Macroptilium mosaic Puerto Rico virus]||Macroptilium-mosaic-Puerto-Rico-virus_taxid_223282.gbk|AC4|258|NC_004097(2615):2060-2317:-1 ^GeneID:988115^ Macroptilium mosaic Puerto Rico virus DNA A, complete sequence.|neighbours:ID:NP_671461.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIFTCLFSSKENSSAQIKDYSTWYPQHGQHISIRTYRELNQVQMLKHTSTRMESPLNGANSRSTVDLQEEDNNPQTTHMQKR
+>ID:NP_671469.1 |[Macroptilium yellow mosaic Florida virus]||Macroptilium-yellow-mosaic-Florida-virus_taxid_223284.gbk|AC4|258|NC_004099(2642):2082-2339:-1 ^GeneID:988123^ Macroptilium yellow mosaic Florida virus DNA A, complete sequence.|neighbours:ID:NP_671468.1(-1),end()|neighbour_genes:AC1,end()|
+MDSLISMYSFSSKANTNAQITDSSTWCPLPSQHISIRMFRELNQAPTSSPISIRTGTHWNGENSRSTVEVLEEAAKRLTTHMPRP
+>ID:YP_001876453.1 |[Macroptilium yellow mosaic virus]||Macroptilium-yellow-mosaic-virus_taxid_169865.gbk|AC4|258|NC_010647(2630):2074-2331:-1 ^GeneID:6264450^ Macroptilium yellow mosaic virus DNA A, complete sequence.|neighbours:ID:YP_001876452.1(-1),end()|neighbour_genes:Rep,end()|
+MGSLISMCLSSSKENSSARITDYSTWSPHPGQHISIRTFRELNRAPTSSPISTRMESQSNGENSRSTVEVLEEAARVLTTHMPRH
+>ID:YP_005352909.1 |[Macroptilium yellow net virus]||Macroptilium-yellow-net-virus_taxid_1129033.gbk|AC4 protein|300|NC_017001(2620):2027-2326:-1 ^GeneID:11946080^ Macroptilium yellow net virus DNA A, complete genome.|neighbours:ID:YP_005352908.1(-1),end()|neighbour_genes:replication-associat..,end()|
+MKMGNLICTSLFNSKESSFAQTADYSTSHLRPGQHISIRTYRQLRAAQMSKHTWRKTETSLIMEFSRSMVDQLEEVSNLPTTRTPRSSMQDQSWKHSIY
+>ID:YP_005352899.1 |[Macroptilium yellow spot virus]||Macroptilium-yellow-spot-virus_taxid_1129034.gbk|AC4 protein|258|NC_016999(2660):2073-2330:-1 ^GeneID:11946062^ Macroptilium yellow spot virus DNA A, complete sequence.|neighbours:ID:YP_005352898.1(-1),end()|neighbour_genes:replication-associat..,end()|
+MGSLISMLCCNSKVSSHARIADSSTCDIPVIQMFVMENTNHASHPPTPNHILRRTEITSNGVIFRSTDDLLEEVNRQLTIHMQRR
+>ID:YP_005352904.1 |[Macroptilium yellow vein virus]||Macroptilium-yellow-vein-virus_taxid_1129035.gbk|AC4 protein|258|NC_017000(2656):2107-2364:-1 ^GeneID:11946068^ Macroptilium yellow vein virus DNA-A, complete genome.|neighbours:ID:YP_005352903.1(-1),end()|neighbour_genes:replication-associat..,end()|
+MGNRICMLSFNSKESSSARIADSSTSNIQTPLPSPMPIYRVQNHPLMSSPTSRRTVITSNGVIFKSTEDLLEEVSRQLMMQPPRR
+>ID:YP_009508461.1 |[Malachra yellow mosaic virus]||Malachra-yellow-mosaic-virus_taxid_2202146.gbk|AC4|303|NC_039003(2739):2128-2430:-1 ^GeneID:37619919^ Malachra yellow mosaic virus DNA, segment DNA-A, complete sequence, isolate: Barasat.|neighbours:ID:YP_009508460.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCMFSSSSKGNSSARICDSSTWSPQAGQHISIRTYRELNPAPTSSPTSTRTETFSTGGNFRSTEGQQEEGNRQQMTLTPQHLTREVSQRLLESLRN
+>ID:YP_009310095.1 |[Malvastrum bright yellow mosaic virus]||Malvastrum-bright-yellow-mosaic-virus_taxid_1906668.gbk|C4 protein|258|NC_031458(2609):2060-2317:-1 ^GeneID:29345023^ Malvastrum bright yellow mosaic virus isolate Ma8S clone Ma8S-5A segment DNA-A, complete sequence.|neighbours:ID:YP_009310094.1(-1),end()|neighbour_genes:replication-associat..,end()|
+MGSLISTFSSNSKASTSARITDSSIWSPQPGQHISIRTYRELNPAPTSSPTSRRTEIQLTGENSKSTADLLEEVNNRLTIHMPRR
+>ID:YP_729215.1 |[Malvastrum leaf curl Guangdong virus]||Malvastrum-leaf-curl-Guangdong-virus_taxid_377610.gbk|AC4|291|NC_008316(2767):2142-2432:-1 ^GeneID:4261795,InterPro:IPR002488,UniProtKB/TrEMBL:Q0KFZ2^ Malvastrum leaf curl Guangdong virus, complete genome.|neighbours:ID:YP_729214.1(-1),end()|neighbour_genes:AC1,end()|
+MGTLISTCLSSSRENTSARISDSSTWYPQPGQHISIQTFRELNQVPTSSPTSTRTETPSNGESFRSMEDLQEGGNNQPMTLTPRHLTLEVSRRLLM
+>ID:YP_008003517.1 |[Malvastrum leaf curl Philippines virus]||Malvastrum-leaf-curl-Philippines-virus_taxid_1333313.gbk|AC4|291|NC_021245(2742):2156-2446:-1 ^GeneID:15614194^ Malvastrum leaf curl Philippines virus isolate Mc1 segment DNA-A, complete sequence.|neighbours:ID:YP_008003516.1(-1),end()|neighbour_genes:AC1,end()|
+MGTLISTCSSSSRASSSARITDSSTWYPKPGQHISIQTFRELNPAPTSSPISTRTETHWNGESSRSMEEVLEEGNNQPMMLTPKRLTAEVSQRLLM
+>ID:YP_459912.1 |[Malvastrum leaf curl virus]||Malvastrum-leaf-curl-virus_taxid_329290.gbk|ac4|291|NC_007724(2745):2155-2445:-1 ^GeneID:3882037^ Malvastrum leaf curl virus - [G87], complete genome.|neighbours:ID:YP_459911.1(-1),end()|neighbour_genes:ac1,end()|
+MGTLISTCLCNSKANTTARITDSSTWFPQPDQHISIQTFRELNPAPMSSPTSIRMETPLNGVNSRSTADLLEGDNNQPMMLTPRHLTAEVSRRLLM
+>ID:YP_009506441.1 |[Malvastrum yellow mosaic Helshire virus]||Malvastrum-yellow-mosaic-Helshire-virus_taxid_643133.gbk|AC4|258|NC_038452(2609):2061-2318:-1 ^GeneID:37617321^ Malvastrum yellow mosaic Helshire virus isolate Ma179A5 segment DNA-A, complete sequence.|neighbours:ID:YP_009506440.1(-1),end()|neighbour_genes:Rep,end()|
+MGSLISMCSCSSKASSTARITDSSTWCPQPGQHLSIQTFRELGRAPMSSPMSRKTVTPSNGECSRSTEEVLVAVSRQLMMQPPRR
+>ID:YP_009508003.1 |[Malvastrum yellow mosaic Jamaica virus]||Malvastrum-yellow-mosaic-Jamaica-virus_taxid_376612.gbk|AC4|258|NC_038798(2612):2055-2312:-1 ^GeneID:37619217^ Malvastrum yellow mosaic Jamaica virus isolate Ma179A73 segment DNA-A, complete sequence.|neighbours:ID:YP_009508002.1(-1),end()|neighbour_genes:REn,end()|
+MGSLISTCLYSSKGNMHARITDSSTWYPQLGQHISIQTYRELGRAPTSSPMSTRAETHWNGGNSRSTVEVLEEVANRLTTHMPRR
+>ID:YP_851012.1 |[Malvastrum yellow mosaic virus]||Malvastrum-yellow-mosaic-virus_taxid_377462.gbk|AC4|291|NC_008559(2728):2135-2425:-1 ^GeneID:4486721^ Malvastrum yellow mosaic virus DNA-A, complete genome.|neighbours:ID:YP_851011.1(-1),end()|neighbour_genes:AC1,end()|
+MGTLISTCLFSSRGNTSARITDSSTWYPQPGQHFSIQTSRELNPAPTSSPTSTRTETPSNGESFRSTDDLQEGDNNQPMMLTPQHLTQAVSQRLLM
+>ID:YP_002875765.1 |[Malvastrum yellow vein Baoshan virus]||Malvastrum-yellow-vein-Baoshan-virus_taxid_642493.gbk|AC4|303|NC_012665(2743):2130-2432:-1 ^GeneID:7853615,InterPro:IPR002488,UniProtKB/TrEMBL:C3W964^ Malvastrum yellow vein Baoshan virus DNA-A, complete genome.|neighbours:ID:YP_002875764.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIYTCSSNSRGNTSARISDSSTWSPHTGQHISIQIFRELNQAQTSSPTSTRTETSLNGESFRSTDDLLEGGNNQPTTLTQQHLTQAVSQRLLEYLGN
+>ID:YP_009129289.1 |[Malvastrum yellow vein Cambodia virus]||Malvastrum-yellow-vein-Cambodia-virus_taxid_1633139.gbk|AC4|291|NC_026763(2737):2156-2446:-1 ^GeneID:24018671^ Malvastrum yellow vein Cambodia virus isolate 08 segment DNA-A, complete sequence.|neighbours:ID:YP_009129288.1(-1),end()|neighbour_genes:AC1,end()|
+MGTLISTCLYSSKGNTTARITDSSTWYPQTGQHISIRTFRELNPAPTSSPTSTRTETLSNGENSRSTDDQQEGVNNQPTTLTQQHLTVEVSRRLLM
+>ID:YP_003987462.1 |[Malvastrum yellow vein Changa Manga virus]||Malvastrum-yellow-vein-Changa-Manga-virus_taxid_911574.gbk|ac4|303|NC_014647(2754):2142-2444:-1 ^GeneID:9923544^ Malvastrum yellow vein Changa Manga virus, complete genome.|neighbours:ID:YP_003987461.1(-1),end()|neighbour_genes:rep,end()|
+MGNLIFTCSSSSKANTSARIRDSSTSYPQLGQHISIRTYRELNPAPTSSPISPRTGTFSSGGNFRSMEDLQEGDNRQQTTLTPQHLTQAVNQRLLASLRN
+>ID:YP_009270648.1 |[Malvastrum yellow vein Honghe virus]||Malvastrum-yellow-vein-Honghe-virus_taxid_676044.gbk|AC4|303|NC_030749(2740):2127-2429:-1 ^GeneID:28479241,InterPro:IPR002488,UniProtKB/TrEMBL:C8ZLK2^ Malvastrum yellow vein Honghe virus segment DNA-A, complete sequence, isolate Y249.|neighbours:ID:YP_009270647.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLICTCSSSSRANSNAKITDSSTWYPQPGQHISIQTFRELNPAPTSSPTSTRTETFSNGENFRSMGDLQEEVNNQPTTLTQQHLTQAISQRLLAYLGN
+>ID:YP_184755.1 |[Malvastrum yellow vein Yunnan virus]||Malvastrum-yellow-vein-Yunnan-virus_taxid_290030.gbk|AC4|294|NC_006631(2747):2145-2438:-1 ^GeneID:3239170,InterPro:IPR002488,UniProtKB/TrEMBL:Q5K2L1^ Malvastrum yellow vein Yunnan virus, complete genome.|neighbours:ID:YP_184754.1(-1),end()|neighbour_genes:AC1,end()|
+MGILTCMFSSSSKGNSSVETIDSSTSHPQAGQHISIQTFRELKAQAMSKPTWRKTETSLIMEFSKSMEDQLEEVARLPTTHMPRQSTQGPKLRPSIY
+>ID:NP_808735.1 |[Malvastrum yellow vein virus]||Malvastrum-yellow-vein-virus_taxid_222475.gbk|AC4|300|NC_004634(2731):2132-2431:-1 ^GeneID:1483015,InterPro:IPR002488,UniProtKB/TrEMBL:Q8QKZ2^ Malvastrum yellow vein virus, complete genome.|neighbours:ID:NP_808734.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGLLTCMFSSSSKENSNAKTTDSLTSHPQAGQHISIQTFRELKAQAMSKPTLRKTETSLIMEFSKSMDDQLEEVANLPTTHMPRQSIQGPKQRPSIY
+>ID:YP_009175079.1 |[Melochia mosaic virus]||Melochia-mosaic-virus_taxid_1742594.gbk|AC4|258|NC_028140(2624):2074-2331:-1 ^GeneID:26121847^ Melochia mosaic virus DNA A, complete sequence.|neighbours:ID:YP_009175078.1(-1),end()|neighbour_genes:AC1,end()|
+MGSHISTCLFSSRESSSARITDYSTWYPQPGQHISILTFRELNHRQTSSPISTRTVTPSNGVNSRSTVEVLEEVNRRLMTLPPRH
+>ID:YP_009175086.1 |[Melochia yellow mosaic virus]||Melochia-yellow-mosaic-virus_taxid_1742595.gbk|AC4|258|NC_028142(2668):2119-2376:-1 ^GeneID:26121856^ Melochia yellow mosaic virus DNA A, complete sequence.|neighbours:ID:YP_009175085.1(-1),end()|neighbour_genes:AC1,end()|
+MESHTSMCCFNLRGKSKSQIIDCSIYLTHNDRLSFTPTSRELNRAPMSSLTSTRTETPLNGVNSKSTAEVLEEVNKRLMMLPPRH
+>ID:YP_001955944.1 |[Mesta yellow vein mosaic Bahraich virus]|[India:Bahraich:2007]|Mesta-yellow-vein-mosaic-Bahraich-virus_taxid_508748.gbk|AC4|339|NC_010818(2737):2092-2430:-1 ^GeneID:6373595^ Mesta yellow vein mosaic Bahraich virus-[India:Bahraich:2007] DNA A, complete sequence.|neighbours:ID:YP_001955943.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLACEFSSSSKGNSSARICDSSTWSPQAGQHISDQTYRELNPAPTSSPTSRRTGTFSTGDNFRSTEGQQEEGNRQPMTLTPQHLTREVSRRLLESLRNWLLKILYCNFII
+>ID:YP_001086463.1 |[Mesta yellow vein mosaic virus]||Mesta-yellow-vein-mosaic-virus_taxid_360579.gbk|transcriptional regu..|303|NC_009088(2728):2115-2417:-1 ^GeneID:5076744^ Mesta yellow vein mosaic virus DNA-A, complete sequence.|neighbours:ID:YP_001086462.1(-1),end()|neighbour_genes:replication enhancer..,end()|
+MGLLTCMFSSSSRGNSSARICDSSTWSPQTDQHISIRTYRELNPAPTSSPTSTRTGTFSNGANFRSTEGQQEEGSRQPTTLTPQHLTREVSQRLLESLRN
+>ID:YP_001285735.1 |[Mimosa yellow leaf curl virus]||Mimosa-yellow-leaf-curl-virus_taxid_390440.gbk|AC4|258|NC_009546(2757):2194-2451:-1 ^GeneID:5220065^ Mimosa yellow leaf curl virus DNA-A, complete sequence.|neighbours:ID:YP_001285734.1(-1),end()|neighbour_genes:AC1,end()|
+MGALISTCYSSSKGNSSARITDSSTWYPQPGQHISIRTFRELNPVPTSSPISTRTGTQSNGEISRSTEEVLGEAARMLTTLAQRR
+>ID:YP_009047201.1 |[Mirabilis leaf curl virus]||Mirabilis-leaf-curl-virus_taxid_1431395.gbk|AC4|294|NC_024491(2778):2187-2480:-1 ^GeneID:19893487,InterPro:IPR002488,UniProtKB/TrEMBL:A0A077V302^ Mirabilis leaf curl virus, complete sequence, isolate Pragpur.|neighbours:ID:YP_009047200.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLICMLCYNSKESSQSPTTAHSILYTQAVAPVSTPTYKALSPAQMLNNTSTRTETPLSGVSFRSMDDLQEEGNSQPMTLTPRHLTQAVSQRLLMS
+>ID:NP_803151.1 |[Mungbean yellow mosaic India virus]|bg3|Mungbean-yellow-mosaic-India-virus_taxid_223287.gbk|AC4|300|NC_004608(2745):2277-2576:-1 ^GeneID:988130^ Mungbean yellow mosaic India virus DNA A, complete sequence.|neighbours:ID:NP_803150.1(-1),end()|neighbour_genes:AC1,end()|
+MKMDNLISMFCFSSKGNNKRKTKGSSTSIPDADRHITIRTFSELKAAQMLKHTWRKTETFLIMEPSKSMADQLEEVNNLPTTHTPRHSTLDQSWRPSLY
+>ID:NP_077092.1 |[Mungbean yellow mosaic virus]||Mungbean-yellow-mosaic-virus_taxid_33726.gbk|AC4|300|NC_001983(2723):2255-2554:-1 ^GeneID:991137^ Mungbean yellow mosaic virus DNA A, complete sequence.|neighbours:ID:NP_077091.1(-1),end()|neighbour_genes:Rep,end()|
+MKMENLISMFCFNSKGSSKRRTKGSSTWFPQPDQHITIRTFRQLKAHQMLSHTWTKTETSLTMEVSKSMADQLEEVNSLPTTLMPRHSTVDPSYRPSIY
+>ID:YP_004123722.1 |[Okra enation leaf curl virus [India:Munthal EL37:2006]]||Okra-enation-leaf-curl-virus-India-Munthal-EL37-2006_taxid_908127.gbk|AC4|303|NC_014894(2724):2114-2416:-1 ^GeneID:10097986^ Okra enation leaf curl virus [India:Munthal EL37:2006] DNA-A, complete genome.|neighbours:ID:YP_004123721.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLICTCSSRSRGNTSARISDSSTWSPQAGQHISIRTYRELNPAPTSNPTSTRTGTLSSGESFRSTDDLLEGDNRQPTTLTPQRLTQAVSQRLLESLRS
+>ID:YP_009315917.1 |[Okra enation leaf curl virus]||Okra-enation-leaf-curl-virus_taxid_908125.gbk|AC4|339|NC_031754(2738):2091-2429:-1 ^GeneID:36372697^ Okra enation leaf curl virus isolate Trincomalee segment DNA-A, complete sequence.|neighbours:ID:YP_009315916.1(-1),end()|neighbour_genes:AC1,end()|
+MGILTCMFSSSSKESSSAGTIDSSTSPPQLGQHISIRTFRELKAQAMSKPTWRKTETSLIMEFSKSMEDQLEEVAKLPTTHMPRQSTQGPKLRPSIYGRRKPQETFYFNFII
+>ID:YP_004046693.1 |[Okra leaf curl Cameroon virus]||Okra-leaf-curl-Cameroon-virus_taxid_912034.gbk|C4|294|NC_014745(2764):2183-2476:-1 ^GeneID:10002888^ Okra leaf curl Cameroon virus, complete genome.|neighbours:ID:YP_004046692.1(-1),end()|neighbour_genes:Rep,end()|
+MANLICMCFSNSKGNSSAKIRDYSTWSPQIGQHISIQTFRELNPAPTSSPTSTRMETHSNGENSRSTDDLPEEANRQPMTLTPQRLTQGVRQRLLGL
+>ID:YP_004123093.1 |[Okra leaf curl India virus [India:Sonipat EL14A:2006]]||Okra-leaf-curl-India-virus-India-Sonipat-EL14A-2006_taxid_908124.gbk|AC4|303|NC_014847(2723):2114-2416:-1 ^GeneID:10067335^ Okra leaf curl India virus [India:Sonipat EL14A:2006] DNA-A, complete genome.|neighbours:ID:YP_004123092.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLICTCSSSSRGNTSARISDSSTWSPQAGQHISIRTYRELNPAPTSNPTSTRTGTLSSGESFRSTDDLLEGDNRQPTTLTPQRLTQAVSQRLLESLRS
+>ID:YP_009216264.1 |[Okra leaf curl Oman virus]||Okra-leaf-curl-Oman-virus_taxid_1241370.gbk|C4|294|NC_028985(2788):2186-2479:-1 ^GeneID:26642863^ Okra leaf curl Oman virus, complete genome, isolate OK-2.|neighbours:ID:YP_009216263.1(-1),end()|neighbour_genes:C1,end()|
+MGLLTCMFSSNSKGSSSARTIDSSTSPPQPGQHISIRTFRELKAQAMSKPTWRKTETSLIMEFSRSMEDQLEEVANLPTTHMPRQSTQGPKLRPSIY
+>ID:YP_003084138.1 |[Okra leaf curl virus]|Cameroon|Okra-leaf-curl-virus_taxid_163654.gbk|C4|294|NC_013017(2386):1805-2098:-1 ^GeneID:8207048^ Okra leaf curl virus-[Cameroon], complete genome.|neighbours:ID:YP_003084137.1(-1),end()|neighbour_genes:C1,end()|
+MANLICMCFSNSKGSSSAKIRDYSTWSPQIGQHISIQTFRELSPAPTSSPTSTRMETHSNGENSRSTEDLPEEANRQPMTLTPQRLTQGVRQRLLGL
+>ID:YP_764517.1 |[Okra yellow crinkle virus]||Okra-yellow-crinkle-virus_taxid_401040.gbk|C4|264|NC_008377(2792):2222-2485:-1 ^GeneID:4311821^ Okra yellow crinkle virus segment A, complete sequence.|neighbours:ID:YP_764516.1(-1),end()|neighbour_genes:C1,end()|
+MRMGNHISMCLSSSRANTTAQIRDSSTWSPQVGQHISIRTFRELSLARTSSPTSTRTATPWNGESSRSTEEVLGEAARLLTTLQQRH
+>ID:YP_003587822.1 |[Okra yellow mosaic Mexico virus]||Okra-yellow-mosaic-Mexico-virus_taxid_327280.gbk|AC4|258|NC_014066(2612):2063-2320:-1 ^GeneID:9083569^ Okra yellow mosaic Mexico virus DNA A, complete genome.|neighbours:ID:YP_003587821.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLICTSLSSSRGNTDARITDSSTWCPQVGQHISIRTFRELNPAPTSNPISTRTEIQSNGENFRSTADLLEEASNQLTIHMPRR
+>ID:NP_817106.1 |[Okra yellow vein mosaic virus]|Pakistan|Okra-yellow-vein-mosaic-virus_taxid_227137.gbk|AC4|303|NC_004673(2739):2132-2434:-1 ^GeneID:1489640,InterPro:IPR002488,UniProtKB/TrEMBL:O73497^ Okra yellow vein mosaic virus, complete genome.|neighbours:ID:NP_817105.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIFTCSSSSKGNTSAKITDSSTSYPQPGQHISIRTFRELNPAPTSSPTSPRTGTFSTGGNFRSTEDQQEEGNKQPTTLTPQHLTREVSQRLLESSRS
+>ID:YP_009116884.1 |[Oxalis yellow vein virus]|USA:LA:01|Oxalis-yellow-vein-virus_taxid_1602199.gbk|C4|258|NC_026253(2661):2119-2376:-1 ^GeneID:22976191^ Oxalis yellow vein virus strain USA:LA:01 segment DNA-A, complete sequence.|neighbours:ID:YP_009116883.1(-1),end()|neighbour_genes:replication-associat..,end()|
+MGNLTSTSCCNWRERSRSQITDCSTWFPHHGQHISIRTFRELNRAPTSSPTSTRTETPSNGVSFRSTAEVLGEVNRQLMTLQLRR
+>ID:YP_004021923.1 |[Papaya leaf crumple virus-Panipat 8 [India:Panipat:Papaya:2008]]||Papaya-leaf-crumple-virus-Panipat-8-India-Panipat-Papaya-2008_taxid_913600.gbk|AC4|303|NC_014707(2736):2128-2430:-1 ^GeneID:9978815^ Papaya leaf crumple virus-Panipat 8 [India:Panipat:Papaya:2008] DNA-A, complete genome.|neighbours:ID:YP_004021922.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIFTCSSSSKENTSAKITGSSTWYPQPGQHISIRTFRELSQAQMSSPIWRRMETPSTGESFRSMDDLQEGDNSQPMMLTPKQLIQAVSQRLLESLGN
+>ID:NP_955748.1 |[Papaya leaf curl China virus]||Papaya-leaf-curl-China-virus_taxid_229634.gbk|AC4|294|NC_005321(2751):2148-2441:-1 ^GeneID:2703608,UniProtKB/TrEMBL:Q70P12^ Papaya leaf curl China virus - [G8], complete genome.|neighbours:ID:NP_955747.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCMSSYSSEANSSAKTTDSSISPPQAGQHISIRTFRELKPQQMLKHTWKKTETCLIMEFSKSMEDQLEEVANLPTTHMPRQSMQGPNQRPSIY
+>ID:YP_006438.1 |[Papaya leaf curl Guandong virus]||Papaya-leaf-curl-Guandong-virus_taxid_271479.gbk|AC4|291|NC_005844(2742):2138-2428:-1 ^GeneID:2777159,UniProtKB/TrEMBL:Q70P24^ Papaya leaf curl Guandong virus - [GD2] DNA A, complete sequence.|neighbours:ID:YP_006437.1(-1),end()|neighbour_genes:AC1,end()|
+MGALISMCLSNSRGNSDARINDSSIWYPQQGQHISIRTFRELNQARTSSPIWRRTETPSTGESFRSMEDLQEGVNRQPMMLTPQHLTQAVSQRLLE
+>ID:NP_689462.1 |[Papaya leaf curl virus]||Papaya-leaf-curl-virus_taxid_53260.gbk|AC4|258|NC_004147(2746):2200-2457:-1 ^GeneID:951830,InterPro:IPR002488,UniProtKB/TrEMBL:O56993^ Papaya leaf curl virus, complete genome.|neighbours:ID:NP_689461.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCISMPSSSSKVNPSSETPDISMSLTLITPPNSTQTSRELSPALMSSPTSRRTVITSTGVSFRSMEDMVEEVNRQLMMQQQRP
+>ID:YP_009316184.1 |[Passionfruit leaf distortion virus]||Passionfruit-leaf-distortion-virus_taxid_1737555.gbk|AC4|387|NC_031764(2600):2055-2441:-1 ^GeneID:30144424^ Passionfruit leaf distortion virus isolate Colombia-Valle-2014 segment A, complete sequence.|neighbours:ID:YP_009316183.1(-1),end()|neighbour_genes:AC1,end()|
+MPRTISSLIHNALLLKQKYFPKFNTLKPQLIRSSSRSPGNYTKMGSLISTSSSSSKGNTNARITDSSIWSPQLGQHISIRTFRELSRAPTSSLTSTRTETQLNGDSSRSTAGLLEEVSSLLTTHMPRR
+>ID:YP_002941856.1 |[Passionfruit severe leaf distortion virus]||Passionfruit-severe-leaf-distortion-virus_taxid_648801.gbk|AC4|294|NC_012786(2672):2077-2370:-1 ^GeneID:7967101^ Passionfruit severe leaf distortion virus DNA-A, complete genome.|neighbours:ID:YP_002941855.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLTSMCSSNSKANTIAKITDSSTSSPQLGQHISIRTFRELRALQTSRPMWRKTETSLIMEFSKSTADLLEEVSNLPTTRMPRSSIQDQSWRPSIY
+>ID:YP_009508388.1 |[Pavonia mosaic virus]||Pavonia-mosaic-virus_taxid_1772258.gbk|AC4|258|NC_038981(2700):2151-2408:-1 ^GeneID:37619825^ Pavonia mosaic virus isolate BR-Cor40-14 segment DNA-A, complete sequence.|neighbours:ID:YP_009508387.1(-1),end()|neighbour_genes:Rep,end()|
+MEHLISMLCCSSKESSSARIVDSSTCDIPNIQMSVMGNTNRVNPPPTPNHTSRRVEITSNGVLFRSTADLLEEVNRQLMMQQQRH
+>ID:YP_009226418.1 |[Pavonia yellow mosaic virus]||Pavonia-yellow-mosaic-virus_taxid_1742596.gbk|AC4|279|NC_029105(2700):2137-2415:-1 ^GeneID:26797471^ Pavonia yellow mosaic virus isolate BR-Alb51-14 segment DNA-A, complete sequence.|neighbours:ID:YP_009226417.1(-1),end()|neighbour_genes:Rep,end()|
+MKMGSLISTCFCNWKENTSAQIKDSSIWYPQQDQPIFMETIRELVPAPTSSPMSRRKETLLNGEHSRSTDEVLEEVSKRLTIVMPRQSTPDQ
+>ID:YP_009344824.1 |[Pea leaf distortion virus]||Pea-leaf-distortion-virus_taxid_1931111.gbk|AC4|309|NC_033554(2738):2130-2438:-1 ^GeneID:30906010^ Pea leaf distortion virus clone N36-41 segment DNA-A, complete sequence.|neighbours:ID:YP_009344823.1(-1),end()|neighbour_genes:Rep,end()|
+MKMGNLICTCSSSSRGNTSARISDSSTWYPQIGQHISIQTYRELNPAPTSSPTSTRTETLSNGGSFRSTDDLQEEDNRQQTTLTPRHLTQAVSQRLLESLGN
+>ID:NP_690917.1 |[Pepper leaf curl Bangladesh virus]||Pepper-leaf-curl-Bangladesh-virus_taxid_223305.gbk|C4|258|NC_004192(2753):2196-2453:-1 ^GeneID:955380^ Pepper leaf curl Bangladesh virus segment A component, complete genome.|neighbours:ID:NP_690916.1(-1),end()|neighbour_genes:C1,end()|
+MGACISTRSSNSKVNPSSETQDISMSLTLITPPNSTQISRELSPAPMSSPTSRRTVITSTGVAFRSMEDLLEEVNRQLMMLQQRP
+>ID:YP_005352661.1 |[Pepper leaf curl Lahore Virus-[Pakistan:Lahore1:2004]]||Pepper-leaf-curl-Lahore-Virus-Pakistan-Lahore1-2004_taxid_884612.gbk|AC4|258|NC_016984(2747):2195-2452:-1 ^GeneID:11934075,InterPro:IPR002488,UniProtKB/TrEMBL:B7ZEB7^ Pepper leaf curl Lahore Virus-[Pakistan:Lahore1:2004] segment A, complete genome.|neighbours:ID:YP_005352660.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCISTPSSNSKVNPSSETPDISMSLTLITPPNSTQTSRELSPALMSSPTSRRTVITSTGVSFRSMEDMVEEVNRQLMMLQQRP
+>ID:YP_001856216.1 |[Pepper leaf curl Yunnan virus-[YN323]]||Pepper-leaf-curl-Yunnan-virus-YN323_taxid_519015.gbk|AC4|291|NC_010618(2747):2149-2439:-1 ^GeneID:6240169^ Pepper leaf curl Yunnan virus-[YN323], complete sequence.|neighbours:ID:YP_001856215.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLISTCLSNSKENTNARITDSSTWYPQPGQHISIQTFRELNPAPTSSPISRKTETSSIGESFKSMQDLQEGDSNQPTTLTPRRLTAAVSQRLLM
+>ID:NP_050018.1 |[Pepper leaf curl virus]||Pepper-leaf-curl-virus_taxid_83839.gbk|ac4|294|NC_000882(2744):2152-2445:-1 ^GeneID:1450358^ Pepper leaf curl virus, complete genome.|neighbours:ID:NP_050017.1(-1),end()|neighbour_genes:ac1,end()|
+MGLLTCISSSNSKVNSNAKIHDSSTSHPQPGQHISIRTFRELKAQQMSKNISQKTETFLIMGFSRSMEDRLEGVANLPTTHMPRHSIQEPKLRHSQF
+>ID:YP_009666359.1 |[Pepper leafroll virus]||Pepper-leafroll-virus_taxid_1387160.gbk|AC4|300|NC_043517(2568):1985-2284:-1 ^GeneID:40526624^ Pepper leafroll virus isolate PE:P107:pep:2009 segment DNA A, complete sequence.|neighbours:ID:YP_009666358.1(-1),end()|neighbour_genes:AC1,end()|
+MRMGNLIYTCLSSSKENSDAKIQDSSTWSPQQGQHISIQTFRELRARQMSRPTWRKTETSLILEFSKSMEDQLEEVANLPMIRTPRFSMHSVHQRHLIY
+>ID:YP_009362979.1 |[Pepper yellow dwarf virus - Mexico]|PepYDV-Curto|Pepper-yellow-dwarf-virus--Mexico_taxid_1987360.gbk|C4|258|NC_034629(2971):2462-2719:-1 ^GeneID:32878885^ Pepper yellow dwarf virus - Mexico strain PepYDV-Curto, complete genome.|neighbours:ID:YP_009362978.1(-1),end()|neighbour_genes:C1,end()|
+MGLCISTPSSSSKVKHNSETPDISTSLILPIAPPSTPTSRELSHLPMLNNTSRRTVITSTGVHFRSTDDLLEEASRQLMMLQQRH
+>ID:YP_009216587.1 |[Pepper yellow leaf curl Thailand virus]||Pepper-yellow-leaf-curl-Thailand-virus_taxid_1774200.gbk|AC4|294|NC_028989(2742):2147-2440:-1 ^GeneID:26642971^ Pepper yellow leaf curl Thailand virus isolate KON-KG5 segment DNA-A, complete sequence.|neighbours:ID:YP_009216586.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCMSSSNSKVNSNAKTNDSSTSHPQPGQHISIRTFRELKAQQMSKHIWRRKGTFLITEFSRSMEDRREEVANLPTTHMLRLSIRDLKNRPSQY
+>ID:YP_007419084.1 |[Pepper yellow leaf curl virus]||Pepper-yellow-leaf-curl-virus_taxid_881944.gbk|AC4|258|NC_020236(2748):2179-2436:-1 ^GeneID:14543741^ Pepper yellow leaf curl virus isolate YN65-1, complete genome.|neighbours:ID:YP_007419083.1(-1),end()|neighbour_genes:AC1,end()|
+MGHCISMCSSNSKVKPSSVIPDISTSHTLIPPPNTTQTSRELSPARTSSPTSKRTVITSTGVVFRSMEDLHEEVNRQLMMLLQRP
+>ID:NP_958315.1 |[Pepper yellow vein Mali virus]||Pepper-yellow-vein-Mali-virus_taxid_260378.gbk|C4|258|NC_005347(2786):2198-2455:-1 ^GeneID:2716851^ Pepper yellow vein Mali virus, complete genome.|neighbours:ID:NP_958314.1(-1),end()|neighbour_genes:C1,end()|
+MGNLISTCLCSSRGNTSARITDSSTWYPQPGQHISIRTFRELNQAPTSSPTSTRTETPLNGGYSRSTAEVLGEAVEMLTTLQQRP
+>ID:NP_049356.1 |[Potato yellow mosaic Panama virus]|Panama|Potato-yellow-mosaic-Panama-virus_taxid_223307.gbk|AC4|294|NC_002048(2584):2000-2293:-1 ^GeneID:988154,InterPro:IPR002488,UniProtKB/TrEMBL:O41338^ Potato yellow mosaic Panama virus segment A, complete sequence.|neighbours:ID:NP_049355.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLISTFSSSSKESTSAPINDSSTWYPQPGQHISIRTYRELNRLQTSRPMWKKTETSLILEFSRSMDDQLEEVARLPMIHMPKPSIQARSPRPSIY
+>ID:NP_808759.1 |[Potato yellow mosaic Trinidad virus]||Potato-yellow-mosaic-Trinidad-virus_taxid_223308.gbk|AC4|258|NC_004638(2582):2036-2293:-1 ^GeneID:988162^ Potato yellow mosaic Trinidad virus DNA A, complete sequence.|neighbours:ID:NP_808758.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLISTCLSSSKVNISARITDSSIWSPQPGQHISIRTYRELNRAPTSSPISTRTEIQLNGENSRSTADLLEEVNSQLTIHMPRR
+>ID:YP_009021226.1 |[Pouzolzia golden mosaic virus]||Pouzolzia-golden-mosaic-virus_taxid_1225069.gbk|AC4|291|NC_023849(2723):2164-2454:-1 ^GeneID:18937732^ Pouzolzia golden mosaic virus isolate TY01 segment DNA-A, complete sequence.|neighbours:ID:YP_009021225.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLISTFSFNSKGNSSARISDSSIWSPQLGQHISIRTFRELNQAPMSSHIWRRTETPSNGESFRSTDDLHEGENNQPMMLTPRRLTLAVSQRLLM
+>ID:YP_009506447.1 |[Pouzolzia mosaic Guangdong virus]||Pouzolzia-mosaic-Guangdong-virus_taxid_1367126.gbk|AC4 protein|258|NC_038453(2739):2190-2447:-1 ^GeneID:37617328^ Pouzolzia mosaic Guangdong virus isolate GD1 segment DNA-A, complete sequence.|neighbours:ID:YP_009506446.1(-1),end()|neighbour_genes:Rep protein,end()|
+MGLLISTCYYSSKANTTARIRDSSTWSPQQGQHISIRTFRELNQAPMSSPTSTKMETPLNGVSSRLTDEVLEEAARLLTTHVQRR
+>ID:YP_009506454.1 |[Premna leaf curl virus]||Premna-leaf-curl-virus_taxid_1198134.gbk|ac4|297|NC_038454(2753):2156-2452:-1 ^GeneID:37617336^ Premna leaf curl virus isolate VN7 segment DNA-A, complete sequence.|neighbours:ID:YP_009506453.1(-1),end()|neighbour_genes:ac1,end()|
+MKMGALISMCSSSSRANTNAKIHDSSTWYPQPGQHITIQTFRELNQARTSSPTSIRTATPSIGASFRSMDDLQEGDNNQPMMLTPRRLTQAVSQRLLM
+>ID:YP_001974392.1 |[Pumpkin yellow mosaic Malaysia virus]||Pumpkin-yellow-mosaic-Malaysia-virus_taxid_420684.gbk|C4 protein|258|NC_010946(2724):2168-2425:-1 ^GeneID:10987399^ Pumpkin yellow mosaic Malaysia virus DNA A, complete sequence.|neighbours:ID:YP_001974391.1(-1),end()|neighbour_genes:replication-associat..,end()|
+MGALISMCSFNSKANATARITDSSTWYPQPSLHISIRTFRELNPAPTSNPTWTRTETPSTGENSRSTVEVLEEGARILTTHAQKP
+>ID:YP_001648981.1 |[Radish leaf curl virus]||Radish-leaf-curl-virus_taxid_435646.gbk|AC4|309|NC_010238(2756):2151-2459:-1 ^GeneID:5848417^ Radish leaf curl virus segment A, complete sequence.|neighbours:ID:YP_001648980.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGNLIFACSSSSKANTSAKITDSSTSYPQPGQHISIRTFRELNQAPMSSPIWRRTETPSTGESFRSTDDLLEGDNRQPTTLTPQRLTQAVSQRLLESLRS
+>ID:YP_009269406.1 |[Ramie mosaic Yunnan virus]||Ramie-mosaic-Yunnan-virus_taxid_1874886.gbk|AC4 protein|297|NC_030699(2759):2157-2453:-1 ^GeneID:28378872^ Ramie mosaic Yunnan virus isolate 4819-5 segment DNA-A, complete sequence.|neighbours:ID:YP_009269405.1(-1),end()|neighbour_genes:Rep protein,end()|
+MQMGVLISMCLCNSKANTNAQITDSSTWSPQAGQHISIRTFRELSQVPTLSHIWIRTETPSNGESFRSTDDLHEGVNNPQMTLTPRRLTAEVSQTLLM
+>ID:YP_001936690.1 |[Ramie mosaic virus]||Ramie-mosaic-virus_taxid_486809.gbk|AC4|204|NC_010791(2738):2245-2448:-1 ^GeneID:6336177^ Ramie mosaic virus DNA A, complete sequence.|neighbours:ID:YP_001936689.1(-1),end()|neighbour_genes:AC1,end()|
+MKMEALTSMFLFNSRENTNARITDSSTWYPQPGQHISIQTFRELSPAPMSKNTWKKTATPPNGESFR
+>ID:YP_009508010.1 |[Rhynchosia golden mosaic Havana virus-[Cuba:Havana:28:2007]]||Rhynchosia-golden-mosaic-Havana-virus-Cuba-Havana-28-2007_taxid_889202.gbk|AC4|258|NC_038800(2609):2061-2318:-1 ^GeneID:37619226^ Rhynchosia golden mosaic Havana virus-[Cuba:Havana:28:2007] segment DNA-A, complete sequence.|neighbours:ID:YP_009508009.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIFTCSSSSKANTSARITDSSTWYPQPGQHISIQTYRELNQAQTSSPTSTRMEIHFNGESFKSTAGLLEEDNKLRTTHMQRR
+>ID:YP_009508026.1 |[Rhynchosia rugose golden mosaic virus-[Cuba:Camaguey:171:2009]]||Rhynchosia-rugose-golden-mosaic-virus-Cuba-Camaguey-171-2009_taxid_889203.gbk|AC4|258|NC_038805(2631):2074-2331:-1 ^GeneID:37619247^ Rhynchosia rugose golden mosaic virus-[Cuba:Camaguey:171:2009] segment DNA-A, complete sequence.|neighbours:ID:YP_009508025.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISMCSYSSRENTSARITDSSIWSPQPGQHISIRTYRELNPAPTSSPTSTRTEIHWNGENSRSTEDLLEEASSLLMIHMPRR
+>ID:YP_004123936.1 |[Rhynchosia yellow mosaic India virus]||Rhynchosia-yellow-mosaic-India-virus_taxid_935473.gbk|AC4|300|NC_014902(2727):2157-2456:-1 ^GeneID:10100553^ Rhynchosia yellow mosaic India virus DNA-A, complete genome.|neighbours:ID:YP_004123935.1(-1),end()|neighbour_genes:AC1,end()|
+MKMAFLTYMFCFNSKENSSAKTRGSSISMPKPGQHISIRTFRELKVAQMLKNTWKKTETSLIMENSKLMVDQVEEVSNLQTTLMPKQSMQEIPLRRSLY
+>ID:YP_009508140.1 |[Rhynchosia yellow mosaic virus]||Rhynchosia-yellow-mosaic-virus_taxid_529680.gbk|ac4|294|NC_038885(2740):2174-2467:-1 ^GeneID:37619444,InterPro:IPR002488,UniProtKB/TrEMBL:C7TPG0^ Rhynchosia yellow mosaic virus, segment DNA-A, complete genome.|neighbours:ID:YP_009508139.1(-1),end()|neighbour_genes:ac1,end()|
+MEHLISMFCCNSKGSSKPETKGSSTWYPKPGQHITIQTFRRLRAPQMLNNTWRKTETTLTMEISKSMDAQLEEVSSLPTTLMPKQSMQSPNQRRSLY
+>ID:YP_009506460.1 |[Sauropus leaf curl virus]||Sauropus-leaf-curl-virus_taxid_1130981.gbk|C4|258|NC_038455(2762):2203-2460:-1 ^GeneID:37617339^ Sauropus leaf curl virus isolate AFSP5e segment A, complete sequence.|neighbours:ID:YP_009506459.1(-1),end()|neighbour_genes:C1,end()|
+MGALISTCSSNSKGNTTARITDSSTWCPQPGQHISIQTFRELNPAPTSSPIWTRTETPSTGENSRSTLEVLEGAARMLTTHAQKP
+>ID:YP_232879.1 |[Senecio yellow mosaic virus]||Senecio-yellow-mosaic-virus_taxid_310103.gbk|AC4|303|NC_006995(2746):2138-2440:-1 ^GeneID:3362489,InterPro:IPR002488,UniProtKB/TrEMBL:Q5JZL1^ Senecio yellow mosaic virus, complete genome.|neighbours:ID:YP_232878.1(-1),end()|neighbour_genes:AC1,end()|
+MGALISTCLCNSRGNTNARITDSSTWSPQPGQHISIQIFRELNQAPTSSPIWTRTVTQSNGENFRSTDDLQEGVYNLQTMLTPRQLTREVSMRLLRLLKN
+>ID:YP_009270642.1 |[Senna leaf curl virus]||Senna-leaf-curl-virus_taxid_1884991.gbk|AC4|303|NC_030748(2742):2135-2437:-1 ^GeneID:28480557^ Senna leaf curl virus isolate Mohali, complete genome.|neighbours:ID:YP_009270641.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIYTCSSSSKGNTSARISDSSTWYPHPGQHISIRTFRELNPAPMSSPISIRTETQSNGESSRSTEDLQEGDSKQQTTLTQQHLTREASRKLLEYLGS
+>ID:YP_009508147.1 |[Sida Brazil virus]||Sida-Brazil-virus_taxid_666145.gbk|AC4|258|NC_038887(2659):2110-2367:-1 ^GeneID:37619455,InterPro:IPR002488,UniProtKB/TrEMBL:D7FB01^ Sida Brazil virus segment DNA A, complete sequence.|neighbours:ID:YP_009508146.1(-1),end()|neighbour_genes:AC1,end()|
+MGNHICMPLFNLKASSSAQIADSSILNTQTPLPSPMPIYRVQSHHLMSSPTSRRTVITSTGVLFRSTEDLLEEVSRQLMTQHQRR
+>ID:YP_009310087.1 |[Sida angular mosaic virus]||Sida-angular-mosaic-virus_taxid_1904882.gbk|AC4|258|NC_031456(2692):2153-2410:-1 ^GeneID:29344983^ Sida angular mosaic virus isolate ALS30_4C segment DNA-A, complete sequence.|neighbours:ID:YP_009310086.1(-1),end()|neighbour_genes:REP,end()|
+MGNLTSIFSYNSKGKCRSQISDSSIWCPLPGQHISIQTFRELNRAPTSSPMSRKTGTPSSGENSRSTVAVLEEVAKQLTTQPPTH
+>ID:YP_009508427.1 |[Sida bright yellow mosaic virus]||Sida-bright-yellow-mosaic-virus_taxid_1949196.gbk|AC4 protein|258|NC_038991(2692):2154-2411:-1 ^GeneID:37619877^ Sida bright yellow mosaic virus isolate BR:Tac720:10, complete sequence.|neighbours:ID:YP_009508426.1(-1),end()|neighbour_genes:Rep,end()|
+MGSHISTCLSSSKGNSNARIRDSSIWCPLPGQYISIRTFRELNHRPTSSPTLARTGTQSSGEVSRSTEEVLEEVSRQLTTLPQKP
+>ID:YP_009508422.1 |[Sida chlorotic mottle virus]||Sida-chlorotic-mottle-virus_taxid_1949197.gbk|AC4 protein|264|NC_038990(2601):2062-2325:-1 ^GeneID:37619871^ Sida chlorotic mottle virus isolate BR:Trm531.1:10, complete sequence.|neighbours:ID:YP_009508421.1(-1),end()|neighbour_genes:Rep,end()|
+MKMGNLTSTCFSNSKANSCAQIRDSSTWYPQPGQHISIRTFRELNHRPTSSPTSTRTVTPSNGENSKSTEEVLEEVARQLTTLPQRP
+>ID:YP_009310081.1 |[Sida chlorotic vein virus]||Sida-chlorotic-vein-virus_taxid_1904883.gbk|AC4|258|NC_031455(2654):2096-2353:-1 ^GeneID:29345013^ Sida chlorotic vein virus isolate ALS15_2C segment DNA-A, complete sequence.|neighbours:ID:YP_009310080.1(-1),end()|neighbour_genes:REP,end()|
+MGNLTSIFSYNSKGKSRSQITDCSIWCPLPGQHISIRTYRELNPAPTSSPMSRRTGTPSNGESSRSTVEVLEAASRQLTTQPPRH
+>ID:YP_009506465.1 |[Sida ciliaris golden mosaic virus]|Venezuela:Lara:M3:2009|Sida-ciliaris-golden-mosaic-virus_taxid_1264880.gbk|AC4|264|NC_038456(2638):2091-2354:-1 ^GeneID:37617348^ Sida ciliaris golden mosaic virus strain Venezuela:Lara:M3:2009 segment DNA-A, complete sequence.|neighbours:ID:YP_009506464.1(-1),end()|neighbour_genes:AC1,end()|
+MKMVSLISMYLSSSRANTGARIADSSIWSPQPGQHISIQTYRELNPAPTSSPISRRTETQLNGENSRSTADLLEEASSLLMIHMPRR
+>ID:YP_009506470.1 |[Sida common mosaic virus]||Sida-common-mosaic-virus_taxid_536082.gbk|AC4|243|NC_038457(2687):2153-2395:-1 ^GeneID:37617353^ Sida common mosaic virus isolate BR:Coi4:07 segment DNA-A, complete sequence.|neighbours:ID:YP_009506469.1(-1),end()|neighbour_genes:Rep,end()|
+MGSHISTFSFSSKGSSTAQIADCSTWYPHPGQHISIRTYRVLNPAPTSSPTSRKMVIQSNGGRSRSTEEVLEEVSRRLTT
+>ID:YP_009506475.1 |[Sida golden mosaic Braco virus-[Jamaica:Liguanea:2008]]||Sida-golden-mosaic-Braco-virus-Jamaica-Liguanea-2008_taxid_929767.gbk|AC4|258|NC_038458(2600):2052-2309:-1 ^GeneID:37617361^ Sida golden mosaic Braco virus-[Jamaica:Liguanea:2008] clone pBrA4, complete genome.|neighbours:ID:YP_009506474.1(-1),end()|neighbour_genes:Rep,end()|
+MGTLISTCLFSSRVNTSAQITDSSTWCPQTGQHISIQTFRELNPVPTSSPTSQRTGTPLNGECSRSTVEVLEAVNNQLMTQLLKR
+>ID:YP_004063989.1 |[Sida golden mosaic Buckup virus-[Jamaica:St. Elizabeth:2004]]||Sida-golden-mosaic-Buckup-virus-Jamaica-St-Elizabeth-2004_taxid_929769.gbk|AC4|258|NC_014794(2627):2078-2335:-1 ^GeneID:10021857^ Sida golden mosaic Buckup virus-[Jamaica:St. Elizabeth:2004] DNA-A, complete genome.|neighbours:ID:YP_004063988.1(-1),end()|neighbour_genes:REn,end()|
+MGSLISTFSYSSKASTSARITDSSIWCPQPGQYISIRTYRELNPAPTSSPTSRRTETPSNGGNSKSTADLLEEVSSQLTIHMPRR
+>ID:NP_808912.1 |[Sida golden mosaic Costa Rica virus]||Sida-golden-mosaic-Costa-Rica-virus_taxid_223313.gbk|AC4|258|NC_004657(2605):2202-2459:-1 ^GeneID:988170^ Sida golden mosaic Costa Rica virus DNA A, complete sequence.|neighbours:ID:NP_808911.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLICMCLSNSKGNTNARIRDSSIWCPQPGQYISIRTYRELNQAPTSSPTSTRTATPLSGGSFKSTVGLLEEASNRLTTHMPRR
+>ID:YP_003856012.1 |[Sida golden mosaic Florida virus-Malvastrum]|Cuba:Havana:Malvastrum:111:2009|Sida-golden-mosaic-Florida-virus-Malvastrum_taxid_871521.gbk|AC4|258|NC_014446(2608):2051-2308:-1 ^GeneID:9699803^ Sida golden mosaic Florida virus-Malvastrum DNA-A, complete genome.|neighbours:ID:YP_003856011.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISTCLYNSRGNMHARITDSSTWSHHPCQSHSIQTYRELNPAPMSSPTSTRTETHWNGVNSRSTGEVLEEAANRLTIHMPRR
+>ID:NP_808897.1 |[Sida golden mosaic Honduras virus]|Honduras|Sida-golden-mosaic-Honduras-virus_taxid_223316.gbk|AC4|258|NC_004659(2603):2195-2452:-1 ^GeneID:988178,InterPro:IPR002488,UniProtKB/TrEMBL:P89126^ Sida golden mosaic Honduras virus DNA A, complete sequence.|neighbours:ID:NP_808896.1(-1),end()|neighbour_genes:AC2,end()|
+MGNLISMCSSSSKGSTNARITDSSIWCPQPGQYISIRTFRELNQAPTSSPTSTRTAILLNGGNSKSTADLLEEASRQLTTHMPRR
+>ID:NP_049349.1 |[Sida golden mosaic virus]||Sida-golden-mosaic-virus_taxid_51034.gbk|AC4|258|NC_002046(2642):2228-2485:-1 ^GeneID:993345^ Sida golden mosaic virus coat protein (AV1), AC3 (AC3), transactivator protein (AC2), replication associated protein (AC1), and AC4 (AC4) genes, complete cds.|neighbours:ID:NP_049348.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISMCSYSSKGNTSARITDSSIWSPQPGQHISIQTYRELNPAPTSSLTSTRTVIQWNGESSRSTADQLEEASRLLMIHMQRR
+>ID:YP_003620409.1 |[Sida golden mottle virus]||Sida-golden-mottle-virus_taxid_759390.gbk|AC4|258|NC_014130(2611):2064-2321:-1 ^GeneID:9121845^ Sida golden mottle virus DNA-A, complete genome.|neighbours:ID:YP_003620408.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISMCSSSSRGSTTARITDSSIWCPQPVQYISIRTYRELNPAPTSSPTSRKTGTPLNGECSRSTEEVLAEVSKHLMMQPPRH
+>ID:YP_009508433.1 |[Sida golden yellow spot virus]||Sida-golden-yellow-spot-virus_taxid_1949198.gbk|AC4 protein|258|NC_038992(2813):2265-2522:-1 ^GeneID:37619884^ Sida golden yellow spot virus isolate BR:Sab889:10, complete sequence.|neighbours:ID:YP_009508432.1(-1),end()|neighbour_genes:Rep,end()|
+MGNLISTCLSNSKASSKPRIADSSTWFPQPGQYISIQTFRELNQAQTSRPTSRRTETPSNGENSRSTQEVLEEVSRRLTSLTPRS
+>ID:NP_808741.1 |[Sida golden yellow vein virus-[A11]]||Sida-golden-yellow-vein-virus-A11_taxid_223318.gbk|AL4|258|NC_038460(2603):2195-2452:-1 ^GeneID:37617372^ Sida golden yellow vein virus-[A11], complete genome.|neighbours:ID:NP_808740.1(-1),end()|neighbour_genes:AL2,end()|
+MGSLISMCSCSSRENMHARITDYSTWYPQPGQHISIQTYRELNPAPTSSPISQRTEIHWNGENSRSTAEVLEEAASLLMIHMPRR
+>ID:YP_004064948.1 |[Sida golden yellow vein virus-[Jamaica:Liguanea2:2008]]||Sida-golden-yellow-vein-virus-Jamaica-Liguanea2-2008_taxid_929766.gbk|AC4|258|NC_004635(2608):2052-2309:-1 ^GeneID:10040169^ Sida golden yellow vein virus-[Jamaica:Liguanea2:2008] DNA-A, complete genome.|neighbours:ID:YP_004064947.1(-1),end()|neighbour_genes:Rep,end()|
+MGSLISMCPCNSRENMHARITDSSIWPPQPGQHISIQTYRELNPAPTSSPTSQRTEIHWNGENSRSTAEVLEEAASLLMIHMPRR
+>ID:YP_425034.1 |[Sida leaf curl virus]||Sida-leaf-curl-virus_taxid_337823.gbk|AC4|303|NC_007638(2757):2148-2450:-1 ^GeneID:3837264,InterPro:IPR002488,UniProtKB/TrEMBL:Q2WCL4^ Sida leaf curl virus, complete genome.|neighbours:ID:YP_425033.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIFTCSSSSRGNTSARISDSSTWSPQTGQHISIRTFRELNQAQMSSPTSTRTATPSNGESFRSTEDLPEGDNRQPTTLTPQHLTQAVSRRLLEYLGN
+>ID:NP_957675.1 |[Sida micrantha mosaic virus]||Sida-micrantha-mosaic-virus_taxid_228897.gbk|AC4|258|NC_005330(2675):2137-2394:-1 ^GeneID:2716750,InterPro:IPR002488,UniProtKB/TrEMBL:Q70PB4^ Sida micrantha mosaic virus segment A, complete sequence.|neighbours:ID:NP_957674.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISTSLYSSRGNSNARITDSSTWYPQPGQHISILTYRELNPRPTLSPTSKRTEILSSGGNSRSTVEVLEAVARQLTTLPQKP
+>ID:YP_004958223.1 |[Sida mosaic Alagoas virus]||Sida-mosaic-Alagoas-virus_taxid_1046571.gbk|AC4|258|NC_016573(2678):2120-2377:-1 ^GeneID:11537557^ Sida mosaic Alagoas virus DNA-A, complete genome.|neighbours:ID:YP_004958222.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISTSLSSSRGNSNAKITDSSIWSPQPGQHISIRTFRELNHRPTSSPTSRRTETPSNGENSKSTEEVLEEVARRLTTHMPRH
+>ID:YP_004207828.1 |[Sida mosaic Bolivia virus 1]|SiMBoV1|Sida-mosaic-Bolivia-virus-1_taxid_932069.gbk|AC4|258|NC_015046(2680):2130-2387:-1 ^GeneID:10191531^ Sida mosaic Bolivia virus 1 DNA-A, complete genome.|neighbours:ID:YP_004207827.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISTSSSSSKGSSNARITDSSTWSPKPGQRISIRTFRELNHRPTSSPTSTKTAIPSNGENSRSTGEVLEEVAKQLTTLPQRL
+>ID:YP_004207816.1 |[Sida mosaic Bolivia virus 2]|SiMBoV2|Sida-mosaic-Bolivia-virus-2_taxid_932070.gbk|AC4|264|NC_015043(2679):2133-2396:-1 ^GeneID:10191516^ Sida mosaic Bolivia virus 2 DNA-A, complete genome.|neighbours:ID:YP_004207815.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGNLTSMCFSSSRVNSSARIRDSSIWSPQPGQHISIRTFRELNRAQMSSRTSTRTETPLNGEFSRSTAEVLEEVASRLTTHTPRF
+>ID:YP_619889.1 |[Sida mosaic Sinaloa virus]||Sida-mosaic-Sinaloa-virus_taxid_367850.gbk|AC4|258|NC_008059(2605):2055-2312:-1 ^GeneID:4099553^ Sida mosaic Sinaloa virus DNA A, complete sequence.|neighbours:ID:YP_619888.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISTFSSSSKANTTARITDCSIWSPQPGQHISIQTYRELNPAPTSSPTSRRTEIQLTGENSRSTADLLGEVSSQLTIHMPRR
+>ID:YP_007438884.1 |[Sida mottle Alagoas virus]||Sida-mottle-Alagoas-virus_taxid_1266995.gbk|AC4 protein|258|NC_020256(2649):2098-2355:-1 ^GeneID:14564148^ Sida mottle Alagoas virus isolate BR:Vsa2:10 segment DNA-A, complete sequence.|neighbours:ID:YP_007438883.1(-1),end()|neighbour_genes:replication-associat..,end()|
+MGSLISTSSSSSKGNSNARITDSSTWCPQQGQHISIRTFRELNHRPTSSPTSRKTETPWNGENSRSTAEVLEEVAKRLTTLQQRH
+>ID:NP_808754.1 |[Sida mottle virus]||Sida-mottle-virus_taxid_191460.gbk|AC4|132|NC_004637(2668):2259-2390:-1 ^GeneID:1478322^ Sida mottle virus, complete genome.|neighbours:ID:NP_808753.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGNLTSTSCCNWKEKSKSQITDCSTWYPQLGQHISIRTYRS
+>ID:YP_007438874.1 |[Sida yellow blotch virus]||Sida-yellow-blotch-virus_taxid_1266993.gbk|AC4 protein|258|NC_020254(2664):2109-2366:-1 ^GeneID:14564136^ Sida yellow blotch virus isolate BR:Rla1:10 segment DNA-A, complete sequence.|neighbours:ID:YP_007438873.1(-1),end()|neighbour_genes:replication-associat..,end()|
+MGSLISTSLSSSRGNSNAKITDSSIWSPQPGQHISIRTFRELNHRPTSSPTSRRTETPSNGENSKSTAEVLEEVARRLTTHMPRH
+>ID:YP_007438879.1 |[Sida yellow mosaic Alagoas virus]||Sida-yellow-mosaic-Alagoas-virus_taxid_1266994.gbk|AC4 protein|258|NC_020255(2690):2130-2387:-1 ^GeneID:14564142^ Sida yellow mosaic Alagoas virus isolate BR:Vsa3:10 segment DNA-A, complete sequence.|neighbours:ID:YP_007438878.1(-1),end()|neighbour_genes:replication-associat..,end()|
+MGTLISTCLSIEKGSSTARITDCSTWYPQPGQHISIQTYRELNPAPMLSHTSRRTVTPSNGECSRSTGEVLEEVNRQLMTLQLRR
+>ID:YP_006390089.1 |[Sida yellow mosaic China virus - [Hainan 8]]||Sida-yellow-mosaic-China-virus--Hainan-8_taxid_290090.gbk|ac4|291|NC_017987(2751):2157-2447:-1 ^GeneID:12980364,InterPro:IPR002488,UniProtKB/TrEMBL:Q4GXW6^ Sida yellow mosaic China virus - [Hainan 8] complete genome, isolate Hn7.|neighbours:ID:YP_006390088.1(-1),end()|neighbour_genes:ac1,end()|
+MGALISTCSFSSRENTSAKITDSSIWYPQPGQYISIQTFRELNPAPTSSPISTRTETPSTGESFRSTEDLLEGVNNQPTTLTPRHLTAEVSRRLLM
+>ID:NP_808766.1 |[Sida yellow mosaic virus]||Sida-yellow-mosaic-virus_taxid_191463.gbk|AC4|258|NC_004639(2661):2126-2383:-1 ^GeneID:1478329^ Sida yellow mosaic virus, complete genome.|neighbours:ID:NP_808765.1(-1),end()|neighbour_genes:AC1,end()|
+MGALTSTCLSSSKGSTIARTTGSSTSSPLPGQHISIRTFRELRARQTLKNTWRKTETSLILEFSKSIHDQLEEVAKLPTIRMRKF
+>ID:YP_004901697.1 |[Sida yellow mottle virus]|Cuba:Sancti Spiritus159-1:2009|Sida-yellow-mottle-virus_taxid_1093958.gbk|AC4|258|NC_016082(2621):2065-2322:-1 ^GeneID:11266551^ Sida yellow mottle virus strain Cuba:Sancti Spiritus159-1:2009 segment DNA-A, complete sequence.|neighbours:ID:YP_004901696.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISMCLYNSRENTSARITDSSIWSPQPGQHISIRTYRELNLAPTSSPTSTRTEIHWNGGNSRSTVEVLEEAANRLTTRMPRH
+>ID:YP_007438869.1 |[Sida yellow net virus]||Sida-yellow-net-virus_taxid_1266977.gbk|AC4 protein|258|NC_020253(2676):2125-2382:-1 ^GeneID:14564130^ Sida yellow net virus isolate BR:Vic2:10 segment DNA-A, complete sequence.|neighbours:ID:YP_007438868.1(-1),end()|neighbour_genes:replication-associat..,end()|
+MGSLISTSFSSSKGNSSARIIDCSTWYPQQGQHISIRTFRELNPAPTSSPTSTKTEIQLNGDSSRSTEEVLEEANRQLMMLQLRR
+>ID:YP_001144449.1 |[Sida yellow vein Madurai virus]||Sida-yellow-vein-Madurai-virus_taxid_420255.gbk|c4|297|NC_009354(2753):2149-2445:-1 ^GeneID:4999334,InterPro:IPR002488,UniProtKB/TrEMBL:Q17ZQ7^ Sida yellow vein Madurai virus, complete genome.|neighbours:ID:YP_001144448.1(-1),end()|neighbour_genes:c1,end()|
+MGNLICTCLSSSRGNTSARISDSSTWSPQTDQHISIRTFRELNQAQTSSPTSTRTETPSNGERFRSTEDLQEEDSRQQTTLTRRSASHRQLARGSYST
+>ID:YP_001285741.1 |[Sida yellow vein Vietnam virus]||Sida-yellow-vein-Vietnam-virus_taxid_390441.gbk|AC4|291|NC_009547(2753):2156-2446:-1 ^GeneID:5220071^ Sida yellow vein Vietnam virus DNA-A, complete sequence.|neighbours:ID:YP_001285740.1(-1),end()|neighbour_genes:AC1,end()|
+MGALISTCLSSSRENTSARITDSSTWYPQPGQHISIRTYRELNPAPTSSPTSIRTETPSSGASFRSTDDLQEGANNQPMTLTPQHLTQAVSQRLLI
+>ID:NP_808904.1 |[Sida yellow vein virus]|Honduras|Sida-yellow-vein-virus_taxid_223321.gbk|AC4|264|NC_004661(2612):2204-2467:-1 ^GeneID:988186,InterPro:IPR002488,UniProtKB/TrEMBL:P89131^ Sida yellow vein virus DNA A, complete sequence.|neighbours:ID:NP_808903.1(-1),end()|neighbour_genes:AC2,end()|
+MRMGNLICMCSSSSKGSTNARITDSSIWCPQPGQYISIRTFRELNPAPMSSPTSTRTGTPLNGENSRSTVDLLGEVSKQLTIHMPRR
+>ID:YP_729221.1 |[Siegesbeckia yellow vein Guangxi virus]||Siegesbeckia-yellow-vein-Guangxi-virus_taxid_379728.gbk|AC4|294|NC_008317(2784):2171-2464:-1 ^GeneID:4261802,InterPro:IPR002488,UniProtKB/TrEMBL:Q0KFV6^ Siegesbeckia yellow vein Guangxi virus, complete genome.|neighbours:ID:YP_729220.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCIFSSNSKESSNARTTDSSTLPPQTDQHISIRTFRELKARQTSKPIWKKTETSLIMEFSKSMEDQLEEVANLQTTHMPRQSTQGPKLRPSIY
+>ID:YP_665626.1 |[Siegesbeckia yellow vein virus]||Siegesbeckia-yellow-vein-virus_taxid_371401.gbk|AC4|294|NC_008236(2768):2157-2450:-1 ^GeneID:4177989^ Siegesbeckia yellow vein virus-[GD13], complete genome.|neighbours:ID:YP_665625.1(-1),end()|neighbour_genes:AC1,end()|
+MGILTCMFSSSSKENSNAKIIDSSISHPQVGQHISIQTFRELKARLMSKPTWRKTETSLILEFSRSMDDQLEEVANLQTTRMPRQSTQGPKFRPSIY
+>ID:YP_009042059.1 |[Solanum mosaic Bolivia virus]|SoMBoV|Solanum-mosaic-Bolivia-virus_taxid_932073.gbk|AC4|198|NC_024304(2602):2117-2314:-1 ^GeneID:19593541^ Solanum mosaic Bolivia virus segment DNA-A, complete sequence.|neighbours:ID:YP_009042058.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISMCLSNSKENTSAQINDSSTWYPQQGQHISIRTFRELRVRQTSRPIWRKTETSLILELSK
+>ID:NP_620666.1 |[South African cassava mosaic virus]||South-African-cassava-mosaic-virus_taxid_63723.gbk|AC4|297|NC_003803(2800):2200-2496:-1 ^GeneID:993411^ South African cassava mosaic virus DNA A, complete sequence.|neighbours:ID:NP_620665.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGNLICMPSFSSRASTIVPTNDSSTSYPLPGQHISIQTFRELNPVLTSSPIWTRTETPSNGASFRSTDDLLAADNNPPMTLTPRLLTQQVKQRLLM
+>ID:YP_009506494.1 |[Soybean blistering mosaic virus]||Soybean-blistering-mosaic-virus_taxid_408136.gbk|AC4|357|NC_038463(2605):2214-2570:-1 ^GeneID:37617389^ Soybean blistering mosaic virus isolate NOA segment DNA-A, complete sequence.|neighbours:ID:YP_009506493.1(-1),end()|neighbour_genes:Rep,end()|
+MFSLQRRRTFPITNPTGHQPTRNSSRSVENFTRMGSLISMCLYNSKANTNARITDSSTWYPQQDQHISIRTFRELNHRPTSSPTSTRTEILSNGENSRSTVEVLEEVSRRLTTPPQRH
+>ID:YP_003622560.1 |[Soybean chlorotic blotch virus]||Soybean-chlorotic-blotch-virus_taxid_761702.gbk|AC4|294|NC_014141(2708):2117-2410:-1 ^GeneID:9121945^ Soybean chlorotic blotch virus DNA A, complete genome.|neighbours:ID:YP_003622559.1(-1),end()|neighbour_genes:AC1,end()|
+MGSHISMCCCNSKVNSPSKILDCSTLSRERLLMCSTQTYKELNPAPTSSPTSTKTATPCHGESFRSMEDRVVEVSNLRTTLTPQQLTRAVRLRLSSY
+>ID:NP_543118.1 |[Soybean crinkle leaf virus]||Soybean-crinkle-leaf-virus_taxid_85753.gbk|C4|291|NC_003357(2737):2158-2448:-1 ^GeneID:929665^ Soybean crinkle leaf virus, complete genome.|neighbours:ID:NP_543117.1(-1),end()|neighbour_genes:C1,end()|
+MGALISTCLFSSKGNTSARITDSSTWYPQPGQHISIRTFRELNPAPTSSPISTRTETPSSGESFRSTDDLQEGVSNRPTTLTPRHLTAAVSQRLLM
+>ID:YP_003622553.1 |[Soybean mild mottle virus]||Soybean-mild-mottle-virus_taxid_761701.gbk|C4|258|NC_014140(2768):2198-2455:-1 ^GeneID:9121923^ Soybean mild mottle virus, complete genome.|neighbours:ID:YP_003622552.1(-1),end()|neighbour_genes:C1,end()|
+MGNHISMCLSSLKESVKLRTKDTSTSLPQEGQHISIRTFRELNQVRTSKHTSTKTETPYNGGLSRLMVEVPEEVAKMLTTHVRRH
+>ID:YP_001285765.1 |[Spilanthes yellow vein virus]||Spilanthes-yellow-vein-virus_taxid_390439.gbk|AC4|273|NC_009545(2761):2201-2473:-1 ^GeneID:5220058^ Spilanthes yellow vein virus DNA-A, complete sequence.|neighbours:ID:YP_001285764.1(-1),end()|neighbour_genes:AC1,end()|
+MGALISTCLFNSRGNTSARINDSSTLYPQPGQHISIRTYRELNQAPMSSPISTRTETHWNGENSRSTEGVLEEANRILTILVQRSGTQHP
+>ID:NP_808851.1 |[Squash leaf curl Yunnan virus]||Squash-leaf-curl-Yunnan-virus_taxid_222474.gbk|AC4|285|NC_004651(2714):2130-2414:-1 ^GeneID:1483007,InterPro:IPR002488,UniProtKB/TrEMBL:Q8UYW0^ Squash leaf curl Yunnan virus, complete genome.|neighbours:ID:NP_808850.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCISTRSSNSKVNASSETPDISMSLTLIPQLNTIQTSRELNPAPMSNLTSRRTVITSTGVSFRSMDDLLEEVNRQLMMQQQRPSMQVRLKRR
+>ID:NP_620868.1 |[Sri Lankan cassava mosaic virus-[Colombo]]||Sri-Lankan-cassava-mosaic-virus-Colombo_taxid_223328.gbk|AC4|303|NC_003861(2755):2143-2445:-1 ^GeneID:984318,InterPro:IPR002488,UniProtKB/TrEMBL:Q8UYW8^ Sri Lankan cassava mosaic virus-[Colombo] DNA-A, complete genome, isolate SLCMV-Col.|neighbours:ID:NP_620867.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLTSMLCFSSKGSSRSQTIGNSIVYTQAVAPVSTPTYRALSPAQTSSPTSTRMETPSTGVSFRSMEDLQEGDSRQPTTLTPQHLTQAVSQRLLESLRS
+>ID:NP_671453.1 |[Stachytarpheta leaf curl virus]||Stachytarpheta-leaf-curl-virus_taxid_202568.gbk|AC4|291|NC_004091(2749):2150-2440:-1 ^GeneID:951471,UniProtKB/TrEMBL:Q8JLL5^ Stachytarpheta leaf curl virus, complete genome.|neighbours:ID:NP_671452.1(-1),end()|neighbour_genes:AC1,end()|
+MGALISTCLSSSRENTSARITDSSTWSPQPGQHISIRTFRELNPAPTSSPISIRTETPSSGESFRSTDDLQEGDNNQPMTLTPQHLTQAVSQRLLM
+>ID:YP_009666112.1 |[Sweet potato golden vein Korea virus]||Sweet-potato-golden-vein-Korea-virus_taxid_2169736.gbk|C4|258|NC_043433(2807):2239-2496:-1 ^GeneID:40526308^ Sweet potato golden vein Korea virus isolate 102_SPGVaV, complete genome.|neighbours:ID:YP_009666111.1(-1),end()|neighbour_genes:C1,end()|
+MGLCISMFSSSSGGKQNSKTHDISTYNIHTTPPNSIQISRQQSPLQMSSHTLRRTEISSTGVNSRSTAGLLEEVSRMLTTLPQRP
+>ID:YP_004346961.1 |[Sweet potato golden vein associated virus]||Sweet-potato-golden-vein-associated-virus_taxid_688540.gbk|C4|258|NC_015324(2824):2261-2518:-1 ^GeneID:10399575^ Sweet potato golden vein associated virus, complete genome.|neighbours:ID:YP_004346960.1(-1),end()|neighbour_genes:Rep,end()|
+MGLCTSMLSSNSRVKPSLKIPDISTCNTPTAPPNSIQISRELNHHPMSNPTSRRTVITSTGVLFKSTEDLLEEVSRQLMMQQQRP
+>ID:YP_003288774.1 |[Sweet potato leaf curl Canary virus]||Sweet-potato-leaf-curl-Canary-virus_taxid_652718.gbk|C4|258|NC_013465(2807):2231-2488:-1 ^GeneID:8559960^ Sweet potato leaf curl Canary virus, complete genome.|neighbours:ID:YP_003288773.1(-1),end()|neighbour_genes:C1,end()|
+MGHCISMFSSSSRGKQSSKTHDISTYIIHITPPNSIQISRQLSPPRMSSHTSRRTETTSTGVNSRSTADLLEEVSRLLTTLPQRH
+>ID:YP_009506498.1 |[Sweet potato leaf curl China virus]||Sweet-potato-leaf-curl-China-virus_taxid_1198219.gbk|AC4|258|NC_038464(2771):1183-1440:-1 ^GeneID:37617397^ Sweet potato leaf curl China virus segment A, complete sequence.|neighbours:ID:YP_009506497.1(-1),ID:YP_009506499.1(1)|neighbour_genes:AC1,AV2|
+MGNLISTCWCSSKANSSAQIADSSTWYHHTGHLIFTPTSRELNPAPMSSPTSRRTGILSTGVNSRSTADLLEEVSRLLMTRQQRP
+>ID:NP_808772.1 |[Sweet potato leaf curl Georgia virus]||Sweet-potato-leaf-curl-Georgia-virus_taxid_225752.gbk|AC4|258|NC_004640(2773):2211-2468:-1 ^GeneID:1489237^ Sweet potato leaf curl Georgia virus, complete genome.|neighbours:ID:NP_808771.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCTSMLSSSSRVKPNLKTPDISTCNTPTAPTNSIQISRELNHHQMSSPTSRKTVITSTGVLFKSTEDLLEEVSRQLMMQQQRP
+>ID:YP_009051959.1 |[Sweet potato leaf curl Guangxi virus]||Sweet-potato-leaf-curl-Guangxi-virus_taxid_1489312.gbk|AC4|258|NC_024693(2831):2257-2514:-1 ^GeneID:20041367^ Sweet potato leaf curl Guangxi virus isolate China:Guangxi5:2011, complete genome.|neighbours:ID:YP_009051958.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCTSMPLSNSRVKPSSEIPDTSTSCTLIIPPNSTPISRELNPLLMSRHTSRRTEIISTGVNSRSTADLLEEVSRRLMMQQQKP
+>ID:YP_008198574.1 |[Sweet potato leaf curl Henan virus]||Sweet-potato-leaf-curl-Henan-virus_taxid_1489311.gbk|AC4|258|NC_021719(2766):2204-2461:-1 ^GeneID:16107189^ Sweet potato leaf curl Henan virus isolate China:Henan10:2012, complete genome.|neighbours:ID:YP_008198573.1(-1),end()|neighbour_genes:AC1,end()|
+MGACTSMLSSNSKVSANSQTPGTSTLLIPTPLHNTTPISNQQSPLPMSRPTLRRTKILLTVESSRSTEEVLEEVSKRLTMLTPRH
+>ID:YP_003288786.1 |[Sweet potato leaf curl Lanzarote virus]||Sweet-potato-leaf-curl-Lanzarote-virus_taxid_574890.gbk|C4|264|NC_013467(2814):2232-2495:-1 ^GeneID:8559943^ Sweet potato leaf curl Lanzarote virus, complete genome.|neighbours:ID:YP_003288785.1(-1),end()|neighbour_genes:C1,end()|
+MKMGNLISTCCCSSKGTTNARIRDSSTLFPHQGHHTFTLISRELNPAPMSSPTSIRTVTQLNGVSSRSTADLLEEASRLLMTQQQRP
+>ID:YP_009109614.1 |[Sweet potato leaf curl Sao Paulo virus]|Sao Paulo|Sweet-potato-leaf-curl-Sao-Paulo-virus_taxid_994388.gbk|C4|264|NC_025681(2782):2206-2469:-1 ^GeneID:22241602^ Sweet potato leaf curl Sao Paulo virus isolate SPLCSPV-[BR:AlvM:09], complete genome.|neighbours:ID:YP_009109613.1(-1),end()|neighbour_genes:C1,end()|
+MKMGNLISMCFSSSRGITSARIKDSSTWSLQPGQHISTQTFRERNPAPTSSPTSIRMETLWNGENSRSTADLLEEASRLLMTQQQRP
+>ID:YP_008492943.1 |[Sweet potato leaf curl Shanghai virus]||Sweet-potato-leaf-curl-Shanghai-virus_taxid_1392388.gbk|AC4|258|NC_022232(2834):2259-2516:-1 ^GeneID:16744977^ Sweet potato leaf curl Shanghai virus isolate China:Jilin1:2012, complete genome.|neighbours:ID:YP_008492942.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCTSMPLFNSRVKPSSEIQDISTSCTLIIPPSSTPISRELNPPQMSRHTSRRTEITSTGVNSRSTADLLEEVSRRLMMQQQKP
+>ID:YP_009506506.1 |[Sweet potato leaf curl Sichuan virus 1]||Sweet-potato-leaf-curl-Sichuan-virus-1_taxid_2026196.gbk|AC4|258|NC_038465(2764):2202-2459:-1 ^GeneID:37617406^ Sweet potato leaf curl Sichuan virus 1 isolate China:Sichuan15:2012, complete genome.|neighbours:ID:YP_009506505.1(-1),end()|neighbour_genes:AC1,end()|
+MGACTSMLSSNSKVSANSQTPGTSTLLTPTPLHNTTPISNQQSPRPMSRPTLRRTKILLTVESSRSTEEVLEEVSKRLTMLTPRH
+>ID:YP_008691089.1 |[Sweet potato leaf curl Sichuan virus 2]||Sweet-potato-leaf-curl-Sichuan-virus-2_taxid_2026195.gbk|AC4|258|NC_022586(2786):2220-2477:-1 ^GeneID:17317452^ Sweet potato leaf curl Sichuan virus 2 isolate China:Sichuan14:2012, complete genome.|neighbours:ID:YP_008691088.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLTSTCLCSSRGNSGARIKDSSTSCPQQGQPIFTPTSRELNPAPTSSPTSRRTGIHSPGVSSRSTADLLEAVNRRLMKPTLRH
+>ID:YP_004339042.1 |[Sweet potato leaf curl South Carolina virus]||Sweet-potato-leaf-curl-South-Carolina-virus_taxid_999288.gbk|C4|258|NC_015317(2782):2206-2463:-1 ^GeneID:10391015^ Sweet potato leaf curl South Carolina virus, complete genome.|neighbours:ID:YP_004339041.1(-1),end()|neighbour_genes:Rep,end()|
+MGNLISTCYCSSKGTTNARIRDSSTLYHHQGRLTFTPISRELNPAPMSSPMSIRTVTQLNGVNSRSTADLLEEASRRLMTQQQRP
+>ID:YP_002004580.1 |[Sweet potato leaf curl Spain virus]||Sweet-potato-leaf-curl-Spain-virus_taxid_652717.gbk|C4|258|NC_011052(2780):2206-2463:-1 ^GeneID:6450778^ Sweet potato leaf curl Spain virus, complete genome.|neighbours:ID:YP_002004579.1(-1),end()|neighbour_genes:C1,end()|
+MGNLISTCFCNSKGNSSARTNAYSTWSLKPGQHISILTFKELNPAPTSSPTSIRMETHWNGENSRSTADLLEEASRLLTTQQQKH
+>ID:YP_004191800.1 |[Sweet potato leaf curl Uganda virus-[Uganda:Kampala:2008]]||Sweet-potato-leaf-curl-Uganda-virus-Uganda-Kampala-2008_taxid_940846.gbk|AC4|264|NC_014968(2799):2224-2487:-1 ^GeneID:10149220^ Sweet potato leaf curl Uganda virus-[Uganda:Kampala:2008], complete genome.|neighbours:ID:YP_004191799.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGNLISTCCCSSKGTTNARIRDSSTLFPHQGRLTFIPISRELNPAPTSSPTSIRTETHWNGVSSRSTADLLEEASRLLKTQQQRP
+>ID:NP_808845.1 |[Sweet potato leaf curl virus]||Sweet-potato-leaf-curl-virus_taxid_100755.gbk|AC4|258|NC_004650(2828):2267-2524:-1 ^GeneID:1457715^ Sweet potato leaf curl virus DNA A, complete sequence.|neighbours:ID:NP_808844.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLTSMCWCSSKANSSAQIADSSIWSHRTDRITFTPTSRELNPAPMSSPTSIRTGIPSPGVNSRSTADLLEEASRLLTTQPQRL
+>ID:YP_009506512.1 |[Sweet potato mosaic virus - [Brazil:Brasilia1:2007]]||Sweet-potato-mosaic-virus--Brazil-Brasilia1-2007_taxid_1513529.gbk|C4|291|NC_038466(2803):2196-2486:-1 ^GeneID:37617413^ Sweet potato mosaic virus - [Brazil:Brasilia1:2007] isolate BR:BSB1, complete genome.|neighbours:ID:YP_009506511.1(-1),end()|neighbour_genes:Rep,end()|
+MGSLISTCFSSSKASSSARTSAYSTWSLQPGQHISIQTYRELNPAPMSSPTSIRMEIPSLGANSKSTEDLLEEASRRLMTQQQRHLIPAAKKLPYK
+>ID:YP_009305129.1 |[Synedrella leaf curl virus]||Synedrella-leaf-curl-virus_taxid_1899219.gbk|AC4 protein|300|NC_031306(2749):2149-2448:-1 ^GeneID:29140336^ Synedrella leaf curl virus isolate YN3306, complete genome.|neighbours:ID:YP_009305128.1(-1),end()|neighbour_genes:rep protein,end()|
+MKMGLLTCMFSSSSKGSSSAETIDSSTSHPQAGQHISIQTFRELKAQAMSKPTWRKTETSLIMEFSKSMEDQLEEVASLPTTHMPRQSIQGPKQRPSIY
+>ID:YP_009508440.1 |[Synedrella yellow vein clearing virus]||Synedrella-yellow-vein-clearing-virus_taxid_1914900.gbk|AC4|294|NC_038994(2751):2143-2436:-1 ^GeneID:37619893^ Synedrella yellow vein clearing virus isolate NCBS-PS-1 segment DNA-A, complete sequence.|neighbours:ID:YP_009508439.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCMFSSNSKENTSAKTTDSSTSHPQAGQHISIRTFRELKVRQTSKPIWKKTETSLIMEFSKSMEDQLEEVANLPMTHMPRQSIQGPKLRPSIY
+>ID:YP_001994912.1 |[TYLCAxV-Sic1-[IT:Sic2/2:04]]||TYLCAxV-Sic1-IT-Sic2-2-04_taxid_604276.gbk|C4|294|NC_011024(2771):2168-2461:-1 ^GeneID:6417252^ TYLCAxV-Sic1-[IT:Sic2/2:04], complete genome.|neighbours:ID:YP_001994911.1(-1),end()|neighbour_genes:C1,end()|
+MGNHISMCLSNSKANTNVKTNGSSTWYPQTGQHISIRTFRQLRAQQMSRPTWRKTENSLILEFSKSMADQLEEVSNLPTTHMPKHSIQAVNPRPSIY
+>ID:YP_009259497.1 |[Telfairia golden mosaic virus]||Telfairia-golden-mosaic-virus_taxid_2169737.gbk|AC4|291|NC_030403(2742):2165-2455:-1 ^GeneID:28218363^ Telfairia golden mosaic virus isolate Cameroon-Bakundu Bangang-Telfairia-20-14 segment DNA-A, complete sequence.|neighbours:ID:YP_009259496.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISTCLSSSRGNSRAPTIVSSIVYTQAVAPVSTPTFRALSPVPTSSRIWTRTEIHSNGESFRSTGDRHEGANNQLTTHMQRHLTQEVNRRLLM
+>ID:NP_620425.1 |[Tobacco curly shoot virus]||Tobacco-curly-shoot-virus_taxid_180526.gbk|AC4|300|NC_003722(2743):2148-2447:-1 ^GeneID:940468,UniProtKB/TrEMBL:Q8QL08^ Tobacco curly shoot virus, complete genome.|neighbours:ID:NP_620424.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGLLTCMSSSNSKENSSVKTKDSSISHPQPDQHISIRTFRELKAQQMLKHTWKKTETSLIMEFSRSMEDRLEEVANLPTTHMPRQSIQGPKLRPSIY
+>ID:YP_009508153.1 |[Tobacco leaf curl Comoros virus]||Tobacco-leaf-curl-Comoros-virus_taxid_439423.gbk|c4|303|NC_038888(2755):2154-2456:-1 ^GeneID:37619464,InterPro:IPR002488,UniProtKB/TrEMBL:A7DXJ0^ Tobacco leaf curl Comoros virus cp, v2, rep, c2, c3 and c4 genes, isolated in Simboussa, Comoros.|neighbours:ID:YP_009508152.1(-1),end()|neighbour_genes:rep,end()|
+MGNLICMPLFNSRENSRAPTIASSIAYTQAVAPVSTPTYKELSPAPTSSPIWTKTETPSNGESFRSMDDLQGGDNNRPTTLTPQLLTQAVSQRLLESLRN
+>ID:YP_009428565.1 |[Tobacco leaf curl Cuba virus]||Tobacco-leaf-curl-Cuba-virus_taxid_336987.gbk|AC4|258|NC_035887(2609):2050-2307:-1 ^GeneID:34700372^ Tobacco leaf curl Cuba virus isolate CU/frijol 8/2014 segment DNA-A, complete sequence.|neighbours:ID:YP_009428564.1(-1),end()|neighbour_genes:AV1,end()|
+MGSLISTCLYNSRANTTARITDSSIWSPHLGQHISIRTYRELNQAPTSSPTSTRTEIHLNGESSRLTEEVLEEAAKQLMTHMPRR
+>ID:NP_808870.1 |[Tobacco leaf curl Japan virus]||Tobacco-leaf-curl-Japan-virus_taxid_223332.gbk|C4|294|NC_004654(2761):2169-2462:-1 ^GeneID:1483110^ Tobacco leaf curl Japan virus, complete genome.|neighbours:ID:NP_808869.1(-1),end()|neighbour_genes:C1,end()|
+MGALISTFSSSSRENTSARIKDSSTSSPQLGQHISIRTFRELRARQTSKPTWRKTETSLIMEFSRSMEDQLEEVANLPTTLMPRQSTQALNQRPCLY
+>ID:NP_808778.1 |[Tobacco leaf curl Kochi virus]||Tobacco-leaf-curl-Kochi-virus_taxid_223334.gbk|C4|294|NC_004641(2760):2157-2450:-1 ^GeneID:1483118^ Tobacco leaf curl Kochi virus, complete genome.|neighbours:ID:NP_808777.1(-1),end()|neighbour_genes:C1,end()|
+MGALISTSSSNSRGNTNAQINDSSTSYPQPGQHISIQTFRELKALQMSRPTWKKTGTSLILEFSKSMEDRLEEVASLPTTHMPRQSTQDLSHRHSVY
+>ID:YP_003934915.1 |[Tobacco leaf curl Pusa virus]|IN:Pusa:Tb:10|Tobacco-leaf-curl-Pusa-virus_taxid_905054.gbk|AC4|291|NC_014596(2707):2107-2397:-1 ^GeneID:9830657^ Tobacco leaf curl Pusa virus DNA-A, complete genome.|neighbours:ID:YP_003934914.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLISTCLSSSKGNTNARITDSSTWSPQPGQHISIRTFRELNRVPMSSPIWIRTETPSNGESFRSMEDLQEGDNNQPMMLTPRRLTQEVSRRLLA
+>ID:YP_001285875.1 |[Tobacco leaf curl Thailand virus]||Tobacco-leaf-curl-Thailand-virus_taxid_409287.gbk|C4|294|NC_009553(2752):2156-2449:-1 ^GeneID:10973926^ Tobacco leaf curl Thailand virus, complete genome.|neighbours:ID:YP_001285874.1(-1),end()|neighbour_genes:C1,end()|
+MGLLTCMSSSSSKANSNAKTTDSSISHPQAGQHISIRTFRELKAQQMLKHTWKKTETCLIMEFSRSMEDQLEEVANLPTTHMPRQSIQGPKQRPSIY
+>ID:NP_722557.1 |[Tobacco leaf curl Yunnan virus]||Tobacco-leaf-curl-Yunnan-virus_taxid_211866.gbk|AC4|291|NC_004356(2750):2157-2447:-1 ^GeneID:955855,InterPro:IPR002488,UniProtKB/TrEMBL:Q8B6V3^ Tobacco leaf curl Yunnan virus - [Y136], complete genome.|neighbours:ID:NP_722556.1(-1),end()|neighbour_genes:AC1,end()|
+MGALISTCLSSSKGNTSARITDSSTWYPQPGQHISIRTFRELNPAPTSSPTSTRTETPSNGESFRSTEDLQEGVNRQPMTLTPRHLTAAVSQRLLM
+>ID:NP_148933.1 |[Tobacco leaf curl Zimbabwe virus]||Tobacco-leaf-curl-Zimbabwe-virus_taxid_223337.gbk|C4|258|NC_002817(2767):2200-2457:-1 ^GeneID:921504^ Tobacco leaf curl Zimbabwe virus, complete genome.|neighbours:ID:NP_148932.1(-1),end()|neighbour_genes:C1,end()|
+MGNLISTCLFSSRENSTARITDSSTWYPQPGQHISIQTFRELNQAPTSSPTSTRMETHLNGENSRSTDEVLEEAARMLTTHAPTL
+>ID:YP_009249832.1 |[Tobacco leaf curl virus]||Tobacco-leaf-curl-virus_taxid_67762.gbk|C4|294|NC_029994(2762):2159-2452:-1 ^GeneID:27429945^ Tobacco leaf curl virus isolate KH6, complete genome.|neighbours:ID:YP_009249831.1(-1),end()|neighbour_genes:C1,end()|
+MGALISTSSSNSRENTDAQINDSSISYPHLGQHISIRTFRELRARRTLRPTWKKTETSLILEFSKSMEDQLEEVASLPTTHMPRQSTQGQSHRRCLY
+>ID:YP_009508164.1 |[Tobacco leaf rugose virus]||Tobacco-leaf-rugose-virus_taxid_196691.gbk|AC4|264|NC_038890(2622):2066-2329:-1 ^GeneID:37619475,InterPro:IPR002488,UniProtKB/TrEMBL:B3CJ50^ Tobacco leaf rugose virus DNA-A, complete sequence.|neighbours:ID:YP_009508163.1(-1),end()|neighbour_genes:AC1,end()|
+MRMGSLISMCLYSSRENTSARITDSSIWSPQPGQHISIRTYRELNPAPTSSPTSTRTEIHWNGENSRSTADLLEEASSLLMIHMPRR
+>ID:YP_009508173.1 |[Tobacco mottle leaf curl virus]||Tobacco-mottle-leaf-curl-virus_taxid_530536.gbk|AC4|264|NC_038893(2634):2076-2339:-1 ^GeneID:37619488,InterPro:IPR002488,UniProtKB/TrEMBL:B2ZWE7^ Tobacco mottle leaf curl virus AV1 gene, AC1 gene, AC2 gene, AC3 gene and AC4 gene.|neighbours:ID:YP_009508172.1(-1),end()|neighbour_genes:AC1,end()|
+MRMGSLISTCLSNSKASTSARITDSSTWSPHLGQHISIRTFRELNRAPTSSPTSTRTEIHWNGESSRSTEEVLEEAANRLTTRMPRR
+>ID:YP_004564605.1 |[Tobacco yellow crinkle virus]||Tobacco-yellow-crinkle-virus_taxid_565052.gbk|AC4|258|NC_015627(2601):2033-2290:-1 ^GeneID:10748594^ Tobacco yellow crinkle virus DNA A, complete genome.|neighbours:ID:YP_004564604.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISMCSYNSKGNIHARITDSSTWSPQPGQHISIRTYRELNLAPTSSPTSTRTEIHCNGEISRSTAEVLEEAANLLTIHMPRR
+>ID:YP_006432.1 |[Tomato chino La Paz virus]||Tomato-chino-La-Paz-virus_taxid_240492.gbk|AL4|258|NC_005843(2606):2050-2307:-1 ^GeneID:2777153^ Tomato chino La Paz virus segment A, complete genome.|neighbours:ID:YP_006431.1(-1),end()|neighbour_genes:AL1,end()|
+MGNIISTCLCSSKGKSKSRIKDSSTWYPQPGQHISIRTFRELNQAPTSSPTSTRMEIHWNGENSRSTEDLLEEVSKQLTTLPQRP
+>ID:YP_009508316.1 |[Tomato chlorotic mottle Guyane virus]||Tomato-chlorotic-mottle-Guyane-virus_taxid_1701549.gbk|AC4 protein|258|NC_038965(2631):2053-2310:-1 ^GeneID:37619740^ Tomato chlorotic mottle Guyane virus isolate GF:Mon2:GF455:09 segment DNA-A, complete sequence.|neighbours:ID:YP_009508315.1(-1),end()|neighbour_genes:replication-associat..,end()|
+MGSLISTSCFNSKANSAARITDYSTWYPHPGQHISIRTFRQLNQVPTSSPTSIRTEIQLNGEHSRSTEEVLEAVANQPTTHMQKF
+>ID:NP_620013.1 |[Tomato chlorotic mottle virus]||Tomato-chlorotic-mottle-virus_taxid_172391.gbk|AC4|294|NC_003664(2622):2032-2325:-1 ^GeneID:988019^ Tomato chlorotic mottle virus DNA A, complete sequence.|neighbours:ID:NP_620012.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLISTCSSSSKVNTTARTTSSSTSYPQPGQHISIRTFRELRAPQTSNHTWRKTETSLIMEFSRSMEDQQEEVSNLPTTRTPRFSTQDQSWKHSIY
+>ID:YP_004958250.1 |[Tomato dwarf leaf virus]||Tomato-dwarf-leaf-virus_taxid_1195378.gbk|AC4|264|NC_016580(2540):2001-2264:-1 ^GeneID:11537653^ Tomato dwarf leaf virus DNA-A, complete genome.|neighbours:ID:YP_004958249.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGNLISMCLFSSKESSSARISDSSTWYPQQDQHISIRTFRELNHRLTSSPTSTRTGILSNGENFRSTDEVLEEVASQLMTLPQRL
+>ID:YP_009129279.1 |[Tomato enation leaf curl virus]||Tomato-enation-leaf-curl-virus_taxid_1632184.gbk|AC4|291|NC_026761(2756):2153-2443:-1 ^GeneID:24018666^ Tomato enation leaf curl virus isolate TC14 segment DNA-A, complete sequence.|neighbours:ID:YP_009129278.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLICTCSSSSRGNTSARIRDSSTWYPQPGQHISIRTFRELNQAQMSRPTSTRTGTLSNGESFRSMEDQQEEDNRQQTTLTPQHLTQAVSQRLLE
+>ID:NP_077738.1 |[Tomato golden mosaic virus]|Yellow vein|Tomato-golden-mosaic-virus_taxid_10831.gbk|ac4|264|NC_001507(2588):2184-2447:-1 ^GeneID:956405^ Tomato golden mosaic virus DNA A, complete sequence.|neighbours:ID:NP_077737.1(-1),end()|neighbour_genes:ac2,end()|
+MKMGNLTSTCLFSSRENTAAKINDSSTWYPQQGQHISIQTFRELNRLPTSRRTSTKTEILLYGENSRSTVEVLEEVAKHLTTLQQRR
+>ID:YP_619884.1 |[Tomato golden mottle virus]||Tomato-golden-mottle-virus_taxid_223342.gbk|AC4|294|NC_008058(2614):2030-2323:-1 ^GeneID:4097836^ Tomato golden mottle virus DNA A, complete sequence.|neighbours:ID:YP_619883.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLISMPLSNLKEKSRSRMNDSSIWYPQPDQHISIRTFRELNLVPMSNHISTKMEIPSNGENFKSMADLLEEVSRLQTTRMPRRLTQMECKRHSKF
+>ID:YP_009508033.1 |[Tomato golden vein virus]||Tomato-golden-vein-virus_taxid_296190.gbk|C4|258|NC_038807(2564):2016-2273:-1 ^GeneID:37619256^ Tomato golden vein virus isolate DF[BR:Ita1220:03] segment DNA-A, complete sequence.|neighbours:ID:YP_009508032.1(-1),end()|neighbour_genes:C1,end()|
+MGNLISMCLFNSKANSNARINGSSTWYPQQDQHISIQTFRELKARPTSRPTWKKTETSLILEISRSMEDQQEEAAKLPMTLMRRF
+>ID:YP_009506525.1 |[Tomato interveinal chlorosis virus]||Tomato-interveinal-chlorosis-virus_taxid_1089387.gbk|C4|294|NC_038469(2617):2024-2317:-1 ^GeneID:37617429^ Tomato interveinal chlorosis virus isolate PE[BR:Mdc2681:04] segment DNA-A, complete sequence.|neighbours:ID:YP_009506524.1(-1),end()|neighbour_genes:C1,end()|
+MGNLICTSSYSSKENTSARTNDCSTLYPQQGQHISIRTFRQLRARQMSRHTWRKTETSLIMEFSRSMEDQLEEVSNLPTTRMPRFLTQDQSWRPSIY
+>ID:YP_009508310.1 |[Tomato latent virus]||Tomato-latent-virus_taxid_1608257.gbk|C4|258|NC_038963(2746):2199-2456:-1 ^GeneID:37619731^ Tomato latent virus isolate T2+, complete genome.|neighbours:ID:YP_009508309.1(-1),end()|neighbour_genes:C1,end()|
+MGSLISMCSSSSRESTTARITDSSIWCPQPGQHISIRTYRELNPAPTSSPMSRRTGTQSNGECSRSTEEVLGAVSKQLMTQPPRH
+>ID:YP_009508179.1 |[Tomato leaf curl Anjouan virus]||Tomato-leaf-curl-Anjouan-virus_taxid_439422.gbk|c4|234|NC_038894(2781):2222-2455:-1 ^GeneID:37619497,InterPro:IPR002488,UniProtKB/TrEMBL:A7DXH8^ Tomato leaf curl Anjouan virus, isolate Comoros:Ouani:2004.|neighbours:ID:YP_009508178.1(-1),end()|neighbour_genes:rep,end()|
+MGCLISTYSSNSKGNSSAQIKDSSTWYPKPGQHISIRTFRELNHPLMSRPILRKEGNFLTMEFSRSMPEVHGGRASI
+>ID:YP_001040013.1 |[Tomato leaf curl Arusha virus]||Tomato-leaf-curl-Arusha-virus_taxid_392761.gbk|C4|258|NC_009030(2762):2195-2452:-1 ^GeneID:4835987^ Tomato leaf curl Arusha virus DNA-A, complete sequence.|neighbours:ID:YP_001040012.1(-1),end()|neighbour_genes:C1,end()|
+MGSLISTCLFSSKENSTAKITDSSTWYPQPGQHISIRTFRELNQAPTSSPTSTRMETHSNGGNSRSTAEVLEEAAIMLTTHAPRH
+>ID:NP_631956.1 |[Tomato leaf curl Bangalore virus]|Indian tomato leaf curl virus (ITmLCV)|Tomato-leaf-curl-Bangalore-virus_taxid_220608.gbk|C4|294|NC_003891(2749):2158-2451:-1 ^GeneID:944496,UniProtKB/TrEMBL:Q88560^ Tomato leaf curl Bangalore virus, complete genome.|neighbours:ID:NP_631955.1(-1),end()|neighbour_genes:C1,end()|
+MGNLISTCSSSSKENSNAQITDSSTWFPQPDQHISIQTFRKLRAVQMSRPMWKKTETSLILEFSKSMADQLEEVSNLPTTHMPRQSIQGPKLRPSIF
+>ID:NP_803250.1 |[Tomato leaf curl Bangladesh virus]|TLCV-BD2|Tomato-leaf-curl-Bangladesh-virus_taxid_223344.gbk|C4|294|NC_004614(2761):2160-2453:-1 ^GeneID:1483132^ Tomato leaf curl Bangladesh virus, complete genome.|neighbours:ID:NP_803249.1(-1),end()|neighbour_genes:C1,end()|
+MGNLIFTCSSSSKENSSVRTTDSSTWFPQPGQQISIRTFRELRARQMSKPMWRKTETSLILEFSRSMADQLEEVANLPTTHMPRQSIQGPRLRPSIF
+>ID:YP_009030011.1 |[Tomato leaf curl Barka virus]||Tomato-leaf-curl-Barka-virus_taxid_1498504.gbk|C4|258|NC_024116(2753):2197-2454:-1 ^GeneID:19394647^ Tomato leaf curl Barka virus isolate Tom-55, complete genome.|neighbours:ID:YP_009030010.1(-1),end()|neighbour_genes:C1,end()|
+MGLCISTPSSSSKVKPSSETPDISMSLTLITPPNSTQTSREQSPAPMSSPTSRRTVITSTGVSFRSMEDLLEEVNRQLMMQQQRP
+>ID:YP_009345718.1 |[Tomato leaf curl Burkina Faso virus]||Tomato-leaf-curl-Burkina-Faso-virus_taxid_1955054.gbk|C4 protein|291|NC_033779(2784):2165-2455:-1 ^GeneID:31051052^ Tomato leaf curl Burkina Faso virus isolate Burkina Faso:Loumbila:Tomate51B1:2013, complete genome.|neighbours:ID:YP_009345717.1(-1),end()|neighbour_genes:replication associat..,end()|
+MANLIYMCFCSSKENSTAKIRDSSTSYPQPGQHISIRTFRELNPAPTSSPTSTRTAIHSNGENSRSTDDLQGAGSNQPTTLTQKHLTQEVSRRLLM
+>ID:YP_003345517.1 |[Tomato leaf curl Cameroon virus]||Tomato-leaf-curl-Cameroon-virus_taxid_693894.gbk|C4|258|NC_013639(2808):2233-2490:-1 ^GeneID:8673702,InterPro:IPR002488,UniProtKB/TrEMBL:C0MHP5^ Tomato leaf curl Cameroon virus - [Cameroon:Buea:Okra:2008], complete genome.|neighbours:ID:YP_003345516.1(-1),end()|neighbour_genes:C1,end()|
+MASLISMCFCNSKANTTARINDSSTWYPQQGQHISIQTFRELNPAPTSSPTSTRTGTHLNGENSKSTAEVLEEAARMLTTQPQKH
+>ID:YP_001718623.1 |[Tomato leaf curl Cebu virus]||Tomato-leaf-curl-Cebu-virus_taxid_507474.gbk|C1|291|NC_010439(2723):2131-2421:-1 ^GeneID:6030622^ Tomato leaf curl Cebu virus DNA-A, complete genome.|neighbours:ID:YP_001718622.1(-1),end()|neighbour_genes:C1,end()|
+MGALISMCSSSSRGNTDARINDSSIWYPQPDQHISIQTFRELNQAPTSNPILIKTETPSNGVSFRSTEDLLEGVNKQPMMLTPKQLTQEVSRRLLM
+>ID:YP_007974236.1 |[Tomato leaf curl China virus - OX2]|OX2|Tomato-leaf-curl-China-virus--OX2_taxid_1329381.gbk|AC4|294|NC_021205(2744):2146-2439:-1 ^GeneID:15486961^ Tomato leaf curl China virus - OX2, complete genome.|neighbours:ID:YP_007974235.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCMCSSNLKANTNAKTKDSSISHPQPGQHISIRTFRQLKAQQMSSPTWTKTETCLIMEFSRSMEDRLEEVANLPTTHMPRQSIQGPKLRPSVY
+>ID:NP_955742.1 |[Tomato leaf curl China virus]||Tomato-leaf-curl-China-virus_taxid_229636.gbk|AC4|294|NC_005320(2738):2151-2444:-1 ^GeneID:2703618^ Tomato leaf curl China virus - [G32], complete sequence.|neighbours:ID:NP_955741.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCMCSSNSKENSSVKIKDSSISHPQAGQHISIRTFRQLKAQQMSSPTWTKTETCLIMEFSRSMEDRLEEVANLPTTHMPRQSIQGPKLRPSIY
+>ID:YP_009174976.1 |[Tomato leaf curl Comoros virus]||Tomato-leaf-curl-Comoros-virus_taxid_997078.gbk|AC4|303|NC_028114(2765):2150-2452:-1 ^GeneID:26101501,InterPro:IPR002488,UniProtKB/TrEMBL:Q5DVA8^ Tomato leaf curl Comoros virus complete genome, isolate Mayote:Dembeni:2003.|neighbours:ID:YP_009174975.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLICMPSFNSRENTIVPINDSSTLLPQAGQHISIRTFRELNPAPTSSPTSTRTETPSNGENFRSMDDLQGGDNNQPMTLTPQLLTQAVSQRLLESLRN
+>ID:YP_001718635.1 |[Tomato leaf curl Cotabato virus]||Tomato-leaf-curl-Cotabato-virus_taxid_507475.gbk|C4|291|NC_010441(2750):2155-2445:-1 ^GeneID:6030632^ Tomato leaf curl Cotabato virus DNA-A, complete genome.|neighbours:ID:YP_001718634.2(-1),end()|neighbour_genes:C1,end()|
+MGALISTCWSSSKANTSAKITDSSIWYPQTGQHISIRTFRELNRAPTSSPISTRTETHSNGANSRSTEEVDEGVNNQPMTLTPRHLTAAVSQRLLM
+>ID:YP_009508190.1 |[Tomato leaf curl Diana virus]||Tomato-leaf-curl-Diana-virus_taxid_439426.gbk|c4|258|NC_038896(2745):2200-2457:-1 ^GeneID:37619510,InterPro:IPR002488,UniProtKB/TrEMBL:A7DXL6^ Tomato leaf curl Diana virus cp, v2, rep, c2, c3, and c4 genes, isolated in Namakely, Madagascar.|neighbours:ID:YP_009508189.1(-1),end()|neighbour_genes:rep,end()|
+MGNLISMCLSSSRENTSARISDSSTWFPQPGQHISIRTFRELNPAPMSSPTSTRTETHWNGENSRSTAEVLEEAARMLTTHVQTH
+>ID:YP_008901147.1 |[Tomato leaf curl Gandhinagar virus]||Tomato-leaf-curl-Gandhinagar-virus_taxid_1384631.gbk|AC4|303|NC_023034(2760):2155-2457:-1 ^GeneID:17925295^ Tomato leaf curl Gandhinagar virus isolate pToGNAX15 segment DNA-A, complete sequence.|neighbours:ID:YP_008901146.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIFTCSSSSKESTSAKITDSSTWFPQPGQHISIQTFRELNQAQTSSPIWRRTETPSTGESFRSMEDLQEADNSQPMTLTPQRLTQGVSQRLLESLKN
+>ID:YP_001661655.1 |[Tomato leaf curl Ghana virus]||Tomato-leaf-curl-Ghana-virus_taxid_501328.gbk|C4|300|NC_010313(2803):2189-2488:-1 ^GeneID:5878283^ Tomato leaf curl Ghana virus segment A, complete genome.|neighbours:ID:YP_001661654.1(-1),end()|neighbour_genes:C1,end()|
+MKMGNLICMRSFNSRGNTNAKITDSSTWYPRPGQHISIQTFRELNPAPTSSPISIKTETPLNGESFRSTEDRQEEDNNLPMTLTPRRLTQEVRQKLLEL
+>ID:YP_764448.1 |[Tomato leaf curl Guangdong virus]||Tomato-leaf-curl-Guangdong-virus_taxid_400835.gbk|AC4|258|NC_008373(2744):2188-2445:-1 ^GeneID:4311813^ Tomato leaf curl Guangdong virus DNA-A, complete sequence.|neighbours:ID:YP_764447.1(-1),end()|neighbour_genes:AC1,end()|
+MGTLISTCLCNSKANTTARITDSSTWFPQPDQHISIRTFRELNPAPMSSPTSIRMETSLNGVNSRSTDEVLGEAARMLTTHVQRL
+>ID:YP_740298.1 |[Tomato leaf curl Guangxi virus]||Tomato-leaf-curl-Guangxi-virus_taxid_377609.gbk|AC4|297|NC_008329(2752):2168-2464:-1 ^GeneID:4266924,InterPro:IPR002488,UniProtKB/TrEMBL:Q0KFX4^ Tomato leaf curl Guangxi virus, complete genome.|neighbours:ID:YP_740297.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGALISTCLSNSKANTNAKITDSSTWSPQPGQHISIRTFRELNPAPTSSPTWRRTETPSTGESFRSTDDLQEGVNNQPMMLTPRQLTAAVRLRLLE
+>ID:NP_783157.1 |[Tomato leaf curl Gujarat virus]|Varanasi|Tomato-leaf-curl-Gujarat-virus_taxid_219299.gbk|AC 4|297|NC_004558(2757):2164-2460:-1 ^GeneID:988080^ Tomato leaf curl Gujarat virus - [Varanasi] segment A, complete sequence.|neighbours:ID:NP_783156.1(-1),end()|neighbour_genes:AC 1,end()|
+MMGLLTCMCSSSSKESSNAKTIDSSTSHPQPGQHISIRTFRELRAQAMSNPTWKKTETSLIMEFSKSMDDQLEEVANLPTTHMPRQSIQGPKLRPSIY
+>ID:YP_003104751.1 |[Tomato leaf curl Hainan virus]||Tomato-leaf-curl-Hainan-virus_taxid_664980.gbk|AC4|294|NC_013102(2748):2149-2442:-1 ^GeneID:8303607,InterPro:IPR002488,UniProtKB/TrEMBL:C7C6A5^ Tomato leaf curl Hainan virus, complete genome.|neighbours:ID:YP_003104750.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCMSSSSSKENSNAKTTDSSISYPQPGQHISIRTFRALKAQQTSKPTWTKTETCLIMEFSRSMEDRLEEVASLQTTHMPRQSIQGPKLRPSIY
+>ID:YP_004222844.1 |[Tomato leaf curl Hanoi virus]||Tomato-leaf-curl-Hanoi-virus_taxid_971271.gbk|AC4|294|NC_015124(2740):2145-2438:-1 ^GeneID:10216615^ Tomato leaf curl Hanoi virus, complete genome.|neighbours:ID:YP_004222843.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCMSSSNSKESSNAEIKDSSTSYPKQGQHISIRTFRELKAQQMLKHTWKKTETCLIMEFSRSMEDRLEEVANLPTTHMPRQSIQGPKHRPSIY
+>ID:YP_006427.1 |[Tomato leaf curl Iran virus]||Tomato-leaf-curl-Iran-virus_taxid_270140.gbk|C4 protein|300|NC_005842(2763):2163-2462:-1 ^GeneID:2943487^ Tomato leaf curl Iran virus, complete genome.|neighbours:ID:YP_006426.1(-1),end()|neighbour_genes:C1 protein,end()|
+MKMGLLTCMCSSSSKESSSAKTTDSSTSHPQPGQHISIRTFRELRVQAMSNPIWKKTETSLIMEFSKSMDDQLEEVANLPTTHMPRQSIQGPKLRPSIY
+>ID:NP_871721.1 |[Tomato leaf curl Java virus]||Tomato-leaf-curl-Java-virus_taxid_263001.gbk|C4|264|NC_005031(2752):2193-2456:-1 ^GeneID:1493908^ Tomato leaf curl Java virus, complete genome.|neighbours:ID:NP_871720.1(-1),end()|neighbour_genes:C1,end()|
+MKMGALICTCLSSSKGNSSAKITDSSTLHPLPGQHISIRTFRELNQAPTSSLISTRTETHWNGENSRSTEEVLEEVNRRLTTQLQRP
+>ID:YP_459906.1 |[Tomato leaf curl Joydebpur virus]||Tomato-leaf-curl-Joydebpur-virus_taxid_309390.gbk|AC4|294|NC_007723(2761):2160-2453:-1 ^GeneID:3882029,InterPro:IPR002488,UniProtKB/TrEMBL:Q2PBZ2^ Tomato leaf curl Joydebpur virus DNA-A, complete genome.|neighbours:ID:YP_459905.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLIYTCSSNLRENSNAKITDSSTSFPHPGQHISIRTFRELRALQMSKPTWRKTETSLILEFSRSMADQLEEVSNLPTTHMPRQSIHGPKLRPSIF
+>ID:NP_632013.1 |[Tomato leaf curl Karnataka virus]|Bangalore II, India|Tomato-leaf-curl-Karnataka-virus_taxid_220932.gbk|C4|294|NC_003897(2759):2158-2451:-1 ^GeneID:944509^ Tomato leaf curl Karnataka virus, complete genome.|neighbours:ID:NP_632012.1(-1),end()|neighbour_genes:rep,end()|
+MGLLTYMFSSSSKENSSARTIDSSTLPPQPGQHISIRTFRELKAQAMSKPTWRKTETSLIMEFSKSMEDQLEEVANLPTTHMPRQSTQGQKLRPSIY
+>ID:YP_002124299.1 |[Tomato leaf curl Kerala virus]||Tomato-leaf-curl-Kerala-virus_taxid_551531.gbk|AC4|297|NC_011135(2767):2166-2462:-1 ^GeneID:6775014^ Tomato leaf curl Kerala virus, complete genome.|neighbours:ID:YP_002124298.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGNLIFTCSSSSKENTSAKITDSSTWYPQPGQHISIRTFRELNQAQTSSPIWRRTETPSTGESFRSNGDLQRGGHSQRMMLTPQRLTQAVSQRLLE
+>ID:YP_002117528.1 |[Tomato leaf curl Kumasi virus]||Tomato-leaf-curl-Kumasi-virus_taxid_548915.gbk|C4|303|NC_011096(2794):2177-2479:-1 ^GeneID:6654198^ Tomato leaf curl Kumasi virus segment A, complete sequence.|neighbours:ID:YP_002117527.1(-1),end()|neighbour_genes:C1,end()|
+MASLISTCFSSSKANTSAQITDSSTWYPQPGQHISIQTFRELNPAPTSSPISIKTETPLNGESFRSMDDLQEGDNRQQTTLTPKQLTQAVSQKLLQYLKN
+>ID:NP_803244.1 |[Tomato leaf curl Laos virus]||Tomato-leaf-curl-Laos-virus_taxid_223345.gbk|C4|291|NC_004613(2748):2156-2446:-1 ^GeneID:1483140^ Tomato leaf curl Laos virus, complete genome.|neighbours:ID:NP_803243.1(-1),end()|neighbour_genes:C1,end()|
+MGLLISTCLSSSKGNTTARITDSSTWCPQPGQHISIRTFRELNQAQTLSPIWRRTETPSTGASFRSMEDLQGEDNRQPMTLTPKHLTAEVSQRLLM
+>ID:YP_008997815.1 |[Tomato leaf curl Liwa virus]||Tomato-leaf-curl-Liwa-virus_taxid_1303385.gbk|C4|258|NC_023312(2761):2202-2459:-1 ^GeneID:18171690^ Tomato leaf curl Liwa virus isolate LW1, complete genome.|neighbours:ID:YP_008997814.1(-1),end()|neighbour_genes:C1,end()|
+MGLCISTPSSSSKVKPSSETPDISMSLTLITPPNSTQTSREQSPAPMSSPTSRRTVITSTGVSFRSMEDLLEEVNRQLMMQQQRP
+>ID:YP_213936.1 |[Tomato leaf curl Madagascar virus-Menabe [Madagascar:Morondova:2001]]||Tomato-leaf-curl-Madagascar-virus-Menabe_taxid_996311.gbk|AC4|303|NC_006874(2777):2151-2453:-1 ^GeneID:3289554,InterPro:IPR002488,UniProtKB/TrEMBL:Q5DVC5^ Tomato leaf curl Madagascar virus-Menabe [Madagascar:Morondova:2001], complete genome.|neighbours:ID:YP_213935.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLTSMCLSNSKVSTSARIRDSSTWYPQPGQHISIRTFRELNPAPTSSPISTRTETPSNGENFKLMADLQGEGNNQPMTLTPQLLTQAVSQRLLESLRN
+>ID:NP_808833.1 |[Tomato leaf curl Malaysia virus]||Tomato-leaf-curl-Malaysia-virus_taxid_223346.gbk|C4|291|NC_004648(2754):2156-2446:-1 ^GeneID:1483148^ Tomato leaf curl Malaysia virus, complete genome.|neighbours:ID:NP_808832.1(-1),end()|neighbour_genes:C1,end()|
+MGALISTCLSSSKGNTSARITDSSTWYPQPGQHISIRTFRELNPAPTSSPTSTRTETPSIGESFRSTEDLQEGVNRQPMTLTHRHLTAAVSQRLLM
+>ID:NP_958321.1 |[Tomato leaf curl Mali virus]||Tomato-leaf-curl-Mali-virus_taxid_260379.gbk|C4|258|NC_005348(2773):2197-2454:-1 ^GeneID:2716857^ Tomato leaf curl Mali virus, complete genome.|neighbours:ID:NP_958320.1(-1),end()|neighbour_genes:C1,end()|
+MGNIISTCLSNSRVNTTAQINDSSTWYPQPGQHISIRMYRELNPAPTSSPISIRTETLSNGENSKLTADLLEEAAKQLTTQPPRH
+>ID:YP_213944.1 |[Tomato leaf curl Mayotte virus]||Tomato-leaf-curl-Mayotte-virus_taxid_302100.gbk|AC4|432|NC_006876(2768):2151-2582:-1 ^GeneID:3289561,InterPro:IPR002488,UniProtKB/TrEMBL:Q5DVB3^ Tomato leaf curl Mayotte virus, complete genome.|neighbours:ID:YP_213943.1(-1),end()|neighbour_genes:AC1,end()|
+MQKTYSSLIHNALSAKRKHFPKFKTYLFLQTLNSSKSARNSTRMGNLTSTCLSSSKGKSASQIADCSTWCPQPGQYISIRTFRELNPAPTSSPTSTRTETPSSGENFRSMEDLQGEGNSQPMTLTPQLLTQAVSQRLLESLRN
+>ID:YP_001718629.1 |[Tomato leaf curl Mindanao virus]||Tomato-leaf-curl-Mindanao-virus_taxid_507476.gbk|C4|291|NC_010440(2761):2153-2443:-1 ^GeneID:6030640^ Tomato leaf curl Mindanao virus DNA-A, complete genome.|neighbours:ID:YP_001718628.1(-1),end()|neighbour_genes:C1,end()|
+MGALISTCSYSSKGNTDAQIHDSSTLYPLPGQHISIRTFRELNQAPTSSPISTRTETLSNGVNSRSTHDLHEGDNNQPMMLTPRRLTQEVSRRLLM
+>ID:YP_009508195.1 |[Tomato leaf curl Moheli virus]||Tomato-leaf-curl-Moheli-virus_taxid_439425.gbk|c4|303|NC_038897(2756):2155-2457:-1 ^GeneID:37619514,InterPro:IPR002488,UniProtKB/TrEMBL:A7DXK4^ Tomato leaf curl Moheli virus cp, v2, c2 c3 and c4 genes, isolated in Fomboni, Comoros.|neighbours:ID:YP_009508194.1(-1),end()|neighbour_genes:c2,end()|
+MGNLICMPLFNSRENSRAPTIASSIAYTQAVAPVSTPTYKELSPALTSSPIWTRTETPLSGESFRSMDDLQEGDNNQPMTLTPKLLTQAVSQRLLESLGS
+>ID:YP_009508204.1 |[Tomato leaf curl Namakely virus]||Tomato-leaf-curl-Namakely-virus_taxid_439421.gbk|c4|303|NC_038899(2769):2153-2455:-1 ^GeneID:37619527,InterPro:IPR002488,UniProtKB/TrEMBL:A7DXL0^ Tomato leaf curl Namakely virus, isolate Madagascar:Namakely:2001.|neighbours:ID:YP_009508203.1(-1),end()|neighbour_genes:rep,end()|
+MGNLICTCLSSSKESTSARIRDSSTLYPQQGQHISIRTFRELNPAPTSSPTSTRTETPSNGASFRSMEDLQEGDNNPPMTLTPQLLTQAVSQRLLESLRN
+>ID:YP_009506531.1 |[Tomato leaf curl New Delhi virus 2]||Tomato-leaf-curl-New-Delhi-virus-2_taxid_2050583.gbk|AC4|309|NC_038470(2735):2126-2434:-1 ^GeneID:37617433^ Tomato leaf curl New Delhi virus 2, complete genome.|neighbours:ID:YP_009506530.1(-1),end()|neighbour_genes:AC1,end()|
+MRMGNLICTCSSSSRGNTSARISDSSTWSPQAGQHISIRTFRELNQAPMSSPTSTRTGTLSSGESFRSMEDQQEEDNRQPTTLTPQHLTQAVSQRLLESLGN
+>ID:YP_009506538.1 |[Tomato leaf curl New Delhi virus 4]||Tomato-leaf-curl-New-Delhi-virus-4_taxid_2049944.gbk|AC4|177|NC_038471(2739):2251-2427:-1 ^GeneID:37617444^ Tomato leaf curl New Delhi virus 4 isolate TC306 segment DNA-A, complete sequence.|neighbours:ID:YP_009506537.1(-1),end()|neighbour_genes:AC1,end()|
+MGFGISRLSSNSKGNSTARITDAWNWFPQVGQHISIRTFRELRAQAMSNPTWKKTETF
+>ID:NP_803225.1 |[Tomato leaf curl New Delhi virus]|Severe|Tomato-leaf-curl-New-Delhi-virus_taxid_223347.gbk|ac4|177|NC_004611(2739):2258-2434:-1 ^GeneID:988212^ Tomato leaf curl New Delhi virus DNA A, complete sequence.|neighbours:ID:NP_803224.1(-1),end()|neighbour_genes:ac1,end()|
+MGLRISMFSSNSKGNSSAKITDSSTWFPQVGQHISIRTFRELNQRRTSKTTSPKMETF
+>ID:YP_002643050.1 |[Tomato leaf curl Nigeria virus-[Nigeria:2006]]||Tomato-leaf-curl-Nigeria-virus-Nigeria-2006_taxid_614034.gbk|C4|303|NC_012206(2784):2187-2489:-1 ^GeneID:7558968^ Tomato leaf curl Nigeria virus-[Nigeria:2006], complete genome.|neighbours:ID:YP_002643049.1(-1),end()|neighbour_genes:C1,end()|
+MASLIFTCFCSSKANTTAKIRDSSTWCPQPGQHISIQTYRELNPAPTSSPTSTRMEIHSNGESSRSMGDLQEEGNRQPMTLTPQRLTQEVRQRLLGLYGN
+>ID:YP_003915076.1 |[Tomato leaf curl Oman virus]||Tomato-leaf-curl-Oman-virus_taxid_713949.gbk|C4|258|NC_014542(2763):2207-2464:-1 ^GeneID:9755154^ Tomato leaf curl Oman virus, complete genome.|neighbours:ID:YP_003915075.1(-1),end()|neighbour_genes:C1,end()|
+MGLCISTPSSSSKVKPSSETPDISMSLTLITPPNSTQTSREQSPAPMSSPTSRRTVITSTGVSFRSMEDLLEEVNRQLMMQQQRP
+>ID:YP_001960974.1 |[Tomato leaf curl Palampur virus]||Tomato-leaf-curl-Palampur-virus_taxid_526476.gbk|AC4|177|NC_010840(2756):2269-2445:-1 ^GeneID:6395800,UniProtKB/TrEMBL:B3CJR4^ Tomato leaf curl Palampur virus DNA A, complete sequence.|neighbours:ID:YP_001960973.1(-1),end()|neighbour_genes:AC1,end()|
+MGLRISMFSSNLKENSSAKITDSSTWLPQVGQHISIRTFRELNQRQMSRHTSTKTETF
+>ID:YP_002775437.1 |[Tomato leaf curl Patna virus]||Tomato-leaf-curl-Patna-virus_taxid_575917.gbk|AC4|309|NC_012492(2752):2144-2452:-1 ^GeneID:7701373^ Tomato leaf curl Patna virus DNA-A, complete genome.|neighbours:ID:YP_002775436.1(-1),end()|neighbour_genes:AC1,end()|
+MRMGNLIFTCSSSSKGNTSARITDSSTWYPQPGQHISIRTFRELNQAQTSSPIWRRTETPSTGESFRSMEDLQEGVNRQPMTLTPQHLTQAVSQRLLESLRN
+>ID:NP_871727.1 |[Tomato leaf curl Philippines virus]||Tomato-leaf-curl-Philippines-virus_taxid_96054.gbk|C4|291|NC_005032(2755):2173-2463:-1 ^GeneID:1455659^ Tomato leaf curl Philippines virus, complete genome.|neighbours:ID:NP_871726.1(-1),end()|neighbour_genes:C1,end()|
+MGALISMCSSSSKGNTDARIRDSSIWYPQQGQHITIQTYRELNQAPTSNHILIRTETPSNGVSFRSMEDLLEGVNNQPMMLTPKQLTQEVSRRLLM
+>ID:YP_803223.1 |[Tomato leaf curl Pune virus]||Tomato-leaf-curl-Pune-virus_taxid_407837.gbk|AC4|294|NC_008517(2756):2166-2459:-1 ^GeneID:4443119^ Tomato leaf curl Pune virus, complete genome.|neighbours:ID:YP_803222.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLISTCSSNLKENSNAQITDSSTWFPQQDQHISIQTFRELRARQTSRPMWKKTETSLILEFSKSMADLLEEVSNLPTTHMPRQSIQGPKLRPSIF
+>ID:YP_009506545.1 |[Tomato leaf curl Rajasthan virus - [India:Rajasthan:2005]]||Tomato-leaf-curl-Rajasthan-virus--India-Rajasthan-2005_taxid_420254.gbk|AC4|177|NC_038472(2758):2275-2451:-1 ^GeneID:37617448^ Tomato leaf curl Rajasthan virus - [India:Rajasthan:2005] segment A, complete sequence.|neighbours:ID:YP_009506544.1(-1),end()|neighbour_genes:AC1,end()|
+MGLRISTSSSNSKGNTSAKITDSSTWFPQVGQHISIRTFRELNRHRTSKHISTKMETF
+>ID:YP_005351247.1 |[Tomato leaf curl Ranchi virus]||Tomato-leaf-curl-Ranchi-virus_taxid_938276.gbk|AC4|294|NC_016965(2762):2159-2452:-1 ^GeneID:11930526^ Tomato leaf curl Ranchi virus DNA-A, complete genome.|neighbours:ID:YP_005351246.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCMCSSNSKVNSSAETIDSSTSHPQPGQHISIRTFRELRALQMSKPTWRKTETCLIMEFSKSMEDQLERVANLPTTHMPRQSIQGPKLRPSIY
+>ID:YP_001294918.1 |[Tomato leaf curl Sinaloa virus]||Tomato-leaf-curl-Sinaloa-virus_taxid_71186.gbk|AC4|258|NC_009606(2611):2065-2322:-1 ^GeneID:5291113,InterPro:IPR002488,UniProtKB/TrEMBL:Q5TJJ3^ Tomato leaf curl Sinaloa virus DNA A, complete sequence.|neighbours:ID:YP_001294917.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLISTSLSSSKANTSARITDSSIWCPLPGQHISIRTFRELNQVPTSSPTSTRMEIQSNGDNSRSTVDLPEEVNNLQTTHMPRR
+>ID:NP_808827.1 |[Tomato leaf curl Sri Lanka virus]||Tomato-leaf-curl-Sri-Lanka-virus_taxid_223352.gbk|C4|294|NC_004647(2756):2157-2450:-1 ^GeneID:1483158^ Tomato leaf curl Sri Lanka virus, complete genome.|neighbours:ID:NP_808826.1(-1),end()|neighbour_genes:C1,end()|
+MGNLIYTCSSNSKENSNVKTTDSSTWYPQPDQHISIQTFRELKARRMSNPIWKKTETSLILEFSKSMEDQLEEVASLQTTHMPRQSIQGLNHRHSIF
+>ID:YP_006470.1 |[Tomato leaf curl Sudan virus]||Tomato-leaf-curl-Sudan-virus_taxid_270146.gbk|C4|303|NC_005855(2779):2146-2448:-1 ^GeneID:2777293^ Tomato leaf curl Sudan virus - [Gezira], complete genome.|neighbours:ID:YP_006469.1(-1),end()|neighbour_genes:C1,end()|
+MGNLICMPLFSSKASTSARITDSSTWHPQVDQHISIQTFRELNPHLMSSPTSIKTETPSIGVSFRSMEDLQEEDNNQPMTLTQQHLTQAVSQRLLESLKN
+>ID:YP_003254634.1 |[Tomato leaf curl Sulawesi virus]||Tomato-leaf-curl-Sulawesi-virus_taxid_634441.gbk|C4|258|NC_013413(2751):2186-2443:-1 ^GeneID:8527583^ Tomato leaf curl Sulawesi virus DNA-A, complete genome.|neighbours:ID:YP_003254633.1(-1),end()|neighbour_genes:C1,end()|
+MGLCTSMLWSNSKVKPSLEMQDISTYPILILADHSTPIFREQDLRPISSRTFRRTAITSTGVVFRSMEDLLEEVNRQQTMLWQLL
+>ID:NP_632019.1 |[Tomato leaf curl Taiwan virus]|Taiwan|Tomato-leaf-curl-Taiwan-virus_taxid_196093.gbk|C4|294|NC_003898(2739):2151-2444:-1 ^GeneID:944514^ Tomato leaf curl Taiwan virus, complete genome.|neighbours:ID:NP_632018.1(-1),end()|neighbour_genes:C1,end()|
+MGLLTCTFSSNSKENSNVKITDSSTSHPQPGQHISIRTFRELRAQQMSKPIWRKTETCLIMEFSRSMEDQLEEVANLPTTHMPRQSIQGPKLRPSIY
+>ID:YP_009508211.1 |[Tomato leaf curl Toliara virus]||Tomato-leaf-curl-Toliara-virus_taxid_439427.gbk|c4|258|NC_038901(2764):2202-2459:-1 ^GeneID:37619536,InterPro:IPR002488,UniProtKB/TrEMBL:A7DXN3^ Tomato leaf curl Toliara virus cp, v2, rep, c2, c3 and c4 genes, isolated in Miandrivazo, Madagascar.|neighbours:ID:YP_009508210.1(-1),end()|neighbour_genes:rep,end()|
+MGSLISTCSSSSRANSTARITDSSTWYPQPGQHISIQTFRELNQAPTSSPTSTRMETHLNGVNSRSTAEVLEEAARMLTTHAPRH
+>ID:YP_009506552.1 |[Tomato leaf curl Uganda virus - [Iganga]]||Tomato-leaf-curl-Uganda-virus--Iganga_taxid_341035.gbk|C4|303|NC_038473(2747):2155-2457:-1 ^GeneID:37617455^ Tomato leaf curl Uganda virus - [Iganga] segment A, complete sequence.|neighbours:ID:YP_009506551.1(-1),end()|neighbour_genes:C1,end()|
+MGNLICMPSSNSRVKSRLRTIASSIVHTQAVAPVSTPTYKVLSPVQMSIPIWIRTETPSNGESFRSMDDLQGVGNSQPTTLTQRHLTQEVSRRLLESLEN
+>ID:NP_690102.1 |[Tomato leaf curl Vietnam virus]||Tomato-leaf-curl-Vietnam-virus_taxid_208177.gbk|C4|294|NC_004153(2745):2151-2444:-1 ^GeneID:955030^ Tomato leaf curl Vietnam virus DNA A, complete genome.|neighbours:ID:NP_690101.1(-1),end()|neighbour_genes:C1,end()|
+MELLTCMFSSNSKGNSNVKTKDSSISHPQAGQHISIRTFRQLKAQQMSKPIWTKTETCLIMEFSRSMEDRLEEVASLQTTHMPRQSIRGPKHRPSIY
+>ID:YP_009408634.1 |[Tomato leaf curl purple vein virus]||Tomato-leaf-curl-purple-vein-virus_taxid_2021667.gbk|AC4|264|NC_035481(2629):2075-2338:-1 ^GeneID:33868379^ Tomato leaf curl purple vein virus isolate BR:793:15 clone P793, complete genome.|neighbours:ID:YP_009408633.1(-1),end()|neighbour_genes:Rep,end()|
+MIMGNLICMPCCNSKPSSSARIADSSTCDIPVIPMFVMENTNLASPPQTPNHTLRRTEITSSGVIFRSTEDLLEEVNRQLTIHMPRR
+>ID:NP_632007.1 |[Tomato leaf curl virus]||Tomato-leaf-curl-virus_taxid_28350.gbk|c4|309|NC_003896(2766):2156-2464:-1 ^GeneID:944505^ Tomato leaf curl virus, complete genome.|neighbours:ID:NP_632006.1(-1),end()|neighbour_genes:c1,end()|
+MRMGSLISTCLSSSKASSSARINDSSTWSPPPGQHISIRTFRELRARQTSSPIWRRTETPSNGESFRSMDDLQEGDNNQPMTLTPRRLTLEVSQRLLTSLGN
+>ID:YP_003896045.1 |[Tomato leaf deformation virus]||Tomato-leaf-deformation-virus_taxid_681518.gbk|AC4|258|NC_014510(2591):2045-2302:-1 ^GeneID:9742352^ Tomato leaf deformation virus DNA-A, complete genome.|neighbours:ID:YP_003896044.1(-1),end()|neighbour_genes:AC1,end()|
+MGNIISTCYSSSKANSNVRITDSSTWYPQPGQHISIRTFRELNPAPTSTPTSTRTEIHLNGENSKSTAEVLEEAAKLLTTLPQKP
+>ID:YP_009506557.1 |[Tomato leaf distortion virus]||Tomato-leaf-distortion-virus_taxid_536085.gbk|AC4|264|NC_038474(2645):2097-2360:-1 ^GeneID:37617464^ Tomato leaf distortion virus isolate BR:Pda4:05 segment DNA-A, complete sequence.|neighbours:ID:YP_009506556.1(-1),end()|neighbour_genes:Rep,end()|
+MRMGNLIYTCLYSSKGNTSAQITDSSTWYPHPGQHISIRTFRELNHRPTSSPTSIRTVILSNGENSKSTAEVLEEVSKRLTTLQLRR
+>ID:YP_001960949.1 |[Tomato mild mosaic virus]||Tomato-mild-mosaic-virus_taxid_536086.gbk|AC4|258|NC_010833(2708):2165-2422:-1 ^GeneID:6395839^ Tomato mild mosaic virus DNA-A, complete genome.|neighbours:ID:YP_001960948.1(-1),end()|neighbour_genes:Rep,end()|
+MGSLISTSSSSSKGNSSARIIDSSTLSPQPGQHISIRTFRGLSRRPTSSPMSTRTEIQSNGEFSRSTEEVLEEVARQLTTLPQRP
+>ID:NP_620893.1 |[Tomato mosaic Havana virus-[Quivican]]|Quivican|Tomato-mosaic-Havana-virus-Quivican_taxid_223357.gbk|AC4|258|NC_003867(2620):2213-2470:-1 ^GeneID:991003,InterPro:IPR002488,UniProtKB/TrEMBL:O91200^ Tomato mosaic Havana virus-[Quivican] DNA, segment A.|neighbours:ID:NP_620892.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISMCFCSSKPNTSARIADSSTWSPHPGQHISIRTYRELSRAPTSRHTSTRTEMRQNGGNSRSTVDLLEEAASRPTIHMQRH
+>ID:YP_006453.1 |[Tomato mosaic leaf curl virus]||Tomato-mosaic-leaf-curl-virus_taxid_260908.gbk|ac4|258|NC_005850(2560):2004-2261:-1 ^GeneID:2777269^ Tomato mosaic leaf curl virus DNA A, complete genome.|neighbours:ID:YP_006452.1(-1),end()|neighbour_genes:rep,end()|
+MGNLISTCLSNSRENTTARITDSSTWYPQPGQHISIRTFRELNPAPMSSPTSTRTEIQFNGDNSRSTEDLLEEVSNLLTIRMPRR
+>ID:YP_009325938.1 |[Tomato mottle leaf curl virus]||Tomato-mottle-leaf-curl-virus_taxid_172394.gbk|AC4|294|NC_032006(2632):2041-2334:-1 ^GeneID:30436190^ Tomato mottle leaf curl virus isolate BR-PB44-14 segment DNA-A, complete sequence.|neighbours:ID:YP_009325937.1(-1),end()|neighbour_genes:REP,end()|
+MGNLISTCSSNSKENTDAQTVDSSTWYPQPDQHISIRTFRELNPHLTSKPIWRKTETSLIMEFSRSTADQLEEVSNLPTTRMPRSSTQDPSWRPSIY
+>ID:YP_009091994.1 |[Tomato mottle wrinkle virus]||Tomato-mottle-wrinkle-virus_taxid_1266458.gbk|AC4|258|NC_025265(2564):2016-2273:-1 ^GeneID:20717388^ Tomato mottle wrinkle virus isolate Ar:Pichanal:400 segment DNA-A, complete sequence.|neighbours:ID:YP_009091993.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISTCLSNSKVNTNARIIDSSTWYPQQDQHISIRTFRELNHRPTSSPISIKTEILLNGENSKSTVEVLEEVSKRLTTPQQRH
+>ID:NP_620736.1 |[Tomato pseudo-curly top virus]||Tomato-pseudo-curly-top-virus_taxid_49267.gbk|ORF C4|258|NC_003825(2861):2342-2599:-1 ^GeneID:944408,UniProtKB/TrEMBL:Q88891^ Tomato pseudo-curly top virus, complete genome.|neighbours:ID:NP_620735.1(-1),end()|neighbour_genes:ORF C1,end()|
+MGNLISMCLYNSKGNSTAKINDSSTWYPQPGQHISIRTYRELNPAPTSTPTSTRTETLSNGENSRLTLDLLEEASRQLTTNVQRP
+>ID:YP_001294923.1 |[Tomato severe rugose virus]|Petrolina de Goias|Tomato-severe-rugose-virus_taxid_158463.gbk|AC4|264|NC_009607(2593):2040-2303:-1 ^GeneID:5291127^ Tomato severe rugose virus DNA A, complete sequence.|neighbours:ID:YP_001294922.1(-1),end()|neighbour_genes:Rep,end()|
+MKMGSLISTCFFNLRATTAAKINDSSTWSPQQGQHISIRTFRELSHRPTSNPMSIRTEILSSGGNSKSTEEVLEAVARQLTTLPQKP
+>ID:YP_009109608.1 |[Tomato yellow leaf curl Axarquia virus]||Tomato-yellow-leaf-curl-Axarquia-virus_taxid_232380.gbk|C4|294|NC_025680(2763):2160-2453:-1 ^GeneID:22220286^ Tomato yellow leaf curl Axarquia virus isolate Homra, complete genome.|neighbours:ID:YP_009109607.1(-1),end()|neighbour_genes:C1,end()|
+MGNHISMCLSNSKANTNVRTNGSSTWYPQTGQHISIQTFRQLRAQQMSRPTWKKTETSLILEFSKSMADQLEEVSNLPTTHMPKHSIQAVNPRPSIY
+>ID:NP_660169.1 |[Tomato yellow leaf curl China virus]|TYLCV-CHI|Tomato-yellow-leaf-curl-China-virus_taxid_185793.gbk|AC4|294|NC_004044(2734):2147-2440:-1 ^GeneID:949229^ Tomato yellow leaf curl China virus, complete genome.|neighbours:ID:NP_660168.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCMFSSNSKESSSVRIKDSSISHPHTGQHISIRTFRELKAQQMSNPTWKKTETCLIMEFSRSMEDRLEEVANLPTTHMPRQSIQGPKLRPSIY
+>ID:YP_764454.1 |[Tomato yellow leaf curl Guangdong virus]||Tomato-yellow-leaf-curl-Guangdong-virus_taxid_297249.gbk|AC4|294|NC_008374(2744):2152-2445:-1 ^GeneID:4308459^ Tomato yellow leaf curl Guangdong virus DNA A, complete sequence.|neighbours:ID:YP_764453.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLTCISSSNSKESSNAKTTDSSISYPQPGQHISIRTFRALRAQQMLSPTWKKTETCLIMEFSRSMEDRLEEVANLPTTHMPRQSIQGPKLRPSIY
+>ID:YP_699994.1 |[Tomato yellow leaf curl Indonesia virus-[Lembang]]||Tomato-yellow-leaf-curl-Indonesia-virus-Lembang_taxid_395349.gbk|C4|198|NC_008267(2762):2283-2480:-1 ^GeneID:4227987^ Tomato yellow leaf curl Indonesia virus-[Lembang], complete genome.|neighbours:ID:YP_699993.1(-1),end()|neighbour_genes:C1,end()|
+MGNHISMCLSNLRVSSRQRTRGSSIWYPQPDQHISIRTFRELNQAPMSKHISKRMVIPLNGVPSK
+>ID:NP_995307.1 |[Tomato yellow leaf curl Kanchanaburi virus]|Thailand Kan1|Tomato-yellow-leaf-curl-Kanchanaburi-virus_taxid_266799.gbk|AC4|303|NC_005812(2752):2141-2443:-1 ^GeneID:2767407^ Tomato yellow leaf curl Kanchanaburi virus DNA A, complete sequence.|neighbours:ID:NP_995306.1(-1),end()|neighbour_genes:AC1,end()|
+MGALISMCSFNSKGNSSAKITDSSTWFPQPDQHISIQMFRELNQAPTSSPIWRRTEIQLNGENSRLMEDLLEADNNPPMTHTQRQLTAEVSRRLLQSLRN
+>ID:NP_786881.1 |[Tomato yellow leaf curl Malaga virus]||Tomato-yellow-leaf-curl-Malaga-virus_taxid_219744.gbk|C4|303|NC_004569(2782):2160-2462:-1 ^GeneID:1482932^ Tomato yellow leaf curl Malaga virus, complete genome.|neighbours:ID:NP_786880.1(-1),end()|neighbour_genes:C1,end()|
+MGNHISMCLSNLKGNSSAKISDSSTWYPQAGQHISIQTFRELNPVQMSSLMSIRTETPSTGVSFRSTDDLHVGVSSQPMTLTPQLLTQAVSQRLLESLKN
+>ID:YP_009143527.1 |[Tomato yellow leaf curl Mali virus]||Tomato-yellow-leaf-curl-Mali-virus_taxid_260377.gbk|C4|303|NC_027215(2796):2162-2464:-1 ^GeneID:24528030^ Tomato yellow leaf curl Mali virus complete genome, isolate Tom-141.|neighbours:ID:YP_009143526.1(-1),end()|neighbour_genes:Rep,end()|
+MGNLICMPLFSSKESTSAQITDSSTWYPQVDQHISIQTFRELNHHLMSSPTSIRMETPSIGESFRSMEGLQGGDNNLQTMLTQQLLTQEVSRKLLESLGN
+>ID:NP_620742.1 |[Tomato yellow leaf curl Sardinia virus]||Tomato-yellow-leaf-curl-Sardinia-virus_taxid_123735.gbk|C4|297|NC_003828(2773):2170-2466:-1 ^GeneID:944421,InterPro:IPR002488,UniProtKB/Swiss-Prot:P27272^ Tomato yellow leaf curl Sardinia virus, complete genome.|neighbours:ID:NP_620741.1(-1),end()|neighbour_genes:C1,end()|
+MKMGNLISIFSSNSKENTIVPINDSSTWYPQPGQHISIRTFRELNRAPTSSPISTRTEMFLNGVLSRSTDDLLGEDNRQPTTLTQRQLTQEVSRRLLM
+>ID:YP_008492927.1 |[Tomato yellow leaf curl Saudi virus]||Tomato-yellow-leaf-curl-Saudi-virus_taxid_1391746.gbk|AC4|297|NC_022229(2775):2159-2455:-1 ^GeneID:16744955^ Tomato yellow leaf curl Saudi virus isolate Hail1, complete genome.|neighbours:ID:YP_008492926.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGNHISLCLCSSKESTSAQITDSSTWSPQPGQHISIQTFRELNPALTSSPILTRTETPSNGVSFRSMEGPLEGDNNQPMMLTPRRLTLEVSRRLLM
+>ID:YP_009249838.1 |[Tomato yellow leaf curl Shuangbai virus - [Y4536]]||Tomato-yellow-leaf-curl-Shuangbai-virus--Y4536_taxid_1825931.gbk|AC4 protein|303|NC_029995(2748):2142-2444:-1 ^GeneID:27429666^ Tomato yellow leaf curl Shuangbai virus - [Y4536], complete genome.|neighbours:ID:YP_009249837.1(-1),end()|neighbour_genes:rep protein,end()|
+MGALISTCLSSSKVSTDARITDSSTWYPQPGQHISIRTFRELNPAPTSSPIWIRTETPSNGESFRSMEDRQEGVNNQPTTLTPRHLTAEVNRRLSTYLRN
+>ID:NP_049919.1 |[Tomato yellow leaf curl Thailand virus]||Tomato-yellow-leaf-curl-Thailand-virus_taxid_85752.gbk|AC4|300|NC_000869(2751):2290-2589:-1 ^GeneID:995394^ Tomato yellow leaf curl Thailand virus DNA A, complete sequence.|neighbours:ID:NP_049918.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGLLTCISSSNSKENSNAKITDSSISHPQPGQHISIRTFRELKAQQMLKHTWKKTETCLIMEFSKSMEDRLEEVANLPTTHMPRQSIQGPRLRPSIY
+>ID:YP_001285747.1 |[Tomato yellow leaf curl Vietnam virus]||Tomato-yellow-leaf-curl-Vietnam-virus_taxid_390442.gbk|AC4|291|NC_009548(2745):2153-2443:-1 ^GeneID:5220077^ Tomato yellow leaf curl Vietnam virus DNA-A, complete sequence.|neighbours:ID:YP_001285746.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLISTCLSSSKGNTNARITDSSTWYPQPGQRISIQTFRELNRAPTSSPTSTRTETQLNGENFRSTDDLQGEVNNQPTTLTPRRLTQAVSRRLLM
+>ID:YP_008060403.1 |[Tomato yellow leaf curl Yunnan virus]||Tomato-yellow-leaf-curl-Yunnan-virus_taxid_1335768.gbk|AC4|291|NC_021341(2754):2157-2447:-1 ^GeneID:16215705^ Tomato yellow leaf curl Yunnan virus isolate YN2013 clone 10 segment DNA-A, complete sequence.|neighbours:ID:YP_008060402.1(-1),end()|neighbour_genes:AC1,end()|
+MGLLISTCLSNSKENTSAKITDSSIWYPQPGQHISIRTYRELNPAPTSSPIWRRTETPSNGESFRSMQDLQEGDNNQPMTLTPRRLTAEVSQRLLS
+>ID:NP_658996.1 |[Tomato yellow leaf curl virus]||Tomato-yellow-leaf-curl-virus_taxid_10832.gbk|c4|294|NC_004005(2781):2178-2471:-1 ^GOA:Q8JJT7,GeneID:949140,HSSP:1L5I,InterPro:IPR001301,UniProtKB/TrEMBL:Q8JJT6^ Tomato yellow leaf curl virus, complete genome.|neighbours:ID:NP_658995.1(-1),end()|neighbour_genes:rep,end()|
+MGNHISMCLSNSKANTNVRTNGSSTWYPQTDQHISIRTFRQLRAQQMSRPTWRKTETSLILEFSKSMADQLEEVSNLPTTHMPKHSIQAINPRPSIY
+>ID:YP_002268206.1 |[Tomato yellow leaf distortion virus]||Tomato-yellow-leaf-distortion-virus_taxid_649996.gbk|AC4|264|NC_011348(2630):2073-2336:-1 ^GeneID:12869787^ Tomato yellow leaf distortion virus DNA A, complete genome.|neighbours:ID:YP_002268205.1(-1),end()|neighbour_genes:AC1,end()|
+MRMGSLISMCSYSSKENTNARITDSSIWSPQPGQHISIRTYRELNPAPTSSPTSTRTEIHWNGENSRSTADLLEEASSLLMIHMPRR
+>ID:YP_006460.1 |[Tomato yellow margin leaf curl virus]||Tomato-yellow-margin-leaf-curl-virus_taxid_260909.gbk|ac4|264|NC_005852(2575):2043-2306:-1 ^GeneID:2777277^ Tomato yellow margin leaf curl virus segment DNA A, complete sequence.|neighbours:ID:YP_006459.1(-1),end()|neighbour_genes:rep,end()|
+MKMGNRICMCLSSSKASTSAKITDSSIWFPQPGQHISIRTFRELNPAPMSSPTLIRTETQFNGGNSRSTEDLLEEVSNLLMTHTQRH
+>ID:YP_007250562.1 |[Tomato yellow mottle virus]||Tomato-yellow-mottle-virus_taxid_86502.gbk|AC4|258|NC_019946(2574):2029-2286:-1 ^GeneID:14340239^ Tomato yellow mottle virus isolate Grecia segment DNA-A, complete sequence.|neighbours:ID:YP_007250561.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLISMCLYNSRVKSKYTTRNSSTSVPQADQHISIRTFRELRAAQTLNHTWRKTENSLILEFSRSMEDQVEEVYRQPMIHMQKR
+>ID:YP_001974408.1 |[Tomato yellow vein streak virus]||Tomato-yellow-vein-streak-virus_taxid_55216.gbk|AC4|294|NC_010949(2561):1977-2270:-1 ^GeneID:6386089^ Tomato yellow vein streak virus DNA-A, complete genome.|neighbours:ID:YP_001974407.1(-1),end()|neighbour_genes:Rep,end()|
+MGNLISTCLYSSKANSNATINDSSIWYPQPDQHISIQTFRELKARQTSRPTWRKTETSLILELSRSMEDQLEEVANLQTTLMPRFSTQIIQPRHSIY
+>ID:YP_009508398.1 |[Triumfetta yellow mosaic virus]||Triumfetta-yellow-mosaic-virus_taxid_1825950.gbk|AC4 protein|258|NC_038983(2656):2107-2364:-1 ^GeneID:37619840^ Triumfetta yellow mosaic virus isolate BR-Msj1-10 segment DNA-A, complete sequence.|neighbours:ID:YP_009508397.1(-1),end()|neighbour_genes:replication-associat..,end()|
+MEHLISMLCCSSKGNSSAQIVDSSTCDIPNIPMSVMEITNHVNPPPTPNHIYRRTEITSNGVLFRSTEDVLEEVNRQLTMQQQRR
+>ID:YP_003778179.1 |[Turnip curly top virus]||Turnip-curly-top-virus_taxid_859650.gbk|C4|258|NC_014324(2981):2437-2694:-1 ^GeneID:9725392^ Turnip curly top virus, complete genome.|neighbours:ID:YP_003778178.1(-1),end()|neighbour_genes:Rep,end()|
+MGNLISMCLSNSKEKSSSITPVISIYEMEVPVASATQIFRELNRAPTSSPISRRTEITSTGVNFRSMHDLHEEVNRRLMMHVQRR
+>ID:YP_009226628.1 |[Turnip leaf roll virus]||Turnip-leaf-roll-virus_taxid_1766828.gbk|C4|258|NC_029117(2965):2423-2680:-1 ^GeneID:26797765^ Turnip leaf roll virus clone Th2, complete genome.|neighbours:ID:YP_009226627.1(-1),end()|neighbour_genes:Rep,end()|
+MGNLISMCLSNSKEKYKSVTPVTSIYGIQVPVEASTQISRELNLAPTSSPISKKTEITSTGVNFKSMVDLQEEVNRRLMMHLQKH
+>ID:YP_009508405.1 |[Velvet bean golden mosaic virus]||Velvet-bean-golden-mosaic-virus_taxid_1881630.gbk|C4 protein|294|NC_038985(2767):2164-2457:-1 ^GeneID:37619845^ Velvet bean golden mosaic virus isolate bgv6-5, complete genome.|neighbours:ID:YP_009508404.1(-1),end()|neighbour_genes:replication-associat..,end()|
+MGLLTYMSCFSSKASSSARTTDCSTSMPKPGQHVSIRTFRALRAPLMLNNIWRKTETSLIMELSKSMEDQVEEVNNLPTMLMPKQSMQEIQHRRLIF
+>ID:YP_003254641.1 |[Velvet bean severe mosaic virus]||Velvet-bean-severe-mosaic-virus_taxid_667119.gbk|AC4|300|NC_013414(2733):2163-2462:-1 ^GeneID:8527493,InterPro:IPR002488,UniProtKB/TrEMBL:C9YHF3^ Velvet bean severe mosaic virus DNA A, complete genome.|neighbours:ID:YP_003254640.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGFLTYMFCFNSKESSSVETNGSSTYMPKPGQHISIRTFRELRAVRMLRNTWRKTETSLIMENFKSMDVQVEEVSRMQTTLMPKQSTQETHQRRSLF
+>ID:YP_009329833.1 |[Vernonia crinkle virus]||Vernonia-crinkle-virus_taxid_1925153.gbk|AC4|300|NC_032118(2791):2219-2518:-1 ^GeneID:30524485^ Vernonia crinkle virus isolate UG7, complete sequence.|neighbours:ID:YP_009329832.1(-1),end()|neighbour_genes:AC1,end()|
+MKMGNLIYTCSSNSKENSSAETTVSSTSTHLIAQPNSILTSRELSLAPMLNPTWKKTETCLIMEFSRSMDDLLEEVARMPTTHMPRHSIQGLSHRPSIY
+>ID:YP_009666350.1 |[Vernonia yellow vein Fujian virus]||Vernonia-yellow-vein-Fujian-virus_taxid_1001341.gbk|AC4|294|NC_043514(2739):2145-2438:-1 ^GeneID:40526614^ Vernonia yellow vein Fujian virus isolate VeYVFjV segment DNA-A, complete sequence.|neighbours:ID:YP_009666349.1(-1),end()|neighbour_genes:AC1,end()|
+MGILTFMSSSNSKANSNAKTIDSSTSLPQPGQHISIRTFRELKAQQTSKPTWRKTETSLIMEFSRSMEDQLEEVANLPTTHMPRQSTQGPKLRPSIY
+>ID:YP_459931.1 |[Vernonia yellow vein virus]||Vernonia-yellow-vein-virus_taxid_367061.gbk|ac4|294|NC_007730(2745):2146-2439:-1 ^GeneID:3882173,InterPro:IPR002488,UniProtKB/TrEMBL:Q2MCS2^ Vernonia yellow vein virus DNA-A, complete genome.|neighbours:ID:YP_459930.2(-1),end()|neighbour_genes:ac1,end()|
+MGLLTCMSSSSSKANSNAKITDSSTYKPQAGQHISIRTFRELKAQAMSNPTWKKTETSLTLEFSKSMEDQLEEVANLPTTHMPRQSIQGPKLRPSIY
+>ID:YP_009175013.1 |[Vinca leaf curl virus]||Vinca-leaf-curl-virus_taxid_1170656.gbk|C4|291|NC_028124(2776):2166-2456:-1 ^GeneID:26101550^ Vinca leaf curl virus isolate RK, complete sequence.|neighbours:ID:YP_009175012.1(-1),end()|neighbour_genes:C1,end()|
+MGALISMCSSSSRANSSARITDSSTWYAEPGQHICIRPFRELSQAQMSSPIWRRTETPSTGESFRSMEDLQEGDNSQPTTLTPQRLTQAVSQRLLE
+>ID:YP_004958234.1 |[West African Asystasia virus 1]||West-African-Asystasia-virus-1_taxid_1046573.gbk|AC4|234|NC_016575(2727):2193-2426:-1 ^GeneID:11537572^ Asystasia begomovirus 1 segment DNA-A, complete sequence.|neighbours:ID:YP_004958233.1(-1),end()|neighbour_genes:AC1,end()|
+MGSLISMCSYSSKGNTSAQIRDSSTWNPQPGQHLTIQTFRELRARQMSNHTSRREAISSTMGNSRSIHEVQEVRDNV
+>ID:YP_009506568.1 |[West African Asystasia virus 2]||West-African-Asystasia-virus-2_taxid_1046574.gbk|AC4|258|NC_038476(2744):2191-2448:-1 ^GeneID:37617477^ Asystasia begomovirus 2 segment DNA-A, complete sequence.|neighbours:ID:YP_009506567.1(-1),end()|neighbour_genes:AC1,end()|
+MGNLISTCLCNSKANSSAKINDSSIWYPQPDQHISIRTFRELNQAPMSSPTSRRMEIHSNGAHSRSTDDLLVEAARMLTMHVQRL
+>ID:YP_009508327.1 |[Whitefly-associated begomovirus 1]||Whitefly-associated-begomovirus-1_taxid_2169739.gbk|AC4|258|NC_038967(2609):2068-2325:-1 ^GeneID:37619753^ VEM begomovirus 1 isolate GtSq11 segment DNA-A, complete sequence.|neighbours:ID:YP_009508326.1(-1),end()|neighbour_genes:replication initiato..,end()|
+MGNLTSTCFFNSRGSTTARIRDSSTWYPQTGQHISIRTFRELNPAPTSSPISTKMEMLSNGVNSRSTVDLLEEVNRRLTTPQRRH
+>ID:YP_009508332.1 |[Whitefly-associated begomovirus 2]||Whitefly-associated-begomovirus-2_taxid_2169740.gbk|AC4|258|NC_038968(2590):2049-2306:-1 ^GeneID:37619759^ VEM begomovirus 2 isolate GtSq5 segment DNA-A, complete sequence.|neighbours:ID:YP_009508331.1(-1),end()|neighbour_genes:replication initiato..,end()|
+MGNLICMSSSNSKASSSARITDSSIWSPQPGQHISIRTFRELNRAPTSSPTSTRTEIRSNGENSRSTADLLEEVSRQLTIHMPRR
+>ID:YP_009508337.1 |[Whitefly-associated begomovirus 3]||Whitefly-associated-begomovirus-3_taxid_2169741.gbk|AC4|258|NC_038969(2629):2096-2353:-1 ^GeneID:37619765^ VEM begomovirus 3 isolate GtSq10 segment DNA-A, complete sequence.|neighbours:ID:YP_009508336.1(-1),end()|neighbour_genes:replication initiato..,end()|
+MGNLIYTCSSNSKGDTNARINDSSIWCPQIGQNYSTQTYRVLDRAPTSSPTLRRRGTPLNGDCSRSTVEVLEAVSKQLMTQPPRR
+>ID:YP_009508342.1 |[Whitefly-associated begomovirus 4]||Whitefly-associated-begomovirus-4_taxid_2169742.gbk|AC4|258|NC_038970(2608):2069-2326:-1 ^GeneID:37619771^ VEM begomovirus 4 isolate GtSq8 segment DNA-A, complete sequence.|neighbours:ID:YP_009508341.1(-1),end()|neighbour_genes:replication initiato..,end()|
+MGSLISTCSFSSRVNTNARITDSSTWSPHLDQHHFIPTYRELNPAPTSSPTSPRTVTQSTGESFKSTADLLEEANNLLMTHMRRP
+>ID:YP_009508347.1 |[Whitefly-associated begomovirus 6]||Whitefly-associated-begomovirus-6_taxid_2169743.gbk|AC4|258|NC_038971(2638):2087-2344:-1 ^GeneID:37619777^ VEM begomovirus 6 isolate PR10-1 segment DNA-A, complete sequence.|neighbours:ID:YP_009508346.1(-1),end()|neighbour_genes:replication initiato..,end()|
+MGSLISMCSYSSKGNTSARITDCSTWSPHPGQHISIRTYRELNRAPTSSPTSTRTEIQWNGENSRSTGEVLEEAANRLMTRMPRR
+>ID:YP_009508353.1 |[Whitefly-associated begomovirus 7]||Whitefly-associated-begomovirus-7_taxid_2169744.gbk|C4|297|NC_038972(2767):2171-2467:-1 ^GeneID:37619784^ VEM begomovirus 7 isolate Sp5-4, complete sequence.|neighbours:ID:YP_009508352.1(-1),end()|neighbour_genes:replication initiato..,end()|
+MKTGLLTCMPCYSSKESSNAKIQDSSIWSPQVGHHISIATYRELNPAPMSSPISRKVESTLTGENSRSMADLQEEANKLPMTLTPQQLTLAVRRRLLE
+>ID:YP_001974403.1 |[Wissadula golden mosaic virus]||Wissadula-golden-mosaic-virus_taxid_51673.gbk|Rep|264|NC_010948(2622):2053-2316:-1 ^GeneID:6386069^ Wissadula golden mosaic St Thomas Virus DNA A, complete sequence.|neighbours:ID:YP_001974402.1(-1),end()|neighbour_genes:Rep,end()|
+MKMGSLISTSSSSSRASTSARITDSSIWFPQPGQHISIQTFRELNPAPTSSPTSTRTEIHWNGESSRSTADLLEEASNLLTIHMPRR

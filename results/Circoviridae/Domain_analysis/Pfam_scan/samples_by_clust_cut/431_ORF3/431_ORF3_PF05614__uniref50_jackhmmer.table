@@ -1,0 +1,33 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+UniRef50_O56124        -          YP_006355434.1       -            1.3e-70  245.4   2.3   1.4e-70  245.3   2.3   1.0   1   0   0   1   1   1   1 Protein ORF3 n=160 Tax=Circovirus TaxID=39725 RepID=ORF3_PCV2
+UniRef50_A0A811WZC2    -          YP_006355434.1       -            1.2e-09   49.6  14.8   8.5e+04    5.0   0.0  10.1  10   0   0  10  10  10   0 (diamondback moth) hypothetical protein n=1 Tax=Plutella xylostella TaxID=51655 RepID=A0A811WZC2_PLUXY
+UniRef50_UPI000F5ECF1A -          YP_006355434.1       -              0.033   25.6   2.9   4.6e+04    5.9   0.0   5.9   1   1   6   7   7   7   0 uncharacterized protein LOC109140431 n=1 Tax=Larimichthys crocea TaxID=215358 RepID=UPI000F5ECF1A
+UniRef50_UPI001AAD0A1D -          YP_006355434.1       -              0.041   25.3   4.1   8.5e+04    5.0   0.0   6.2   1   1   6   7   7   7   0 putative uncharacterized protein FLJ45035 n=1 Tax=Rana temporaria TaxID=8407 RepID=UPI001AAD0A1D
+UniRef50_A0A6J1EY37    -          YP_006355434.1       -              0.092   24.2   6.9   1.9e+04    7.1   0.2   4.8   1   1   1   2   2   2   0 nuclear pore complex protein DDB_G0274915-like n=1 Tax=Cucurbita moschata TaxID=3662 RepID=A0A6J1EY37_CUCMO
+UniRef50_A0A3M3BFE9    -          YP_006355434.1       -               0.13   23.7   0.0      0.15   23.5   0.0   1.0   1   0   0   1   1   1   0 Transposase (Fragment) n=3 Tax=Pseudomonas syringae group TaxID=136849 RepID=A0A3M3BFE9_PSESX
+UniRef50_A0A1Q6NFU6    -          YP_006355434.1       -               0.27   22.7   0.9      0.56   21.7   0.9   1.4   1   0   0   1   1   1   0 Uncharacterized protein n=1 Tax=Coprobacillus sp. 28_7 TaxID=1896994 RepID=A0A1Q6NFU6_9FIRM
+UniRef50_A0A7R9HF96    -          YP_006355434.1       -               0.96   20.9   0.0       3.7   19.0   0.0   1.9   1   1   1   2   2   2   0 Hypothetical protein n=1 Tax=Timema cristinae TaxID=61476 RepID=A0A7R9HF96_TIMCR
+UniRef50_UPI00097CEF55 -          YP_006355434.1       -                1.2   20.6   6.2   2.3e+04    6.8   0.1   5.4   5   1   1   6   6   5   0 phage tail protein n=1 Tax=Mailhella massiliensis TaxID=1903261 RepID=UPI00097CEF55
+UniRef50_A0A7S1GE76    -          YP_006355434.1       -                  2   19.9   1.9       3.3   19.2   1.9   1.3   1   0   0   1   1   1   0 Hypothetical protein (Fragment) n=1 Tax=Bicosoecida sp. CB-2014 TaxID=1486930 RepID=A0A7S1GE76_9STRA
+UniRef50_A0A7S3DJU2    -          YP_006355434.1       -                2.1   19.8   5.3        45   15.5   0.5   2.9   1   1   2   3   3   3   0 Hypothetical protein (Fragment) n=1 Tax=Palpitomonas bilix TaxID=652834 RepID=A0A7S3DJU2_9EUKA
+UniRef50_A7RXS3        -          YP_006355434.1       -                2.7   19.5   4.4   7.1e+04    5.3   0.0   5.3   1   1   6   8   8   8   0 Predicted protein n=1 Tax=Nematostella vectensis TaxID=45351 RepID=A7RXS3_NEMVE
+UniRef50_UPI000D530F4A -          YP_006355434.1       -                2.7   19.4   0.1       6.5   18.2   0.1   1.6   1   0   0   1   1   1   0 N-lysine methyltransferase setd6 isoform X1 n=2 Tax=Kryptolebias marmoratus TaxID=37003 RepID=UPI000D530F4A
+UniRef50_A0A0C3S020    -          YP_006355434.1       -                4.8   18.7   0.0        29   16.1   0.0   2.2   3   0   0   3   3   3   0 Uncharacterized protein n=1 Tax=Phlebiopsis gigantea 11061_1 CR5-6 TaxID=745531 RepID=A0A0C3S020_PHLGI
+UniRef50_A0A1G4KDZ4    -          YP_006355434.1       -                6.8   18.2   0.2        12   17.3   0.2   1.4   1   0   0   1   1   1   0 LAME_0H04368g1_1 n=1 Tax=Lachancea meyersii CBS 8951 TaxID=1266667 RepID=A0A1G4KDZ4_9SACH
+UniRef50_A0A1V0BI47    -          YP_006355434.1       -                6.8   18.2   0.7   7.4e+04    5.2   0.0   5.0   4   1   1   5   5   5   0 Uncharacterized protein n=1 Tax=Comamonas kerstersii TaxID=225992 RepID=A0A1V0BI47_9BURK
+UniRef50_A0A094W904    -          YP_006355434.1       -                8.6   17.8   0.2        11   17.5   0.2   1.2   1   0   0   1   1   1   0 Uncharacterized protein n=1 Tax=Leptospirillum ferriphilum TaxID=178606 RepID=A0A094W904_9BACT
+UniRef50_W2ZZ76        -          YP_006355434.1       -                9.3   17.7   2.3   9.1e+02   11.3   0.4   2.2   1   1   1   2   2   2   0 Uncharacterized protein (Fragment) n=1 Tax=Phytophthora parasitica P10297 TaxID=1317064 RepID=W2ZZ76_PHYPR
+UniRef50_H0XDP6        -          YP_006355434.1       -                9.3   17.7   0.1   6.9e+03    8.5   0.0   2.6   2   0   0   2   2   2   0 MALT1 paracaspase n=263 Tax=Euteleostomi TaxID=117571 RepID=H0XDP6_OTOGA
+UniRef50_A0A5M9DIR9    -          YP_006355434.1       -                9.9   17.7   0.0        12   17.4   0.0   1.1   1   0   0   1   1   1   0 Uncharacterized protein n=3 Tax=Weissella TaxID=46255 RepID=A0A5M9DIR9_WEIPA
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/431_ORF3/431_ORF3_PF05614_.faa
+# Target file:     /barracuda/Nanis_dbs/Uniref/ftp.uniprot.org/pub/databases/uniprot/uniref/uniref50/uniref50.fasta
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/431_ORF3/431_ORF3_PF05614__uniref50_jackhmmer.table ../results/Get_homologues/Circoviridae/Circoviridae_all_homologues_19062021_0417_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/431_ORF3/431_ORF3_PF05614_.faa /barracuda/Nanis_dbs/Uniref/ftp.uniprot.org/pub/databases/uniprot/uniref/uniref50/uniref50.fasta 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Wed Dec 22 01:37:24 2021
+# [ok]

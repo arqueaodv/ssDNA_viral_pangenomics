@@ -1,0 +1,22 @@
+VIRAL_FAMILY	Parvoviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	211_VP.faa
+PREVALENCE	1.030928
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		Uniprot hit without GO [GO:XXXXXXX]
+	MOLECULAR_FUNCTION
+		Uniprot hit without GO [GO:XXXXXXX]
+	CELLULAR_COMPONENT
+		Uniprot hit without GO [GO:XXXXXXX]
+
+
+//
+
+>ID:NP_041245.1 |[Minute virus of mice]|MVM(p)|Minute-virus-of-mice_taxid_10794.gbk|VP|69|NC_001510(5149):2286-2354:1 ^GeneID:1489591^ Minute virus of mice, complete genome.|neighbours:ID:NP_041244.1(1),ID:NP_041246.1(1)|neighbour_genes:VP1,VP| ATGGCGCCTCCAGCTAAAAGAGCTAAAAGAGGTAAGGGTTTAAGGGATGGTTGGTTGGTGGGGTATTAA
+
+//
+
+>ID:NP_041245.1 |[Minute virus of mice]|MVM(p)|Minute-virus-of-mice_taxid_10794.gbk|VP|69|NC_001510(5149):2286-2354:1 ^GeneID:1489591^ Minute virus of mice, complete genome.|neighbours:ID:NP_041244.1(1),ID:NP_041246.1(1)|neighbour_genes:VP1,VP| MAPPAKRAKRGKGLRDGWLVGY

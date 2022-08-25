@@ -1,0 +1,114 @@
+cluster	prevalence	term	what	familia	algoritmo
+100_E	11.627906976744185	cytolysis [GO:0019835]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+100_E	11.627906976744185	suppression by virus of host peptidoglycan biosynthetic process [GO:0039635]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+100_E	11.627906976744185	viral release by cytolysis via suppression of host peptidoglycan biosynthetic process [GO:0039640]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+100_E	11.627906976744185	viral release from host cell by cytolysis [GO:0044659]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+100_E	11.627906976744185	modulation by virus of host cellular process [GO:0019054]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+102_F	11.627906976744185	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+103_G	11.627906976744185	modulation by virus of host process [GO:0019048]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+103_G	11.627906976744185	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+103_G	11.627906976744185	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+104_H	11.627906976744185	lipopolysaccharide-mediated virion attachment to host cell [GO:0039638]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+104_H	11.627906976744185	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+161_DNA_pilot_protein_VP..	2.3255813953488373	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+190_minor_capsid_protein	2.3255813953488373	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+2_nonstructural_protei..	32.55813953488372	viral process [GO:0016032]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+280_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+281_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+282_hypothetical_protein	2.3255813953488373	viral process [GO:0016032]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+285_minor_capsid_protein	2.3255813953488373	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+29_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+30_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+31_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+32_minor_capsid_protein	20.930232558139537	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+33_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+38_minor_CP_2	4.651162790697675	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+45_minor_CP_2	6.976744186046512	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+6_minor_capsid_protein	2.3255813953488373	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+83_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+84_minor_capsid_protein	2.3255813953488373	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+87_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+92_nonstructural_protei..	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+94_A	11.627906976744185	DNA replication [GO:0006260]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+94_A	11.627906976744185	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+94_A	11.627906976744185	viral DNA genome replication [GO:0039693]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+96_B	11.627906976744185	viral scaffold assembly and maintenance [GO:0046807]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+96_B	11.627906976744185	viral capsid assembly [GO:0019069]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+97_K	11.627906976744185	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+98_C	11.627906976744185	viral DNA genome packaging [GO:0019073]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+99_D	11.627906976744185	viral procapsid maturation [GO:0046797]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+100_E	11.627906976744185	host cell plasma membrane [GO:0020002]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+100_E	11.627906976744185	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+101_J	11.627906976744185	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+101_J	11.627906976744185	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+102_F	11.627906976744185	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+103_G	11.627906976744185	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+103_G	11.627906976744185	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+104_H	11.627906976744185	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+161_DNA_pilot_protein_VP..	2.3255813953488373	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+190_minor_capsid_protein	2.3255813953488373	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+20_major_capsid_protein	4.651162790697675	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+20_major_capsid_protein	4.651162790697675	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+279_hypothetical_protein	2.3255813953488373	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+279_hypothetical_protein	2.3255813953488373	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+280_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+281_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+283_hypothetical_protein	2.3255813953488373	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+285_minor_capsid_protein	2.3255813953488373	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+286_hypothetical_protein	2.3255813953488373	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+286_hypothetical_protein	2.3255813953488373	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+29_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+30_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+31_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+32_minor_capsid_protein	20.930232558139537	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+33_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+36_putative_DNA_binding..	2.3255813953488373	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+36_putative_DNA_binding..	2.3255813953488373	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+37_hypothetical_protein	2.3255813953488373	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+37_hypothetical_protein	2.3255813953488373	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+38_minor_CP_2	4.651162790697675	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+45_minor_CP_2	6.976744186046512	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+5_major_capsid_protein	79.06976744186046	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+5_major_capsid_protein	79.06976744186046	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+6_minor_capsid_protein	2.3255813953488373	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+83_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+84_minor_capsid_protein	2.3255813953488373	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+87_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+89_nonstructural_protei..	2.3255813953488373	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+89_nonstructural_protei..	2.3255813953488373	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+9_minor_capsid_protein	37.2093023255814	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+92_nonstructural_protei..	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+96_B	11.627906976744185	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+96_B	11.627906976744185	viral scaffold [GO:0046806]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+96_B	11.627906976744185	cytoplasm [GO:0005737]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+97_K	11.627906976744185	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+99_D	11.627906976744185	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+99_D	11.627906976744185	cytoplasm [GO:0005737]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+100_E	11.627906976744185	enzyme inhibitor activity [GO:0004857]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+101_J	11.627906976744185	DNA binding [GO:0003677]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+102_F	11.627906976744185	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+104_H	11.627906976744185	identical protein binding [GO:0042802]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+19_replication_initiati..	86.04651162790698	ATP binding [GO:0005524]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+19_replication_initiati..	86.04651162790698	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+19_replication_initiati..	86.04651162790698	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+20_major_capsid_protein	4.651162790697675	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+279_hypothetical_protein	2.3255813953488373	DNA binding [GO:0003677]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+280_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+281_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+29_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+30_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+31_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+33_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+36_putative_DNA_binding..	2.3255813953488373	DNA binding [GO:0003677]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+5_major_capsid_protein	79.06976744186046	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+83_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+87_hypothetical_protein	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+89_nonstructural_protei..	2.3255813953488373	DNA binding [GO:0003677]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+92_nonstructural_protei..	2.3255813953488373	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+94_A	11.627906976744185	ATP binding [GO:0005524]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+94_A	11.627906976744185	DNA binding [GO:0003677]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+94_A	11.627906976744185	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+94_A	11.627906976744185	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+94_A	11.627906976744185	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+96_B	11.627906976744185	peptidase activity [GO:0008233]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+97_K	11.627906976744185	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL

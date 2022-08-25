@@ -1,0 +1,136 @@
+# parameters: max number of processors=10 batchsize=100 $VERBOSE=0
+# raw hmmscan command: /home/abelardo/get_homologues//bin/hmmer-3.1b2/binaries/hmmscan --noali --acc --cut_ga --cpu 1 /home/abelardo/get_homologues/db/Pfam-A.hmm /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/Parvoviridae_all_homologues/_Canine-parvovirus_taxid_10788.gbk.fasta0
+
+# WARNING: using only 0 cores
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/Parvoviridae_all_homologues/_Canine-parvovirus_taxid_10788.gbk.fasta00
+# target HMM database:             /home/abelardo/get_homologues/db/Pfam-A.hmm
+# prefer accessions over names:    yes
+# show alignments in output:       no
+# model-specific thresholding:     GA cutoffs
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       137  [L=668]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    3.9e-82  275.5   3.6    3.9e-82  275.5   3.6    1.7  1  PF01057.19  Parvovirus non-structural protein NS1
+    1.7e-32  112.2   2.3    3.2e-32  111.4   2.3    1.5  1  PF12117.10  Parvovirus non-structural protein 1, C-terminal
+    1.3e-30  105.6   4.6    2.9e-30  104.5   4.6    1.6  1  PF12433.10  Parvovirus non-structural protein 1
+    1.1e-10   41.0   0.3    1.4e-09   37.4   0.0    2.4  1  PF00519.19  Papillomavirus helicase
+    1.6e-09   38.7   0.3      6e-09   36.8   0.0    2.1  1  PF19263.1   Family of unknown function (DUF5906)
+
+
+Domain annotation for each model:
+>> PF01057.19  Parvovirus non-structural protein NS1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  275.5   3.6     1e-85   3.9e-82       3     268 ..     279     547 ..     261     553 .. 0.97
+
+>> PF12117.10  Parvovirus non-structural protein 1, C-terminal
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  111.4   2.3   8.5e-36   3.2e-32       2     118 ..     554     667 ..     553     668 .] 0.92
+
+>> PF12433.10  Parvovirus non-structural protein 1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  104.5   4.6   7.7e-34   2.9e-30       2      82 .]     188     267 ..     187     267 .. 0.97
+
+>> PF00519.19  Papillomavirus helicase
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   37.4   0.0   3.6e-13   1.4e-09     236     363 ..     366     491 ..     347     494 .. 0.89
+
+>> PF19263.1  Family of unknown function (DUF5906)
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   36.8   0.0   1.6e-12     6e-09       1     102 [.     398     492 ..     398     510 .. 0.78
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (668 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                      1128  (0.0588143); expected 383.6 (0.02)
+Passed bias filter:                      593  (0.0309192); expected 383.6 (0.02)
+Passed Vit filter:                        77  (0.00401481); expected 19.2 (0.001)
+Passed Fwd filter:                        10  (0.000521404); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               5  [number of targets reported over threshold]
+# CPU time: 0.32u 0.11s 00:00:00.43 Elapsed: 00:00:00.20
+# Mc/sec: 10884.35
+//
+Query:       138  [L=751]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+   4.4e-156  520.8  13.5   6.5e-156  520.3  13.5    1.1  1  PF00740.20  Parvovirus coat protein VP2
+    5.1e-21   74.9   0.0    1.2e-20   73.7   0.0    1.7  1  PF08398.12  Phospholipase A2-like domain
+
+
+Domain annotation for each model:
+>> PF00740.20  Parvovirus coat protein VP2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  520.3  13.5  6.7e-160  6.5e-156       1     533 [.     197     720 ..     196     730 .. 0.92
+
+>> PF08398.12  Phospholipase A2-like domain
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   73.7   0.0   1.3e-24   1.2e-20       2      83 .]      35     113 ..      34     113 .. 0.98
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (751 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       416  (0.0216904); expected 383.6 (0.02)
+Passed bias filter:                      324  (0.0168935); expected 383.6 (0.02)
+Passed Vit filter:                        22  (0.00114709); expected 19.2 (0.001)
+Passed Fwd filter:                         3  (0.000156421); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.34u 0.10s 00:00:00.44 Elapsed: 00:00:00.22
+# Mc/sec: 11124.31
+//
+Query:       139  [L=67]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model      Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    4.2e-10   39.0   0.3    4.8e-10   38.8   0.3    1.0  1  PF00740.20  Parvovirus coat protein VP2
+
+
+Domain annotation for each model:
+>> PF00740.20  Parvovirus coat protein VP2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   38.8   0.3   2.5e-14   4.8e-10     499     534 ..       2      37 ..       1      46 [. 0.82
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (67 residues searched)
+Target model(s):                       19179  (3258786 nodes)
+Passed MSV filter:                       280  (0.0145993); expected 383.6 (0.02)
+Passed bias filter:                      208  (0.0108452); expected 383.6 (0.02)
+Passed Vit filter:                        11  (0.000573544); expected 19.2 (0.001)
+Passed Fwd filter:                         2  (0.000104281); expected 0.2 (1e-05)
+Initial search space (Z):              19179  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.22u 0.06s 00:00:00.28 Elapsed: 00:00:00.18
+# Mc/sec: 1212.99
+//
+[ok]
+
+# runtime:  1 wallclock secs ( 0.00 usr  0.00 sys +  0.88 cusr  0.27 csys =  1.15 CPU)

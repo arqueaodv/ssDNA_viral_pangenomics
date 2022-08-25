@@ -1,0 +1,16 @@
+>ID:YP_009111302.1 |[Enterobacteria phage fd]|478|Enterobacteria-phage-fd_taxid_10864.gbk|VIII|222|NC_025824(6408):1301-1522:1 ^GeneID:22475003^ Enterobacteria phage fd strain 478, complete genome.|neighbours:ID:YP_009111301.1(1),ID:YP_009111303.1(1)|neighbour_genes:IX,III| | aligned:1-73 (73)
+MKKSLVLKAS VAVATLVPML SFAAEGDDPA KAAFDSLQAS ATEYIGYAWA MVVVIVGATI GIKLFKKFTS KAS
+
+>ID:NP_047355.1 |[Escherichia phage If1]||Escherichia-phage-If1_taxid_10868.gbk|VIII|225|NC_001954(8454):484-708:1 ^GeneID:1261854^ Enterobacteria phage If1, complete genome.|neighbours:ID:NP_047354.1(1),ID:NP_047356.1(1)|neighbour_genes:IX,III| | aligned:1-74 (74)
+MKKSVVAKII AGSTLVIGSS AFAADDATSQ AKAAFDSLTA QATEMSGYAW ALVVLVVGAT VGIKLFKKFV SRAS
+
+>ID:NP_039620.1 |[Escherichia virus I22]||Escherichia-virus-I22_taxid_10869.gbk|VIII|255|NC_001332(6744):4653-4907:1 ^GOA:P15416,GeneID:1260722,InterPro:IPR008033,UniProtKB/Swiss-Prot:P15416^ Enterobacteria phage I2-2, complete genome.|neighbours:ID:NP_039619.1(1),ID:NP_039621.1(1)|neighbour_genes:IX,III| | aligned:1-84 (84)
+MSVITKVAAA KNKIVVGAGL LMASAGAFAA DDGTSTATSY ATEAMNSLKT QATDLIDQTW PVVTSVAVAG LAIRLFKKFS
+SKAV
+
+>ID:NP_510890.1 |[Escherichia virus M13]||Escherichia-virus-M13_taxid_1977402.gbk|VIII|222|NC_003287(6407):1301-1522:1 ^GOA:P03617,GeneID:927333,UniProtKB/Swiss-Prot:P03617^ Enterobacteria phage M13, complete genome.|neighbours:ID:NP_510889.1(1),ID:NP_510891.1(1)|neighbour_genes:IX,III| | aligned:1-73 (73)
+MKKSLVLKAS VAVATLVPML SFAAEGDDPA KAAFNSLQAS ATEYIGYAWA MVVVIVGATI GIKLFKKFTS KAS
+
+>ID:NP_040575.1 |[Salmonella phage IKe]||Salmonella-phage-IKe_taxid_10867.gbk|VIII|249|NC_002014(6883):1766-2014:1 ^GOA:P03620,GeneID:1260888,InterPro:IPR008033,PDB:1IFL,UniProtKB/Swiss-Prot:P03620^ Enterobacteria phage Ike, complete genome.|neighbours:ID:NP_040574.1(1),ID:NP_040576.1(1)|neighbour_genes:IX,III| | aligned:1-82 (82)
+MRVLSTVLAA KNKIALGAAT MLVSAGSFAA EPNAATNYAT EAMDSLKTQA IDLISQTWPV VTTVVVAGLV IRLFKKFSSK
+AV

@@ -1,0 +1,21 @@
+VIRAL_FAMILY	Microviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	286_hypothetical_protein.faa
+PREVALENCE	2.325581
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+	MOLECULAR_FUNCTION
+	CELLULAR_COMPONENT
+		host cell membrane [GO:0033644]
+		integral component of membrane [GO:0016021]
+
+
+//
+
+>ID:NP_598342.1 |[Spiroplasma virus SpV4]||Spiroplasma-virus-SpV4_taxid_10855.gbk|hypothetical protein|165|NC_003438(4421):4037-4201:1 ^GeneID:935177^ Spiroplasma phage 4, complete genome.|neighbours:ID:NP_598341.1(1),end()|neighbour_genes:minor capsid protein,end()| ATGGAGATGTTGCACGATATGATATGAATAAAAATTATATTGTTAATGATAGTGTGCCTTGTCGTAAGTGTGTTGGTTGTCGTTTGGATAATTCTGCTGAGTGAGGTGTTCGTGCTTCTTTGGAAATTAAGTCAAATCCTAAACATAATTGATTTGTTACTTTAA
+
+//
+
+>ID:NP_598342.1 |[Spiroplasma virus SpV4]||Spiroplasma-virus-SpV4_taxid_10855.gbk|hypothetical protein|165|NC_003438(4421):4037-4201:1 ^GeneID:935177^ Spiroplasma phage 4, complete genome.|neighbours:ID:NP_598341.1(1),end()|neighbour_genes:minor capsid protein,end()| MEMLHDMIWIKIILLMIVCLVVSVLVVVWIILLSEVFVLLWKLSQILNIIDLLL

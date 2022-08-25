@@ -1,0 +1,57 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_1_homologues_19062021_0754/Vibrio-phage-VfO4K68taxid127508_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_/,cluster_1_homologues_19062021_0754/Vibrio-phage-VfO4K68taxid127508_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_
+# -o cluster_1_homologues_19062021_0754_intersection
+# -I 
+# -r 0
+16_VII.faa
+5_IX.faa
+45_hypothetical_protein.faa
+107_hypothetical_protein.faa
+4_VII.faa
+1_II.faa
+19_III.faa
+65_hypothetical_protein.faa
+89_hypothetical_protein.faa
+3_V.faa
+87_hypothetical_protein.faa
+50_hypothetical_protein.faa
+12_IV.faa
+9_I.faa
+49_hypothetical_protein.faa
+42_hypothetical_protein.faa
+81_major_coat_protein.faa
+15_gene_V_product.faa
+46_hypothetical_protein.faa
+66_major_capsid_protein.faa
+90_Vpf76.faa
+73_hypothetical_protein.faa
+67_putative_minor_capsi...faa
+86_VSK_tox2.faa
+93_hypothetical_protein.faa
+44_hypothetical_protein.faa
+94_putative_assembly_pr...faa
+52_hypothetical_protein.faa
+88_DNA_replication_init...faa
+13_replication_initiati...faa
+10_IV.faa
+95_Vpf215.faa
+62_hypothetical_protein.faa
+104_hypothetical_protein.faa
+61_hypothetical_protein.faa
+14_X.faa
+85_VSK-tox1.faa
+76_prim-VSK.faa
+7_III.faa
+8_VI.faa
+57_minor_capsid_protein.faa
+17_IX.faa
+69_putative_minor_coat_...faa
+82_memb2.faa
+55_hypothetical_protein.faa
+2_X.faa
+6_VIII.faa
+70_putative_assembly_pr...faa
+54_ssDNA-binding_protei...faa
+103_hypothetical_protein.faa
+51_hypothetical_protein.faa
+# intersection size = 51 clusters

@@ -1,0 +1,6 @@
+>ID:YP_002925190.1 |[Vibrio phage VEJphi]||Vibrio-phage-VEJphi_taxid_642111.gbk|hypothetical protein|246|NC_012757(6842):1434-1679:1 ^GeneID:7944293^ Vibrio phage VEJphi, complete genome.|neighbours:ID:YP_002925189.1(1),ID:YP_002925191.1(1)|neighbour_genes:hypothetical protein,major capsid protein| | aligned:1-81 (81)
+MPVCALPNSQGFLAVTDKPLNECDGGYVAVTIQDYDYLMSYTRITPTDAGTAFSFGFMAVFALGYLYTYAVYIGKKLINLL
+>ID:NP_542357.2 |[Vibrio phage VSK]||Vibrio-phage-VSK_taxid_181604.gbk|hypothetical protein|243|NC_003327(6882):2695-2937:1 ^GeneID:955958^ Vibrio phage VSK, complete genome.|neighbours:ID:NP_542356.1(1),ID:NP_752644.1(1)|neighbour_genes:hypothetical protein,major coat protein| | aligned:1-80 (80)
+MPVCALPNSQGFLAVTDKPLNECDGGYVAVTIQDYDYLMSYTRITPTDAGLAFSFGFMAVFALGYLSTKALYVGKKLINL
+>ID:NP_695204.1 |[Vibrio virus fs1]||Vibrio-virus-fs1_taxid_70203.gbk|hypothetical protein|246|NC_004306(6340):6063-6308:1 ^GeneID:955587^ Vibrio phage fs1, complete genome.|neighbours:ID:NP_695203.1(1),end()|neighbour_genes:hypothetical protein,end()| | aligned:1-81 (81)
+MPVCALPNSQGFLAVTDKPLNECDGGYVAVTIQDYDYLMSYTRITPTDAGTAFSFGFMAVFALGYLYTYAVYIGKKLINLL

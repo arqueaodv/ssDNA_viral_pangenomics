@@ -1,0 +1,14 @@
+140_hypothetical_protein.faa
+58_hypothetical_protein.faa
+45_ORF3.faa
+144_ORF3.faa
+84_hypothetical_protein.faa
+5_putative_dual-specif...faa
+85_hypothetical_protein.faa
+138_hypothetical_protein.faa
+97_ORF3.faa
+139_hypothetical_protein.faa
+75_hypothetical_protein.faa
+71_ORF2.faa
+2_VP2.faa
+74_hypothetical_protein.faa

@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_039605.1          -          NP_039605.1          -            2.1e-37  125.6   1.9   3.9e-37  124.8   1.9   1.4   1   0   0   1   1   1   1 -
+YP_004934229.1       -          NP_039605.1          -            2.5e-30  103.0   0.6   4.3e-30  102.2   0.6   1.4   1   0   0   1   1   1   1 -
+YP_087077.1          -          NP_039605.1          -            2.4e-29   99.9   1.6   3.5e-29   99.3   0.8   1.7   2   0   0   2   2   2   1 -
+NP_059536.1          -          NP_039605.1          -            9.4e-28   94.7   0.3   1.6e-27   94.0   0.3   1.4   1   0   0   1   1   1   1 -
+NP_059546.1          -          NP_039605.1          -            9.4e-28   94.7   0.3   1.6e-27   94.0   0.3   1.4   1   0   0   1   1   1   1 -
+YP_004286238.1       -          NP_039605.1          -            0.00027   19.6   0.5   0.00039   19.1   0.5   1.3   1   0   0   1   1   1   1 -
+NP_040654.1          -          NP_039605.1          -             0.0012   17.5   0.2    0.0022   16.7   0.2   1.4   1   0   0   1   1   1   0 -
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/64_hypothetical_protein/64_hypothetical_protein_PF10734_.faa
+# Target file:     /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/64_hypothetical_protein/64_hypothetical_protein_PF10734__myviral_jackhmmer.table ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/64_hypothetical_protein/64_hypothetical_protein_PF10734_.faa /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Tue Dec 21 17:01:58 2021
+# [ok]

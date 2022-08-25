@@ -1,0 +1,4 @@
+68_av2.faa
+400_C4.faa
+954_hypothetical_protein.faa
+350_AC6_protein.faa

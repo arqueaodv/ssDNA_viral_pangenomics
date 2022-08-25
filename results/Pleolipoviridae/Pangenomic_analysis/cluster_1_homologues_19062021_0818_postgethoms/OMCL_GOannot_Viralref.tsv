@@ -1,0 +1,50 @@
+cluster	prevalence	term	what	familia	algoritmo
+107_ORF7	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+108_ORF8	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+11_putative_protein_11	66.66666666666666	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+110_ORF10	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+111_ORF11	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+45_ORF12	44.44444444444444	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+7_putative_protein_7	66.66666666666666	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+78_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+81_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+82_hypothetical_protein	44.44444444444444	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+83_hypothetical_protein	77.77777777777779	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+84_VP8	77.77777777777779	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+85_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+101_1	11.11111111111111	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+103_ORF3	11.11111111111111	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+107_ORF7	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+108_ORF8	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+11_putative_protein_11	66.66666666666666	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+110_ORF10	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+111_ORF11	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+45_ORF12	44.44444444444444	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+5_putative_protein_5	22.22222222222222	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+7_putative_protein_7	66.66666666666666	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+78_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+79_VP3	33.33333333333333	virion membrane [GO:0055036]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+80_VP4_precursor	100	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+80_VP4_precursor	100	virion membrane [GO:0055036]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+81_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+82_hypothetical_protein	44.44444444444444	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+83_hypothetical_protein	77.77777777777779	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+84_VP8	77.77777777777779	virion [GO:0019012]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+84_VP8	77.77777777777779	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+85_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	virion [GO:0019012]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+107_ORF7	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+108_ORF8	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+11_putative_protein_11	66.66666666666666	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+110_ORF10	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+111_ORF11	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+45_ORF12	44.44444444444444	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+7_putative_protein_7	66.66666666666666	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	nucleotide binding [GO:0000166]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+78_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+81_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+82_hypothetical_protein	44.44444444444444	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+83_hypothetical_protein	77.77777777777779	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+84_VP8	77.77777777777779	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+85_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+86_ORF1	22.22222222222222	nucleotide binding [GO:0000166]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL

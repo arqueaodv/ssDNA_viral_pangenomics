@@ -1,0 +1,8 @@
+0	Camel-associated-drosmacovirus-1_taxid_2169876.gbk
+1	Camel-associated-drosmacovirus-2_taxid_2169877.gbk
+2	Camel-associated-porprismacovirus-1_taxid_2170105.gbk
+3	Camel-associated-porprismacovirus-2_taxid_2170106.gbk
+4	Camel-associated-porprismacovirus-3_taxid_2170107.gbk
+5	Camel-associated-porprismacovirus-4_taxid_2170108.gbk
+6	Fly-associated-circular-virus-4_taxid_2293284.gbk
+7	Turkey-associated-porprismacovirus-1_taxid_2170130.gbk

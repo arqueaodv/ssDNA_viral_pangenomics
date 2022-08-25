@@ -1,0 +1,17 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d Alphasatellitidae_all_homologues_19062021_0405/Ageratum-conyzoides-associated-symptomless-alphasatellitetaxid944995_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_/,Alphasatellitidae_all_homologues_19062021_0405/Ageratum-conyzoides-associated-symptomless-alphasatellitetaxid944995_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_
+# -o Alphasatellitidae_all_homologues_19062021_0405_intersection
+# -I 
+# -r 0
+4_v2.faa
+29_replication_initiato...faa
+44_orf2.faa
+26_hypothetical_protein.faa
+30_hypothetical_protein.faa
+27_replication_initiato...faa
+46_orf3.faa
+25_truncated_replicatio...faa
+5_rep.faa
+37_V2.faa
+6_rep.faa
+# intersection size = 11 clusters

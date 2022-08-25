@@ -1,0 +1,22 @@
+VIRAL_FAMILY	Microviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	279_hypothetical_protein.faa
+PREVALENCE	2.325581
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+	MOLECULAR_FUNCTION
+		DNA binding [GO:0003677]
+	CELLULAR_COMPONENT
+		host cell cytoplasm [GO:0030430]
+		viral capsid [GO:0019028]
+
+
+//
+
+>ID:NP_598336.1 |[Spiroplasma virus SpV4]||Spiroplasma-virus-SpV4_taxid_10855.gbk|hypothetical protein|117|NC_003438(4421):570-686:1 ^GeneID:935172^ Spiroplasma phage 4, complete genome.|neighbours:ID:NP_598335.1(1),ID:NP_598337.1(1)|neighbour_genes:putative replication..,hypothetical protein| GTGAGACGCAAGGTTAAGAACACAAAGCGTCATCAGTGAAGGTTGACTCATTCTGCACGTTCAATTAAACGTGCTAATATAATGCCGTCAAATCCTCGTGGTGGACGTCGTTTTTAG
+
+//
+
+>ID:NP_598336.1 |[Spiroplasma virus SpV4]||Spiroplasma-virus-SpV4_taxid_10855.gbk|hypothetical protein|117|NC_003438(4421):570-686:1 ^GeneID:935172^ Spiroplasma phage 4, complete genome.|neighbours:ID:NP_598335.1(1),ID:NP_598337.1(1)|neighbour_genes:putative replication..,hypothetical protein| MRRKVKNTKRHQWRLTHSARSIKRANIMPSNPRGGRRF

@@ -1,0 +1,198 @@
+cluster	prevalence	term	what	familia	algoritmo
+13_putative_protein_13	11.11111111111111	phosphorelay signal transduction system [GO:0000160]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+13_putative_protein_13	11.11111111111111	regulation of transcription, DNA-templated [GO:0006355]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+13_putative_protein_13	11.11111111111111	DNA-templated transcription, initiation [GO:0006352]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+13_putative_protein_13	11.11111111111111	cytosolic DNA-directed RNA polymerase complex [GO:0000345]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+13_putative_protein_13	11.11111111111111	intracellular anatomical structure [GO:0005622]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+13_putative_protein_13	11.11111111111111	DNA-binding transcription factor activity [GO:0003700]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+13_putative_protein_13	11.11111111111111	sigma factor activity [GO:0016987]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+13_putative_protein_13	11.11111111111111	DNA binding [GO:0003677]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+13_putative_protein_13	11.11111111111111	DNA-directed 5'-3' RNA polymerase activity [GO:0003899]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+27_ORF10	11.11111111111111	protein methylation [GO:0006479]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+27_ORF10	11.11111111111111	DNA methylation on adenine [GO:0032775]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+27_ORF10	11.11111111111111	DNA restriction-modification system [GO:0009307]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+27_ORF10	11.11111111111111	N-4 methylation of cytosine [GO:0090124]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+27_ORF10	11.11111111111111	cytoplasm [GO:0005737]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+27_ORF10	11.11111111111111	4 iron, 4 sulfur cluster binding [GO:0051539]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+27_ORF10	11.11111111111111	N-methyltransferase activity [GO:0008170]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+27_ORF10	11.11111111111111	DNA (cytosine-5-)-methyltransferase activity [GO:0003886]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+27_ORF10	11.11111111111111	site-specific DNA-methyltransferase (adenine-specific) activity [GO:0009007]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+27_ORF10	11.11111111111111	protein methyltransferase activity [GO:0008276]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+27_ORF10	11.11111111111111	DNA binding [GO:0003677]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+27_ORF10	11.11111111111111	site-specific DNA-methyltransferase (cytosine-N4-specific) activity [GO:0015667]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+34_hypothetical_protein	33.33333333333333	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	cellular response to gamma radiation [GO:0071480]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	response to toxic substance [GO:0009636]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	positive regulation of DNA ligation [GO:0051106]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	SOS response [GO:0009432]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	response to X-ray [GO:0010165]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	meiosis I [GO:0007127]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	mitotic recombination-dependent replication fork processing [GO:1990426]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	DNA replication [GO:0006260]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	DNA duplex unwinding [GO:0032508]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	cellular response to camptothecin [GO:0072757]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	cellular response to cisplatin [GO:0072719]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	cellular response to hydroxyurea [GO:0072711]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	strand invasion [GO:0042148]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	reciprocal meiotic recombination [GO:0007131]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	response to glucoside [GO:1904631]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	double-strand break repair via synthesis-dependent strand annealing [GO:0045003]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	DNA recombinase assembly [GO:0000730]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	strand displacement [GO:0000732]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	replication-born double-strand break repair via sister chromatid exchange [GO:1990414]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	regulation of protein phosphorylation [GO:0001932]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	translation [GO:0006412]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	DNA biosynthetic process [GO:0071897]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	cytoskeleton [GO:0005856]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	Holliday junction helicase complex [GO:0009379]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	ribosome [GO:0005840]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	site of double-strand break [GO:0035861]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	intracellular anatomical structure [GO:0005622]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	mitochondrial matrix [GO:0005759]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	microtubule organizing center [GO:0005815]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	Holliday junction resolvase complex [GO:0048476]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	DNA-dependent ATPase activity [GO:0008094]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	four-way junction DNA binding [GO:0000400]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	four-way junction helicase activity [GO:0009378]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	recombinase activity [GO:0000150]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	rRNA binding [GO:0019843]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	structural constituent of ribosome [GO:0003735]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	DNA ligase (NAD+) activity [GO:0003911]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	single-stranded DNA binding [GO:0003697]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	double-stranded DNA binding [GO:0003690]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	chromatin binding [GO:0003682]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	damaged DNA binding [GO:0003684]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+77_hypothetical_protein	11.11111111111111	ATP binding [GO:0005524]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	late endosomal microautophagy [GO:0061738]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	positive regulation of microtubule depolymerization [GO:0031117]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	protein homooligomerization [GO:0051260]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	establishment of competence for transformation [GO:0030420]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	positive regulation of ATP biosynthetic process [GO:2001171]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	protein hexamerization [GO:0034214]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	positive regulation of oxidative phosphorylation [GO:1903862]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	positive regulation of transcription elongation from RNA polymerase II promoter [GO:0032968]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	aggresome assembly [GO:0070842]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	blastocyst development [GO:0001824]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	DNA replication [GO:0006260]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	mitochondrial respiratory chain complex III assembly [GO:0034551]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	proteasome regulatory particle assembly [GO:0070682]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	mitotic DNA replication checkpoint [GO:0033314]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	protein insertion into mitochondrial inner membrane from matrix [GO:0032979]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	microtubule severing [GO:0051013]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	ATP metabolic process [GO:0046034]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	positive regulation of proteasomal protein catabolic process [GO:1901800]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	SCF complex disassembly in response to cadmium stress [GO:1990171]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	protein processing [GO:0016485]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	positive regulation of RNA polymerase II transcription preinitiation complex assembly [GO:0045899]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	endoplasmic reticulum unfolded protein response [GO:0030968]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	leading strand elongation [GO:0006272]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	error-free translesion synthesis [GO:0070987]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	protein unfolding [GO:0043335]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	intralumenal vesicle formation [GO:0070676]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	cellular heat acclimation [GO:0070370]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	positive regulation of Lys63-specific deubiquitinase activity [GO:1903007]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	positive regulation of inclusion body assembly [GO:0090261]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	UV-damage excision repair [GO:0070914]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	CENP-A containing chromatin organization [GO:0061641]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	establishment of endoplasmic reticulum localization involved in endoplasmic reticulum polarization at cell division site [GO:0061166]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	regulation of aerobic respiration [GO:1903715]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	cell division [GO:0051301]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	endoplasmic reticulum to Golgi vesicle-mediated transport [GO:0006888]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	protein retention in Golgi apparatus [GO:0045053]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	SNARE complex disassembly [GO:0035494]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	viral genome replication [GO:0019079]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	trehalose metabolism in response to heat stress [GO:0070414]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	autophagosome maturation [GO:0097352]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	cellular response to misfolded protein [GO:0071218]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	protein import into peroxisome matrix, receptor recycling [GO:0016562]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	positive regulation of ubiquitin-specific protease activity [GO:2000158]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	protein N-linked glycosylation via asparagine [GO:0018279]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	mRNA export from nucleus [GO:0006406]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	chaperone-mediated protein complex assembly [GO:0051131]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	inter-Golgi cisterna vesicle-mediated transport [GO:0048219]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	ubiquitin-dependent ERAD pathway [GO:0030433]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	positive regulation of centriole elongation [GO:1903724]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	cellular response to oxidative stress [GO:0034599]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	regulation of mitochondrial DNA replication [GO:0090296]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	flavin adenine dinucleotide catabolic process [GO:0072389]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	protein import into mitochondrial intermembrane space [GO:0045041]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	protein import into peroxisome matrix [GO:0016558]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	DNA strand renaturation [GO:0000733]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	oxidation-dependent protein catabolic process [GO:0070407]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	nonfunctional rRNA decay [GO:0070651]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	ER-associated misfolded protein catabolic process [GO:0071712]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	stress granule disassembly [GO:0035617]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	mitochondrial inner boundary membrane [GO:0097002]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	proteasome-activating nucleotidase complex [GO:0022623]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	nuclear envelope [GO:0005635]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	peroxisomal matrix [GO:0005782]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	proteasome accessory complex [GO:0022624]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	i-AAA complex [GO:0031942]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	HslUV protease complex [GO:0009376]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	inclusion body [GO:0016234]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	VCP-NSFL1C complex [GO:1990730]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	nuclear proteasome complex [GO:0031595]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	photoreceptor cell cilium [GO:0097733]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	synapse [GO:0045202]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	Cdc48p-Npl4p-Vms1p AAA ATPase complex [GO:0036266]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	microtubule [GO:0005874]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	proteasome regulatory particle, lid subcomplex [GO:0008541]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	proteasome regulatory particle, base subcomplex [GO:0008540]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	nuclear periphery [GO:0034399]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	chloroplast envelope [GO:0009941]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	plastid [GO:0009536]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	proteasome regulatory particle [GO:0005838]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	proteasome core complex [GO:0005839]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	cell wall [GO:0005618]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	chloroplast stroma [GO:0009570]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	lipid droplet [GO:0005811]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	mitochondrion [GO:0005739]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	spindle pole [GO:0000922]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	nucleoplasm [GO:0005654]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	postsynapse [GO:0098794]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	mitochondrial matrix [GO:0005759]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	late endosome membrane [GO:0031902]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	proteasome storage granule [GO:0034515]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	Elg1 RFC-like complex [GO:0031391]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	cytoplasm [GO:0005737]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	RQC complex [GO:1990112]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	VCP-NPL4-UFD1 AAA ATPase complex [GO:0034098]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	m-AAA complex [GO:0005745]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	peroxisomal membrane [GO:0005778]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	ESCRT IV complex [GO:1990621]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	plasma membrane [GO:0005886]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	thylakoid membrane [GO:0042651]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	perinuclear region of cytoplasm [GO:0048471]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	Ctf18 RFC-like complex [GO:0031390]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	TRC complex [GO:0072380]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	site of double-strand break [GO:0035861]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	cytosol [GO:0005829]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	midbody [GO:0030496]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	myelin sheath [GO:0043209]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	DNA replication factor C complex [GO:0005663]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	Rad17 RFC-like complex [GO:0031389]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	nuclear origin of replication recognition complex [GO:0005664]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	centrosome [GO:0005813]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	nucleus [GO:0005634]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	Flemming body [GO:0090543]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	ATP-dependent peptidase activity [GO:0004176]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	serine-type endopeptidase activity [GO:0004252]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	four-way junction helicase activity [GO:0009378]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	proteasome-activating ATPase activity [GO:0036402]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	TBP-class protein binding [GO:0017025]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	zinc ion binding [GO:0008270]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	sequence-specific DNA binding [GO:0043565]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	microtubule-severing ATPase activity [GO:0008568]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	ATP binding [GO:0005524]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	metalloendopeptidase activity [GO:0004222]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	MHC class I protein binding [GO:0042288]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	K48-linked polyubiquitin modification-dependent protein binding [GO:0036435]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	lipid binding [GO:0008289]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	ADP binding [GO:0043531]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	G-quadruplex DNA binding [GO:0051880]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	BAT3 complex binding [GO:1904288]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	DNA clamp loader activity [GO:0003689]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	misfolded protein binding [GO:0051787]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	deubiquitinase activator activity [GO:0035800]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL
+93_ORF8	22.22222222222222	chromatin binding [GO:0003682]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	OMCL

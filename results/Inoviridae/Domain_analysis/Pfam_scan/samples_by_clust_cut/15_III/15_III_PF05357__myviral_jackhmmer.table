@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_047356.1          -          NP_047356.1          -            2.9e-37  124.8   0.2   2.9e-37  124.8   0.2   2.1   2   0   0   2   2   2   1 -
+NP_510891.1          -          NP_047356.1          -            3.2e-33  111.9   0.2   7.7e-33  110.6   0.2   1.7   1   0   0   1   1   1   1 -
+YP_009111303.1       -          NP_047356.1          -            3.6e-33  111.7   0.2   7.4e-33  110.7   0.2   1.5   1   0   0   1   1   1   1 -
+NP_040576.1          -          NP_047356.1          -            1.8e-21   74.2   0.6   1.8e-21   74.2   0.6   2.6   4   0   0   4   4   4   1 -
+NP_039621.1          -          NP_047356.1          -            5.1e-21   72.8   0.6   5.1e-21   72.8   0.6   2.6   3   0   0   3   3   3   1 -
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/15_III/15_III_PF05357_.faa
+# Target file:     /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/15_III/15_III_PF05357__myviral_jackhmmer.table ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/15_III/15_III_PF05357_.faa /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Tue Dec 21 08:52:07 2021
+# [ok]

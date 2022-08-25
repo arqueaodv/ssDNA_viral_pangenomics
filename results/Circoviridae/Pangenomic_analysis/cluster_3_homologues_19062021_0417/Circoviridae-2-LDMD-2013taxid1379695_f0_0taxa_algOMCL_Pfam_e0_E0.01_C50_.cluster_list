@@ -1,0 +1,51 @@
+cluster 1_replication_associat.. size=1 taxa=1 Pfam=PF00799,PF00910, file: 1_replication_associat...faa dnafile: 1_replication_associat...fna
+: Chimpanzee-faeces-associated-circular-DNA-virus-1_taxid_1676184.gbk
+cluster 2_hypothetical_protein size=1 taxa=1 file: 2_hypothetical_protein.faa dnafile: 2_hypothetical_protein.fna
+: Chimpanzee-faeces-associated-circular-DNA-virus-1_taxid_1676184.gbk
+cluster 3_putative_CP size=1 taxa=1 file: 3_putative_CP.faa dnafile: 3_putative_CP.fna
+: Chimpanzee-faeces-associated-circular-DNA-virus-1_taxid_1676184.gbk
+cluster 4_replication-associat.. size=2 taxa=2 Pfam=PF02407, file: 4_replication-associat...faa dnafile: 4_replication-associat...fna
+: Circoviridae-1-LDMD-2013_taxid_1379692.gbk
+: Po-Circo-like-virus-21_taxid_1105383.gbk
+cluster 5_hypothetical_protein size=1 taxa=1 file: 5_hypothetical_protein.faa dnafile: 5_hypothetical_protein.fna
+: Circoviridae-1-LDMD-2013_taxid_1379692.gbk
+cluster 6_hypothetical_protein size=1 taxa=1 file: 6_hypothetical_protein.faa dnafile: 6_hypothetical_protein.fna
+: Circoviridae-1-LDMD-2013_taxid_1379692.gbk
+cluster 7_putative_viral_capsi.. size=2 taxa=2 file: 7_putative_viral_capsi...faa dnafile: 7_putative_viral_capsi...fna
+: Circoviridae-1-LDMD-2013_taxid_1379692.gbk
+: Circoviridae-8-LDMD-2013_taxid_1379712.gbk
+cluster 8_replication-associat.. size=3 taxa=3 Pfam=PF02407,PF00910, file: 8_replication-associat...faa dnafile: 8_replication-associat...fna
+: Circoviridae-2-LDMD-2013_taxid_1379695.gbk
+: Culex-circovirus-like-virus_taxid_2304514.gbk
+: Human-fecal-virus-Jorvi2_taxid_2017081.gbk
+cluster 9_putative_viral_capsi.. size=1 taxa=1 Pfam=PF00729, file: 9_putative_viral_capsi...faa dnafile: 9_putative_viral_capsi...fna
+: Circoviridae-2-LDMD-2013_taxid_1379695.gbk
+cluster 10_hypothetical_protein size=1 taxa=1 file: 10_hypothetical_protein.faa dnafile: 10_hypothetical_protein.fna
+: Circoviridae-8-LDMD-2013_taxid_1379712.gbk
+cluster 11_replication-associat.. size=1 taxa=1 Pfam=PF00910, file: 11_replication-associat...faa dnafile: 11_replication-associat...fna
+: Circoviridae-8-LDMD-2013_taxid_1379712.gbk
+cluster 13_hypothetical_protein size=1 taxa=1 file: 13_hypothetical_protein.faa dnafile: 13_hypothetical_protein.fna
+: Circoviridae-8-LDMD-2013_taxid_1379712.gbk
+cluster 14_putative_viral_capsi.. size=1 taxa=1 file: 14_putative_viral_capsi...faa dnafile: 14_putative_viral_capsi...fna
+: Circoviridae-8-LDMD-2013_taxid_1379712.gbk
+cluster 15_replication-associat.. size=1 taxa=1 Pfam=PF00910, file: 15_replication-associat...faa dnafile: 15_replication-associat...fna
+: Culex-circovirus-like-virus_taxid_2304514.gbk
+cluster 16_capsid_protein size=1 taxa=1 Pfam=PF02443, file: 16_capsid_protein.faa dnafile: 16_capsid_protein.fna
+: Culex-circovirus-like-virus_taxid_2304514.gbk
+cluster 18_capsid_protein size=1 taxa=1 file: 18_capsid_protein.faa dnafile: 18_capsid_protein.fna
+: Culex-circovirus-like-virus_taxid_2304514.gbk
+cluster 20_hypothetical_protein size=1 taxa=1 file: 20_hypothetical_protein.faa dnafile: 20_hypothetical_protein.fna
+: Human-fecal-virus-Jorvi2_taxid_2017081.gbk
+cluster 21_hypothetical_protein size=2 taxa=2 file: 21_hypothetical_protein.faa dnafile: 21_hypothetical_protein.fna
+: Human-fecal-virus-Jorvi2_taxid_2017081.gbk
+: Po-Circo-like-virus-21_taxid_1105383.gbk
+cluster 22_hypothetical_protein size=1 taxa=1 file: 22_hypothetical_protein.faa dnafile: 22_hypothetical_protein.fna
+: Human-fecal-virus-Jorvi2_taxid_2017081.gbk
+cluster 23_hypothetical_protein size=1 taxa=1 file: 23_hypothetical_protein.faa dnafile: 23_hypothetical_protein.fna
+: Human-fecal-virus-Jorvi2_taxid_2017081.gbk
+cluster 25_hypothetical_protein size=1 taxa=1 file: 25_hypothetical_protein.faa dnafile: 25_hypothetical_protein.fna
+: Po-Circo-like-virus-21_taxid_1105383.gbk
+cluster 26_hypothetical_protein size=1 taxa=1 file: 26_hypothetical_protein.faa dnafile: 26_hypothetical_protein.fna
+: Po-Circo-like-virus-21_taxid_1105383.gbk
+cluster 28_hypothetical_protein size=1 taxa=1 file: 28_hypothetical_protein.faa dnafile: 28_hypothetical_protein.fna
+: Po-Circo-like-virus-21_taxid_1105383.gbk

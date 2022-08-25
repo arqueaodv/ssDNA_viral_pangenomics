@@ -1,0 +1,26 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_putative_replicase_p..	100	DNA replication [GO:0006260]	bp	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+1_putative_replicase_p..	100	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+1_putative_replicase_p..	100	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+12_MP	75	transport of virus in host, cell to cell [GO:0046740]	bp	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+13_Clink	75	viral process [GO:0016032]	bp	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+15_U1	75	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+2_putative_cell-cycle_..	25	viral process [GO:0016032]	bp	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+5_putative_movement_pr..	25	transport of virus in host, cell to cell [GO:0046740]	bp	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+1_putative_replicase_p..	100	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+12_MP	75	host cell plasma membrane [GO:0020002]	cc	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+12_MP	75	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+15_U1	75	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+3_putative_nuclear_shu..	100	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+3_putative_nuclear_shu..	100	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+4_putative_coat_protei..	100	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+5_putative_movement_pr..	25	host cell plasma membrane [GO:0020002]	cc	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+5_putative_movement_pr..	25	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+1_putative_replicase_p..	100	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+1_putative_replicase_p..	100	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+1_putative_replicase_p..	100	RNA binding [GO:0003723]	mf	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+1_putative_replicase_p..	100	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+1_putative_replicase_p..	100	ATP binding [GO:0005524]	mf	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+1_putative_replicase_p..	100	DNA binding [GO:0003677]	mf	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+1_putative_replicase_p..	100	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG
+15_U1	75	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803/	COG

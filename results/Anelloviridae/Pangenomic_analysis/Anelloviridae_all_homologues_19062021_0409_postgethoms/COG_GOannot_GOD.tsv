@@ -1,0 +1,39 @@
+cluster	prevalence	term	what	familia	algoritmo
+103_hypothetical_protein	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+106_ORF1	1.0204081632653061	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+118_orf2	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+119_hypothetical_protein	23.46938775510204	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+120_hypothetical_protein	21.428571428571427	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+13_ORF1	9.183673469387756	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+135_hypothetical_protein	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+15_ORF2	20.408163265306122	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+16_ORF1	74.48979591836735	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+18_VP1	2.0408163265306123	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+2_VP2	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+221_hypothetical_protein	1.0204081632653061	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+224_ORF1	1.0204081632653061	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+236_hypothetical_protein	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+238_hypothetical_protein	1.0204081632653061	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+239_hypothetical_protein	2.0408163265306123	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+251_hypothetical_protein	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+252_hypothetical_protein	1.0204081632653061	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+259_orf2-5	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+260_orf2-4	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+274_hypothetical_protein	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+277_hypothetical_protein	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+28_VP2	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+280_hypothetical_protein	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+281_hypothetical_protein	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+288_hypothetical_protein	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+291_hypothetical_protein	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+3_VP1	7.142857142857142	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+34_ORF3	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+41_putative_ORF1	3.061224489795918	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+5_putative_dual-specif..	6.122448979591836	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+50_ORF2	3.061224489795918	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+6_VP3	5.1020408163265305	induction by virus of host apoptotic process [GO:0019051]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+6_VP3	5.1020408163265305	suppression by virus of host exit from mitosis [GO:0039593]	bp	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+6_VP3	5.1020408163265305	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+62_ORF2	12.244897959183673	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+74_ORF2	1.0204081632653061	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG
+82_hypothetical_protein	1.0204081632653061	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/Anelloviridae_all_homologues_19062021_0409/	COG

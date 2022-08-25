@@ -1,0 +1,156 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_NS1	23.076923076923077	DNA replication [GO:0006260]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+1_NS1	23.076923076923077	viral DNA genome replication [GO:0039693]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+1_NS1	23.076923076923077	viral genome replication [GO:0019079]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	DNA replication [GO:0006260]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	modulation by virus of host G1/S transition checkpoint [GO:0039645]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	viral DNA genome replication [GO:0039693]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	viral entry via permeabilization of inner membrane [GO:0099008]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	modulation by virus of host apoptotic process [GO:0039526]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	modulation by virus of host transcription [GO:0019056]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	viral genome replication [GO:0019079]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	viral entry via permeabilization of inner membrane [GO:0099008]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	lipid catabolic process [GO:0016042]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	viral entry via permeabilization of inner membrane [GO:0099008]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+15_hypothetical_protein	15.384615384615385	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+16_non-structural_prote..	15.384615384615385	DNA replication [GO:0006260]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+16_non-structural_prote..	15.384615384615385	viral genome replication [GO:0019079]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+16_non-structural_prote..	15.384615384615385	viral DNA genome replication [GO:0039693]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	viral genome replication [GO:0019079]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	DNA replication [GO:0006260]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	modulation by virus of host G1/S transition checkpoint [GO:0039645]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	viral DNA genome replication [GO:0039693]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	viral entry via permeabilization of inner membrane [GO:0099008]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+2_NS2	30.76923076923077	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	DNA replication [GO:0006260]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	modulation by virus of host apoptotic process [GO:0039526]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	modulation by virus of host G1/S transition checkpoint [GO:0039645]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	modulation by virus of host transcription [GO:0019056]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	viral DNA genome replication [GO:0039693]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+21_NS2	15.384615384615385	DNA replication [GO:0006260]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+21_NS2	15.384615384615385	viral DNA genome replication [GO:0039693]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+22_NS3	15.384615384615385	DNA replication [GO:0006260]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+22_NS3	15.384615384615385	viral DNA genome replication [GO:0039693]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+3_VP	30.76923076923077	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+3_VP	30.76923076923077	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+3_VP	30.76923076923077	viral entry via permeabilization of inner membrane [GO:0099008]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+3_VP	30.76923076923077	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	DNA replication [GO:0006260]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	modulation by virus of host G1/S transition checkpoint [GO:0039645]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	viral DNA genome replication [GO:0039693]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	viral entry via permeabilization of inner membrane [GO:0099008]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	modulation by virus of host apoptotic process [GO:0039526]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	modulation by virus of host transcription [GO:0019056]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	viral genome replication [GO:0019079]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	DNA replication [GO:0006260]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	viral DNA genome replication [GO:0039693]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	viral genome replication [GO:0019079]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+1_NS1	23.076923076923077	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+15_hypothetical_protein	15.384615384615385	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+16_non-structural_prote..	15.384615384615385	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+17_37_kDa_coat_protein	15.384615384615385	viral capsid [GO:0019028]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+2_NS2	30.76923076923077	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	viral replication complex [GO:0019034]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+21_NS2	15.384615384615385	viral replication complex [GO:0019034]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+21_NS2	15.384615384615385	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+22_NS3	15.384615384615385	viral replication complex [GO:0019034]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+22_NS3	15.384615384615385	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+3_VP	30.76923076923077	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+1_NS1	23.076923076923077	ATP binding [GO:0005524]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+1_NS1	23.076923076923077	DNA binding [GO:0003677]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+1_NS1	23.076923076923077	DNA helicase activity [GO:0003678]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+1_NS1	23.076923076923077	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+1_NS1	23.076923076923077	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+1_NS1	23.076923076923077	nucleotide binding [GO:0000166]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	ATP binding [GO:0005524]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	DNA helicase activity [GO:0003678]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	hydrolase activity [GO:0016787]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	DNA binding [GO:0003677]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	helicase activity [GO:0004386]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	nucleotide binding [GO:0000166]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	phospholipase A2 activity [GO:0004623]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	phospholipase A2 activity (consuming 1,2-dipalmitoylphosphatidylcholine) [GO:0102567]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	phospholipase A2 activity consuming 1,2-dioleoylphosphatidylethanolamine) [GO:0102568]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+15_hypothetical_protein	15.384615384615385	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+16_non-structural_prote..	15.384615384615385	ATP binding [GO:0005524]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+16_non-structural_prote..	15.384615384615385	DNA binding [GO:0003677]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+16_non-structural_prote..	15.384615384615385	DNA helicase activity [GO:0003678]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+16_non-structural_prote..	15.384615384615385	nucleotide binding [GO:0000166]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+16_non-structural_prote..	15.384615384615385	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+16_non-structural_prote..	15.384615384615385	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	nucleotide binding [GO:0000166]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	ATP binding [GO:0005524]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	DNA helicase activity [GO:0003678]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	hydrolase activity [GO:0016787]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	DNA binding [GO:0003677]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+2_NS2	30.76923076923077	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	ATP binding [GO:0005524]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	DNA binding [GO:0003677]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	DNA helicase activity [GO:0003678]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	helicase activity [GO:0004386]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	nucleotide binding [GO:0000166]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+21_NS2	15.384615384615385	ATP binding [GO:0005524]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+21_NS2	15.384615384615385	DNA binding [GO:0003677]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+21_NS2	15.384615384615385	DNA helicase activity [GO:0003678]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+21_NS2	15.384615384615385	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+21_NS2	15.384615384615385	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+22_NS3	15.384615384615385	ATP binding [GO:0005524]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+22_NS3	15.384615384615385	DNA binding [GO:0003677]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+22_NS3	15.384615384615385	DNA helicase activity [GO:0003678]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+22_NS3	15.384615384615385	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+22_NS3	15.384615384615385	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	ATP binding [GO:0005524]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	DNA helicase activity [GO:0003678]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	hydrolase activity [GO:0016787]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	DNA binding [GO:0003677]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	helicase activity [GO:0004386]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	nucleotide binding [GO:0000166]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	ATP binding [GO:0005524]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	DNA binding [GO:0003677]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	DNA helicase activity [GO:0003678]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	nucleotide binding [GO:0000166]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG

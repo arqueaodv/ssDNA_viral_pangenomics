@@ -1,0 +1,8 @@
+>ID:NP_932298.1 |[Ralstonia phage p12J]||Ralstonia-phage-p12J_taxid_247080.gbk|ORF3|234|NC_005131(7118):1334-1567:1 ^GeneID:2642059^ Ralstonia phage p12J, complete genome.|neighbours:ID:NP_932297.1(1),ID:NP_932299.1(1)|neighbour_genes:ORF2,ORF4| | aligned:14-73 (77)
+MAQCVQIVSGQFQLDSAAASSCTGYLLLTADEVTLLHAVPPLSVSDGALIGSGMLGLWALAFVFRSAARAIYQREEE
+>ID:YP_001718370.1 |[Stenotrophomonas phage PSH1]||Stenotrophomonas-phage-PSH1_taxid_2011087.gbk|hypothetical protein|207|NC_010429(6867):1682-1888:1 ^GeneID:6159122^ Stenotrophomonas phage PSH1, complete sequence.|neighbours:ID:YP_001718369.1(1),ID:YP_001718371.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:5-64 (68)
+MEETVLVLHCKASDFDAATGQCAHPFYGPAPILLPPISVADSLVISCSIAGMWGVGFMIRQARRVTGG
+>ID:YP_009664528.1 |[Stenotrophomonas phage SMA6]||Stenotrophomonas-phage-SMA6_taxid_1346893.gbk|hypothetical protein|204|NC_043029(7648):1320-1523:1 ^GeneID:40524562,UniProtKB/TrEMBL:S0F2M5^ Stenotrophomonas phage phiSMA6 proviral complete genome.|neighbours:ID:YP_009664527.1(1),ID:YP_009664529.1(1)|neighbour_genes:single-stranded DNA ..,hypothetical protein| | aligned:1-67 (67)
+MAVLIPACREADLDTAAGTCTAVIWIPQPALLPELPIEDAQAIGAKIALLWAVAYVFRLIRKKIEQS
+>ID:YP_009664516.1 |[Xanthomonas phage Xf109]||Xanthomonas-phage-Xf109_taxid_1852597.gbk|membrane protein|204|NC_043028(7190):1338-1541:1 ^GeneID:40524551^ Xanthomonas phage Xf109, complete genome.|neighbours:ID:YP_009664515.1(1),ID:YP_009664517.1(1)|neighbour_genes:ssDNA-binding protei..,major coat protein| | aligned:1-67 (67)
+MAVLVPACLEADLDTAAGTCTAVIWIPQPSLLPELAVKDAQAIGSAIAFLWATAYVFRLIRKKIQQS

@@ -1,0 +1,4 @@
+27_replication-associat...faa
+52_rep.faa
+23_hypothetical_protein.faa
+38_putative_Rep_protein.faa

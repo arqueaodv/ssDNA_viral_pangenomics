@@ -1,0 +1,140 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_replication_associat..	14.285714285714285	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	viral protein processing [GO:0019082]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	RNA-protein covalent cross-linking [GO:0018144]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	pore-mediated entry of viral genome into host cell [GO:0044694]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	suppression by virus of host translation initiation factor activity [GO:0039611]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	protein complex oligomerization [GO:0051259]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	induction by virus of host autophagy [GO:0039520]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	suppression by virus of host mRNA export from nucleus [GO:0039522]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	pore formation by virus in membrane of host cell [GO:0039707]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	positive stranded viral RNA replication [GO:0039690]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	transcription, DNA-templated [GO:0006351]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	host cell mitochondrial outer membrane [GO:0044193]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	extrachromosomal circular DNA [GO:0005727]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	integral to membrane of host cell [GO:0044385]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	membrane [GO:0016020]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	host cell cytoplasmic vesicle membrane [GO:0044162]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	T=pseudo3 icosahedral viral capsid [GO:0039618]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	viral capsid [GO:0019028]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	ribonuclease T2 activity [GO:0033897]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	ion channel activity [GO:0005216]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	cysteine-type endopeptidase activity [GO:0004197]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	RNA-directed 5'-3' RNA polymerase activity [GO:0003968]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	helicase activity [GO:0004386]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+1_replication_associat..	14.285714285714285	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	viral protein processing [GO:0019082]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	RNA-protein covalent cross-linking [GO:0018144]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	pore-mediated entry of viral genome into host cell [GO:0044694]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	suppression by virus of host translation initiation factor activity [GO:0039611]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	protein complex oligomerization [GO:0051259]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	induction by virus of host autophagy [GO:0039520]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	suppression by virus of host mRNA export from nucleus [GO:0039522]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	pore formation by virus in membrane of host cell [GO:0039707]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	positive stranded viral RNA replication [GO:0039690]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	transcription, DNA-templated [GO:0006351]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	host cell mitochondrial outer membrane [GO:0044193]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	extrachromosomal circular DNA [GO:0005727]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	integral to membrane of host cell [GO:0044385]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	membrane [GO:0016020]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	host cell cytoplasmic vesicle membrane [GO:0044162]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	T=pseudo3 icosahedral viral capsid [GO:0039618]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	ribonuclease T2 activity [GO:0033897]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	ion channel activity [GO:0005216]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	cysteine-type endopeptidase activity [GO:0004197]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	RNA-directed 5'-3' RNA polymerase activity [GO:0003968]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+11_replication-associat..	14.285714285714285	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	viral protein processing [GO:0019082]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	RNA-protein covalent cross-linking [GO:0018144]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	pore-mediated entry of viral genome into host cell [GO:0044694]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	suppression by virus of host translation initiation factor activity [GO:0039611]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	protein complex oligomerization [GO:0051259]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	induction by virus of host autophagy [GO:0039520]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	suppression by virus of host mRNA export from nucleus [GO:0039522]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	pore formation by virus in membrane of host cell [GO:0039707]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	positive stranded viral RNA replication [GO:0039690]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	transcription, DNA-templated [GO:0006351]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	host cell mitochondrial outer membrane [GO:0044193]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	extrachromosomal circular DNA [GO:0005727]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	integral to membrane of host cell [GO:0044385]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	membrane [GO:0016020]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	host cell cytoplasmic vesicle membrane [GO:0044162]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	T=pseudo3 icosahedral viral capsid [GO:0039618]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	ribonuclease T2 activity [GO:0033897]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	ion channel activity [GO:0005216]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	cysteine-type endopeptidase activity [GO:0004197]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	RNA-directed 5'-3' RNA polymerase activity [GO:0003968]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+15_replication-associat..	14.285714285714285	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+16_capsid_protein	14.285714285714285	viral capsid assembly [GO:0019069]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+16_capsid_protein	14.285714285714285	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+16_capsid_protein	14.285714285714285	host cell endosome [GO:0044174]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+16_capsid_protein	14.285714285714285	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+4_replication-associat..	28.57142857142857	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+4_replication-associat..	28.57142857142857	viral DNA cleavage involved in viral genome maturation [GO:0019071]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+4_replication-associat..	28.57142857142857	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+4_replication-associat..	28.57142857142857	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+4_replication-associat..	28.57142857142857	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+4_replication-associat..	28.57142857142857	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+4_replication-associat..	28.57142857142857	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+4_replication-associat..	28.57142857142857	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+4_replication-associat..	28.57142857142857	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	protein-DNA covalent cross-linking [GO:0018142]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	viral protein processing [GO:0019082]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	RNA-protein covalent cross-linking [GO:0018144]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	pore-mediated entry of viral genome into host cell [GO:0044694]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	suppression by virus of host translation initiation factor activity [GO:0039611]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	protein complex oligomerization [GO:0051259]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	induction by virus of host autophagy [GO:0039520]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	suppression by virus of host mRNA export from nucleus [GO:0039522]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	pore formation by virus in membrane of host cell [GO:0039707]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	positive stranded viral RNA replication [GO:0039690]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	DNA replication [GO:0006260]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	transcription, DNA-templated [GO:0006351]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	viral DNA cleavage involved in viral genome maturation [GO:0019071]	bp	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	host cell mitochondrial outer membrane [GO:0044193]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	extrachromosomal circular DNA [GO:0005727]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	integral to membrane of host cell [GO:0044385]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	membrane [GO:0016020]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	host cell cytoplasmic vesicle membrane [GO:0044162]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	T=pseudo3 icosahedral viral capsid [GO:0039618]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	RNA helicase activity [GO:0003724]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	DNA binding [GO:0003677]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	ribonuclease T2 activity [GO:0033897]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	ion channel activity [GO:0005216]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	cysteine-type endopeptidase activity [GO:0004197]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	RNA-directed 5'-3' RNA polymerase activity [GO:0003968]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+8_replication-associat..	42.857142857142854	ATP binding [GO:0005524]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+9_putative_viral_capsi..	14.285714285714285	T=3 icosahedral viral capsid [GO:0039617]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+9_putative_viral_capsi..	14.285714285714285	virion [GO:0019012]	cc	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+9_putative_viral_capsi..	14.285714285714285	RNA binding [GO:0003723]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL
+9_putative_viral_capsi..	14.285714285714285	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Circoviridae/cluster_3_homologues_19062021_0417/	OMCL

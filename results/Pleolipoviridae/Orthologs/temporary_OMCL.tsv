@@ -1,0 +1,61 @@
+cluster1_VP1	size1	taxa1		file1_VP1.faa	dnafile1_VP1.fna	1879051
+cluster2_putative_protein_2	size1	taxa1		file2_putative_protein_2.faa	dnafile2_putative_protein_2.fna	1879051
+cluster80_VP4_precursor	size9	taxa9		file80_VP4_precursor.faa	dnafile80_VP4_precursor.fna	1879051_1156722_2507576_2507577_2507578_634168_1156719_1156720_1156721
+cluster4_putative_protein_4	size1	taxa1		file4_putative_protein_4.faa	dnafile4_putative_protein_4.fna	1879051
+cluster5_putative_protein_5	size2	taxa2		file5_putative_protein_5.faa	dnafile5_putative_protein_5.fna	1879051_1156720
+cluster84_VP8	size7	taxa7		file84_VP8.faa	dnafile84_VP8.fna	1879051_1156722_2507576_2507577_2507578_634168_1156720
+cluster7_putative_protein_7	size6	taxa6		file7_putative_protein_7.faa	dnafile7_putative_protein_7.fna	1879051_1156722_2507576_2507577_2507578_1156720
+cluster8_putative_protein_8	size1	taxa1		file8_putative_protein_8.faa	dnafile8_putative_protein_8.fna	1879051
+cluster9_putative_protein_9	size1	taxa1		file9_putative_protein_9.faa	dnafile9_putative_protein_9.fna	1879051
+cluster10_putative_protein_10	size1	taxa1		file10_putative_protein_10.faa	dnafile10_putative_protein_10.fna	1879051
+cluster11_putative_protein_11	size6	taxa6		file11_putative_protein_11.faa	dnafile11_putative_protein_11.fna	1879051_1156722_2507576_2507577_2507578_1156720
+cluster12_putative_protein_12	size1	taxa1		file12_putative_protein_12.faa	dnafile12_putative_protein_12.fna	1879051
+cluster13_putative_protein_13	size1	taxa1	PfamPF08281,	file13_putative_protein_13.faa	dnafile13_putative_protein_13.fna	1879051
+cluster14_putative_protein_14	size1	taxa1		file14_putative_protein_14.faa	dnafile14_putative_protein_14.fna	1879051
+cluster15_putative_protein_15	size1	taxa1		file15_putative_protein_15.faa	dnafile15_putative_protein_15.fna	1879051
+cluster16_putative_protein_16	size1	taxa1		file16_putative_protein_16.faa	dnafile16_putative_protein_16.fna	1879051
+cluster17_putative_protein_17	size1	taxa1		file17_putative_protein_17.faa	dnafile17_putative_protein_17.fna	1879051
+cluster18_ORF1	size1	taxa1		file18_ORF1.faa	dnafile18_ORF1.fna	1156722
+cluster19_2	size4	taxa4		file19_2.faa	dnafile19_2.fna	1156722_2507576_2507577_2507578
+cluster20_3	size1	taxa1		file20_3.faa	dnafile20_3.fna	1156722
+cluster82_hypothetical_protein	size4	taxa4		file82_hypothetical_protein.faa	dnafile82_hypothetical_protein.fna	1156722_634168_1156719_1156721
+cluster83_hypothetical_protein	size7	taxa7		file83_hypothetical_protein.faa	dnafile83_hypothetical_protein.fna	1156722_2507576_2507577_2507578_634168_1156719_1156721
+cluster25_ORF8	size1	taxa1		file25_ORF8.faa	dnafile25_ORF8.fna	1156722
+cluster27_ORF10	size1	taxa1	PfamPF01555,	file27_ORF10.faa	dnafile27_ORF10.fna	1156722
+cluster28_ORF11	size1	taxa1		file28_ORF11.faa	dnafile28_ORF11.fna	1156722
+cluster29_ORF12	size1	taxa1		file29_ORF12.faa	dnafile29_ORF12.fna	1156722
+cluster30_ORF13	size4	taxa4		file30_ORF13.faa	dnafile30_ORF13.fna	1156722_2507576_2507577_2507578
+cluster32_ORF15	size1	taxa1		file32_ORF15.faa	dnafile32_ORF15.fna	1156722
+cluster34_hypothetical_protein	size3	taxa3	PfamPF04070,	file34_hypothetical_protein.faa	dnafile34_hypothetical_protein.fna	2507576_2507577_2507578
+cluster35_hypothetical_protein	size3	taxa3		file35_hypothetical_protein.faa	dnafile35_hypothetical_protein.fna	2507576_2507577_2507578
+cluster37_ORF5	size3	taxa3		file37_ORF5.faa	dnafile37_ORF5.fna	2507576_2507577_2507578
+cluster41_hypothetical_protein	size3	taxa3		file41_hypothetical_protein.faa	dnafile41_hypothetical_protein.fna	2507576_2507577_2507578
+cluster44_hypothetical_protein	size3	taxa3		file44_hypothetical_protein.faa	dnafile44_hypothetical_protein.fna	2507576_2507577_2507578
+cluster45_ORF12	size4	taxa4		file45_ORF12.faa	dnafile45_ORF12.fna	2507576_2507577_2507578_1156720
+cluster54_hypothetical_protein	size2	taxa2		file54_hypothetical_protein.faa	dnafile54_hypothetical_protein.fna	2507577_2507578
+cluster59_hypothetical_protein	size2	taxa2		file59_hypothetical_protein.faa	dnafile59_hypothetical_protein.fna	2507577_2507578
+cluster73_AdoMet-MTase	size1	taxa1		file73_AdoMet-MTase.faa	dnafile73_AdoMet-MTase.fna	2507578
+cluster77_hypothetical_protein	size1	taxa1	PfamPF14520,	file77_hypothetical_protein.faa	dnafile77_hypothetical_protein.fna	634168
+cluster78_hypothetical_protein	size1	taxa1		file78_hypothetical_protein.faa	dnafile78_hypothetical_protein.fna	634168
+cluster79_VP3	size3	taxa3		file79_VP3.faa	dnafile79_VP3.fna	634168_1156719_1156721
+cluster81_hypothetical_protein	size1	taxa1		file81_hypothetical_protein.faa	dnafile81_hypothetical_protein.fna	634168
+cluster85_hypothetical_protein	size1	taxa1		file85_hypothetical_protein.faa	dnafile85_hypothetical_protein.fna	634168
+cluster86_ORF1	size2	taxa2		file86_ORF1.faa	dnafile86_ORF1.fna	1156719_1156721
+cluster87_ORF2	size1	taxa1		file87_ORF2.faa	dnafile87_ORF2.fna	1156719
+cluster88_ORF3	size2	taxa2		file88_ORF3.faa	dnafile88_ORF3.fna	1156719_1156721
+cluster93_ORF8	size2	taxa2	PfamPF00004,	file93_ORF8.faa	dnafile93_ORF8.fna	1156719_1156721
+cluster94_ORF9	size1	taxa1		file94_ORF9.faa	dnafile94_ORF9.fna	1156719
+cluster95_ORF10	size1	taxa1		file95_ORF10.faa	dnafile95_ORF10.fna	1156719
+cluster96_ORF11	size1	taxa1		file96_ORF11.faa	dnafile96_ORF11.fna	1156719
+cluster97_ORF12	size1	taxa1		file97_ORF12.faa	dnafile97_ORF12.fna	1156719
+cluster98_ORF13	size1	taxa1		file98_ORF13.faa	dnafile98_ORF13.fna	1156719
+cluster99_ORF14	size1	taxa1		file99_ORF14.faa	dnafile99_ORF14.fna	1156719
+cluster100_ORF15	size2	taxa2		file100_ORF15.faa	dnafile100_ORF15.fna	1156719_1156721
+cluster101_1	size1	taxa1		file101_1.faa	dnafile101_1.fna	1156720
+cluster103_ORF3	size1	taxa1		file103_ORF3.faa	dnafile103_ORF3.fna	1156720
+cluster107_ORF7	size1	taxa1		file107_ORF7.faa	dnafile107_ORF7.fna	1156720
+cluster108_ORF8	size1	taxa1		file108_ORF8.faa	dnafile108_ORF8.fna	1156720
+cluster110_ORF10	size1	taxa1		file110_ORF10.faa	dnafile110_ORF10.fna	1156720
+cluster111_ORF11	size1	taxa1		file111_ORF11.faa	dnafile111_ORF11.fna	1156720
+cluster114_ORF2	size1	taxa1		file114_ORF2.faa	dnafile114_ORF2.fna	1156721
+cluster121_ORF9	size1	taxa1		file121_ORF9.faa	dnafile121_ORF9.fna	1156721

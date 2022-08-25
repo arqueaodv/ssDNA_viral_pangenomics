@@ -1,0 +1,8 @@
+>ID:YP_009126692.1 |[Uncultured phage WW-nAnB strain 2]||Uncultured-phage-WW-nAnB-strain-2_taxid_1449896.gbk|protein G|114|NC_026612(5077):4037-4150:1 ^GeneID:23681513^ Uncultured phage WW-nAnB strain 2, complete genome.|neighbours:ID:YP_009126691.1(1),ID:YP_009126693.1(1)|neighbour_genes:protein F,protein H| | aligned:1-37 (37)
+MEILPLQYCL GIFSVPEIGY FIVFAAVFSM LVLLLRP
+
+>ID:YP_009126700.1 |[Uncultured phage WW-nAnB strain 3]||Uncultured-phage-WW-nAnB-strain-3_taxid_1449897.gbk|protein G|114|NC_026613(5210):4170-4283:1 ^GeneID:23681523^ Uncultured phage WW-nAnB strain 3, complete genome.|neighbours:ID:YP_009126699.1(1),ID:YP_009126701.1(1)|neighbour_genes:protein F,protein H| | aligned:1-37 (37)
+MEFLPLQYCF GIFSVPEIGY FIIFAAVFSM LVLLLRP
+
+>ID:YP_009123866.1 |[uncultured phage WW-nAnB]||uncultured-phage-WW-nAnB_taxid_1074044.gbk|protein G|114|NC_026582(4817):3777-3890:1 ^GeneID:23678697^ Uncultured phage WW-nAnB, complete genome.|neighbours:ID:YP_009123865.1(1),ID:YP_009123867.1(1)|neighbour_genes:protein F,protein H| | aligned:1-37 (37)
+MTILPLQYCF GIFTVPEIGY FIIFAAVFSM LVLLLRP

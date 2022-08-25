@@ -1,0 +1,8 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_1_homologues_19062021_0405/Ageratum-conyzoides-symptomless-alphasatellitetaxid1705092_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_/,cluster_1_homologues_19062021_0405/Ageratum-conyzoides-symptomless-alphasatellitetaxid1705092_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_
+# -o cluster_1_homologues_19062021_0405_intersection
+# -I 
+# -r 0
+27_Rep.faa
+28_alpha-V2.faa
+# intersection size = 2 clusters

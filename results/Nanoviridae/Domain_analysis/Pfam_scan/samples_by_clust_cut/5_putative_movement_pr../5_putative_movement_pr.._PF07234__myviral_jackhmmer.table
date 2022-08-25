@@ -1,0 +1,34 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_001661658.1       -          YP_001661658.1       -            2.7e-70  232.2   0.1     3e-70  232.1   0.1   1.0   1   0   0   1   1   1   1 -
+YP_009508037.1       -          YP_001661658.1       -              7e-68  224.4   0.2   7.8e-68  224.3   0.2   1.0   1   0   0   1   1   1   1 -
+NP_604478.1          -          YP_001661658.1       -            5.3e-67  221.6   0.3   5.8e-67  221.5   0.3   1.0   1   0   0   1   1   1   1 -
+YP_009508214.1       -          YP_001661658.1       -             0.0055   15.2   0.1    0.0069   14.9   0.1   1.1   1   0   0   1   1   1   0 -
+NP_619766.1          -          YP_001661658.1       -              0.009   14.5   0.0      0.01   14.3   0.0   1.1   1   0   0   1   1   1   0 -
+YP_003104740.1       -          YP_001661658.1       -              0.013   14.0   0.0     0.016   13.7   0.0   1.1   1   0   0   1   1   1   0 -
+NP_620695.1          -          YP_001661658.1       -              0.022   13.3   0.4     0.039   12.5   0.4   1.5   1   1   0   1   1   1   0 -
+NP_604478.1          -          NP_604478.1          -            1.6e-72  239.5   0.3   1.7e-72  239.4   0.3   1.0   1   0   0   1   1   1   1 -
+YP_009508037.1       -          NP_604478.1          -            2.9e-69  229.0   0.2   3.2e-69  228.9   0.2   1.0   1   0   0   1   1   1   1 -
+YP_001661658.1       -          NP_604478.1          -              5e-65  215.3   0.1   5.5e-65  215.2   0.1   1.0   1   0   0   1   1   1   1 -
+YP_009508214.1       -          NP_604478.1          -             0.0067   15.0   0.1    0.0083   14.7   0.1   1.1   1   0   0   1   1   1   0 -
+NP_619766.1          -          NP_604478.1          -              0.018   13.6   0.0     0.024   13.2   0.0   1.2   1   0   0   1   1   1   0 -
+YP_003104740.1       -          NP_604478.1          -               0.03   12.8   0.0     0.039   12.5   0.0   1.1   1   0   0   1   1   1   0 -
+NP_620695.1          -          NP_604478.1          -              0.044   12.3   1.3      0.12   10.9   1.3   1.6   1   1   1   2   2   2   0 -
+YP_009508037.1       -          YP_009508037.1       -            4.3e-73  241.3   0.2   4.7e-73  241.1   0.2   1.0   1   0   0   1   1   1   1 -
+NP_604478.1          -          YP_009508037.1       -            1.4e-68  226.7   0.3   1.6e-68  226.6   0.3   1.0   1   0   0   1   1   1   1 -
+YP_001661658.1       -          YP_009508037.1       -            4.5e-65  215.4   0.1   4.9e-65  215.3   0.1   1.0   1   0   0   1   1   1   1 -
+YP_009508214.1       -          YP_009508037.1       -             0.0049   15.3   0.1     0.006   15.0   0.1   1.1   1   0   0   1   1   1   0 -
+NP_619766.1          -          YP_009508037.1       -             0.0082   14.6   0.0    0.0093   14.4   0.0   1.1   1   0   0   1   1   1   0 -
+YP_003104740.1       -          YP_009508037.1       -              0.017   13.5   0.0     0.023   13.2   0.0   1.1   1   0   0   1   1   1   0 -
+NP_620695.1          -          YP_009508037.1       -              0.036   12.5   0.8     0.074   11.5   0.8   1.5   1   1   1   2   2   2   0 -
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/5_putative_movement_pr../5_putative_movement_pr.._PF07234_.faa
+# Target file:     /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/5_putative_movement_pr../5_putative_movement_pr.._PF07234__myviral_jackhmmer.table ../results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/5_putative_movement_pr../5_putative_movement_pr.._PF07234_.faa /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Tue Dec 21 05:19:39 2021
+# [ok]

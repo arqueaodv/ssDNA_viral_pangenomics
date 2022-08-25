@@ -1,0 +1,22 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_004286231.1       -          YP_004286231.1       -            7.1e-54  178.9   0.0   8.5e-54  178.6   0.0   1.1   1   0   0   1   1   1   1 -
+YP_004286235.1       -          YP_004286231.1       -            8.6e-53  175.4   0.0     1e-52  175.1   0.0   1.1   1   0   0   1   1   1   1 -
+YP_004934225.1       -          YP_004286231.1       -            1.3e-41  139.6   0.0   1.5e-41  139.4   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004286235.1       -          YP_004286235.1       -              8e-54  178.6   0.0   9.6e-54  178.3   0.0   1.1   1   0   0   1   1   1   1 -
+YP_004286231.1       -          YP_004286235.1       -            2.2e-52  174.0   0.0   2.6e-52  173.7   0.0   1.1   1   0   0   1   1   1   1 -
+YP_004934225.1       -          YP_004286235.1       -            1.4e-42  142.6   0.0   1.6e-42  142.4   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004934225.1       -          YP_004934225.1       -            6.6e-53  175.7   0.1   7.4e-53  175.5   0.1   1.0   1   0   0   1   1   1   1 -
+YP_004286235.1       -          YP_004934225.1       -            2.9e-42  141.6   0.0   3.6e-42  141.3   0.0   1.1   1   0   0   1   1   1   1 -
+YP_004286231.1       -          YP_004934225.1       -            2.8e-41  138.4   0.0   3.5e-41  138.1   0.0   1.1   1   0   0   1   1   1   1 -
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/276_rstB/276_rstB_PF07459_.faa
+# Target file:     /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/276_rstB/276_rstB_PF07459__myviral_jackhmmer.table ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/276_rstB/276_rstB_PF07459_.faa /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Tue Dec 21 14:05:54 2021
+# [ok]

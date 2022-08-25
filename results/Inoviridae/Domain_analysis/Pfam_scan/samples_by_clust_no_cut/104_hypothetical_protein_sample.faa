@@ -1,0 +1,11 @@
+>ID:YP_009103102.1 |[Ralstonia phage RS603]||Ralstonia-phage-RS603_taxid_1505528.gbk|hypothetical protein|225|NC_025454(7679):1548-1772:1 ^GeneID:22277968^ Ralstonia phage RS603 DNA, complete genome.|neighbours:ID:YP_009103101.1(1),ID:YP_009103103.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-74 (74)
+MKLMQKLAAG AALAVGGVGA AMAQTTTGGT SIDFSSMTGA VSATAVVAAL VAMGVVKIGP GFAKWALNKV AAFF
+
+>ID:YP_863912.1 |[Ralstonia phage RSM1]||Ralstonia-phage-RSM1_taxid_384359.gbk|hypothetical protein|225|NC_008574(9004):1873-2097:1 ^GeneID:5179355^ Ralstonia phage RSM1, complete genome.|neighbours:ID:YP_863911.1(1),ID:YP_863913.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-74 (74)
+MKLMQKLAAG AALAVGGVGA AMAQTTTGGT SIDFSSMTGA VSATAVVAAL VAMGVVKIGP GFAKWALNKV AAFF
+
+>ID:YP_002290959.1 |[Ralstonia phage RSM3]||Ralstonia-phage-RSM3_taxid_520962.gbk|hypothetical protein|225|NC_011399(8929):1789-2013:1 ^GeneID:6998211^ Ralstonia phage RSM3 DNA, complete genome.|neighbours:ID:YP_002290958.1(1),ID:YP_002290960.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-74 (74)
+MKLMQKLAAG AALAVGGVGA AMAQTTTGGT SIDFSSMTGA VSATAVVAAL VAMGVVKIGP GFAKWALNKV AAFF
+
+>ID:YP_009786100.1 |[Ralstonia phage Rs551]||Ralstonia-phage-Rs551_taxid_1852598.gbk|hypothetical protein|219|NC_047765(7929):1543-1761:1 ^GeneID:54976173^ Ralstonia phage Rs551, complete genome.|neighbours:ID:YP_009786099.1(1),ID:YP_009786101.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-72 (72)
+MKLTQKLAAG AALAVGGAGA AMAQTTTSGI DFSSMTGAVS ATAVVAALVA MGVVKIGPGF AKWALNKVAA FF

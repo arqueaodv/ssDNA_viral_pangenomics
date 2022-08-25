@@ -1,0 +1,9 @@
+0	Propionibacterium-phage-B5_taxid_189836.gbk
+1	Pseudomonas-phage-Pf3_taxid_10872.gbk
+2	Ralstonia-phage-PE226_taxid_926543.gbk
+3	Ralstonia-phage-RSS20_taxid_1354496.gbk
+4	Stenotrophomonas-phage-phiSHP2_taxid_1027253.gbk
+5	Thermus-phage-phiOH3_taxid_1968339.gbk
+6	Uncultured-phage-WW-nAnB-strain-2_taxid_1449896.gbk
+7	Uncultured-phage-WW-nAnB-strain-3_taxid_1449897.gbk
+8	uncultured-phage-WW-nAnB_taxid_1074044.gbk

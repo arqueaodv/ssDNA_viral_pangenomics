@@ -1,0 +1,161 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_II	7.142857142857142	DNA replication [GO:0006260]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+1_II	7.142857142857142	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+10_IV	7.142857142857142	protein secretion [GO:0009306]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+10_IV	7.142857142857142	viral extrusion [GO:0099045]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+112_hypothetical_protein	2.380952380952381	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+113_hypothetical_protein	11.904761904761903	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+116_hypothetical_protein	2.380952380952381	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+125_hypothetical_protein	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+15_III	2.380952380952381	adhesion receptor-mediated virion attachment to host cell [GO:0098671]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+15_III	2.380952380952381	entry receptor-mediated virion attachment to host cell [GO:0098670]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+15_III	2.380952380952381	pathogenesis [GO:0009405]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+15_III	2.380952380952381	viral entry into host cell via pilus retraction [GO:0039667]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+15_III	2.380952380952381	viral extrusion [GO:0099045]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+15_III	2.380952380952381	virion attachment to host cell pilus [GO:0039666]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+2_X	7.142857142857142	DNA replication [GO:0006260]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+2_X	7.142857142857142	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+207_putative_replication..	47.61904761904761	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+207_putative_replication..	47.61904761904761	DNA replication initiation [GO:0006270]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+208_hypothetical_protein	21.428571428571427	DNA replication [GO:0006260]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+208_hypothetical_protein	21.428571428571427	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+22_IV	11.904761904761903	protein secretion [GO:0009306]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+22_IV	11.904761904761903	viral extrusion [GO:0099045]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+288_hypothetical_protein	21.428571428571427	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+29_III	4.761904761904762	adhesion receptor-mediated virion attachment to host cell [GO:0098671]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+29_III	4.761904761904762	entry receptor-mediated virion attachment to host cell [GO:0098670]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+29_III	4.761904761904762	viral entry into host cell via pilus retraction [GO:0039667]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+29_III	4.761904761904762	viral extrusion [GO:0099045]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+29_III	4.761904761904762	virion attachment to host cell pilus [GO:0039666]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+29_III	4.761904761904762	pathogenesis [GO:0009405]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+315_minor_capsid_protein	23.809523809523807	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+322_orf698	4.761904761904762	DNA replication [GO:0006260]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+323_orf104	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+328_orf149	4.761904761904762	viral entry into host cell via pilus retraction [GO:0039667]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+348_prim-VSK	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+349_membrane_glycoprotei..	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+354_memb2	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+359_hypothetical_protein	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+408_hypothetical_protein	2.380952380952381	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+412_hypothetical_protein	2.380952380952381	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+7_III	4.761904761904762	adhesion receptor-mediated virion attachment to host cell [GO:0098671]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+7_III	4.761904761904762	entry receptor-mediated virion attachment to host cell [GO:0098670]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+7_III	4.761904761904762	viral entry into host cell via pilus retraction [GO:0039667]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+7_III	4.761904761904762	viral extrusion [GO:0099045]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+7_III	4.761904761904762	virion attachment to host cell pilus [GO:0039666]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+7_III	4.761904761904762	pathogenesis [GO:0009405]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+73_rolling_circle_DNA_r..	14.285714285714285	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+75_resolvase	9.523809523809524	DNA integration [GO:0015074]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+77_single-stranded_DNA_..	14.285714285714285	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+8_VI	9.523809523809524	viral entry into host cell via pilus retraction [GO:0039667]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+9_I	19.047619047619047	viral extrusion [GO:0099045]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+10_IV	7.142857142857142	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+10_IV	7.142857142857142	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+101_hypothetical_protein	9.523809523809524	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+103_hypothetical_protein	16.666666666666664	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+104_hypothetical_protein	9.523809523809524	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+105_hypothetical_protein	9.523809523809524	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+106_hypothetical_protein	7.142857142857142	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+107_hypothetical_protein	28.57142857142857	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+107_hypothetical_protein	28.57142857142857	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+112_hypothetical_protein	2.380952380952381	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+113_hypothetical_protein	11.904761904761903	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+116_hypothetical_protein	2.380952380952381	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+123_hypothetical_protein	4.761904761904762	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+125_hypothetical_protein	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+135_hypothetical_protein	7.142857142857142	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+147_hypothetical_protein	7.142857142857142	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+15_III	2.380952380952381	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+15_III	2.380952380952381	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+15_III	2.380952380952381	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+207_putative_replication..	47.61904761904761	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+22_IV	11.904761904761903	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+22_IV	11.904761904761903	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+26_VII	4.761904761904762	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+26_VII	4.761904761904762	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+26_VII	4.761904761904762	virion [GO:0019012]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+27_IX	4.761904761904762	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+27_IX	4.761904761904762	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+27_IX	4.761904761904762	virion [GO:0019012]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+288_hypothetical_protein	21.428571428571427	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+29_III	4.761904761904762	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+29_III	4.761904761904762	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+29_III	4.761904761904762	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+312_hypothetical_protein	14.285714285714285	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+313_major_capsid_protein	11.904761904761903	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+314_putative_minor_capsi..	7.142857142857142	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+315_minor_capsid_protein	23.809523809523807	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+315_minor_capsid_protein	23.809523809523807	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+316_putative_minor_coat_..	14.285714285714285	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+323_orf104	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+324_orf38	4.761904761904762	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+325_orf38-2	4.761904761904762	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+326_orf73	4.761904761904762	helical viral capsid [GO:0019029]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+326_orf73	4.761904761904762	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+326_orf73	4.761904761904762	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+328_orf149	4.761904761904762	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+328_orf149	4.761904761904762	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+328_orf149	4.761904761904762	virion [GO:0019012]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+348_prim-VSK	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+349_membrane_glycoprotei..	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+354_memb2	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+354_memb2	4.761904761904762	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+357_VSK-tox1	2.380952380952381	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+357_VSK-tox1	2.380952380952381	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+358_VSK_tox2	2.380952380952381	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+358_VSK_tox2	2.380952380952381	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+359_hypothetical_protein	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+4_VII	7.142857142857142	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+4_VII	7.142857142857142	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+4_VII	7.142857142857142	virion [GO:0019012]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+408_hypothetical_protein	2.380952380952381	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+412_hypothetical_protein	2.380952380952381	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+5_IX	4.761904761904762	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+5_IX	4.761904761904762	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+5_IX	4.761904761904762	virion [GO:0019012]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+6_VIII	11.904761904761903	helical viral capsid [GO:0019029]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+6_VIII	11.904761904761903	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+6_VIII	11.904761904761903	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+6_VIII	11.904761904761903	host cell plasma membrane [GO:0020002]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+7_III	4.761904761904762	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+7_III	4.761904761904762	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+7_III	4.761904761904762	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+73_rolling_circle_DNA_r..	14.285714285714285	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+77_single-stranded_DNA_..	14.285714285714285	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+8_VI	9.523809523809524	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+8_VI	9.523809523809524	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+8_VI	9.523809523809524	virion [GO:0019012]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+9_I	19.047619047619047	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+9_I	19.047619047619047	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+90_putative_minor_coat_..	14.285714285714285	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+1_II	7.142857142857142	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+1_II	7.142857142857142	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+1_II	7.142857142857142	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+1_II	7.142857142857142	ATP binding [GO:0005524]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+112_hypothetical_protein	2.380952380952381	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+113_hypothetical_protein	11.904761904761903	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+116_hypothetical_protein	2.380952380952381	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+125_hypothetical_protein	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+2_X	7.142857142857142	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+2_X	7.142857142857142	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+2_X	7.142857142857142	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+2_X	7.142857142857142	ATP binding [GO:0005524]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+207_putative_replication..	47.61904761904761	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+207_putative_replication..	47.61904761904761	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+207_putative_replication..	47.61904761904761	DNA topoisomerase activity [GO:0003916]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+208_hypothetical_protein	21.428571428571427	single-stranded DNA binding [GO:0003697]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+288_hypothetical_protein	21.428571428571427	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+315_minor_capsid_protein	23.809523809523807	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+322_orf698	4.761904761904762	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+323_orf104	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+348_prim-VSK	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+349_membrane_glycoprotei..	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+354_memb2	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+359_hypothetical_protein	4.761904761904762	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+408_hypothetical_protein	2.380952380952381	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+412_hypothetical_protein	2.380952380952381	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+73_rolling_circle_DNA_r..	14.285714285714285	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+75_resolvase	9.523809523809524	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+75_resolvase	9.523809523809524	recombinase activity [GO:0000150]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+77_single-stranded_DNA_..	14.285714285714285	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL
+9_I	19.047619047619047	ATP binding [GO:0005524]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	OMCL

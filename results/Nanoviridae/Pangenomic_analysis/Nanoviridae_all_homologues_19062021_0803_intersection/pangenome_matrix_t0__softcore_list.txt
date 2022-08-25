@@ -1,0 +1,3 @@
+1_putative_replicase_p...faa
+3_putative_nuclear_shu...faa
+4_putative_coat_protei...faa

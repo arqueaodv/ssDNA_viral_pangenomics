@@ -1,0 +1,31 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_2_homologues_19062021_0435/Oat-dwarf-virustaxid497863_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_/,cluster_2_homologues_19062021_0435/Oat-dwarf-virustaxid497863_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_
+# -o cluster_2_homologues_19062021_0435_intersection
+# -I 
+# -r 0
+795_c1.faa
+564_V1.faa
+1_AV2.faa
+4_AC2.faa
+404_C2.faa
+354_AV3_protein.faa
+81_AC5.faa
+214_C5.faa
+234_AC5.faa
+863_truncated_V2.faa
+880_AC4.faa
+55_V4.faa
+432_capsid_protein.faa
+3_AC3.faa
+57_V3.faa
+2_AV1.faa
+1114_V1.faa
+565_V2.faa
+172_AC1.faa
+431_movement_protein.faa
+753_CP.faa
+6_AC4.faa
+61_C3.faa
+566_rep.faa
+56_V2.faa
+# intersection size = 25 clusters

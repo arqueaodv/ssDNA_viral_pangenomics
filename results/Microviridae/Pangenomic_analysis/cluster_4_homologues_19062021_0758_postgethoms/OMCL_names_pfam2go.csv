@@ -1,0 +1,10 @@
+"","Phage_B","Phage_F","Phage_G","gpD","Microvir_lysis","Microvir_H","Microvir_J","Phage_GPA","Phage_C"
+"1_A",NA,NA,NA,NA,NA,NA,NA,TRUE,NA
+"2_B",TRUE,NA,NA,NA,NA,NA,NA,NA,NA
+"4_C",NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+"5_D",NA,NA,NA,TRUE,NA,NA,NA,NA,NA
+"6_E",NA,NA,NA,NA,TRUE,NA,NA,NA,NA
+"7_J",NA,NA,NA,NA,NA,NA,TRUE,NA,NA
+"8_F",NA,TRUE,NA,NA,NA,NA,NA,NA,NA
+"9_G",NA,NA,TRUE,NA,NA,NA,NA,NA,NA
+"10_H",NA,NA,NA,NA,NA,TRUE,NA,NA,NA

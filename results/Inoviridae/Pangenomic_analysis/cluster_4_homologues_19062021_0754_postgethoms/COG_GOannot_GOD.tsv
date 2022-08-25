@@ -1,0 +1,107 @@
+cluster	prevalence	term	what	familia	algoritmo
+112_major_coat_protein	8.333333333333332	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+126_hypothetical_protein	8.333333333333332	lytic transglycosylase activity [GO:0008933]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+24_hypothetical_protein	33.33333333333333	zeatin O-beta-D-xylosyltransferase activity [GO:0050404]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+31_major_coat_protein	16.666666666666664	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	negative regulation of astrocyte differentiation [GO:0048712]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	adrenal gland development [GO:0030325]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	regulation of cellular response to drug [GO:2001038]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	chromosome breakage [GO:0031052]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	mesodermal-endodermal cell signaling [GO:0003131]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	pituitary gland development [GO:0021983]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	negative regulation of double-strand break repair via nonhomologous end joining [GO:2001033]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	epithelial tube branching involved in lung morphogenesis [GO:0060441]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	fat pad development [GO:0060613]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	positive regulation of stem cell proliferation [GO:2000648]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	positive regulation of epithelial cell proliferation involved in lung morphogenesis [GO:0060501]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	histone H2A-S139 phosphorylation [GO:0035978]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	positive regulation of DNA replication origin binding [GO:1902597]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	lung epithelium development [GO:0060428]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	regulation of growth hormone secretion [GO:0060123]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	chondrocyte proliferation [GO:0035988]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	oncogene-induced cell senescence [GO:0090402]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	senescence-associated heterochromatin focus assembly [GO:0035986]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	positive regulation of cellular response to X-ray [GO:2000685]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	nucleosome assembly [GO:0006334]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	cell proliferation in forebrain [GO:0021846]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	negative regulation of single stranded viral RNA replication via double stranded DNA intermediate [GO:0045869]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	positive regulation of cellular senescence [GO:2000774]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	senescence-associated heterochromatin focus [GO:0035985]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	nucleus [GO:0005634]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	polytene chromosome [GO:0005700]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	Slx1-Slx4 complex [GO:0033557]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	nucleosome [GO:0000786]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	nuclear chromosome [GO:0000228]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	SMAD protein complex [GO:0071141]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	5'-flap endonuclease activity [GO:0017108]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	MH1 domain binding [GO:0035501]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	MH2 domain binding [GO:0035500]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	C2H2 zinc finger domain binding [GO:0070742]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	dinitrosyl-iron complex binding [GO:0035731]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	DNA-dependent protein kinase activity [GO:0004677]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	nucleosomal DNA binding [GO:0031492]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	minor groove of adenine-thymine-rich DNA binding [GO:0003680]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	cAMP response element binding [GO:0035497]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	satellite DNA binding [GO:0003696]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+37_hypothetical_protein	16.666666666666664	5'-deoxyribose-5-phosphate lyase activity [GO:0051575]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+39_hypothetical_protein	8.333333333333332	protein complex oligomerization [GO:0051259]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+39_hypothetical_protein	8.333333333333332	negative regulation of transcription, DNA-templated [GO:0045892]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+39_hypothetical_protein	8.333333333333332	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+4_major_coat_protein	8.333333333333332	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+64_putative_resolvase	8.333333333333332	DNA recombination [GO:0006310]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+64_putative_resolvase	8.333333333333332	DNA integration [GO:0015074]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+64_putative_resolvase	8.333333333333332	transposition [GO:0032196]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+64_putative_resolvase	8.333333333333332	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+64_putative_resolvase	8.333333333333332	recombinase activity [GO:0000150]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+64_putative_resolvase	8.333333333333332	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+69_ORF4	8.333333333333332	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+7_putative_assembly_pr..	8.333333333333332	zeatin O-beta-D-xylosyltransferase activity [GO:0050404]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	negative regulation of astrocyte differentiation [GO:0048712]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	adrenal gland development [GO:0030325]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	regulation of cellular response to drug [GO:2001038]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	chromosome breakage [GO:0031052]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	mesodermal-endodermal cell signaling [GO:0003131]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	pituitary gland development [GO:0021983]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	negative regulation of double-strand break repair via nonhomologous end joining [GO:2001033]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	epithelial tube branching involved in lung morphogenesis [GO:0060441]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	fat pad development [GO:0060613]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	positive regulation of stem cell proliferation [GO:2000648]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	positive regulation of epithelial cell proliferation involved in lung morphogenesis [GO:0060501]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	histone H2A-S139 phosphorylation [GO:0035978]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	positive regulation of DNA replication origin binding [GO:1902597]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	lung epithelium development [GO:0060428]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	regulation of growth hormone secretion [GO:0060123]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	chondrocyte proliferation [GO:0035988]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	oncogene-induced cell senescence [GO:0090402]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	senescence-associated heterochromatin focus assembly [GO:0035986]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	positive regulation of cellular response to X-ray [GO:2000685]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	nucleosome assembly [GO:0006334]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	cell proliferation in forebrain [GO:0021846]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	negative regulation of single stranded viral RNA replication via double stranded DNA intermediate [GO:0045869]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	positive regulation of cellular senescence [GO:2000774]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	senescence-associated heterochromatin focus [GO:0035985]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	nucleus [GO:0005634]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	polytene chromosome [GO:0005700]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	Slx1-Slx4 complex [GO:0033557]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	nucleosome [GO:0000786]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	nuclear chromosome [GO:0000228]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	SMAD protein complex [GO:0071141]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	5'-flap endonuclease activity [GO:0017108]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	MH1 domain binding [GO:0035501]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	MH2 domain binding [GO:0035500]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	C2H2 zinc finger domain binding [GO:0070742]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	dinitrosyl-iron complex binding [GO:0035731]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	DNA-dependent protein kinase activity [GO:0004677]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	nucleosomal DNA binding [GO:0031492]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	minor groove of adenine-thymine-rich DNA binding [GO:0003680]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	cAMP response element binding [GO:0035497]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	satellite DNA binding [GO:0003696]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+73_ORF8	8.333333333333332	5'-deoxyribose-5-phosphate lyase activity [GO:0051575]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+75_putative_replication..	50	DNA replication initiation [GO:0006270]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+75_putative_replication..	50	DNA topoisomerase activity [GO:0003916]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+75_putative_replication..	50	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+75_putative_replication..	50	translation initiation factor activity [GO:0003743]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+76_hypothetical_protein	41.66666666666667	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+76_hypothetical_protein	41.66666666666667	single-stranded DNA binding [GO:0003697]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+79_hypothetical_protein	58.333333333333336	zeatin O-beta-D-xylosyltransferase activity [GO:0050404]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+88_trbP-related	25	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG

@@ -1,0 +1,189 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_II	7.142857142857142	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+1_II	7.142857142857142	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+1_II	7.142857142857142	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+10_IV	7.142857142857142	protein secretion by the type II secretion system [GO:0015628]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+10_IV	7.142857142857142	establishment of competence for transformation [GO:0030420]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+10_IV	7.142857142857142	pilus assembly [GO:0009297]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+10_IV	7.142857142857142	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+10_IV	7.142857142857142	cell outer membrane [GO:0009279]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+10_IV	7.142857142857142	type II protein secretion system complex [GO:0015627]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+107_hypothetical_protein	30.952380952380953	zeatin O-beta-D-xylosyltransferase activity [GO:0050404]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+144_major_coat_protein	7.142857142857142	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+15_III	2.380952380952381	pathogenesis [GO:0009405]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+15_III	2.380952380952381	virion attachment to host cell pilus [GO:0039666]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+15_III	2.380952380952381	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	negative regulation of astrocyte differentiation [GO:0048712]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	adrenal gland development [GO:0030325]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	regulation of cellular response to drug [GO:2001038]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	chromosome breakage [GO:0031052]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	mesodermal-endodermal cell signaling [GO:0003131]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	pituitary gland development [GO:0021983]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	negative regulation of double-strand break repair via nonhomologous end joining [GO:2001033]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	epithelial tube branching involved in lung morphogenesis [GO:0060441]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	fat pad development [GO:0060613]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	positive regulation of stem cell proliferation [GO:2000648]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	positive regulation of epithelial cell proliferation involved in lung morphogenesis [GO:0060501]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	histone H2A-S139 phosphorylation [GO:0035978]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	positive regulation of DNA replication origin binding [GO:1902597]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	lung epithelium development [GO:0060428]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	regulation of growth hormone secretion [GO:0060123]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	chondrocyte proliferation [GO:0035988]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	oncogene-induced cell senescence [GO:0090402]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	senescence-associated heterochromatin focus assembly [GO:0035986]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	positive regulation of cellular response to X-ray [GO:2000685]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	nucleosome assembly [GO:0006334]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	cell proliferation in forebrain [GO:0021846]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	negative regulation of single stranded viral RNA replication via double stranded DNA intermediate [GO:0045869]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	positive regulation of cellular senescence [GO:2000774]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	senescence-associated heterochromatin focus [GO:0035985]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	nucleus [GO:0005634]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	polytene chromosome [GO:0005700]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	Slx1-Slx4 complex [GO:0033557]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	nucleosome [GO:0000786]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	nuclear chromosome [GO:0000228]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	SMAD protein complex [GO:0071141]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	5'-flap endonuclease activity [GO:0017108]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	MH1 domain binding [GO:0035501]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	MH2 domain binding [GO:0035500]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	C2H2 zinc finger domain binding [GO:0070742]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	dinitrosyl-iron complex binding [GO:0035731]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	DNA-dependent protein kinase activity [GO:0004677]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	nucleosomal DNA binding [GO:0031492]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	minor groove of adenine-thymine-rich DNA binding [GO:0003680]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	cAMP response element binding [GO:0035497]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	satellite DNA binding [GO:0003696]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+150_hypothetical_protein	4.761904761904762	5'-deoxyribose-5-phosphate lyase activity [GO:0051575]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+152_hypothetical_protein	2.380952380952381	protein complex oligomerization [GO:0051259]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+152_hypothetical_protein	2.380952380952381	negative regulation of transcription, DNA-templated [GO:0045892]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+152_hypothetical_protein	2.380952380952381	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+19_hypothetical_protein	2.380952380952381	transposition [GO:0032196]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+19_hypothetical_protein	2.380952380952381	DNA (cytosine-5-)-methyltransferase activity [GO:0003886]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+19_hypothetical_protein	2.380952380952381	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	negative regulation of astrocyte differentiation [GO:0048712]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	adrenal gland development [GO:0030325]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	regulation of cellular response to drug [GO:2001038]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	chromosome breakage [GO:0031052]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	mesodermal-endodermal cell signaling [GO:0003131]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	pituitary gland development [GO:0021983]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	negative regulation of double-strand break repair via nonhomologous end joining [GO:2001033]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	epithelial tube branching involved in lung morphogenesis [GO:0060441]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	fat pad development [GO:0060613]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	positive regulation of stem cell proliferation [GO:2000648]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	positive regulation of epithelial cell proliferation involved in lung morphogenesis [GO:0060501]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	histone H2A-S139 phosphorylation [GO:0035978]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	positive regulation of DNA replication origin binding [GO:1902597]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	lung epithelium development [GO:0060428]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	regulation of growth hormone secretion [GO:0060123]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	chondrocyte proliferation [GO:0035988]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	oncogene-induced cell senescence [GO:0090402]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	senescence-associated heterochromatin focus assembly [GO:0035986]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	positive regulation of cellular response to X-ray [GO:2000685]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	nucleosome assembly [GO:0006334]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	cell proliferation in forebrain [GO:0021846]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	negative regulation of single stranded viral RNA replication via double stranded DNA intermediate [GO:0045869]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	positive regulation of cellular senescence [GO:2000774]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	senescence-associated heterochromatin focus [GO:0035985]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	nucleus [GO:0005634]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	polytene chromosome [GO:0005700]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	Slx1-Slx4 complex [GO:0033557]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	nucleosome [GO:0000786]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	nuclear chromosome [GO:0000228]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	SMAD protein complex [GO:0071141]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	5'-flap endonuclease activity [GO:0017108]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	MH1 domain binding [GO:0035501]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	MH2 domain binding [GO:0035500]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	C2H2 zinc finger domain binding [GO:0070742]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	dinitrosyl-iron complex binding [GO:0035731]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	DNA-dependent protein kinase activity [GO:0004677]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	nucleosomal DNA binding [GO:0031492]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	minor groove of adenine-thymine-rich DNA binding [GO:0003680]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	cAMP response element binding [GO:0035497]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	satellite DNA binding [GO:0003696]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+195_ORF8	2.380952380952381	5'-deoxyribose-5-phosphate lyase activity [GO:0051575]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+2_X	7.142857142857142	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+2_X	7.142857142857142	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+2_X	7.142857142857142	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+20_hypothetical_protein	2.380952380952381	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+20_hypothetical_protein	2.380952380952381	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+20_hypothetical_protein	2.380952380952381	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+207_putative_replication..	47.61904761904761	DNA replication initiation [GO:0006270]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+207_putative_replication..	47.61904761904761	DNA topoisomerase activity [GO:0003916]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+207_putative_replication..	47.61904761904761	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+207_putative_replication..	47.61904761904761	translation initiation factor activity [GO:0003743]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+208_hypothetical_protein	21.428571428571427	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+208_hypothetical_protein	21.428571428571427	single-stranded DNA binding [GO:0003697]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+211_hypothetical_protein	21.428571428571427	zeatin O-beta-D-xylosyltransferase activity [GO:0050404]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+22_IV	11.904761904761903	protein secretion by the type II secretion system [GO:0015628]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+22_IV	11.904761904761903	establishment of competence for transformation [GO:0030420]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+22_IV	11.904761904761903	pilus assembly [GO:0009297]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+22_IV	11.904761904761903	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+22_IV	11.904761904761903	cell outer membrane [GO:0009279]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+22_IV	11.904761904761903	type II protein secretion system complex [GO:0015627]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+220_trbP-related	7.142857142857142	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+23_replication_initiati..	2.380952380952381	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+23_replication_initiati..	2.380952380952381	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+23_replication_initiati..	2.380952380952381	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+24_X	2.380952380952381	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+24_X	2.380952380952381	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+24_X	2.380952380952381	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+265_protein_H	7.142857142857142	zeatin O-beta-D-xylosyltransferase activity [GO:0050404]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	antibiotic biosynthetic process [GO:0017000]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	regulation of transcription, DNA-templated [GO:0006355]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	phosphinothricin biosynthetic process [GO:1901766]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	transcription, DNA-templated [GO:0006351]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	negative regulation of cell killing [GO:0031342]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	transcription repressor complex [GO:0017053]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	intracellular anatomical structure [GO:0005622]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	sequence-specific DNA binding [GO:0043565]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	nicotinamide-nucleotide adenylyltransferase activity [GO:0000309]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	toxic substance binding [GO:0015643]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	dioxygenase activity [GO:0051213]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	DNA-binding transcription factor activity [GO:0003700]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	sucrose transmembrane transporter activity [GO:0008515]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water [GO:0016717]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	transcription coactivator activity [GO:0003713]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	DNA (cytosine-5-)-methyltransferase activity [GO:0003886]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+274_rstR	2.380952380952381	ribosylnicotinamide kinase activity [GO:0050262]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+285_ctxA	2.380952380952381	pathogenesis [GO:0009405]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+285_ctxA	2.380952380952381	extracellular region [GO:0005576]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+285_ctxA	2.380952380952381	NAD(P)+-protein-arginine ADP-ribosyltransferase activity [GO:0003956]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+286_ctxB	2.380952380952381	protein ADP-ribosylation [GO:0006471]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+286_ctxB	2.380952380952381	killing of cells of other organism [GO:0031640]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+286_ctxB	2.380952380952381	multi-organism cellular process [GO:0044764]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+286_ctxB	2.380952380952381	pathogenesis [GO:0009405]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+286_ctxB	2.380952380952381	extracellular region [GO:0005576]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+286_ctxB	2.380952380952381	periplasmic space [GO:0042597]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+286_ctxB	2.380952380952381	host cell plasma membrane [GO:0020002]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+286_ctxB	2.380952380952381	membrane [GO:0016020]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+286_ctxB	2.380952380952381	galactose binding [GO:0005534]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+286_ctxB	2.380952380952381	host cell surface binding [GO:0046812]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+29_III	4.761904761904762	pathogenesis [GO:0009405]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+29_III	4.761904761904762	virion attachment to host cell pilus [GO:0039666]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+29_III	4.761904761904762	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+322_orf698	4.761904761904762	viral DNA genome replication [GO:0039693]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+322_orf698	4.761904761904762	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+322_orf698	4.761904761904762	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+357_VSK-tox1	2.380952380952381	zeatin O-beta-D-xylosyltransferase activity [GO:0050404]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+419_major_coat_protein	2.380952380952381	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+433_hypothetical_protein	2.380952380952381	lytic transglycosylase activity [GO:0008933]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+47_hypothetical_protein	4.761904761904762	zeatin O-beta-D-xylosyltransferase activity [GO:0050404]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+48_Putative_replication..	2.380952380952381	DNA replication [GO:0006260]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+48_Putative_replication..	2.380952380952381	extrachromosomal circular DNA [GO:0005727]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+48_Putative_replication..	2.380952380952381	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+51_major_coat_protein	2.380952380952381	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+52_50-kDa_virion_protei..	2.380952380952381	virion attachment to host cell pilus [GO:0039666]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+62_major_coat_protein	2.380952380952381	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+65_putative_assembly_pr..	11.904761904761903	zeatin O-beta-D-xylosyltransferase activity [GO:0050404]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+7_III	4.761904761904762	pathogenesis [GO:0009405]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+7_III	4.761904761904762	virion attachment to host cell pilus [GO:0039666]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+7_III	4.761904761904762	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+75_resolvase	9.523809523809524	DNA recombination [GO:0006310]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+75_resolvase	9.523809523809524	DNA integration [GO:0015074]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+75_resolvase	9.523809523809524	transposition [GO:0032196]	bp	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+75_resolvase	9.523809523809524	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+75_resolvase	9.523809523809524	recombinase activity [GO:0000150]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+75_resolvase	9.523809523809524	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+9_I	19.047619047619047	zeatin O-beta-D-xylosyltransferase activity [GO:0050404]	mf	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG
+92_putative_major_coat_..	4.761904761904762	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754/	COG

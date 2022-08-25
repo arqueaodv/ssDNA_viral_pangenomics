@@ -1,0 +1,13 @@
+>ID:YP_009058899.1 |[Seal anellovirus 3]||Seal-anellovirus-3_taxid_1427156.gbk|ORF2|252|NC_024890(2169):177-428:1 ^GeneID:20358453^ Seal anellovirus 3, complete genome.|neighbours:start(),ID:YP_009058900.1(1)|neighbour_genes:start(),ORF1| | aligned:3-83 (83)
+MGERLPPLIA VSFDLIYQTD DHDYCIRFPG MDNNQIPLVR VKIEGAGWWS GFLICLQIVT QLAVLIYVTL NYINTKRPSG
+SSK
+
+>ID:YP_004286323.1 |[Seal anellovirus TFFN/USA/2006]||Seal-anellovirus-TFFN-USA-2006_taxid_991022.gbk|Orf2|336|NC_015212(2164):77-412:1 ^GeneID:10283375^ Seal anellovirus TFFN/USA/2006, complete genome.|neighbours:start(),ID:YP_004286324.1(1)|neighbour_genes:start(),Orf1| | aligned:41-111 (111)
+MGDALGAGAG AGGLGPDQGA YRAVRPVQQD GQDWRNLFEK FAVCFDLIYE TTHLSGMENQ PLNGRREVIY VKLVSGWWEF
+FMICLHIIVQ GIILIYVILN FLNLKKHTGK D
+
+>ID:YP_009388629.1 |[Torque teno Leptonychotes weddellii virus-1]||Torque-teno-Leptonychotes-weddellii-virus-1_taxid_2012676.gbk|hypothetical protein|243|NC_035136(2119):165-407:1 ^GeneID:33194364^ Torque teno Leptonychotes weddellii virus-1 isolate TTLwV-1_gt2_wsp20, complete genome.|neighbours:start(),ID:YP_009388630.1(1)|neighbour_genes:start(),ORF2| | aligned:3-75 (80)
+MGLPLFKVYF DLLYDEGICF SGMDPYEQWP LVRVKIVFGC REGVWLCVQL FLHLVSLIFI ILINIESLKH SGRNSSHKPT
+
+>ID:YP_009388625.1 |[Torque teno Leptonychotes weddellii virus-2]||Torque-teno-Leptonychotes-weddellii-virus-2_taxid_2012677.gbk|hypothetical protein|222|NC_035135(2105):177-398:1 ^GeneID:33194359^ Torque teno Leptonychotes weddellii virus-2 isolate TTLwV-2_gt3_wsp24, complete genome.|neighbours:start(),ID:YP_009388626.1(1)|neighbour_genes:start(),ORF2| | aligned:2-73 (73)
+MEETLHLYKV CFDLLYDTGL CFTGMDNFQL YLWKLVTGGW EFFMLCLQLL IQAVVLTSVI LLAIERLKQC GKD

@@ -1,0 +1,17 @@
+"","integral component of membrane","DNA binding","host cell membrane","structural molecule activity","viral capsid","DNA replication","viral process","transport of virus in host, cell to cell","modulation by virus of host process","negative regulation of gene silencing by RNA","host cell cytoplasm","endodeoxyribonuclease activity, producing 5'-phosphomonoesters"
+"1_BV1",NA,NA,NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA
+"2_BC1",NA,TRUE,TRUE,NA,NA,NA,NA,TRUE,NA,NA,NA,NA
+"134_capsid_protein",NA,NA,NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA
+"4_AC3",NA,NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA
+"5_AC2",NA,NA,NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA
+"135_replication_associat..",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,TRUE
+"33_AV2",NA,NA,NA,NA,NA,NA,NA,NA,TRUE,TRUE,TRUE,NA
+"108_av2",NA,NA,NA,NA,NA,NA,NA,NA,TRUE,TRUE,TRUE,NA
+"133_movement_protein",TRUE,NA,NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA
+"485_AC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+"1339_Rep",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA
+"1375_V2",NA,NA,NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA
+"1939_v2",NA,NA,NA,NA,NA,NA,NA,NA,TRUE,TRUE,TRUE,NA
+"2062_BV1",NA,NA,NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA
+"2123_truncated_V2",NA,NA,NA,NA,NA,NA,NA,NA,TRUE,TRUE,TRUE,NA
+"2140_AC4",NA,NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA

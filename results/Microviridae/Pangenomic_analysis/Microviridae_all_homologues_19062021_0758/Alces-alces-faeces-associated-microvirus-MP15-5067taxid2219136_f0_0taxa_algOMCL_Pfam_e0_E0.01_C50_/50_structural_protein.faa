@@ -1,0 +1,4 @@
+>ID:YP_008241495.1 |[Cellulophaga phage phi12:2]|phi12:2|Cellulophaga-phage-phi12-2_taxid_1327969.gbk|structural protein|258|NC_021797(6453):6171-6428:1 ^GeneID:16880837^ Cellulophaga phage phi12:2, complete genome.|neighbours:ID:YP_008241494.1(1),end()|neighbour_genes:hypothetical protein,end()| | aligned:1-85 (85)
+MILPNTWFCIKYSDQTNVKWFRAKKGRRKDSVLKYFRSKPNFKWGKVFTAHEKTLLFWFNASTEGVSDRRTSNKIKPNENESNNA
+>ID:YP_008242213.1 |[Cellulophaga phage phi12a:1]|phi12a:1|Cellulophaga-phage-phi12a-1_taxid_1327987.gbk|structural protein|258|NC_021805(6478):6196-6453:1 ^GeneID:16797377^ Cellulophaga phage phi12a:1, complete genome.|neighbours:ID:YP_008242212.1(1),end()|neighbour_genes:hypothetical protein,end()| | aligned:1-85 (85)
+MILPNTWFCIKYSDQTNVKWFRAKKGRRKDSVLKYFRSKPNFKWGKVFTAHEKTLLFWFNASTEGISDRRTSNKIKPNENESNHA

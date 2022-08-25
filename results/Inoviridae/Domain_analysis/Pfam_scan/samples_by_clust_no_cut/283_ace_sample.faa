@@ -1,0 +1,19 @@
+>ID:YP_004286238.1 |[Vibrio phage CTXphi]||Vibrio-phage-CTXphi_taxid_2785247.gbk|ace|294|NC_015209(10638):7244-7537:1 ^GeneID:10271075^ Vibrio phage CTXphi, complete genome.|neighbours:ID:YP_004286237.1(1),ID:YP_004286239.1(1)|neighbour_genes:hypothetical protein,zot| | aligned:6-96 (97)
+MMLMMDTLYD WLIDGFTWLV IKLGIMWIES KIFVIQFFWE MSQKVIDMFT IYPLIQQAID MLPPQYSGFL FFLGLDQALA
+IVLQALMTRF ALRALNL
+
+>ID:YP_087077.1 |[Vibrio phage KSF1]||Vibrio-phage-KSF1_taxid_292443.gbk|hypothetical protein|345|NC_006294(7107):3453-3797:1 ^GeneID:3031577^ Vibrio phage KSF-1phi, complete genome.|neighbours:ID:YP_087076.1(1),ID:YP_087078.1(1)|neighbour_genes:hypothetical protein,putative assembly pr..| | aligned:1-114 (114)
+MQFLLDLLGA IANAGDTVTE FFKSIPDYFG QLVVWGNAWY VKLKFLWLIY SLELAYKTAE YLLNDIGFND MLASFFNALP
+DEIRYYAFIF KIPQAIGIYF NCLATAFVWK ITRF
+
+>ID:YP_004934229.1 |[Vibrio phage VCY-phi]||Vibrio-phage-VCY-phi_taxid_1105327.gbk|hypothetical protein|345|NC_016162(7103):3864-4208:1 ^GeneID:11447733^ Vibrio phage VCY-phi, complete genome.|neighbours:ID:YP_004934228.1(1),ID:YP_004934230.1(1)|neighbour_genes:minor capsid protein,Zot-like protein| | aligned:1-114 (114)
+MQFLLDLLGA IANSGDTVIE FFKSIPEYFG QFVVWCNAWY VKLKLTWLIF SLQLAYETAE YLLNDIGFND MLASFFNALP
+DEVRYYAFIF KIPQAIGIYF NSLATAFVWK LTRF
+
+>ID:NP_059536.1 |[Vibrio phage VfO3K6]||Vibrio-phage-VfO3K6_taxid_127507.gbk|hypothetical protein|345|NC_002362(8784):3124-3468:1 ^GeneID:1262770^ Vibrio phage VfO3K6, complete genome.|neighbours:ID:NP_059535.1(1),ID:NP_059537.1(1)|neighbour_genes:Vpf504,putative assembly pr..| | aligned:1-114 (114)
+MEYIYSALEF IANIGQTFLD FFDVAIEWIK NAFEYGAMWL ISVWLDIKIA SIQIALKIAQ LLLEEYGVYT LVEDRFNALP
+SDVRYILTEY GVTSGLRVIF DAFATSLVMR FFNW
+
+>ID:NP_059546.1 |[Vibrio phage VfO4K68]||Vibrio-phage-VfO4K68_taxid_127508.gbk|hypothetical protein|345|NC_002363(6891):3124-3468:1 ^GeneID:1262776^ Vibrio phage VfO4K68, complete genome.|neighbours:ID:NP_059545.1(1),ID:NP_059547.1(1)|neighbour_genes:Vpf504,putative assembly pr..| | aligned:1-114 (114)
+MEYIYSALEF IANIGQTFLD FFDVAIEWIK NAFEYGAMWL ISVWLDIKIA SIQIALKIAQ LLLEEYGVYT LVEDRFNALP
+SDVRYILTEY GVTSGLRVIF DAFATSLVMR FFNW

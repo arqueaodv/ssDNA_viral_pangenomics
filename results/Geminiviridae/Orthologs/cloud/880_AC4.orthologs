@@ -1,0 +1,39 @@
+VIRAL_FAMILY	Geminiviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	880_AC4.faa
+PREVALENCE	0.4048583
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		DNA replication [GO:0006260]
+		viral process [GO:0016032]
+		DNA replication [GO:0006260]
+	MOLECULAR_FUNCTION
+		ATP binding [GO:0005524]
+		DNA binding [GO:0003677]
+		endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]
+		helicase activity [GO:0004386]
+		metal ion binding [GO:0046872]
+		nucleotidyltransferase activity [GO:0016779]
+		structural molecule activity [GO:0005198]
+		nucleotidyltransferase activity [GO:0016779]
+		structural molecule activity [GO:0005198]
+		helicase activity [GO:0004386]
+		DNA binding [GO:0003677]
+		endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]
+		metal ion binding [GO:0046872]
+		ATP binding [GO:0005524]
+	CELLULAR_COMPONENT
+		host cell nucleus [GO:0042025]
+		viral capsid [GO:0019028]
+		host cell nucleus [GO:0042025]
+
+
+//
+
+>ID:YP_003560504.1 |[Sweet potato leaf curl Bengal virus]||Sweet-potato-leaf-curl-Bengal-virus_taxid_693892.gbk|AC4|240|NC_013640(2823):2267-2506:-1 ^GOA:C8ZKW0,GeneID:8673710,InterPro:IPR001191,InterPro:IPR002488,UniProtKB/TrEMBL:C8ZKW0^ Sweet potato leaf curl Bengal virus - [India:West Bengal:2008] segment A, complete genome.|neighbours:ID:YP_003560503.1(-1),end()|neighbour_genes:AC1,end()| ATGGTGTTGGTGCAGTTCGAAGGCAAATTCGTCTGCACAAATTCCAGATTCTTCGATCTGGTCTCACCGAACAGATCGAATCCTTTCCCCCCAACATGCCAGGGAGTAAATCCTCGTCCGATGTCAAGTCCTACGTTGACAAGGACGGGGATACCCTCACATGGGGTGAATTCCAGATCGACGGCAGATTTGCTAGAGGAGGTCAGCAGACTGCTAATGACGCAGCCGCAGAGGCTCTAA
+
+//
+
+>ID:YP_003560504.1 |[Sweet potato leaf curl Bengal virus]||Sweet-potato-leaf-curl-Bengal-virus_taxid_693892.gbk|AC4|240|NC_013640(2823):2267-2506:-1 ^GOA:C8ZKW0,GeneID:8673710,InterPro:IPR001191,InterPro:IPR002488,UniProtKB/TrEMBL:C8ZKW0^ Sweet potato leaf curl Bengal virus - [India:West Bengal:2008] segment A, complete genome.|neighbours:ID:YP_003560503.1(-1),end()|neighbour_genes:AC1,end()| MVLVQFEGKFVCTNSRFFDLVSPNRSNPFPPTCQGVNPRPMSSPTLTRTGIPSHGVNSRSTADLLEEVSRLLMTQPQRL

@@ -1,0 +1,12 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_9_homologues_19062021_0746/Faeces-associated-gemycircularvirus-7taxid1391036_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_/,cluster_9_homologues_19062021_0746/Faeces-associated-gemycircularvirus-7taxid1391036_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_
+# -o cluster_9_homologues_19062021_0746_intersection
+# -I 
+# -r 0
+2_replication_associat...faa
+1_capsid_protein.faa
+7_ORF3.faa
+10_Rep2.faa
+3_Rep.faa
+9_hypothetical_protein.faa
+# intersection size = 6 clusters

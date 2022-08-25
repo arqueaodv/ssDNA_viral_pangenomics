@@ -1,0 +1,11 @@
+source:/home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803_intersection	Abaca-bunchy-top-virus_taxid_438782.gbk	Banana-bunchy-top-virus_taxid_12585.gbk	Black-medic-leaf-roll-virus_taxid_2038729.gbk	Cardamom-bushy-dwarf-virus_taxid_262588.gbk	Cow-vetch-latent-virus_taxid_2056780.gbk	Faba-bean-necrotic-stunt-virus_taxid_283824.gbk	Faba-bean-necrotic-yellows-virus_taxid_59817.gbk	Faba-bean-yellow-leaf-virus_taxid_1137801.gbk	Milk-vetch-dwarf-virus_taxid_67585.gbk	Pea-necrotic-yellow-dwarf-virus_taxid_753670.gbk	Pea-yellow-stunt-virus_taxid_1436892.gbk	Subterranean-clover-stunt-virus_taxid_36772.gbk	
+1_putative_replicase_p...faa	1	1	1	1	1	1	1	1	1	1	1	1	
+2_putative_cell-cycle_...faa	1	1	0	1	0	0	0	0	0	0	0	0	
+3_putative_nuclear_shu...faa	1	1	1	1	1	1	1	1	1	1	1	1	
+4_putative_coat_protei...faa	1	1	1	1	1	1	1	1	1	1	1	1	
+5_putative_movement_pr...faa	1	1	0	1	0	0	0	0	0	0	0	0	
+12_MP.faa	0	0	1	0	1	1	1	1	1	1	1	1	
+13_Clink.faa	0	0	1	0	1	1	1	1	1	1	1	1	
+15_U1.faa	0	0	1	0	1	1	1	1	1	1	1	1	
+17_U2.faa	0	0	1	0	1	1	1	1	1	1	1	0	
+18_U4.faa	0	0	1	0	1	1	2	1	1	1	1	0	

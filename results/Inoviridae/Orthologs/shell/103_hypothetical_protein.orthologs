@@ -1,0 +1,22 @@
+VIRAL_FAMILY	Inoviridae
+PANGENOMIC_GROUP	shell
+CLUSTER_NAME	103_hypothetical_protein.faa
+PREVALENCE	10
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		Uniprot hit without GO [GO:XXXXXXX]
+	MOLECULAR_FUNCTION
+		Uniprot hit without GO [GO:XXXXXXX]
+	CELLULAR_COMPONENT
+		Uniprot hit without GO [GO:XXXXXXX]
+
+
+//
+
+>ID:NP_695197.1 |[Vibrio virus fs1]||Vibrio-virus-fs1_taxid_70203.gbk|hypothetical protein|84|NC_004306(6340):3396-3479:1 ^GeneID:955580^ Vibrio phage fs1, complete genome.|neighbours:ID:NP_695196.1(1),ID:NP_695198.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| GTGATCATCAATACTCTTGCACCAGAAAAAATACCCTTCGCCCTGCCAAGCCATAAAAGATGTTTCAGCAAGCGCAGTAGTTAG
+
+//
+
+>ID:NP_695197.1 |[Vibrio virus fs1]||Vibrio-virus-fs1_taxid_70203.gbk|hypothetical protein|84|NC_004306(6340):3396-3479:1 ^GeneID:955580^ Vibrio phage fs1, complete genome.|neighbours:ID:NP_695196.1(1),ID:NP_695198.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| MIINTLAPEKIPFALPSHKRCFSKRSS

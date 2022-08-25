@@ -1,0 +1,41 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_II	30	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+1_II	30	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+1_II	30	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+10_IV	20	protein secretion by the type II secretion system [GO:0015628]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+10_IV	20	establishment of competence for transformation [GO:0030420]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+10_IV	20	pilus assembly [GO:0009297]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+10_IV	20	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+10_IV	20	cell outer membrane [GO:0009279]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+10_IV	20	type II protein secretion system complex [GO:0015627]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+12_IV	20	protein secretion by the type II secretion system [GO:0015628]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+12_IV	20	establishment of competence for transformation [GO:0030420]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+12_IV	20	pilus assembly [GO:0009297]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+12_IV	20	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+12_IV	20	cell outer membrane [GO:0009279]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+12_IV	20	type II protein secretion system complex [GO:0015627]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+13_replication_initiati..	10	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+13_replication_initiati..	10	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+13_replication_initiati..	10	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+14_X	10	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+14_X	10	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+14_X	10	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+19_III	20	pathogenesis [GO:0009405]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+19_III	20	virion attachment to host cell pilus [GO:0039666]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+19_III	20	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+2_X	30	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+2_X	30	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+2_X	30	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+3_V	30	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+3_V	30	single-stranded DNA binding [GO:0003697]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+7_III	20	pathogenesis [GO:0009405]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+7_III	20	virion attachment to host cell pilus [GO:0039666]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+7_III	20	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+70_putative_assembly_pr..	20	zeatin O-beta-D-xylosyltransferase activity [GO:0050404]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+85_VSK-tox1	10	zeatin O-beta-D-xylosyltransferase activity [GO:0050404]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+88_DNA_replication_init..	60	DNA replication initiation [GO:0006270]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+88_DNA_replication_init..	60	DNA topoisomerase activity [GO:0003916]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+88_DNA_replication_init..	60	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+88_DNA_replication_init..	60	translation initiation factor activity [GO:0003743]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+9_I	40	zeatin O-beta-D-xylosyltransferase activity [GO:0050404]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+94_putative_assembly_pr..	30	zeatin O-beta-D-xylosyltransferase activity [GO:0050404]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG

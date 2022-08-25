@@ -1,0 +1,5 @@
+"","cluster_name","size","taxa","Pfam_IDs","aa_file","na_file","taxids","Percentage_prevalence"
+"1","1_alpha-rep",52,1,"","1_alpha-rep.faa","1_alpha-rep.fna",NA,1.85185185185185
+"2","9_replication_protein",1,1,"","9_replication_protein.faa","9_replication_protein.fna",NA,1.85185185185185
+"3","27_Rep",1,1,"PF02407_","27_Rep.faa","27_Rep.fna","2169825",1.85185185185185
+"4","28_alpha-V2",1,1,"","28_alpha-V2.faa","28_alpha-V2.fna","2169825",1.85185185185185

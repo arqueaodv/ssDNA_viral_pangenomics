@@ -1,0 +1,121 @@
+cluster	prevalence	term	what	familia	algoritmo
+109_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+110_minor_capsid_protein	1.7543859649122806	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+113_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+121_putative_replication..	29.82456140350877	DNA replication [GO:0006260]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+121_putative_replication..	29.82456140350877	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+121_putative_replication..	29.82456140350877	viral DNA genome replication [GO:0039693]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+123_putative_minor_capsi..	29.82456140350877	viral procapsid maturation [GO:0046797]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+125_putative_major_capsi..	29.82456140350877	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+131_B	28.07017543859649	viral scaffold assembly and maintenance [GO:0046807]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+131_B	28.07017543859649	viral capsid assembly [GO:0019069]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+132_K	8.771929824561402	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+133_C	28.07017543859649	viral DNA genome packaging [GO:0019073]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+135_E	28.07017543859649	cytolysis [GO:0019835]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+135_E	28.07017543859649	suppression by virus of host peptidoglycan biosynthetic process [GO:0039635]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+135_E	28.07017543859649	viral release by cytolysis via suppression of host peptidoglycan biosynthetic process [GO:0039640]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+135_E	28.07017543859649	viral release from host cell by cytolysis [GO:0044659]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+135_E	28.07017543859649	modulation by virus of host cellular process [GO:0019054]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+138_G	28.07017543859649	modulation by virus of host process [GO:0019048]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+138_G	28.07017543859649	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+138_G	28.07017543859649	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+139_H	28.07017543859649	lipopolysaccharide-mediated virion attachment to host cell [GO:0039638]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+139_H	28.07017543859649	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+142_K	19.298245614035086	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+2_nonstructural_protei..	26.31578947368421	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+2_nonstructural_protei..	26.31578947368421	viral process [GO:0016032]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+29_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+30_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+307_DNA_pilot_protein_VP..	1.7543859649122806	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+31_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+313_DNA_pilot_protein_VP..	1.7543859649122806	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+32_minor_capsid_protein	10.526315789473683	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+33_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+334_minor_capsid_protein	1.7543859649122806	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+336_minor_capsid_protein	1.7543859649122806	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+426_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+427_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+428_hypothetical_protein	1.7543859649122806	viral process [GO:0016032]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+431_minor_capsid_protein	1.7543859649122806	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+6_minor_capsid_protein	1.7543859649122806	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+64_minor_CP_2	3.508771929824561	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+71_minor_CP_2	1.7543859649122806	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+109_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+110_minor_capsid_protein	1.7543859649122806	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+113_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+115_nonstructural_protei..	1.7543859649122806	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+115_nonstructural_protei..	1.7543859649122806	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+123_putative_minor_capsi..	29.82456140350877	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+123_putative_minor_capsi..	29.82456140350877	cytoplasm [GO:0005737]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+125_putative_major_capsi..	29.82456140350877	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+131_B	28.07017543859649	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+131_B	28.07017543859649	viral scaffold [GO:0046806]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+131_B	28.07017543859649	cytoplasm [GO:0005737]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+132_K	8.771929824561402	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+135_E	28.07017543859649	host cell plasma membrane [GO:0020002]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+135_E	28.07017543859649	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+136_J	26.31578947368421	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+136_J	26.31578947368421	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+138_G	28.07017543859649	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+138_G	28.07017543859649	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+139_H	28.07017543859649	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+142_K	19.298245614035086	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+2_nonstructural_protei..	26.31578947368421	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+20_major_capsid_protein	3.508771929824561	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+20_major_capsid_protein	3.508771929824561	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+29_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+30_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+307_DNA_pilot_protein_VP..	1.7543859649122806	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+31_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+313_DNA_pilot_protein_VP..	1.7543859649122806	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+32_minor_capsid_protein	10.526315789473683	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+33_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+334_minor_capsid_protein	1.7543859649122806	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+336_minor_capsid_protein	1.7543859649122806	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+36_putative_DNA_binding..	1.7543859649122806	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+36_putative_DNA_binding..	1.7543859649122806	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+37_hypothetical_protein	1.7543859649122806	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+37_hypothetical_protein	1.7543859649122806	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+425_hypothetical_protein	1.7543859649122806	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+425_hypothetical_protein	1.7543859649122806	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+426_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+427_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+429_hypothetical_protein	1.7543859649122806	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+431_minor_capsid_protein	1.7543859649122806	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+432_hypothetical_protein	1.7543859649122806	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+432_hypothetical_protein	1.7543859649122806	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+5_major_capsid_protein	59.64912280701754	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+5_major_capsid_protein	59.64912280701754	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+6_minor_capsid_protein	1.7543859649122806	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+64_minor_CP_2	3.508771929824561	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+71_minor_CP_2	1.7543859649122806	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+9_minor_capsid_protein	28.07017543859649	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+109_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+113_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+115_nonstructural_protei..	1.7543859649122806	DNA binding [GO:0003677]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+121_putative_replication..	29.82456140350877	ATP binding [GO:0005524]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+121_putative_replication..	29.82456140350877	DNA binding [GO:0003677]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+121_putative_replication..	29.82456140350877	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+121_putative_replication..	29.82456140350877	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+121_putative_replication..	29.82456140350877	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+125_putative_major_capsi..	29.82456140350877	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+131_B	28.07017543859649	peptidase activity [GO:0008233]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+132_K	8.771929824561402	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+135_E	28.07017543859649	enzyme inhibitor activity [GO:0004857]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+136_J	26.31578947368421	DNA binding [GO:0003677]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+139_H	28.07017543859649	identical protein binding [GO:0042802]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+142_K	19.298245614035086	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+19_replication_initiati..	64.91228070175438	ATP binding [GO:0005524]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+19_replication_initiati..	64.91228070175438	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+19_replication_initiati..	64.91228070175438	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+2_nonstructural_protei..	26.31578947368421	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+20_major_capsid_protein	3.508771929824561	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+29_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+30_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+31_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+33_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+36_putative_DNA_binding..	1.7543859649122806	DNA binding [GO:0003677]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+425_hypothetical_protein	1.7543859649122806	DNA binding [GO:0003677]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+426_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+427_hypothetical_protein	1.7543859649122806	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG
+5_major_capsid_protein	59.64912280701754	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Microviridae/Microviridae_all_homologues_19062021_0758/	COG

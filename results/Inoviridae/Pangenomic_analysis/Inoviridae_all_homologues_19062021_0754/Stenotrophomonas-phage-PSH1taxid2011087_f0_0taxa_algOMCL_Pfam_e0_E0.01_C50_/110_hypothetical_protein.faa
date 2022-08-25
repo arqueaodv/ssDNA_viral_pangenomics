@@ -1,0 +1,4 @@
+>ID:YP_009103108.1 |[Ralstonia phage RS603]||Ralstonia-phage-RS603_taxid_1505528.gbk|hypothetical protein|291|NC_025454(7679):7234-7524:-1 ^GeneID:22277974^ Ralstonia phage RS603 DNA, complete genome.|neighbours:ID:YP_009103107.1(1),end()|neighbour_genes:hypothetical protein,end()| | aligned:1-95 (96)
+MEYSELIAKALHDRKVNKAAKEMGIPQPSLDRYAKGQTLPNYTAALILAKEAGVSAAEALCAIAREEAKRAGIYENVKKVFRSLLRAKNLTLRMAP
+>ID:YP_009786107.1 |[Ralstonia phage Rs551]||Ralstonia-phage-Rs551_taxid_1852598.gbk|putative lambda repr..|291|NC_047765(7929):7458-7748:-1 ^GeneID:54976180^ Ralstonia phage Rs551, complete genome.|neighbours:ID:YP_009786106.1(-1),end()|neighbour_genes:putative resolvase,end()| | aligned:1-95 (96)
+MEYAELIDKALHDRTVNKAAHEMGIPQPSLDRYVKGSRLPTYAAALILAKEAGVSAAQALCAVAAEEARRMGIYENVKKVFRNLLRAKKQTVRMAS

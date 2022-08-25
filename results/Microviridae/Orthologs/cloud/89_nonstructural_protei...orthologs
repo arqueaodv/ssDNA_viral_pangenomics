@@ -1,0 +1,22 @@
+VIRAL_FAMILY	Microviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	89_nonstructural_protei...faa
+PREVALENCE	2.325581
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+	MOLECULAR_FUNCTION
+		DNA binding [GO:0003677]
+	CELLULAR_COMPONENT
+		host cell cytoplasm [GO:0030430]
+		viral capsid [GO:0019028]
+
+
+//
+
+>ID:NP_044319.1 |[Chlamydia virus Chp1]||Chlamydia-virus-Chp1_taxid_2003327.gbk|nonstructural protei..|111|NC_001741(4877):2823-2933:1 ^GeneID:1261212^ Chlamydia phage Chp1, complete genome.|neighbours:ID:NP_044318.1(1),ID:NP_044320.1(1)|neighbour_genes:minor capsid protein,putative replication..| ATGGTTCGTAGAAGACGTTTGAGAAGAAGAATAAGTAGAAGAATTTTTAGAAGAACAGTAGCTAGAGTTGGTAGAAGGCGAAGGTCTTTTCGTGGTGGTATTAGATTTTAA
+
+//
+
+>ID:NP_044319.1 |[Chlamydia virus Chp1]||Chlamydia-virus-Chp1_taxid_2003327.gbk|nonstructural protei..|111|NC_001741(4877):2823-2933:1 ^GeneID:1261212^ Chlamydia phage Chp1, complete genome.|neighbours:ID:NP_044318.1(1),ID:NP_044320.1(1)|neighbour_genes:minor capsid protein,putative replication..| MVRRRRLRRRISRRIFRRTVARVGRRRRSFRGGIRF

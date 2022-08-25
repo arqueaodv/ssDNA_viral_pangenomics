@@ -1,0 +1,35 @@
+>ID:YP_008997803.1 |[Black medic leaf roll virus]||Black-medic-leaf-roll-virus_taxid_2038729.gbk|MP|354|NC_023305(1010):329-682:1 ^GeneID:18158312^ Black medic leafroll virus isolate Bjuv_153 segment DNA-M, complete sequence.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:3-116 (117)
+MGDVAQGYDG SYYPDDGGGK TTSYQVLKII GIVCLILVCI CAIWVCIMLA CYIPGFVKRT LDAWLNSSSI MKRRLAATIT
+RTPYEETGPE RERRWASRRP AQADNGVLNN NTASGFS
+
+>ID:YP_009553296.1 |[Cow vetch latent virus]||Cow-vetch-latent-virus_taxid_2056780.gbk|MP|348|NC_040745(971):310-657:1 ^GeneID:41704222^ Cow vetch latent virus isolate Nano_VcLV_Sambuc_2010 segment DNA-M, complete sequence.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-114 (115)
+MVDPDYYQGY QDVGMEDSEK RRQALYIIGI VLLIMVCIVV LWVCIMCACF IPGFIKKTLE AWLSSSSLMK RKVASTLTRT
+PFEDTGPERE RNWDARRSSN PVGVSNPPVS GGVFS
+
+>ID:YP_003104740.1 |[Faba bean necrotic stunt virus]|Ethiopia:Holetta|Faba-bean-necrotic-stunt-virus_taxid_283824.gbk|movement protein|357|NC_013097(980):309-665:1 ^GeneID:8303650^ Faba bean necrotic stunt virus DNA M, complete genome.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:9-118 (118)
+MASSSTIPDS GYYAAYQDDG DVNAEKRHQA LYMIGIVLLI MICVIILWVC IMLACYLPGF VKKTMEAWLS SSSLMKRRVA
+STLTRTPFEA TGPERERNWD ARRQANASVS QPVNTSVF
+
+>ID:NP_619569.1 |[Faba bean necrotic yellows virus]||Faba-bean-necrotic-yellows-virus_taxid_59817.gbk|C4-Eg|345|NC_003562(992):342-686:1 ^GeneID:993375,UniProtKB/TrEMBL:Q9WIJ7^ Faba bean necrotic yellows virus DNA-M, complete sequence.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-114 (114)
+MADTGYYAGY QDDVDVDEQK RHQALYLIGI ILLVTVCLTV LWVCIMLACY VPGFLKKTLE AWLNSSSLMK RRVASTLTRT
+PFEATGPERE RNWEARRQST TVNPASQPNT GSVF
+
+>ID:YP_009508214.1 |[Faba bean yellow leaf virus]||Faba-bean-yellow-leaf-virus_taxid_1137801.gbk|MP|339|NC_038904(980):333-671:1 ^GeneID:37619544,UniProtKB/TrEMBL:K4Q5W3^ Faba bean yellow leaf virus MP gene for movement protein, segment DNA-M, isolate Eth-231.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-112 (112)
+MADAGYYEGY QDDADVASEK RHQALYLIGI IILIMVCIVI LWVCIMLACY VPGFVKKTLE AWLSSSPLMK RRVASTLTRT
+PFEATGPERE RNWDARRQTT PVVSQPVNTS VF
+
+>ID:NP_619766.1 |[Milk vetch dwarf virus]||Milk-vetch-dwarf-virus_taxid_67585.gbk|viral non-structural..|339|NC_003645(985):344-682:1 ^GeneID:995285^ Milk vetch dwarf virus DNA M, complete sequence.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-112 (112)
+MADPVYYQGY QDDGDIDAQK RHQALYLIGI IILIMVCIII LWVCIMLACY IPGFLKKTME AWLSSSSMMK RRVAATITRT
+PFEATGPERE RNWDARRQTN AASSQPSNGG VF
+
+>ID:YP_008992020.1 |[Pea necrotic yellow dwarf virus]|Germany|Pea-necrotic-yellow-dwarf-virus_taxid_753670.gbk|movement protein|360|NC_023156(988):295-654:1 ^GeneID:18114089^ Pea necrotic yellow dwarf virus segment DNA-M, complete sequence.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-119 (119)
+MSQPGDYGEY PSYEAMDSEK RHQALYIIGI CLLIIICIVV LWVCIMLACW IPGFLKKTLD AWLGSSSMMK RKVASTITRT
+PLEFTGPNRE RNWDIRREAS NSVPERPVSS SVPPSGGMI
+
+>ID:YP_008997795.1 |[Pea yellow stunt virus]||Pea-yellow-stunt-virus_taxid_1436892.gbk|MP|339|NC_023297(975):347-685:1 ^GeneID:18158296^ Pea yellow stunt virus segment DNA-M, complete sequence.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-112 (112)
+MSDPDYYGGY QYGGVSDPEK RHQVLYIIGI VLLIMLCIVV LWVCIMLACF LPGFLKRTLE AWLSSSSFMK RKLASTLTRT
+PFEETGPARE RNWESRRQDV QREPPRLGGS GI
+
+>ID:NP_620695.1 |[Subterranean clover stunt virus]||Subterranean-clover-stunt-virus_taxid_36772.gbk|SCSV1|339|NC_003813(1001):238-576:1 ^GeneID:991158^ Subterranean clover stunt virus (SCSV1) gene, complete cds.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-112 (112)
+MDSGDGYNTY SYEEGAGDAK KEVLYKIGII MLCIVGIVVL WVLIILCCAV PRYAKSTMDA WLSSSSIMKR KMASRITGTP
+FEETGPHRER RWAERRTEAT NQNNNDNVNR FS

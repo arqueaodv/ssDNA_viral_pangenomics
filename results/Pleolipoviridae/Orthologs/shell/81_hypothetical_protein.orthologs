@@ -1,0 +1,22 @@
+VIRAL_FAMILY	Pleolipoviridae
+PANGENOMIC_GROUP	shell
+CLUSTER_NAME	81_hypothetical_protein.faa
+PREVALENCE	11.11111
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		Uniprot hit without GO [GO:XXXXXXX]
+	MOLECULAR_FUNCTION
+		Uniprot hit without GO [GO:XXXXXXX]
+	CELLULAR_COMPONENT
+		Uniprot hit without GO [GO:XXXXXXX]
+
+
+//
+
+>ID:YP_002791890.1 |[Halorubrum pleomorphic virus 1]||Halorubrum-pleomorphic-virus-1_taxid_634168.gbk|hypothetical protein|174|NC_012558(7048):3921-4094:1 ^GeneID:7755265^ Halorubrum pleomorphic virus 1, complete genome.|neighbours:ID:YP_002791889.1(1),ID:YP_002791891.1(1)|neighbour_genes:VP4 precursor,hypothetical protein| ATGATACAATCACTTCTTCTCGACCTCCTGCCAATACGCTCGTTTGTCATGTTGGCGTTGGTTGTCGTGGGCTTGCAGCTCGTGGGTGTTGATGTGATCGGCCCCGCGATCGACATGGCCCGTAATTTCATGTTGGACACTTTCAGCGTGTCCGACCTCGGCAGTCTGGTGTAA
+
+//
+
+>ID:YP_002791890.1 |[Halorubrum pleomorphic virus 1]||Halorubrum-pleomorphic-virus-1_taxid_634168.gbk|hypothetical protein|174|NC_012558(7048):3921-4094:1 ^GeneID:7755265^ Halorubrum pleomorphic virus 1, complete genome.|neighbours:ID:YP_002791889.1(1),ID:YP_002791891.1(1)|neighbour_genes:VP4 precursor,hypothetical protein| MIQSLLLDLLPIRSFVMLALVVVGLQLVGVDVIGPAIDMARNFMLDTFSVSDLGSLV

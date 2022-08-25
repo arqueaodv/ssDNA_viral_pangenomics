@@ -1,0 +1,14 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_2_homologues_19062021_0803/Black-medic-leaf-roll-virustaxid2038729_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_/,cluster_2_homologues_19062021_0803/Black-medic-leaf-roll-virustaxid2038729_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_
+# -o cluster_2_homologues_19062021_0803_intersection
+# -I 
+# -r 0
+8_U2.faa
+3_M-Rep.faa
+2_U1.faa
+1_Clink.faa
+5_NSP.faa
+6_U4.faa
+7_CP.faa
+4_MP.faa
+# intersection size = 8 clusters

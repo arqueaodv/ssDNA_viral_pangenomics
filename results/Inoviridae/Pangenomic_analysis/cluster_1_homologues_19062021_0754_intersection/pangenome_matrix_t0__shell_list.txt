@@ -1,0 +1,14 @@
+1_II.faa
+2_X.faa
+3_V.faa
+6_VIII.faa
+8_VI.faa
+9_I.faa
+61_hypothetical_protein.faa
+62_hypothetical_protein.faa
+65_hypothetical_protein.faa
+69_putative_minor_coat_...faa
+88_DNA_replication_init...faa
+89_hypothetical_protein.faa
+93_hypothetical_protein.faa
+94_putative_assembly_pr...faa

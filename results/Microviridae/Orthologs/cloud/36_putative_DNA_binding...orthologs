@@ -1,0 +1,22 @@
+VIRAL_FAMILY	Microviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	36_putative_DNA_binding...faa
+PREVALENCE	2.325581
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+	MOLECULAR_FUNCTION
+		DNA binding [GO:0003677]
+	CELLULAR_COMPONENT
+		host cell cytoplasm [GO:0030430]
+		viral capsid [GO:0019028]
+
+
+//
+
+>ID:NP_073546.1 |[Bdellovibrio phage phiMH2K]||Bdellovibrio-phage-phiMH2K_taxid_145579.gbk|putative DNA binding..|117|NC_002643(4594):3516-3632:1 ^GeneID:918748^ Bdellovibrio phage phiMH2K, complete genome.|neighbours:ID:NP_073545.1(1),ID:NP_073547.1(1)|neighbour_genes:nonstructural protei..,hypothetical protein| ATGAAAAGAAAACCAATGAGCCGCAAGGCCTCTCAAAAAACCTTCAAAAAGAACACAGGCGTTCAACGCATGAACCATCTCAACCCACGCGCCATGCGTGGTGGCATTAGACTATAA
+
+//
+
+>ID:NP_073546.1 |[Bdellovibrio phage phiMH2K]||Bdellovibrio-phage-phiMH2K_taxid_145579.gbk|putative DNA binding..|117|NC_002643(4594):3516-3632:1 ^GeneID:918748^ Bdellovibrio phage phiMH2K, complete genome.|neighbours:ID:NP_073545.1(1),ID:NP_073547.1(1)|neighbour_genes:nonstructural protei..,hypothetical protein| MKRKPMSRKASQKTFKKNTGVQRMNHLNPRAMRGGIRL

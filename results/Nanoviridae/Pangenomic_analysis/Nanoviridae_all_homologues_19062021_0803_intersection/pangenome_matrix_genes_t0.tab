@@ -1,0 +1,13 @@
+source:/home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/results/Get_homologues/Nanoviridae/Nanoviridae_all_homologues_19062021_0803_intersection	1_putative_replicase_p...faa	2_putative_cell-cycle_...faa	3_putative_nuclear_shu...faa	4_putative_coat_protei...faa	5_putative_movement_pr...faa	12_MP.faa	13_Clink.faa	15_U1.faa	17_U2.faa	18_U4.faa
+Abaca-bunchy-top-virus_taxid_438782.gbk	ID:YP_001661660.1,	ID:YP_001661659.1,	ID:YP_001661656.1,	ID:YP_001661657.1,	ID:YP_001661658.1,	-	-	-	-	-
+Banana-bunchy-top-virus_taxid_12585.gbk	ID:NP_604483.1,	ID:NP_604480.1,	ID:NP_604479.1,	ID:NP_604477.1,	ID:NP_604478.1,	-	-	-	-	-
+Black-medic-leaf-roll-virus_taxid_2038729.gbk	ID:YP_008997797.1,	-	ID:YP_008997799.1,	ID:YP_008997802.1,	-	ID:YP_008997803.1,	ID:YP_008997798.1,	ID:YP_008997804.1,	ID:YP_008997805.1,	ID:YP_008997800.1,
+Cardamom-bushy-dwarf-virus_taxid_262588.gbk	ID:YP_009508038.1,	ID:YP_009508035.1,	ID:YP_009508034.1,	ID:YP_009508036.1,	ID:YP_009508037.1,	-	-	-	-	-
+Cow-vetch-latent-virus_taxid_2056780.gbk	ID:YP_009553298.1,	-	ID:YP_009553297.1,	ID:YP_009553299.1,	-	ID:YP_009553296.1,	ID:YP_009553302.1,	ID:YP_009553300.1,	ID:YP_009553295.1,	ID:YP_009553301.1,
+Faba-bean-necrotic-stunt-virus_taxid_283824.gbk	ID:YP_003104737.1,	-	ID:YP_003104741.1,	ID:YP_003104738.1,	-	ID:YP_003104740.1,	ID:YP_003104739.1,	ID:YP_003104742.1,	ID:YP_003104743.1,	ID:YP_003104744.1,
+Faba-bean-necrotic-yellows-virus_taxid_59817.gbk	ID:NP_619567.1,	-	ID:NP_619573.1,	ID:NP_619570.1,	-	ID:NP_619569.1,	ID:NP_619566.1,	ID:NP_619568.1,	ID:NP_619571.1,	ID:YP_009046880.1,ID:YP_009046881.1,
+Faba-bean-yellow-leaf-virus_taxid_1137801.gbk	ID:YP_009508219.1,	-	ID:YP_009508221.1,	ID:YP_009508220.1,	-	ID:YP_009508214.1,	ID:YP_009508217.1,	ID:YP_009508215.1,	ID:YP_009508218.1,	ID:YP_009508216.1,
+Milk-vetch-dwarf-virus_taxid_67585.gbk	ID:NP_619769.1,	-	ID:NP_619764.1,	ID:NP_619767.1,	-	ID:NP_619766.1,	ID:NP_619762.1,	ID:NP_619763.1,	ID:NP_619765.1,	ID:YP_009010940.1,
+Pea-necrotic-yellow-dwarf-virus_taxid_753670.gbk	ID:YP_008992018.1,	-	ID:YP_008992023.1,	ID:YP_008992019.1,	-	ID:YP_008992020.1,	ID:YP_008992022.1,	ID:YP_008992024.1,	ID:YP_008992021.1,	ID:YP_008992025.1,
+Pea-yellow-stunt-virus_taxid_1436892.gbk	ID:YP_008997794.1,	-	ID:YP_008997808.1,	ID:YP_008997806.1,	-	ID:YP_008997795.1,	ID:YP_008997807.1,	ID:YP_008997801.1,	ID:YP_008997796.1,	ID:YP_008997809.1,
+Subterranean-clover-stunt-virus_taxid_36772.gbk	ID:NP_620694.1,	-	ID:NP_620698.1,	ID:NP_620699.1,	-	ID:NP_620695.1,	ID:NP_620697.1,	ID:NP_620701.1,	-	-

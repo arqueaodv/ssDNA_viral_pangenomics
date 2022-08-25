@@ -1,0 +1,87 @@
+>ID:YP_003622545.1 |[Abutilon Brazil virus]||Abutilon-Brazil-virus_taxid_665102.gbk|AC4|423|NC_014138(2653):2006-2428:-1 ^GeneID:9121899,InterPro:IPR002488,UniProtKB/TrEMBL:D6CFR9^ Abutilon Brazil virus DNA A segment, complete sequence.|neighbours:ID:YP_003622544.1(-1),end()|neighbour_genes:AC1,end()| | aligned:1-140 (140)
+MKLFKCFKPF HGQSSNLPIS ESHVRNTPME TPIYTVSYNY QGSPTSRMQD FSTLLTPDGQ PVFTQTCKLP KTPLPSGTTS
+PKMVTIVNPD NTKCLGVPRP TRTMSSTTPS MQEVFQRLLK LSEPEIQSHS SSNTITSAPT
+
+>ID:YP_009506373.1 |[Abutilon golden mosaic Yucatan virus]||Abutilon-golden-mosaic-Yucatan-virus_taxid_1312723.gbk|AC4|393|NC_038438(2629):2024-2416:-1 ^GeneID:37617239^ Abutilon golden mosaic Yucatan virus isolate Conkal-2007 segment A, complete sequence.|neighbours:ID:YP_009506372.1(-1),end()|neighbour_genes:Rep,end()| | aligned:1-130 (130)
+MKLFKCFKPS LGQSSNPHIS ESHERNIQTG SHTFTVSSSS PASPTSRMLD FSTSLTQEGL PLFTQISRLP KTPTPSRITS
+PKRVIIVNPD NTRCLAEQRQ IRTTFTTTPS MHLVWERLLT LSELEIQRRS
+
+>ID:YP_004958228.1 |[Abutilon mosaic Brazil virus]||Abutilon-mosaic-Brazil-virus_taxid_1046572.gbk|AC4|429|NC_016574(2649):2009-2437:-1 ^GeneID:11537564^ Abutilon mosaic Brazil virus DNA-A, complete genome.|neighbours:ID:YP_004958227.1(-1),end()|neighbour_genes:AC1,end()| | aligned:1-140 (142)
+MKLFKCFKPF HGQSSNLPIS ESHVRNTPMD TPIYTVSYNY QESPTSGMQD FSTLLTPDGQ PVFTRTCKLP KTPLPSGTTS
+PKMVTIVNPD NTRCLGVPRP TRTMSSTTPS MQEVFQRLLK LSEPEIQRPS SSNTITSAPT WN
+
+>ID:NP_612598.1 |[Bean calico mosaic virus]||Bean-calico-mosaic-virus_taxid_31602.gbk|AC4|330|NC_003504(2603):2051-2380:-1 ^GeneID:991069^ Bean calico mosaic virus DNA A coat protein (AV1), replication enhancer protein (AC3), transcription activator protein (AC2), replication initiator protein (AC1), and AC4 (AC4) genes, complete cds.|neighbours:ID:NP_612597.1(-1),end()|neighbour_genes:AC1,end()| | aligned:1-109 (109)
+MKLFACFKNC HGQSSNQHIS ESPERNIQMD SLIYTVSFNS QASPTSRMLD FSTLLTQEGL PIFTQTFRQP RTPTQSRTTS
+PKKVIIVNPG NIRCLAQQNQ TRTTYTTTQ
+
+>ID:YP_009666510.1 |[Bean leaf crumple virus]||Bean-leaf-crumple-virus_taxid_2004460.gbk|AC4|393|NC_043524(2598):1993-2385:-1 ^GeneID:40526784^ Bean leaf crumple virus isolate HA segment DNA-A, complete sequence.|neighbours:ID:YP_009666509.1(-1),end()|neighbour_genes:AC1,end()| | aligned:1-130 (130)
+MKLFKCFNIC PGRSSNPRTS ESPERNIPTG SRTYTALYNY PVSPTSRMLD FSTLLTPDGL PVFTQTFRQP KTPMPSRITS
+PKRVIIVNPG NIKCLGVPNQ IKKSSIITPS MQEVRERLST LSRSEIQRRS
+
+>ID:NP_620888.1 |[Cabbage leaf curl virus]||Cabbage-leaf-curl-virus_taxid_51336.gbk|AC4|366|NC_003866(2583):2172-2537:-1 ^GeneID:993361^ Cabbage leaf curl virus coat protein (AV1), replicase associated protein (AC3), transactivator protein (AC2), replicase associated protein (AC1) and AC4 genes, complete cds.|neighbours:ID:NP_620887.1(-1),end()|neighbour_genes:AC2,end()| | aligned:1-121 (121)
+MKLFRCFKPC RGQSSNPHTS ESQERNIQTG SPIYTVSSNY QESRTSRMLD FSTSLTPEGL PIFTQTFRQP KTPMPSRITS
+PKMVIIVNPG STRCLGVQRQ IKTTSTTTPS MRDVWKRLSQ L
+
+>ID:YP_008400132.1 |[Capraria yellow spot Yucatan virus]||Capraria-yellow-spot-Yucatan-virus_taxid_1311277.gbk|AC4|354|NC_022007(2624):2071-2424:-1 ^GeneID:16536394^ Capraria yellow spot Yucatan virus segment DNA-A, complete sequence.|neighbours:ID:YP_008400131.1(-1),end()|neighbour_genes:AC1,end()| | aligned:9-116 (117)
+MPSVIYPRMK LFRCFNLCTG QSSSPYTYES QERNIQTGSP IYTVSSNSPA SPTSRMLDFS TLLTPEGLPV FTQISKLPKT
+PTPSEITSPK RVIIVNPGSI RCLGVPKPIR TTSTTTS
+
+>ID:YP_009506383.1 |[Chenopodium leaf curl virus]||Chenopodium-leaf-curl-virus_taxid_1032478.gbk|AC4|366|NC_038440(2626):2037-2402:-1 ^GeneID:37617250^ Chenopodium leaf curl virus, complete genome.|neighbours:ID:YP_009506382.1(-1),end()|neighbour_genes:Rep/AC1,end()| | aligned:1-121 (121)
+MKLFSCFNPC LGQSSNLHTS ESQERNTQMG SLIYTVSSNS PVSPTSRMLD FSTSLTPEGL PDFTRTSKAL KTPTPSRITS
+PRKVIIVNPD NTKCLGVQRR IKTTCITTLL MQLLRERLST L
+
+>ID:YP_009507989.1 |[Cotton chlorotic spot virus]||Cotton-chlorotic-spot-virus_taxid_1396815.gbk|AC1|366|NC_038794(2670):2089-2454:-1 ^GeneID:37619198^ Cotton chlorotic spot virus isolate Brazil:CampinaGrandeB012:2009 segment DNA-A, complete sequence.|neighbours:ID:YP_009507988.1(-1),end()|neighbour_genes:AC1,end()| | aligned:1-121 (121)
+MKFFKCFKIY SGESSNRHTS GWPERNTVTE THISTVLSNY QESQTSRMLG FSTLLTPEGL PVFTQTYNRP KTPMPSKITS
+PKEVIFVNPD NTNHMGVPRP IKMTSTETLS IRELRRRLLT L
+
+>ID:YP_009508884.1 |[Euphorbia mosaic Peru virus]||Euphorbia-mosaic-Peru-virus_taxid_2169733.gbk|AC4|366|NC_039082(2600):2028-2393:-1 ^GeneID:37620418,InterPro:IPR002488,UniProtKB/TrEMBL:A9JPY4^ Euphorbia mosaic virus Peru DNA-A, complete genome.|neighbours:ID:YP_009508883.1(-1),end()|neighbour_genes:AC1,end()| | aligned:1-121 (121)
+MRLCSCFGTC HGLSSSPRTS ESLGNNTPMG SPISTVLFNS PASPISRMLD FSTSLTPDGL PDSIQMSKLQ KTPTPSRITS
+PRRVIIVNPD STKCLGVPSP IKTMSITTPS MQQLQERLST S
+
+>ID:NP_066186.1 |[Horseradish curly top virus]||Horseradish-curly-top-virus_taxid_46448.gbk|C4|366|NC_002543(3080):2524-2889:-1 ^GeneID:911819^ Horseradish curly top virus, complete genome.|neighbours:ID:NP_066185.1(-1),end()|neighbour_genes:C1,end()| | aligned:1-121 (121)
+MKCFNCFKTS TGQSSNQHIS ESPPRDTPTE HRTSTALYNF QESPTSRTAD FSTLLTPNGV PLSILMSNQP KTPMPSRITS
+PKKVIIVNPD NTRSLGEQKQ TRTPSTTTPS MQEVYERLLT S
+
+>ID:YP_009507996.1 |[Jacquemontia mosaic Yucatan virus]||Jacquemontia-mosaic-Yucatan-virus_taxid_1198450.gbk|AC4|381|NC_038796(2602):2008-2388:-1 ^GeneID:37619208^ Jacquemontia mosaic Yucatan virus segment DNA-A, complete sequence.|neighbours:ID:YP_009507995.1(-1),end()|neighbour_genes:AC1,end()| | aligned:1-126 (126)
+MSWNCFRICH GQSSVQHTSE SPERYTLTET PISTSSFNFL ENQTSRMNDF STYLTHQGLP LSTLISKQPK TPTPSRITSP
+KRVIIVNPDN TRCLGQQEQT RRTYTTTPFT QSQWRQLLQS LRQGIQ
+
+>ID:YP_009666521.1 |[Jacquemontia yellow vein virus]||Jacquemontia-yellow-vein-virus_taxid_1982675.gbk|AC4|366|NC_043526(2585):2008-2373:-1 ^GeneID:40526795^ Jacquemontia yellow vein virus isolate 1915 clone 1 segment DNA-A, complete sequence.|neighbours:ID:YP_009666520.1(-1),end()|neighbour_genes:AC1,end()| | aligned:1-121 (121)
+MKLFRCFNPY HGQLSNPHTS ESPERNMPMG SLTYTASSNY RGSPTSRMLD FSTSLTQEGL PIFTQISRQP KTPTPSRITS
+PKKVIIVNPD CTRCLGEQSQ TKTTSTTTLS MHLVRERLST L
+
+>ID:YP_003828908.1 |[Melon chlorotic mosaic virus]||Melon-chlorotic-mosaic-virus_taxid_180399.gbk|AC4|366|NC_014380(2628):2051-2416:-1 ^GeneID:9519096^ Melon chlorotic mosaic virus DNA-A, complete genome.|neighbours:ID:YP_003828907.1(-1),end()|neighbour_genes:AC1,end()| | aligned:1-121 (121)
+MKLLRCFKNW HGQLSNRNIS ESQERNTPTA LHTYTVSYSY PESRTSRMQD FSTLLTPEGL PVFTQTFRQP KTPTPSRITS
+PKKVIIVNPA NIRCLGVQSP IKTTCSIMPS MPELQKRLSQ L
+
+>ID:YP_009508017.1 |[Rhynchosia golden mosaic Sinaloa virus]||Rhynchosia-golden-mosaic-Sinaloa-virus_taxid_1513519.gbk|AC4|363|NC_038802(2578):2001-2363:-1 ^GeneID:37619233^ Rhynchosia golden mosaic Sinaloa virus segment A, complete sequence.|neighbours:ID:YP_009508016.1(-1),end()|neighbour_genes:AC1, Rep,end()| | aligned:1-119 (120)
+MRLFSCFSRC HGQSSNPHTY VSQESNIQTG SLIYTVSSNY QESPTSRMLD FSTSLTPEGL PIFTQTFRRP KTPMPSRITS
+PKMVIIVNPD NTKYLGVQKQ IRTMSTITQL MQQVCKRLSP
+
+>ID:YP_009506480.1 |[Sida golden mosaic Lara virus]|Venezuela:Lara:M1:2009|Sida-golden-mosaic-Lara-virus_taxid_1002681.gbk|AC4|396|NC_038459(2633):2025-2420:-1 ^GeneID:37617366^ Sida golden mosaic Lara virus strain Venezuela:Lara:M1:2009 segment DNA-A, complete sequence.|neighbours:ID:YP_009506479.1(-1),end()|neighbour_genes:AC1,end()| | aligned:1-131 (131)
+MKLFKCFKPC RGQSSNQRTS ESHERNIMTA SHTSTVSSSY QGSQTSRMPD SLTLITPEDL HHVTPISSQP MTPMPSRITS
+PRRVIIVNPD NTRFLGVPSQ TKTTFITTPS MQQVWERLLT LSKLEIQKRS W
+
+>ID:YP_009506485.1 |[Sida yellow leaf curl virus]||Sida-yellow-leaf-curl-virus_taxid_536083.gbk|AC4|396|NC_038461(2664):2057-2452:-1 ^GeneID:37617378^ Sida yellow leaf curl virus isolate BR:Coi3:07 segment DNA-A, complete sequence.|neighbours:ID:YP_009506484.1(-1),end()|neighbour_genes:Rep,end()| | aligned:1-131 (131)
+MKLFRCFNPF HGQSLNPHTY ESPERSTPTA SLIFTVLSNS PASPTSRMLD FSTSLTPDGL PDFTPIFRQP KTPTPSRITS
+PKRVIIVNPD STRCLGEQRG IKTTYTITPS MQLLRERLLT LSKPETPRLS S
+
+>ID:YP_003966138.1 |[Spinach severe curly top virus]|Arizona:09-10-8:2009|Spinach-severe-curly-top-virus_taxid_873160.gbk|C4|363|NC_014631(3065):2504-2866:-1 ^GeneID:9845985^ Spinach severe curly top virus, complete genome.|neighbours:ID:YP_003966137.1(-1),end()|neighbour_genes:C1,end()| | aligned:1-120 (120)
+MKYFNCFKTF HGQSSNQHTL ESPQRDMQME HHISTVSYNY PESPTSRTAD FSTLLTPGGV PITILMSKQP RTPMQSTITS
+PKKVIIVNPD NTRSLAVQKP IKTTSTTTQL TQEVSKRLLR
+
+>ID:YP_001960956.1 |[Tomato common mosaic virus]||Tomato-common-mosaic-virus_taxid_536084.gbk|AC4|270|NC_010835(2560):1938-2207:-1 ^GeneID:6395830^ Tomato common mosaic virus DNA-A, complete genome.|neighbours:ID:YP_001960955.1(-1),end()|neighbour_genes:Rep,end()| | aligned:1-85 (89)
+MLGFSTSLTP DGLPDFTQMF RQPKTPMQSR ITSPKKVIIV NPDSTRCLGE QRQIKTTCTT TPSMHLLRER LSTLSGPETP
+RLSSSTITM
+
+>ID:YP_007438889.1 |[Tomato rugose yellow leaf curl virus]|A|Tomato-rugose-yellow-leaf-curl-virus_taxid_1162280.gbk|AC4|366|NC_020257(2685):2099-2464:-1 ^GeneID:14564154^ Tomato rugose yellow leaf curl virus isolate U2 clone 1 segment DNA_A, complete sequence.|neighbours:ID:YP_007438888.1(-1),end()|neighbour_genes:AC1,end()| | aligned:1-121 (121)
+MKLFKCFKPF HGQSSNPHMS ESQERNTQTD IPTFIVSSSY PESLTSRMLD FSTLLTPEGL PIFTQMSRQP KTPTPSRITS
+PKRVIIVNPA NIKCLGVQSQ IKMTSITTPS MQEELQKLLL L
+
+>ID:YP_009506562.1 |[Vigna yellow mosaic virus]||Vigna-yellow-mosaic-virus_taxid_1312724.gbk|AC4|330|NC_038475(2602):2051-2380:-1 ^GeneID:37617472^ Vigna yellow mosaic virus isolate Yautepec-2007 segment A, complete sequence.|neighbours:ID:YP_009506561.1(-1),end()|neighbour_genes:AC1,end()| | aligned:1-109 (109)
+MMLFRCFRVS RGQSSNRHTY EFPERNMQMD SHISTVSFNY PVSPASRMLD FSTSLTPEGL PVFTQTFKQP KIQMQSRITS
+PKRVIIVNPG STKCLGQQNR TKTTSTITQ
+
+>ID:YP_009310061.1 |[Wissadula yellow mosaic virus]||Wissadula-yellow-mosaic-virus_taxid_1904884.gbk|AC4|396|NC_031451(2621):2004-2399:-1 ^GeneID:29344974^ Wissadula yellow mosaic virus isolate ALW35_5B segment DNA-A, complete sequence.|neighbours:ID:YP_009310060.1(-1),end()|neighbour_genes:REP,end()| | aligned:1-131 (131)
+MKLFRCFMPS NGQSSNQHTS ESQERNIQTV SHTFTVSSSS PESQISRMLD FSTSLTQEGL PVFTQMYKQP KTPTPSRITS
+PKRVIIVNPD NTQCLGEQDQ IKTTSFTTPS MHQVWAKLLK LSKQEIQRRS W

@@ -1,0 +1,73 @@
+cluster 1_Clink size=8 taxa=8 file: 1_Clink.faa dnafile: 1_Clink.fna
+: Black-medic-leaf-roll-virus_taxid_2038729.gbk
+: Cow-vetch-latent-virus_taxid_2056780.gbk
+: Faba-bean-necrotic-stunt-virus_taxid_283824.gbk
+: Faba-bean-necrotic-yellows-virus_taxid_59817.gbk
+: Faba-bean-yellow-leaf-virus_taxid_1137801.gbk
+: Milk-vetch-dwarf-virus_taxid_67585.gbk
+: Pea-necrotic-yellow-dwarf-virus_taxid_753670.gbk
+: Pea-yellow-stunt-virus_taxid_1436892.gbk
+cluster 2_U1 size=8 taxa=8 file: 2_U1.faa dnafile: 2_U1.fna
+: Black-medic-leaf-roll-virus_taxid_2038729.gbk
+: Cow-vetch-latent-virus_taxid_2056780.gbk
+: Faba-bean-necrotic-stunt-virus_taxid_283824.gbk
+: Faba-bean-necrotic-yellows-virus_taxid_59817.gbk
+: Faba-bean-yellow-leaf-virus_taxid_1137801.gbk
+: Milk-vetch-dwarf-virus_taxid_67585.gbk
+: Pea-necrotic-yellow-dwarf-virus_taxid_753670.gbk
+: Pea-yellow-stunt-virus_taxid_1436892.gbk
+cluster 3_M-Rep size=8 taxa=8 Pfam=PF02407,PF00910, file: 3_M-Rep.faa dnafile: 3_M-Rep.fna
+: Black-medic-leaf-roll-virus_taxid_2038729.gbk
+: Cow-vetch-latent-virus_taxid_2056780.gbk
+: Faba-bean-necrotic-stunt-virus_taxid_283824.gbk
+: Faba-bean-necrotic-yellows-virus_taxid_59817.gbk
+: Faba-bean-yellow-leaf-virus_taxid_1137801.gbk
+: Milk-vetch-dwarf-virus_taxid_67585.gbk
+: Pea-necrotic-yellow-dwarf-virus_taxid_753670.gbk
+: Pea-yellow-stunt-virus_taxid_1436892.gbk
+cluster 4_MP size=8 taxa=8 file: 4_MP.faa dnafile: 4_MP.fna
+: Black-medic-leaf-roll-virus_taxid_2038729.gbk
+: Cow-vetch-latent-virus_taxid_2056780.gbk
+: Faba-bean-necrotic-stunt-virus_taxid_283824.gbk
+: Faba-bean-necrotic-yellows-virus_taxid_59817.gbk
+: Faba-bean-yellow-leaf-virus_taxid_1137801.gbk
+: Milk-vetch-dwarf-virus_taxid_67585.gbk
+: Pea-necrotic-yellow-dwarf-virus_taxid_753670.gbk
+: Pea-yellow-stunt-virus_taxid_1436892.gbk
+cluster 5_NSP size=8 taxa=8 Pfam=PF05629, file: 5_NSP.faa dnafile: 5_NSP.fna
+: Black-medic-leaf-roll-virus_taxid_2038729.gbk
+: Cow-vetch-latent-virus_taxid_2056780.gbk
+: Faba-bean-necrotic-stunt-virus_taxid_283824.gbk
+: Faba-bean-necrotic-yellows-virus_taxid_59817.gbk
+: Faba-bean-yellow-leaf-virus_taxid_1137801.gbk
+: Milk-vetch-dwarf-virus_taxid_67585.gbk
+: Pea-necrotic-yellow-dwarf-virus_taxid_753670.gbk
+: Pea-yellow-stunt-virus_taxid_1436892.gbk
+cluster 6_U4 size=9 taxa=8 file: 6_U4.faa dnafile: 6_U4.fna
+: Black-medic-leaf-roll-virus_taxid_2038729.gbk
+: Cow-vetch-latent-virus_taxid_2056780.gbk
+: Faba-bean-necrotic-stunt-virus_taxid_283824.gbk
+: Faba-bean-necrotic-yellows-virus_taxid_59817.gbk
+: Faba-bean-necrotic-yellows-virus_taxid_59817.gbk
+: Faba-bean-yellow-leaf-virus_taxid_1137801.gbk
+: Milk-vetch-dwarf-virus_taxid_67585.gbk
+: Pea-necrotic-yellow-dwarf-virus_taxid_753670.gbk
+: Pea-yellow-stunt-virus_taxid_1436892.gbk
+cluster 7_CP size=8 taxa=8 Pfam=PF04660, file: 7_CP.faa dnafile: 7_CP.fna
+: Black-medic-leaf-roll-virus_taxid_2038729.gbk
+: Cow-vetch-latent-virus_taxid_2056780.gbk
+: Faba-bean-necrotic-stunt-virus_taxid_283824.gbk
+: Faba-bean-necrotic-yellows-virus_taxid_59817.gbk
+: Faba-bean-yellow-leaf-virus_taxid_1137801.gbk
+: Milk-vetch-dwarf-virus_taxid_67585.gbk
+: Pea-necrotic-yellow-dwarf-virus_taxid_753670.gbk
+: Pea-yellow-stunt-virus_taxid_1436892.gbk
+cluster 8_U2 size=8 taxa=8 file: 8_U2.faa dnafile: 8_U2.fna
+: Black-medic-leaf-roll-virus_taxid_2038729.gbk
+: Cow-vetch-latent-virus_taxid_2056780.gbk
+: Faba-bean-necrotic-stunt-virus_taxid_283824.gbk
+: Faba-bean-necrotic-yellows-virus_taxid_59817.gbk
+: Faba-bean-yellow-leaf-virus_taxid_1137801.gbk
+: Milk-vetch-dwarf-virus_taxid_67585.gbk
+: Pea-necrotic-yellow-dwarf-virus_taxid_753670.gbk
+: Pea-yellow-stunt-virus_taxid_1436892.gbk

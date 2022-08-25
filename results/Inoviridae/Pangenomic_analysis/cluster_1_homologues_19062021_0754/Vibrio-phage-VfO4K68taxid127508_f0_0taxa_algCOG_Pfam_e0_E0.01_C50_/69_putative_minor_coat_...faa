@@ -1,0 +1,6 @@
+>ID:YP_002925194.1 |[Vibrio phage VEJphi]||Vibrio-phage-VEJphi_taxid_642111.gbk|putative minor coat ..|315|NC_012757(6842):3436-3750:1 ^GeneID:7944297^ Vibrio phage VEJphi, complete genome.|neighbours:ID:YP_002925193.1(1),ID:YP_002925195.1(1)|neighbour_genes:minor capsid protein,putative assembly pr..| | aligned:1-104 (104)
+MDWVIDLFNKLIEFLYRLLITLIDMLKDVFLWLIDGVLSAVNLLLEKALSLIEPMDVSPYLTGIPSGAAWVISAIGIPQCLGMIMSAIIIRILLQLVPFTRLGS
+>ID:NP_542360.1 |[Vibrio phage VSK]||Vibrio-phage-VSK_taxid_181604.gbk|putative minor coat ..|315|NC_003327(6882):4705-5019:1 ^GeneID:955952^ Vibrio phage VSK, complete genome.|neighbours:ID:NP_542359.1(1),ID:NP_542361.2(1)|neighbour_genes:memb3,VSK-tox1| | aligned:1-104 (104)
+MDWVIDLFNKLIEFLYRLLITLIDMLKDVFLWLIDGVLSAVNLLLEKALSLIEPMDVSSYLTGIPSGAAWVISAIGIPQCLGMIMSAIIVRILLQLVPFTRLGS
+>ID:NP_695194.1 |[Vibrio virus fs1]||Vibrio-virus-fs1_taxid_70203.gbk|putative minor coat ..|315|NC_004306(6340):1725-2039:1 ^GeneID:955577^ Vibrio phage fs1, complete genome.|neighbours:ID:NP_695193.1(1),ID:NP_695195.1(1)|neighbour_genes:hypothetical protein,putative assembly pr..| | aligned:1-104 (104)
+MDWVIDLFNKLIEFLYRLLITLIDMLKDVFLWLIDGVLSAVNLLLEKALSLIEPMDVSSYLTGIPSGAAWVISAIGIPQCLGMIMSAIIVRILFQLVPFTRLGS

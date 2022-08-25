@@ -1,0 +1,15 @@
+"","integral component of membrane","structural molecule activity","viral capsid","DNA replication","viral process","transport of virus in host, cell to cell","modulation by virus of host process","negative regulation of gene silencing by RNA","host cell cytoplasm","endodeoxyribonuclease activity, producing 5'-phosphomonoesters"
+"1_AV2",NA,NA,NA,NA,NA,NA,TRUE,TRUE,TRUE,NA
+"2_AV1",NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA
+"3_AC3",NA,NA,NA,NA,TRUE,NA,NA,NA,NA,NA
+"4_AC2",NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA
+"566_rep",NA,NA,NA,TRUE,NA,NA,NA,NA,NA,TRUE
+"68_av2",NA,NA,NA,NA,NA,NA,TRUE,TRUE,TRUE,NA
+"172_AC1",NA,NA,NA,NA,NA,NA,NA,NA,NA,TRUE
+"432_capsid_protein",NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA
+"564_V1",TRUE,NA,NA,NA,NA,TRUE,NA,NA,NA,NA
+"565_V2",NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA
+"795_c1",NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA
+"863_truncated_V2",NA,NA,NA,NA,NA,NA,TRUE,TRUE,TRUE,NA
+"880_AC4",NA,NA,NA,TRUE,NA,NA,NA,NA,NA,NA
+"1114_V1",NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA

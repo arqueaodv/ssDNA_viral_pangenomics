@@ -1,0 +1,4 @@
+7_AC4.faa
+12_AC4.faa
+30_AV2.faa
+66_orf7.faa

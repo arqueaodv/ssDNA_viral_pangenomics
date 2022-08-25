@@ -1,0 +1,23 @@
+cluster 1_capsid_protein size=6 taxa=6 file: 1_capsid_protein.faa dnafile: 1_capsid_protein.fna
+: Faeces-associated-gemycircularvirus-7_taxid_1391036.gbk
+: Gemycircularvirus-sp_taxid_1983771.gbk
+: Human-associated-gemyvongvirus-1_taxid_1985415.gbk
+: Mosquito-VEM-virus-SDBVL-G_taxid_1034805.gbk
+: Pacific-flying-fox-faeces-associated-gemycircularvirus-12_taxid_1795991.gbk
+: Sewage-associated-gemycircularvirus-7a_taxid_1519402.gbk
+cluster 2_replication_associat.. size=3 taxa=3 Pfam=PF00799,PF08283, file: 2_replication_associat...faa dnafile: 2_replication_associat...fna
+: Faeces-associated-gemycircularvirus-7_taxid_1391036.gbk
+: Mosquito-VEM-virus-SDBVL-G_taxid_1034805.gbk
+: Pacific-flying-fox-faeces-associated-gemycircularvirus-12_taxid_1795991.gbk
+cluster 3_Rep size=5 taxa=4 Pfam=PF00799, file: 3_Rep.faa dnafile: 3_Rep.fna
+: Gemycircularvirus-sp_taxid_1983771.gbk
+: Human-associated-gemyvongvirus-1_taxid_1985415.gbk
+: Pacific-flying-fox-faeces-associated-gemycircularvirus-12_taxid_1795991.gbk
+: Sewage-associated-gemycircularvirus-7a_taxid_1519402.gbk
+: Sewage-associated-gemycircularvirus-7a_taxid_1519402.gbk
+cluster 7_ORF3 size=1 taxa=1 file: 7_ORF3.faa dnafile: 7_ORF3.fna
+: Human-associated-gemyvongvirus-1_taxid_1985415.gbk
+cluster 9_hypothetical_protein size=1 taxa=1 file: 9_hypothetical_protein.faa dnafile: 9_hypothetical_protein.fna
+: Mosquito-VEM-virus-SDBVL-G_taxid_1034805.gbk
+cluster 10_Rep2 size=1 taxa=1 file: 10_Rep2.faa dnafile: 10_Rep2.fna
+: Mosquito-VEM-virus-SDBVL-G_taxid_1034805.gbk

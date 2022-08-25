@@ -1,0 +1,16 @@
+71_non-structural_prote...faa
+2_Putative_nonstructur...faa
+329_ORF5.faa
+148_NP1.faa
+196_putative_structural_...faa
+234_NS3.faa
+331_ORF4.faa
+146_VP.faa
+354_hypothetical_protein.faa
+468_structural_protein.faa
+322_putative_structural_...faa
+3_Putative_nonstructur...faa
+428_NS3.faa
+320_putative_nonstructur...faa
+145_NS2.faa
+480_NS3.faa

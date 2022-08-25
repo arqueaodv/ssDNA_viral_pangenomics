@@ -1,0 +1,64 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_1_homologues_19062021_0804/Adeno-associated-virus--1taxid85106_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_/,cluster_1_homologues_19062021_0804/Adeno-associated-virus--1taxid85106_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_
+# -o cluster_1_homologues_19062021_0804_intersection
+# -I 
+# -r 0
+1_Putative_nonstructur...faa
+312_structural_protein.faa
+10_nonstructural_protei...faa
+14_Rep_40_protein.faa
+89_NS1.faa
+69_NS2.faa
+91_hypothetical_protein.faa
+211_VP.faa
+109_polyprotein.faa
+183_7.5-kDa.faa
+324_NS3.faa
+27_hypothetical_protein.faa
+225_putative_nonstructur...faa
+132_putative_structural_...faa
+238_ORF2.faa
+129_putative_nonstructur...faa
+224_putative_nonstructur...faa
+244_putative_nonstructur...faa
+185_X.faa
+241_putative_structural_...faa
+141_putative_non-structu...faa
+28_hypothetical_protein.faa
+56_non-structural_prote...faa
+54_non-structural_prote...faa
+111_hypothetical_protein.faa
+18_assembly_activating_...faa
+131_putative_structural_...faa
+280_SAT.faa
+29_hypothetical_protein.faa
+328_VP1.faa
+73_orf4.faa
+166_NS2.faa
+20_X_gene.faa
+120_NS2.faa
+116_NP1.faa
+5_Putative_structural_...faa
+9_VP1.faa
+70_capsid_protein_VP.faa
+199_NS1.faa
+36_Cap.faa
+213_VP.faa
+4_Putative_structural_...faa
+6_NS3.faa
+125_cap.faa
+146_MARF.faa
+46_VP2.faa
+17_major_coat_protein_V...faa
+3_Putative_nonstructur...faa
+290_NS2.faa
+187_11-kDa.faa
+275_PT4.faa
+8_NS2.faa
+11_capsid_protein.faa
+331_NP.faa
+223_putative_nonstructur...faa
+2_Putative_nonstructur...faa
+40_NP1.faa
+212_VP.faa
+# intersection size = 58 clusters

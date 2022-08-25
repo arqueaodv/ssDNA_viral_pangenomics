@@ -1,0 +1,6 @@
+>ID:YP_271919.1 |[Duck circovirus]||Duck-circovirus_taxid_324685.gbk|ORFC2|237|NC_007220(1991):163-399:-1 ^GeneID:3562295^ Duck circovirus, complete genome.|neighbours:ID:YP_271918.1(1),ID:YP_271920.1(-1)|neighbour_genes:Rep,hypothetical protein|
+MSLRPDQRIDPWRLVHQLEGMSTLWRNILHCLRQIPGHERARLFLPATPQGRQLAHYFGGSGIPEGEACRSRPSPRRR
+>ID:NP_150369.1 |[Goose circovirus]||Goose-circovirus_taxid_146032.gbk|hypothetical protein|300|NC_003054(1821):128-427:-1 ^GeneID:1732846^ Goose circovirus, complete genome.|neighbours:ID:NP_150368.1(1),ID:NP_150370.1(-1)|neighbour_genes:rep,capsid|
+MPRRGDHLSDLFGLVHRLEGMSTLWNNILHYLRQIPELETARLFLPGSLQAQQLSHSFADSGIPAGEVCLLSLLSLRRLSRTCSYPDCRTQLRHSNLQR
+>ID:YP_164518.1 |[Muscovy duck circovirus]||Muscovy-duck-circovirus_taxid_257468.gbk|ORFC2|264|NC_006561(1988):136-399:-1 ^GeneID:3196997^ Muscovy duck circovirus, complete genome.|neighbours:ID:YP_164517.1(1),ID:YP_164519.1(-1)|neighbour_genes:rep,ORFC1|
+MSHRRAGRIDPYRLVHQLSGMSTLWSNILRYLRQIPGHERARLFLPATLQGRQLSHCFGDSGIPEGEVYRSRPFPLRRLRTCNCRAC

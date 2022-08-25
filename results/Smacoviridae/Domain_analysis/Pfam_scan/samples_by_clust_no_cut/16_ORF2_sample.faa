@@ -1,0 +1,15 @@
+>ID:YP_009508832.1 |[Camel associated drosmacovirus 1]||Camel-associated-drosmacovirus-1_taxid_2169876.gbk|ORF2|354|NC_039057(2575):1009-1362:-1 ^GeneID:37620343^ Camel associated drosmacovirus 1, complete genome.|neighbours:ID:YP_009508831.1(1),ID:YP_009508833.1(-1)|neighbour_genes:rep,cap| | aligned:20-100 (117)
+MSWSYLYWGQ NVARNSPSWT KGNTNQWRYN MSGVPFVGDW IRAADQNQWR QDYMDNYGVG WEDVKYPSMV PGAGSYAHAS
+TNLIAGSGIV SKNLLGLYRS GRPYKAVPRG GRSVYNR
+
+>ID:YP_009508835.1 |[Camel associated drosmacovirus 2]||Camel-associated-drosmacovirus-2_taxid_2169877.gbk|ORF2|390|NC_039058(2580):1025-1414:-1 ^GeneID:37620347^ Camel associated drosmacovirus 2, complete genome.|neighbours:ID:YP_009508834.1(1),ID:YP_009508836.1(-1)|neighbour_genes:rep,cap| | aligned:49-129 (129)
+MTTIEDVYNW VARNHSPWLK YAQGQQSFVD ATGEGLGHIG SDMDYLGTLI GLSESDKKQI EYALSGFPVI GDVIDARDGY
+NYMSDYLRNT GLTWGDLRYP SRVTGAGGFG RAVTSGYRFV SKNLADLYR
+
+>ID:YP_009508848.1 |[Camel associated porprismacovirus 1]||Camel-associated-porprismacovirus-1_taxid_2170105.gbk|cap|369|NC_039064(2565):908-1276:-1 ^GeneID:37620366^ Camel associated porprismacovirus 1 isolate DcSCV_c1378, complete genome.|neighbours:ID:YP_009508847.1(1),ID:YP_009508849.1(-1)|neighbour_genes:rep,ORF2| | aligned:54-122 (122)
+MYPILPLLVI LSMPMVFLSI LSWRNDMASY RQYRHQSSSN FGRPSSMRFD LDPRTRYELS KVPFIGDAFR YMDQTKYYND
+YLASRGMTWN DVKYPALLSG SGAYGVAASG YRVSKNFLKL YR
+
+>ID:YP_006331070.1 |[Pig stool associated circular ssDNA virus GER2011]||Pig-stool-associated-circular-ssDNA-virus-GER2011_taxid_1114942.gbk|hypothetical protein|327|NC_017916(2459):1806-2132:1 ^GeneID:12869773^ Pig stool associated circular ssDNA virus GER2011, complete genome.|neighbours:ID:YP_006331069.1(1),end()|neighbour_genes:hypothetical protein,end()| | aligned:29-108 (108)
+MGWFSDGIDW YNKYINGASN AGWKAVMDLV GLDQADANRA QSLLSDVPVI GDVLQLQQRQ EQISDYLHNK DMDWSDVKYP
+ALIGGGAGRS LTSSKNFVSK NIEKLYRD

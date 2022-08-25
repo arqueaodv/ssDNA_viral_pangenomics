@@ -1,0 +1,2 @@
+11_hypothetical_protein.faa
+13_putative_replication-associated_protein.faa

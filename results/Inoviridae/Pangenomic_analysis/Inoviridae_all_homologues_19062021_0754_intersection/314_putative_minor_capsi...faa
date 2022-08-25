@@ -1,0 +1,6 @@
+>ID:YP_002925192.1 |[Vibrio phage VEJphi]||Vibrio-phage-VEJphi_taxid_642111.gbk|putative minor capsi..|90|NC_012757(6842):1840-1929:1 ^GeneID:7944295^ Vibrio phage VEJphi, complete genome.|neighbours:ID:YP_002925191.1(1),ID:YP_002925193.1(1)|neighbour_genes:major capsid protein,minor capsid protein|
+MLIALHDIQLIIFALLGGMSGFIAALNFR
+>ID:NP_835476.1 |[Vibrio phage VGJ]||Vibrio-phage-VGJ_taxid_223524.gbk|hypothetical protein|90|NC_004736(7542):1839-1928:1 ^GeneID:1260522^ Vibrio phage VGJphi, complete genome.|neighbours:ID:NP_835475.1(1),ID:NP_835477.1(1)|neighbour_genes:putative major capsi..,putative adsorption ..|
+MLIALHDIQLIIFALLGGMSGFIAALNFR
+>ID:NP_695191.1 |[Vibrio virus fs1]||Vibrio-virus-fs1_taxid_70203.gbk|hypothetical protein|90|NC_004306(6340):129-218:1 ^GeneID:955574^ Vibrio phage fs1, complete genome.|neighbours:ID:NP_695190.1(1),ID:NP_695192.1(1)|neighbour_genes:putative major coat ..,hypothetical protein|
+MLIALHDIQLIIFALLGGMSGFIAALNFR

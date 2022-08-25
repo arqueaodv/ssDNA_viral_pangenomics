@@ -1,0 +1,7 @@
+1_hypothetical_protein.faa
+2_hypothetical_protein.faa
+4_replication-associat...faa
+5_hypothetical_protein.faa
+7_hypothetical_protein.faa
+8_hypothetical_protein.faa
+14_hypothetical_protein.faa

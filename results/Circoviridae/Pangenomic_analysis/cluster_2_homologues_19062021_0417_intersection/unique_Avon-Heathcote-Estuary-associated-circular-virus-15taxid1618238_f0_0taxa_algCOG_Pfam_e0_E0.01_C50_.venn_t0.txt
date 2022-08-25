@@ -1,0 +1,6 @@
+23_hypothetical_protein.faa
+38_putative_Rep_protein.faa
+48_hypothetical_protein.faa
+27_replication-associat...faa
+43_hypothetical_protein.faa
+60_capsid_protein.faa

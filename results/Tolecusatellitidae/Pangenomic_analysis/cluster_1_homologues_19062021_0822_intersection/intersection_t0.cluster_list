@@ -1,0 +1,8 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_1_homologues_19062021_0822/Ageratum-leaf-curl-betasatellitetaxid1175505_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_
+# -o cluster_1_homologues_19062021_0822_intersection
+# -I 
+# -r 0
+46_c1.faa
+1_C1.faa
+# intersection size = 2 clusters

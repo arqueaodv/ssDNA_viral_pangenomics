@@ -1,0 +1,91 @@
+cluster	prevalence	term	what	familia	algoritmo
+1114_V1	0.4048582995951417	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+1114_V1	0.4048582995951417	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+172_AC1	0.4048582995951417	DNA replication [GO:0006260]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+172_AC1	0.4048582995951417	viral process [GO:0016032]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+172_AC1	0.4048582995951417	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+2_AV1	98.38056680161942	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+2_AV1	98.38056680161942	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+3_AC3	98.78542510121457	viral process [GO:0016032]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+3_AC3	98.78542510121457	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+4_AC2	95.95141700404858	viral process [GO:0016032]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+565_V2	0.8097165991902834	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+565_V2	0.8097165991902834	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+566_rep	98.78542510121457	DNA replication [GO:0006260]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+566_rep	98.78542510121457	viral process [GO:0016032]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+566_rep	98.78542510121457	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+566_rep	98.78542510121457	modulation by virus of host G1/S transition checkpoint [GO:0039645]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+57_V3	0.4048582995951417	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+6_AC4	94.33198380566802	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+6_AC4	94.33198380566802	viral process [GO:0016032]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+61_C3	0.4048582995951417	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+795_c1	0.4048582995951417	DNA replication [GO:0006260]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+795_c1	0.4048582995951417	viral process [GO:0016032]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+795_c1	0.4048582995951417	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+880_AC4	0.4048582995951417	DNA replication [GO:0006260]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+880_AC4	0.4048582995951417	viral process [GO:0016032]	bp	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+1114_V1	0.4048582995951417	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+1114_V1	0.4048582995951417	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+172_AC1	0.4048582995951417	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+2_AV1	98.38056680161942	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+2_AV1	98.38056680161942	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+2_AV1	98.38056680161942	viral capsid [GO:0019028]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+3_AC3	98.78542510121457	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+4_AC2	95.95141700404858	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+4_AC2	95.95141700404858	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+4_AC2	95.95141700404858	viral capsid [GO:0019028]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+4_AC2	95.95141700404858	cytoplasm [GO:0005737]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+55_V4	0.4048582995951417	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+565_V2	0.8097165991902834	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+565_V2	0.8097165991902834	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+566_rep	98.78542510121457	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+566_rep	98.78542510121457	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+57_V3	0.4048582995951417	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+6_AC4	94.33198380566802	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+6_AC4	94.33198380566802	host cell plasma membrane [GO:0020002]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+6_AC4	94.33198380566802	membrane [GO:0016020]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+61_C3	0.4048582995951417	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+795_c1	0.4048582995951417	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+880_AC4	0.4048582995951417	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+1114_V1	0.4048582995951417	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+1114_V1	0.4048582995951417	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+1114_V1	0.4048582995951417	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+172_AC1	0.4048582995951417	ATP binding [GO:0005524]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+172_AC1	0.4048582995951417	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+172_AC1	0.4048582995951417	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+172_AC1	0.4048582995951417	helicase activity [GO:0004386]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+172_AC1	0.4048582995951417	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+172_AC1	0.4048582995951417	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+172_AC1	0.4048582995951417	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+2_AV1	98.38056680161942	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+2_AV1	98.38056680161942	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+2_AV1	98.38056680161942	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+4_AC2	95.95141700404858	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+4_AC2	95.95141700404858	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+4_AC2	95.95141700404858	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+565_V2	0.8097165991902834	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+565_V2	0.8097165991902834	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+566_rep	98.78542510121457	ATP binding [GO:0005524]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+566_rep	98.78542510121457	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+566_rep	98.78542510121457	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+566_rep	98.78542510121457	helicase activity [GO:0004386]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+566_rep	98.78542510121457	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+566_rep	98.78542510121457	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+566_rep	98.78542510121457	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+57_V3	0.4048582995951417	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+6_AC4	94.33198380566802	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+61_C3	0.4048582995951417	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+795_c1	0.4048582995951417	ATP binding [GO:0005524]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+795_c1	0.4048582995951417	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+795_c1	0.4048582995951417	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+795_c1	0.4048582995951417	helicase activity [GO:0004386]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+795_c1	0.4048582995951417	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+795_c1	0.4048582995951417	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+795_c1	0.4048582995951417	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+880_AC4	0.4048582995951417	ATP binding [GO:0005524]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+880_AC4	0.4048582995951417	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+880_AC4	0.4048582995951417	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+880_AC4	0.4048582995951417	helicase activity [GO:0004386]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+880_AC4	0.4048582995951417	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+880_AC4	0.4048582995951417	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL
+880_AC4	0.4048582995951417	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/cluster_2_homologues_19062021_0435/	OMCL

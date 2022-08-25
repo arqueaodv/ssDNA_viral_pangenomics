@@ -1,0 +1,64 @@
+VIRAL_FAMILY	Circoviridae
+PANGENOMIC_GROUP	shell
+CLUSTER_NAME	1_replication_associat...faa
+PREVALENCE	14.28571
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		DNA replication [GO:0006260]
+		protein-DNA covalent cross-linking [GO:0018142]
+		rolling circle single-stranded viral DNA replication [GO:0039684]
+		virion attachment to host cell [GO:0019062]
+		protein-DNA covalent cross-linking [GO:0018142]
+		viral protein processing [GO:0019082]
+		RNA-protein covalent cross-linking [GO:0018144]
+		pore-mediated entry of viral genome into host cell [GO:0044694]
+		suppression by virus of host translation initiation factor activity [GO:0039611]
+		protein complex oligomerization [GO:0051259]
+		induction by virus of host autophagy [GO:0039520]
+		suppression by virus of host mRNA export from nucleus [GO:0039522]
+		pore formation by virus in membrane of host cell [GO:0039707]
+		positive stranded viral RNA replication [GO:0039690]
+		DNA replication [GO:0006260]
+		transcription, DNA-templated [GO:0006351]
+	MOLECULAR_FUNCTION
+		ATP binding [GO:0005524]
+		DNA binding [GO:0003677]
+		endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]
+		metal ion binding [GO:0046872]
+		nucleotidyltransferase activity [GO:0016779]
+		RNA binding [GO:0003723]
+		RNA helicase activity [GO:0003724]
+		ribonuclease T2 activity [GO:0033897]
+		ion channel activity [GO:0005216]
+		structural molecule activity [GO:0005198]
+		RNA helicase activity [GO:0003724]
+		cysteine-type endopeptidase activity [GO:0004197]
+		RNA-directed 5'-3' RNA polymerase activity [GO:0003968]
+		RNA binding [GO:0003723]
+		endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]
+		ATP binding [GO:0005524]
+		nucleotidyltransferase activity [GO:0016779]
+		helicase activity [GO:0004386]
+		DNA binding [GO:0003677]
+		metal ion binding [GO:0046872]
+	CELLULAR_COMPONENT
+		host cell nucleus [GO:0042025]
+		host cell mitochondrial outer membrane [GO:0044193]
+		extrachromosomal circular DNA [GO:0005727]
+		integral to membrane of host cell [GO:0044385]
+		membrane [GO:0016020]
+		host cell cytoplasmic vesicle membrane [GO:0044162]
+		T=pseudo3 icosahedral viral capsid [GO:0039618]
+		viral capsid [GO:0019028]
+		host cell nucleus [GO:0042025]
+
+
+//
+
+>ID:YP_009259708.1 |[Chimpanzee faeces associated circular DNA virus 1]||Chimpanzee-faeces-associated-circular-DNA-virus-1_taxid_1676184.gbk|replication associat..|1083|NC_030466(3811):1-1083:1 ^GeneID:37627610^ Chimpanzee faeces associated circular DNA virus 1 isolate CPNG_29286, complete genome.|neighbours:start(),ID:YP_009259709.1(-1)|neighbour_genes:start(),hypothetical protein| ATGCCCTCTTGGCTCCCTTATAATACTACAGGTAGCCAGGAGGGTAAAAACAGAATGACCAAAGGTCAAATTCAGTATAGTCAAGTTTTGCTCACATATCCACAATGTGACAGAAGCAAGGAAGAACTCTTAAAGTTCATACAAGGTCTCGACGACATATGTTGCGCCATAGTCGCAAAGGAAAACCATCACGAGACAGACGGCGAACACCTACACGCATGGATAAGGTTCAATAAATCTCAGAGAATCGCAACAAGCAAATGGGGAAGTCTGTTCGACTGGGATGGTAAACACGGAGATTATCAGAAAGTCACGTGCACACAAAGGTCGATAGCAGATACCGTAACATATGTCATGAAAGACGGGGACACGCTTATATGGAATTGCAACGCAGAAGCATTGAAGTGCAAAGAAAAGACTCACATACGTAAGTACGATAACGAAAAGATACTCAACACACCGATGAAAGAACTCATCGATGAAGGAGTCATTAACGTCAAAGAAGCAGCAGCTTACCTGCGCGGCAAGCAACTATACAAGCTACTGGATAAACCTGCAGAAAAATCCAAATGCAGAGGCATCTGGGTATCAGGACGCCCCGGAACAGGCAAATCGACATGGGCACAAAAGTTCGGAAAAAGCCTAGGCGGATTCTACGAGAAAGCGCAGAACAAGTGGTGGGACGGATACGATGGAGAGAAAGTCGTTGTCATGGATGACGTTGACACCGATGCCCTGATTCATTACATGAAAATATGGGCAGACAAATTCCCCTGCAAGGGAGAGATCAAAGGATGCACCGTGTGGCTACACCACGACTGGTTCATCGTGACCTCTAACTTCACCATAGAAGAAATATGCGAAATGAAACAAGACGGATACAAATACGTCGATGCGGTGAAGCGTCGCTTCAAGGAACTACACGTTCCTGACACTGTTCAGTATCTCCAATGGGATCCTGATTTCGTCTGGGAGAATCCAGATGCTCCTGACGAAGAGCCCCATCAAGAGCCTACGGCTCCCGAACCGAAACGTCAACCAGTTGACGAGCTTTCCAACACCCTACTCGGTTCCGGCTATTAA
+
+//
+
+>ID:YP_009259708.1 |[Chimpanzee faeces associated circular DNA virus 1]||Chimpanzee-faeces-associated-circular-DNA-virus-1_taxid_1676184.gbk|replication associat..|1083|NC_030466(3811):1-1083:1 ^GeneID:37627610^ Chimpanzee faeces associated circular DNA virus 1 isolate CPNG_29286, complete genome.|neighbours:start(),ID:YP_009259709.1(-1)|neighbour_genes:start(),hypothetical protein| MPSWLPYNTTGSQEGKNRMTKGQIQYSQVLLTYPQCDRSKEELLKFIQGLDDICCAIVAKENHHETDGEHLHAWIRFNKSQRIATSKWGSLFDWDGKHGDYQKVTCTQRSIADTVTYVMKDGDTLIWNCNAEALKCKEKTHIRKYDNEKILNTPMKELIDEGVINVKEAAAYLRGKQLYKLLDKPAEKSKCRGIWVSGRPGTGKSTWAQKFGKSLGGFYEKAQNKWWDGYDGEKVVVMDDVDTDALIHYMKIWADKFPCKGEIKGCTVWLHHDWFIVTSNFTIEEICEMKQDGYKYVDAVKRRFKELHVPDTVQYLQWDPDFVWENPDAPDEEPHQEPTAPEPKRQPVDELSNTLLGSGY

@@ -1,0 +1,6 @@
+1_AV2.faa
+6_AC4.faa
+81_AC5.faa
+214_C5.faa
+234_AC5.faa
+404_C2.faa

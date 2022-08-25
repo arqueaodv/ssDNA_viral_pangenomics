@@ -1,0 +1,10 @@
+>ID:NP_991337.1 |[Honeysuckle yellow vein virus]|UK1|Honeysuckle-yellow-vein-virus_taxid_240865.gbk|C4|156|NC_005807(2784):2182-2337:-1 ^GeneID:2763140,UniProtKB/TrEMBL:Q80P69^ Honeysuckle yellow vein virus-[UK1], complete genome.|neighbours:ID:NP_991336.1(-1),end()|neighbour_genes:C1,end()|
+MSRPIWRKTETSLILECSRSMEDQLEEVASLPPTRMPRQSTQDLSHRHSVY
+>ID:YP_002224033.1 |[Jatropha leaf curl virus]||Jatropha-leaf-curl-virus_taxid_543876.gbk|AC4|240|NC_011268(2743):2187-2426:-1 ^GeneID:11040957^ Jatropha leaf curl virus DNA A, complete genome.|neighbours:ID:YP_002224032.1(-1),end()|neighbour_genes:AC1,end()| | aligned:13-53 (79)
+MPLSSSRVRPDSEMQDISISSILIAPPNSIQISRELSPPLMLSPISRRTEISSTGGSFRSMEDLLEEVNRQLMMLQRRP
+>ID:YP_009051692.1 |[Rose leaf curl virus]||Rose-leaf-curl-virus_taxid_875323.gbk|AC4|186|NC_024687(2741):2176-2361:-1 ^GeneID:20041351^ Rose leaf curl virus isolate AS24, complete genome.|neighbours:ID:YP_009051691.1(-1),end()|neighbour_genes:AC1,end()|
+MELNQARTSSPIWRRRRHPRLGRVSDRWKICTRGTTVSQCMLTPRQLTQAVSQSLLESLGN
+>ID:YP_008888543.1 |[Spinach yellow vein Sikar virus]||Spinach-yellow-vein-Sikar-virus_taxid_1432565.gbk|AC4|228|NC_023023(2753):2228-2455:-1 ^GeneID:17860706^ Spinach yellow vein Sikar virus clone AS22, complete genome.|neighbours:ID:YP_008888542.1(-1),end()|neighbour_genes:AC1,end()| | aligned:7-59 (75)
+MGLCISMPSSSSKVNPSSETPDISMSLTLITPPNSTQTSRELSPALMSSPTSRRTVITSVMRPGTTSLMTSIPTT
+>ID:NP_620298.1 |[Watermelon chlorotic stunt virus]||Watermelon-chlorotic-stunt-virus_taxid_35341.gbk|c4|144|NC_003708(2745):2323-2466:-1 ^GeneID:991150^ Watermelon chlorotic stunt virus DNA A, complete sequence.|neighbours:ID:NP_620297.1(-1),end()|neighbour_genes:rep,end()|
+MGNLISMCSCSSPERSQSQTIASSITYTQAVAPVSTPTYKALSPVQT

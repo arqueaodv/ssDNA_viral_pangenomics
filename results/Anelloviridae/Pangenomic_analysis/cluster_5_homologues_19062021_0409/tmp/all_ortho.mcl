@@ -1,0 +1,19 @@
+# cline: mcl /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/cluster_5_homologues/tmp/all_ortho.mtx "-I" "1.5" "-o" "/home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/cluster_5_homologues/tmp/all_ortho.mcl" "-V" "all" "-te" "10"
+(mclheader
+mcltype matrix
+dimensions 77x11
+)
+(mclmatrix
+begin
+0  4 8 12 16 20 24 28 32 36 40 44 48 52 54 58 60 64 66 68 72 74 76 $
+1  1 5 9 13 17 21 25 29 33 37 41 45 49 $
+2  2 6 10 14 18 22 26 30 34 38 42 46 50 $
+3  3 7 11 15 19 23 27 31 35 39 43 47 51 $
+4  57 59 63 65 67 71 73 75 $
+5  61 69 $
+6  62 70 $
+7  0 $
+8  53 $
+9  55 $
+10 56 $
+)

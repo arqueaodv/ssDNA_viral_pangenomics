@@ -1,0 +1,12 @@
+0	Blackbird-associated-gemykibivirus-1_taxid_1391038.gbk
+1	Faeces-associated-gemycircularvirus-12_taxid_1391027.gbk
+2	Faeces-associated-gemycircularvirus-21_taxid_1843741.gbk
+3	Giant-house-spider-associated-circular-virus-1_taxid_2293288.gbk
+4	HCBI8215-virus_taxid_1516079.gbk
+5	HCBI9212-virus_taxid_1516080.gbk
+6	Mongoose-feces-associated-gemycircularvirus-a_taxid_1634485.gbk
+7	Mongoose-feces-associated-gemycircularvirus-c_taxid_1634488.gbk
+8	Rhinolophus-associated-gemykibivirus-1_taxid_2004965.gbk
+9	Sclerotinia-sclerotiorum-hypovirulence-associated-DNA-virus-1_taxid_664785.gbk
+10	Sewage-associated-gemycircularvirus-4_taxid_1519399.gbk
+11	Sewage-associated-gemycircularvirus-6_taxid_1519401.gbk

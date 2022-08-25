@@ -1,0 +1,119 @@
+cluster 1_Rep size=83 taxa=1 file: 1_Rep.faa dnafile: 1_Rep.fna
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+: 
+cluster 4_v2 size=1 taxa=1 Pfam=PF01524, file: 4_v2.faa dnafile: 4_v2.fna
+: Ageratum-leaf-curl-Cameroon-alphasatellite_taxid_743035.gbk
+cluster 5_rep size=1 taxa=1 file: 5_rep.faa dnafile: 5_rep.fna
+: Ageratum-leaf-curl-Cameroon-alphasatellite_taxid_743035.gbk
+cluster 6_rep size=1 taxa=1 Pfam=PF00799, file: 6_rep.faa dnafile: 6_rep.fna
+: Ageratum-leaf-curl-Cameroon-alphasatellite_taxid_743035.gbk
+cluster 15_replication_protein size=1 taxa=1 file: 15_replication_protein.faa dnafile: 15_replication_protein.fna
+: 
+cluster 25_truncated_replicatio.. size=1 taxa=1 Pfam=PF02407, file: 25_truncated_replicatio...faa dnafile: 25_truncated_replicatio...fna
+: Coconut-foliar-decay-alphasatellite-3_taxid_2161876.gbk
+cluster 26_hypothetical_protein size=1 taxa=1 file: 26_hypothetical_protein.faa dnafile: 26_hypothetical_protein.fna
+: Coconut-foliar-decay-alphasatellite-3_taxid_2161876.gbk
+cluster 27_replication_initiato.. size=8 taxa=5 Pfam=PF02407,PF00910, file: 27_replication_initiato...faa dnafile: 27_replication_initiato...fna
+: Coconut-foliar-decay-alphasatellite-3_taxid_2161876.gbk
+: Cucurbit-yellow-mosaic-alphasatellite_taxid_1819678.gbk
+: Faba-bean-necrotic-yellows-C1-alphasatellite_taxid_1453080.gbk
+: Nanovirus-like-particle_taxid_96892.gbk
+: Nanovirus-like-particle_taxid_96892.gbk
+: Nanovirus-like-particle_taxid_96892.gbk
+: Okra-leaf-curl-alphasatellite_taxid_518829.gbk
+: Okra-leaf-curl-alphasatellite_taxid_518829.gbk
+cluster 29_replication_initiato.. size=3 taxa=3 Pfam=PF02407, file: 29_replication_initiato...faa dnafile: 29_replication_initiato...fna
+: Coconut-foliar-decay-alphasatellite-7_taxid_2161880.gbk
+: Cuban-alphasatellite-1_taxid_1188819.gbk
+: Melon-chlorotic-mosaic-alphasatellite_taxid_2169825.gbk
+cluster 30_hypothetical_protein size=1 taxa=1 file: 30_hypothetical_protein.faa dnafile: 30_hypothetical_protein.fna
+: Coconut-foliar-decay-alphasatellite-7_taxid_2161880.gbk
+cluster 37_V2 size=3 taxa=3 file: 37_V2.faa dnafile: 37_V2.fna
+: Cuban-alphasatellite-1_taxid_1188819.gbk
+: Cucurbit-yellow-mosaic-alphasatellite_taxid_1819678.gbk
+: Melon-chlorotic-mosaic-alphasatellite_taxid_2169825.gbk
+cluster 44_orf2 size=1 taxa=1 file: 44_orf2.faa dnafile: 44_orf2.fna
+: Faba-bean-necrotic-yellows-C1-alphasatellite_taxid_1453080.gbk
+cluster 46_orf3 size=1 taxa=1 file: 46_orf3.faa dnafile: 46_orf3.fna
+: Faba-bean-necrotic-yellows-C1-alphasatellite_taxid_1453080.gbk

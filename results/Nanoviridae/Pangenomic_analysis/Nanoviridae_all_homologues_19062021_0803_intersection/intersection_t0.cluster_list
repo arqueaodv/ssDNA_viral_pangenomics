@@ -1,0 +1,16 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d Nanoviridae_all_homologues_19062021_0803/Abaca-bunchy-top-virustaxid438782_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_/,Nanoviridae_all_homologues_19062021_0803/Abaca-bunchy-top-virustaxid438782_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_
+# -o Nanoviridae_all_homologues_19062021_0803_intersection
+# -I 
+# -r 0
+5_putative_movement_pr...faa
+12_MP.faa
+2_putative_cell-cycle_...faa
+15_U1.faa
+3_putative_nuclear_shu...faa
+4_putative_coat_protei...faa
+13_Clink.faa
+1_putative_replicase_p...faa
+18_U4.faa
+17_U2.faa
+# intersection size = 10 clusters

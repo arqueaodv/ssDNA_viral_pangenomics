@@ -1,0 +1,16 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_4_homologues_19062021_0758/Enterobacteria-phage-WA13-sensu-latotaxid489828_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_/,cluster_4_homologues_19062021_0758/Enterobacteria-phage-WA13-sensu-latotaxid489828_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_
+# -o cluster_4_homologues_19062021_0758_intersection
+# -I 
+# -r 0
+10_H.faa
+6_E.faa
+1_A.faa
+5_D.faa
+7_J.faa
+3_K.faa
+2_B.faa
+9_G.faa
+8_F.faa
+4_C.faa
+# intersection size = 10 clusters

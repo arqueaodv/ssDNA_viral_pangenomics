@@ -1,0 +1,20 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d Genomoviridae_all_homologues_19062021_0746/Alces-alces-faeces-associated-circular-virus-MP65taxid2219143_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_/,Genomoviridae_all_homologues_19062021_0746/Alces-alces-faeces-associated-circular-virus-MP65taxid2219143_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_
+# -o Genomoviridae_all_homologues_19062021_0746_intersection
+# -I 
+# -r 0
+28_capsid_protein.faa
+93_hyp.faa
+3_capsid.faa
+123_ORF3.faa
+4_rep.faa
+1_capsid_protein.faa
+134_putative_V3_protein.faa
+32_replication-associat...faa
+52_capsid_protein.faa
+8_replication-associat...faa
+97_hyp.faa
+157_hypothetical_protein.faa
+96_rep1.faa
+131_putative_V2_protein.faa
+# intersection size = 14 clusters

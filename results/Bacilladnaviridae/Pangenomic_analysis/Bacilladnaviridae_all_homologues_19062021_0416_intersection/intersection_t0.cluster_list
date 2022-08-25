@@ -1,0 +1,22 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d Bacilladnaviridae_all_homologues_19062021_0416/Chaetoceros-protobacilladnavirus-3taxid2170142_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_/,Bacilladnaviridae_all_homologues_19062021_0416/Chaetoceros-protobacilladnavirus-3taxid2170142_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_
+# -o Bacilladnaviridae_all_homologues_19062021_0416_intersection
+# -I 
+# -r 0
+20_hypothetical_protein.faa
+25_hypothetical_protein.faa
+14_hypothetical_protein.faa
+1_P3.faa
+24_hypothetical_protein.faa
+26_putative_replication-associated_protein.faa
+27_hypothetical_protein.faa
+18_hypothetical_protein.faa
+5_P3.faa
+9_P3.faa
+11_P2.faa
+15_hypothetical_protein.faa
+2_P2.faa
+21_hypothetical_protein.faa
+4_replication_associat...faa
+10_hypothetical_protein.faa
+# intersection size = 16 clusters

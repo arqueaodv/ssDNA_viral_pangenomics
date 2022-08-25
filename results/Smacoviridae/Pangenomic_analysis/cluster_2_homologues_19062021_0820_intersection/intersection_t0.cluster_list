@@ -1,0 +1,16 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_2_homologues_19062021_0820/Bovine-faeces-associated-smacovirus-1taxid1843749_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_/,cluster_2_homologues_19062021_0820/Bovine-faeces-associated-smacovirus-1taxid1843749_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_
+# -o cluster_2_homologues_19062021_0820_intersection
+# -I 
+# -r 0
+19_ORF4.faa
+15_ORF5.faa
+45_hypothetical_protein.faa
+16_ORF3.faa
+49_hypothetical_protein.faa
+17_ORF6.faa
+65_Rep_protein.faa
+48_hypothetical_protein.faa
+2_replication_associat...faa
+1_putative_capsid_prot...faa
+# intersection size = 10 clusters

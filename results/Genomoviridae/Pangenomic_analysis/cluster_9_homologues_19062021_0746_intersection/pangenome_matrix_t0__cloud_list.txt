@@ -1,0 +1,3 @@
+7_ORF3.faa
+9_hypothetical_protein.faa
+10_Rep2.faa

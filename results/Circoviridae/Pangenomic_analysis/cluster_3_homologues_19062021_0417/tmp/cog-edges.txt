@@ -1,0 +1,16 @@
+cluster00001,4,Circoviridae-1-LDMD-2013_taxid_1379692.gbk,8,Circoviridae-2-LDMD-2013_taxid_1379695.gbk
+cluster00001,4,Circoviridae-1-LDMD-2013_taxid_1379692.gbk,17,Culex-circovirus-like-virus_taxid_2304514.gbk
+cluster00001,4,Circoviridae-1-LDMD-2013_taxid_1379692.gbk,24,Po-Circo-like-virus-21_taxid_1105383.gbk
+cluster00001,8,Circoviridae-2-LDMD-2013_taxid_1379695.gbk,4,Circoviridae-1-LDMD-2013_taxid_1379692.gbk
+cluster00001,8,Circoviridae-2-LDMD-2013_taxid_1379695.gbk,17,Culex-circovirus-like-virus_taxid_2304514.gbk
+cluster00001,8,Circoviridae-2-LDMD-2013_taxid_1379695.gbk,19,Human-fecal-virus-Jorvi2_taxid_2017081.gbk
+cluster00001,8,Circoviridae-2-LDMD-2013_taxid_1379695.gbk,24,Po-Circo-like-virus-21_taxid_1105383.gbk
+cluster00001,17,Culex-circovirus-like-virus_taxid_2304514.gbk,4,Circoviridae-1-LDMD-2013_taxid_1379692.gbk
+cluster00001,17,Culex-circovirus-like-virus_taxid_2304514.gbk,8,Circoviridae-2-LDMD-2013_taxid_1379695.gbk
+cluster00001,17,Culex-circovirus-like-virus_taxid_2304514.gbk,24,Po-Circo-like-virus-21_taxid_1105383.gbk
+cluster00001,19,Human-fecal-virus-Jorvi2_taxid_2017081.gbk,8,Circoviridae-2-LDMD-2013_taxid_1379695.gbk
+cluster00001,19,Human-fecal-virus-Jorvi2_taxid_2017081.gbk,24,Po-Circo-like-virus-21_taxid_1105383.gbk
+cluster00001,24,Po-Circo-like-virus-21_taxid_1105383.gbk,4,Circoviridae-1-LDMD-2013_taxid_1379692.gbk
+cluster00001,24,Po-Circo-like-virus-21_taxid_1105383.gbk,8,Circoviridae-2-LDMD-2013_taxid_1379695.gbk
+cluster00001,24,Po-Circo-like-virus-21_taxid_1105383.gbk,17,Culex-circovirus-like-virus_taxid_2304514.gbk
+cluster00001,24,Po-Circo-like-virus-21_taxid_1105383.gbk,19,Human-fecal-virus-Jorvi2_taxid_2017081.gbk

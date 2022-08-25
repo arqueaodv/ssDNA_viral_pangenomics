@@ -1,0 +1,23 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_ORF2	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+16_ORF2	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+2_ORF1	95.65217391304348	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+20_hypothetical_protein	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+23_hypothetical_protein	8.695652173913043	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+24_hypothetical_protein	8.695652173913043	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+25_hypothetical_protein	8.695652173913043	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+31_hypothetical_protein	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+32_hypothetical_protein	4.3478260869565215	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+37_hypothetical_protein	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+39_orf2-5	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+4_ORF2	21.73913043478261	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+40_orf2-4	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+42_hypothetical_protein	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+45_hypothetical_protein	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+48_hypothetical_protein	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+49_hypothetical_protein	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+52_hypothetical_protein	17.391304347826086	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+53_hypothetical_protein	17.391304347826086	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+56_hypothetical_protein	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+65_hypothetical_protein	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG
+71_ORF2	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	COG

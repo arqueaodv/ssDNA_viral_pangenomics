@@ -1,0 +1,16 @@
+>ID:YP_001715617.1 |[Beet curly top Iran virus]|K|Beet-curly-top-Iran-virus_taxid_391228.gbk|V3|270|NC_010417(2845):168-437:1 ^GeneID:5983621^ Beet curly top Iran virus-[K], complete genome.|neighbours:start(),ID:YP_001715618.1(1)|neighbour_genes:start(),V2| | aligned:1-89 (89)
+MMVCIPDWLFLLFVFSTILQSGINFYGTFQSERISAKLSSLASRFDELFLALQQVVFARNRVSSSRAVDSRGRRGLSSIPEGSEEIAEA
+>ID:NP_899663.1 |[Beet curly top virus]||Beet-curly-top-virus_taxid_10840.gbk|movement protein|267|NC_001412(2994):401-667:1 ^GeneID:2546434^ Beet curly top virus - California [Logan], complete genome.|neighbours:ID:NP_040557.1(-1),ID:NP_040558.1(1)|neighbour_genes:replication-associat..,hypothetical protein| | aligned:1-88 (88)
+MMVCLPDWLFLLFIFSILLQSGTNFYGTFQSGSISRQLSSLSSSIDQLFLKVQQVVYTRYPSRDRVSDPRRRRGLSSIPEGSEEATEV
+>ID:YP_009465978.1 |[Exomis microphylla associated virus]||Exomis-microphylla-associated-virus_taxid_2093275.gbk|v3|270|NC_037065(2974):278-547:1 ^GeneID:35997078^ Exomis microphylla associated virus isolate 2-90-C1, complete genome.|neighbours:start(),ID:YP_009465979.1(1)|neighbour_genes:start(),v2| | aligned:1-89 (89)
+MMVCLPDWLFLLLILSILVQAAVGFYGSFQGERFSSKLSGISSRCDELFVALQQVVYSRNASRGNRNPYCRRAGELYTVPEAGEENPQV
+>ID:NP_066181.1 |[Horseradish curly top virus]||Horseradish-curly-top-virus_taxid_46448.gbk|V3|267|NC_002543(3080):175-441:1 ^GeneID:911817^ Horseradish curly top virus, complete genome.|neighbours:start(),ID:NP_066182.1(1)|neighbour_genes:start(),V2| | aligned:1-88 (88)
+MMVCLPDWVFLLFIASILLQACTNFYGTFHSGSISKKLSSLVSRFDELFFQIQQVVYTRYPSRSRIVNPRRRGSLSGIPEGGEETVEA
+>ID:YP_009465967.1 |[Limeum africanum associated virus]||Limeum-africanum-associated-virus_taxid_2093276.gbk|v3|273|NC_037063(2963):298-570:1 ^GeneID:35997065^ Limeum africanum associated virus isolate 2-12-F, complete genome.|neighbours:start(),ID:YP_009465968.1(1)|neighbour_genes:start(),v2| | aligned:1-86 (90)
+MVVCMPDWLFLVFIFGSIAQSGISLYGTIQSKGFSRHLSEISSSLHSLFASVEQVLHTWDTVGIRRVRPRRRGGLSSVQEGGPETPTEEG
+>ID:YP_009362973.1 |[Pepper yellow dwarf virus - Mexico]|PepYDV-Curto|Pepper-yellow-dwarf-virus--Mexico_taxid_1987360.gbk|V3|267|NC_034629(2971):269-535:1 ^GeneID:32878888^ Pepper yellow dwarf virus - Mexico strain PepYDV-Curto, complete genome.|neighbours:start(),ID:YP_009362974.1(1)|neighbour_genes:start(),V2| | aligned:1-88 (88)
+MMVCLPDWLFLLFIFSILLQSGTNFYGTFQSGSISRQLSSLSSRIDQLFLKIQQVVYTRYPSRDRATDPRRRRGLSSIPEGSEEVAEA
+>ID:YP_004207921.1 |[Spinach curly top Arizona virus]||Spinach-curly-top-Arizona-virus_taxid_945225.gbk|V3|267|NC_015051(2860):188-454:1 ^GeneID:10192295^ Spinach curly top Arizona virus, complete genome.|neighbours:start(),ID:YP_004207922.1(1)|neighbour_genes:start(),V2| | aligned:1-88 (88)
+MMVCLPDWLFLLFILSILLQSGTNFYGTFQSGTVSKQLSCVASRVDELFLQIQQVVYSRNTAGNRAVESRRRRGLSSVPEGSEEVAEA
+>ID:YP_003966133.1 |[Spinach severe curly top virus]|Arizona:09-10-8:2009|Spinach-severe-curly-top-virus_taxid_873160.gbk|V3|267|NC_014631(3065):239-505:1 ^GeneID:9845987^ Spinach severe curly top virus, complete genome.|neighbours:start(),ID:YP_003966134.1(1)|neighbour_genes:start(),V2| | aligned:1-88 (88)
+MMVCLPDWLFLLFIFAILLQSGTNFYGTIQSGSISRKLSSLSSRFDELFLKIQQVVYIRSNTRDRGVDTRRRRGLSSIPEGSEEVAEA

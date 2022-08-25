@@ -1,0 +1,18 @@
+cluster	prevalence	term	what	familia	algoritmo
+15_hypothetical_protein	25	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+26_hypothetical_protein	25	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+64_putative_resolvase	8.333333333333332	DNA integration [GO:0015074]	bp	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+15_hypothetical_protein	25	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+17_hypothetical_protein	25	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+18_hypothetical_protein	16.666666666666664	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+20_hypothetical_protein	25	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+21_hypothetical_protein	16.666666666666664	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+22_hypothetical_protein	16.666666666666664	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+23_hypothetical_protein	16.666666666666664	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+24_hypothetical_protein	33.33333333333333	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+24_hypothetical_protein	33.33333333333333	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+26_hypothetical_protein	25	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+15_hypothetical_protein	25	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+26_hypothetical_protein	25	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+64_putative_resolvase	8.333333333333332	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG
+64_putative_resolvase	8.333333333333332	recombinase activity [GO:0000150]	mf	../results/Get_homologues/Inoviridae/cluster_4_homologues_19062021_0754/	COG

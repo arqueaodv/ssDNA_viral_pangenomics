@@ -1,0 +1,8 @@
+>ID:NP_991337.1 |[Honeysuckle yellow vein virus]|UK1|Honeysuckle-yellow-vein-virus_taxid_240865.gbk|C4|156|NC_005807(2784):2182-2337:-1 ^GeneID:2763140,UniProtKB/TrEMBL:Q80P69^ Honeysuckle yellow vein virus-[UK1], complete genome.|neighbours:ID:NP_991336.1(-1),end()|neighbour_genes:C1,end()|
+MSRPIWRKTETSLILECSRSMEDQLEEVASLPPTRMPRQSTQDLSHRHSVY
+>ID:YP_009051692.1 |[Rose leaf curl virus]||Rose-leaf-curl-virus_taxid_875323.gbk|AC4|186|NC_024687(2741):2176-2361:-1 ^GeneID:20041351^ Rose leaf curl virus isolate AS24, complete genome.|neighbours:ID:YP_009051691.1(-1),end()|neighbour_genes:AC1,end()|
+MELNQARTSSPIWRRRRHPRLGRVSDRWKICTRGTTVSQCMLTPRQLTQAVSQSLLESLGN
+>ID:YP_009506485.1 |[Sida yellow leaf curl virus]||Sida-yellow-leaf-curl-virus_taxid_536083.gbk|AC4|396|NC_038461(2664):2057-2452:-1 ^GeneID:37617378^ Sida yellow leaf curl virus isolate BR:Coi3:07 segment DNA-A, complete sequence.|neighbours:ID:YP_009506484.1(-1),end()|neighbour_genes:Rep,end()|
+MKLFRCFNPFHGQSLNPHTYESPERSTPTASLIFTVLSNSPASPTSRMLDFSTSLTPDGLPDFTPIFRQPKTPTPSRITSPKRVIIVNPDSTRCLGEQRGIKTTYTITPSMQLLRERLLTLSKPETPRLSS
+>ID:YP_008888543.1 |[Spinach yellow vein Sikar virus]||Spinach-yellow-vein-Sikar-virus_taxid_1432565.gbk|AC4|228|NC_023023(2753):2228-2455:-1 ^GeneID:17860706^ Spinach yellow vein Sikar virus clone AS22, complete genome.|neighbours:ID:YP_008888542.1(-1),end()|neighbour_genes:AC1,end()|
+MGLCISMPSSSSKVNPSSETPDISMSLTLITPPNSTQTSRELSPALMSSPTSRRTVITSVMRPGTTSLMTSIPTT

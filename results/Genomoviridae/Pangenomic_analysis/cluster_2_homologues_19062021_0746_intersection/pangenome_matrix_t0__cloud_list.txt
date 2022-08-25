@@ -1,0 +1,4 @@
+68_hyp.faa
+72_hyp.faa
+90_putative_V2_protein.faa
+93_putative_V3_protein.faa

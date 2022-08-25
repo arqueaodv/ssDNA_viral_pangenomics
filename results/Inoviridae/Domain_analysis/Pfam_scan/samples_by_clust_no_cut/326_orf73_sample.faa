@@ -1,0 +1,5 @@
+>ID:YP_008130278.1 |[Vibrio phage VFJ]||Vibrio-phage-VFJ_taxid_1340745.gbk|orf73|222|NC_021562(8555):2729-2950:1 ^GeneID:15957204^ Vibrio phage VFJ, complete genome.|neighbours:ID:YP_008130277.1(1),ID:YP_008130279.1(1)|neighbour_genes:orf38-2,orf499| | aligned:1-73 (73)
+MKKSTKAALI VASLAAVAAT GANAAIPQEA QAALDAVGEF TSTVVGWMWG VGTAMIVGFV GLKVVKKGAN KAT
+
+>ID:NP_047368.1 |[Vibrio phage fs2]||Vibrio-phage-fs2_taxid_83201.gbk|hypothetical protein|222|NC_001956(8651):3017-3238:1 ^GeneID:1261867^ Vibrio phage fs2, complete genome.|neighbours:ID:NP_047367.1(1),ID:NP_047369.1(1)|neighbour_genes:IX,hypothetical protein| | aligned:1-73 (73)
+MKKSTKAALI VASLAAVAAT GANAAIPQEA QAALDAVGEF TSTVVGWMWG VGTAMIVGFV GLKVVKKGAN KAT

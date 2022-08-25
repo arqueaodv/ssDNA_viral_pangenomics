@@ -1,0 +1,13 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_ORF2	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	OMCL
+16_ORF2	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	OMCL
+2_ORF1	95.65217391304348	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	OMCL
+23_hypothetical_protein	30.434782608695656	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	OMCL
+24_hypothetical_protein	34.78260869565217	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	OMCL
+31_hypothetical_protein	69.56521739130434	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	OMCL
+32_hypothetical_protein	4.3478260869565215	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	OMCL
+39_orf2-5	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	OMCL
+42_hypothetical_protein	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	OMCL
+45_hypothetical_protein	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	OMCL
+50_hypothetical_protein	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	OMCL
+65_hypothetical_protein	4.3478260869565215	protein tyrosine phosphatase activity [GO:0004725]	mf	../results/Get_homologues/Anelloviridae/cluster_4_homologues_19062021_0409/	OMCL

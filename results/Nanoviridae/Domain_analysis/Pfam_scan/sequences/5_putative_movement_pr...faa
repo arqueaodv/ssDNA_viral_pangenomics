@@ -1,0 +1,6 @@
+>ID:YP_001661658.1 |[Abaca bunchy top virus]||Abaca-bunchy-top-virus_taxid_438782.gbk|putative movement pr..|351|NC_010317(1074):178-528:1 ^GeneID:10987405^ Abaca bunchy top virus DNA-M, complete genome.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-116 (116)
+MGLTGERVKQFFEWFLFFSAIFVAITIIYILLAVLLELPKYIKGLVQYVVEYITRRRVWTRRTQLTEATGGGDIEAVGHDSQAYTHTVMPXVPPVSAPISNRRADQPLRSSAGPMF
+>ID:NP_604478.1 |[Banana bunchy top virus]||Banana-bunchy-top-virus_taxid_12585.gbk|putative movement pr..|354|NC_003474(1043):279-632:1 ^GeneID:963868^ Banana bunchy top virus DNA M, complete sequence.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-117 (117)
+MALTTERVKLFFEWFLFFGAIFIAITILYILLVLLFEVPRYIKELVRCLVEYLTRRRVWMQRTQLTEATGDVEIGRGIVEDRRDQEPAVIPHVSQVIPSQPNRRDDQGRRGNAGPMF
+>ID:YP_009508037.1 |[Cardamom bushy dwarf virus]||Cardamom-bushy-dwarf-virus_taxid_262588.gbk|MP|354|NC_038815(1083):205-558:1 ^GeneID:37619265^ Cardamom bushy dwarf virus clone Fr-60 segment M, complete sequence.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-117 (117)
+MGLSGERVKSFFEWFLFFAAIFVAITIFYILLALLLEIPRYIKDLVKYGVEYVTRRRVWMRRTQLTEATGGVGRNEVGGDDRQEMTQSVVPAVGQVIQQNPNRRDDQGRRNNTGPTF

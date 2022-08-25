@@ -1,0 +1,215 @@
+cluster 1_hypothetical_protein size=1 taxa=1 file: 1_hypothetical_protein.faa dnafile: 1_hypothetical_protein.fna
+: Ashy-storm-petrel-gyrovirus_taxid_2249930.gbk
+cluster 2_VP2 size=2 taxa=2 Pfam=PF02957, file: 2_VP2.faa dnafile: 2_VP2.fna
+: Ashy-storm-petrel-gyrovirus_taxid_2249930.gbk
+: Gyrovirus-GyV8_taxid_1670973.gbk
+cluster 3_VP1 size=7 taxa=7 Pfam=PF04162, file: 3_VP1.faa dnafile: 3_VP1.fna
+: Ashy-storm-petrel-gyrovirus_taxid_2249930.gbk
+: Avian-gyrovirus-2_taxid_1002273.gbk
+: Chicken-anemia-virus_taxid_12618.gbk
+: Gyrovirus-GyV3_taxid_1163715.gbk
+: Gyrovirus-GyV7-SF_taxid_1548711.gbk
+: Gyrovirus-GyV8_taxid_1670973.gbk
+: Gyrovirus-Tu789_taxid_1415628.gbk
+cluster 4_ORF3 size=1 taxa=1 file: 4_ORF3.faa dnafile: 4_ORF3.fna
+: Ashy-storm-petrel-gyrovirus_taxid_2249930.gbk
+cluster 5_putative_dual-specif.. size=5 taxa=5 Pfam=PF02957, file: 5_putative_dual-specif...faa dnafile: 5_putative_dual-specif...fna
+: Avian-gyrovirus-2_taxid_1002273.gbk
+: Chicken-anemia-virus_taxid_12618.gbk
+: Gyrovirus-GyV3_taxid_1163715.gbk
+: Gyrovirus-GyV7-SF_taxid_1548711.gbk
+: Gyrovirus-Tu789_taxid_1415628.gbk
+cluster 6_VP3 size=5 taxa=5 Pfam=PF04771, file: 6_VP3.faa dnafile: 6_VP3.fna
+: Avian-gyrovirus-2_taxid_1002273.gbk
+: Chicken-anemia-virus_taxid_12618.gbk
+: Gyrovirus-GyV3_taxid_1163715.gbk
+: Gyrovirus-GyV7-SF_taxid_1548711.gbk
+: Gyrovirus-Tu789_taxid_1415628.gbk
+cluster 8_hypothetical_protein size=1 taxa=1 file: 8_hypothetical_protein.faa dnafile: 8_hypothetical_protein.fna
+: Chicken-anemia-virus_taxid_12618.gbk
+cluster 12_ORF2 size=2 taxa=2 file: 12_ORF2.faa dnafile: 12_ORF2.fna
+: Giant-panda-anellovirus_taxid_2016460.gbk
+: Rodent-Torque-teno-virus-2_taxid_1514665.gbk
+cluster 13_ORF1 size=9 taxa=9 Pfam=PF02956, file: 13_ORF1.faa dnafile: 13_ORF1.fna
+: Giant-panda-anellovirus_taxid_2016460.gbk
+: Seal-anellovirus-2_taxid_1427157.gbk
+: Seal-anellovirus-3_taxid_1427156.gbk
+: Seal-anellovirus-TFFN-USA-2006_taxid_991022.gbk
+: Torque-teno-Leptonychotes-weddellii-virus-1_taxid_2012676.gbk
+: Torque-teno-Leptonychotes-weddellii-virus-2_taxid_2012677.gbk
+: Torque-teno-felis-virus-2_taxid_2065043.gbk
+: Torque-teno-felis-virus_taxid_687384.gbk
+: Torque-teno-zalophus-virus-1_taxid_1218490.gbk
+cluster 14_ORF3 size=1 taxa=1 file: 14_ORF3.faa dnafile: 14_ORF3.fna
+: Giant-panda-anellovirus_taxid_2016460.gbk
+cluster 15_ORF2 size=20 taxa=20 Pfam=PF02957, file: 15_ORF2.faa dnafile: 15_ORF2.fna
+: Gorilla-anellovirus_taxid_1743411.gbk
+: Small-anellovirus-1_taxid_289366.gbk
+: Small-anellovirus-2_taxid_289367.gbk
+: TTV-like-mini-virus_taxid_93678.gbk
+: Torque-teno-midi-virus-3_taxid_2065044.gbk
+: Torque-teno-midi-virus-4_taxid_2065045.gbk
+: Torque-teno-mini-virus-10_taxid_2065036.gbk
+: Torque-teno-mini-virus-11_taxid_2065037.gbk
+: Torque-teno-mini-virus-12_taxid_2065038.gbk
+: Torque-teno-mini-virus-18_taxid_1859149.gbk
+: Torque-teno-mini-virus-1_taxid_687369.gbk
+: Torque-teno-mini-virus-2_taxid_687370.gbk
+: Torque-teno-mini-virus-3_taxid_687371.gbk
+: Torque-teno-mini-virus-4_taxid_687372.gbk
+: Torque-teno-mini-virus-5_taxid_687373.gbk
+: Torque-teno-mini-virus-6_taxid_687374.gbk
+: Torque-teno-mini-virus-7_taxid_687375.gbk
+: Torque-teno-mini-virus-8_taxid_687376.gbk
+: Torque-teno-mini-virus-9_taxid_687377.gbk
+: Torque-teno-mini-virus-ALA22_taxid_1535290.gbk
+cluster 16_ORF1 size=21 taxa=21 Pfam=PF02956, file: 16_ORF1.faa dnafile: 16_ORF1.fna
+: Gorilla-anellovirus_taxid_1743411.gbk
+: Small-anellovirus-1_taxid_289366.gbk
+: Small-anellovirus-2_taxid_289367.gbk
+: TTV-like-mini-virus_taxid_93678.gbk
+: Torque-teno-midi-virus-3_taxid_2065044.gbk
+: Torque-teno-midi-virus-4_taxid_2065045.gbk
+: Torque-teno-mini-virus-10_taxid_2065036.gbk
+: Torque-teno-mini-virus-11_taxid_2065037.gbk
+: Torque-teno-mini-virus-12_taxid_2065038.gbk
+: Torque-teno-mini-virus-18_taxid_1859149.gbk
+: Torque-teno-mini-virus-1_taxid_687369.gbk
+: Torque-teno-mini-virus-2_taxid_687370.gbk
+: Torque-teno-mini-virus-3_taxid_687371.gbk
+: Torque-teno-mini-virus-4_taxid_687372.gbk
+: Torque-teno-mini-virus-5_taxid_687373.gbk
+: Torque-teno-mini-virus-6_taxid_687374.gbk
+: Torque-teno-mini-virus-7_taxid_687375.gbk
+: Torque-teno-mini-virus-8_taxid_687376.gbk
+: Torque-teno-mini-virus-9_taxid_687377.gbk
+: Torque-teno-mini-virus-ALA22_taxid_1535290.gbk
+: Torque-teno-mini-virus-ALH8_taxid_1535291.gbk
+cluster 17_VP2 size=1 taxa=1 file: 17_VP2.faa dnafile: 17_VP2.fna
+: Gyrovirus-4_taxid_1214955.gbk
+cluster 18_VP1 size=2 taxa=2 Pfam=PF04162,PF04162,PF04162, file: 18_VP1.faa dnafile: 18_VP1.fna
+: Gyrovirus-4_taxid_1214955.gbk
+: Gyrovirus-Tu243_taxid_1415627.gbk
+cluster 26_Hypothetical_protein size=1 taxa=1 file: 26_Hypothetical_protein.faa dnafile: 26_Hypothetical_protein.fna
+: Gyrovirus-GyV8_taxid_1670973.gbk
+cluster 28_VP2 size=1 taxa=1 Pfam=PF02957, file: 28_VP2.faa dnafile: 28_VP2.fna
+: Gyrovirus-Tu243_taxid_1415627.gbk
+cluster 29_hypothetical_protein size=1 taxa=1 file: 29_hypothetical_protein.faa dnafile: 29_hypothetical_protein.fna
+: Gyrovirus-Tu243_taxid_1415627.gbk
+cluster 34_ORF3 size=2 taxa=1 Pfam=PF02957, file: 34_ORF3.faa dnafile: 34_ORF3.fna
+: Lesser-panda-anellovirus_taxid_2012640.gbk
+: Lesser-panda-anellovirus_taxid_2012640.gbk
+cluster 36_ORF1 size=7 taxa=7 Pfam=PF02956, file: 36_ORF1.faa dnafile: 36_ORF1.fna
+: Lesser-panda-anellovirus_taxid_2012640.gbk
+: Rodent-Torque-teno-virus-2_taxid_1514665.gbk
+: Rodent-Torque-teno-virus-6_taxid_2054613.gbk
+: Torque-teno-Tadarida-brasiliensis-virus_taxid_1543419.gbk
+: Torque-teno-indri-virus-1_taxid_2010248.gbk
+: Torque-teno-sus-virus-k2a_taxid_1968861.gbk
+: Torque-teno-sus-virus-k2b_taxid_1239832.gbk
+cluster 39_ORF3 size=1 taxa=1 file: 39_ORF3.faa dnafile: 39_ORF3.fna
+: Rodent-Torque-teno-virus-2_taxid_1514665.gbk
+cluster 41_hypothetical_protein size=1 taxa=1 file: 41_hypothetical_protein.faa dnafile: 41_hypothetical_protein.fna
+: Rodent-Torque-teno-virus-6_taxid_2054613.gbk
+cluster 42_hypothetical_protein size=1 taxa=1 file: 42_hypothetical_protein.faa dnafile: 42_hypothetical_protein.fna
+: Rodent-Torque-teno-virus-6_taxid_2054613.gbk
+cluster 43_ORF2 size=3 taxa=3 Pfam=PF02957, file: 43_ORF2.faa dnafile: 43_ORF2.fna
+: Seal-anellovirus-2_taxid_1427157.gbk
+: Torque-teno-Leptonychotes-weddellii-virus-1_taxid_2012676.gbk
+: Torque-teno-Leptonychotes-weddellii-virus-2_taxid_2012677.gbk
+cluster 45_ORF3 size=6 taxa=6 file: 45_ORF3.faa dnafile: 45_ORF3.fna
+: Seal-anellovirus-2_taxid_1427157.gbk
+: Seal-anellovirus-3_taxid_1427156.gbk
+: Seal-anellovirus-TFFN-USA-2006_taxid_991022.gbk
+: Torque-teno-Leptonychotes-weddellii-virus-1_taxid_2012676.gbk
+: Torque-teno-Leptonychotes-weddellii-virus-2_taxid_2012677.gbk
+: Torque-teno-zalophus-virus-1_taxid_1218490.gbk
+cluster 46_ORF2 size=4 taxa=4 file: 46_ORF2.faa dnafile: 46_ORF2.fna
+: Seal-anellovirus-3_taxid_1427156.gbk
+: Seal-anellovirus-TFFN-USA-2006_taxid_991022.gbk
+: Torque-teno-Leptonychotes-weddellii-virus-1_taxid_2012676.gbk
+: Torque-teno-Leptonychotes-weddellii-virus-2_taxid_2012677.gbk
+cluster 54_ORF3 size=1 taxa=1 Pfam=PF05501, file: 54_ORF3.faa dnafile: 54_ORF3.fna
+: Small-anellovirus-1_taxid_289366.gbk
+cluster 56_hypothetical_protein size=1 taxa=1 Pfam=PF02956, file: 56_hypothetical_protein.faa dnafile: 56_hypothetical_protein.fna
+: Small-anellovirus-2_taxid_289367.gbk
+cluster 58_hypothetical_protein size=2 taxa=2 Pfam=PF05501, file: 58_hypothetical_protein.faa dnafile: 58_hypothetical_protein.fna
+: Small-anellovirus-2_taxid_289367.gbk
+: Torque-teno-midi-virus-4_taxid_2065045.gbk
+cluster 59_hypothetical_protein size=1 taxa=1 file: 59_hypothetical_protein.faa dnafile: 59_hypothetical_protein.fna
+: Small-anellovirus-2_taxid_289367.gbk
+cluster 62_hypothetical_protein size=1 taxa=1 Pfam=PF05501, file: 62_hypothetical_protein.faa dnafile: 62_hypothetical_protein.fna
+: TTV-like-mini-virus_taxid_93678.gbk
+cluster 71_ORF2 size=4 taxa=4 file: 71_ORF2.faa dnafile: 71_ORF2.fna
+: Torque-teno-Tadarida-brasiliensis-virus_taxid_1543419.gbk
+: Torque-teno-mini-virus-ALH8_taxid_1535291.gbk
+: Torque-teno-sus-virus-k2a_taxid_1968861.gbk
+: Torque-teno-sus-virus-k2b_taxid_1239832.gbk
+cluster 73_ORF3 size=1 taxa=1 Pfam=PF05501, file: 73_ORF3.faa dnafile: 73_ORF3.fna
+: Torque-teno-Tadarida-brasiliensis-virus_taxid_1543419.gbk
+cluster 74_hypothetical_protein size=1 taxa=1 file: 74_hypothetical_protein.faa dnafile: 74_hypothetical_protein.fna
+: Torque-teno-canis-virus_taxid_687385.gbk
+cluster 75_hypothetical_protein size=1 taxa=1 file: 75_hypothetical_protein.faa dnafile: 75_hypothetical_protein.fna
+: Torque-teno-canis-virus_taxid_687385.gbk
+cluster 76_hypothetical_protein size=1 taxa=1 Pfam=PF02956,PF02956, file: 76_hypothetical_protein.faa dnafile: 76_hypothetical_protein.fna
+: Torque-teno-canis-virus_taxid_687385.gbk
+cluster 77_ORF1 size=1 taxa=1 Pfam=PF02956, file: 77_ORF1.faa dnafile: 77_ORF1.fna
+: Torque-teno-equus-virus-1_taxid_1673633.gbk
+cluster 78_hypothetical_protein size=1 taxa=1 file: 78_hypothetical_protein.faa dnafile: 78_hypothetical_protein.fna
+: Torque-teno-equus-virus-1_taxid_1673633.gbk
+cluster 79_hypothetical_protein size=1 taxa=1 file: 79_hypothetical_protein.faa dnafile: 79_hypothetical_protein.fna
+: Torque-teno-equus-virus-1_taxid_1673633.gbk
+cluster 80_hypothetical_protein size=1 taxa=1 file: 80_hypothetical_protein.faa dnafile: 80_hypothetical_protein.fna
+: Torque-teno-equus-virus-1_taxid_1673633.gbk
+cluster 81_ORF2 size=1 taxa=1 file: 81_ORF2.faa dnafile: 81_ORF2.fna
+: Torque-teno-felis-virus-2_taxid_2065043.gbk
+cluster 83_ORF3 size=1 taxa=1 file: 83_ORF3.faa dnafile: 83_ORF3.fna
+: Torque-teno-felis-virus-2_taxid_2065043.gbk
+cluster 84_hypothetical_protein size=1 taxa=1 file: 84_hypothetical_protein.faa dnafile: 84_hypothetical_protein.fna
+: Torque-teno-felis-virus_taxid_687384.gbk
+cluster 85_hypothetical_protein size=1 taxa=1 file: 85_hypothetical_protein.faa dnafile: 85_hypothetical_protein.fna
+: Torque-teno-felis-virus_taxid_687384.gbk
+cluster 87_orf3 size=1 taxa=1 file: 87_orf3.faa dnafile: 87_orf3.fna
+: Torque-teno-indri-virus-1_taxid_2010248.gbk
+cluster 89_orf2 size=1 taxa=1 Pfam=PF02957, file: 89_orf2.faa dnafile: 89_orf2.fna
+: Torque-teno-indri-virus-1_taxid_2010248.gbk
+cluster 97_ORF3 size=9 taxa=9 Pfam=PF05501, file: 97_ORF3.faa dnafile: 97_ORF3.fna
+: Torque-teno-mini-virus-10_taxid_2065036.gbk
+: Torque-teno-mini-virus-12_taxid_2065038.gbk
+: Torque-teno-mini-virus-1_taxid_687369.gbk
+: Torque-teno-mini-virus-2_taxid_687370.gbk
+: Torque-teno-mini-virus-3_taxid_687371.gbk
+: Torque-teno-mini-virus-5_taxid_687373.gbk
+: Torque-teno-mini-virus-6_taxid_687374.gbk
+: Torque-teno-mini-virus-9_taxid_687377.gbk
+: Torque-teno-mini-virus-ALA22_taxid_1535290.gbk
+cluster 98_ORF4 size=1 taxa=1 file: 98_ORF4.faa dnafile: 98_ORF4.fna
+: Torque-teno-mini-virus-10_taxid_2065036.gbk
+cluster 101_ORF3 size=1 taxa=1 Pfam=PF05501, file: 101_ORF3.faa dnafile: 101_ORF3.fna
+: Torque-teno-mini-virus-11_taxid_2065037.gbk
+cluster 105_ORF4 size=1 taxa=1 file: 105_ORF4.faa dnafile: 105_ORF4.fna
+: Torque-teno-mini-virus-12_taxid_2065038.gbk
+cluster 108_ORF3 size=1 taxa=1 Pfam=PF05501, file: 108_ORF3.faa dnafile: 108_ORF3.fna
+: Torque-teno-mini-virus-18_taxid_1859149.gbk
+cluster 138_hypothetical_protein size=2 taxa=2 file: 138_hypothetical_protein.faa dnafile: 138_hypothetical_protein.fna
+: Torque-teno-sus-virus-1a_taxid_687386.gbk
+: Torque-teno-sus-virus-1b_taxid_687387.gbk
+cluster 139_hypothetical_protein size=2 taxa=2 file: 139_hypothetical_protein.faa dnafile: 139_hypothetical_protein.fna
+: Torque-teno-sus-virus-1a_taxid_687386.gbk
+: Torque-teno-sus-virus-1b_taxid_687387.gbk
+cluster 140_hypothetical_protein size=2 taxa=2 Pfam=PF02956, file: 140_hypothetical_protein.faa dnafile: 140_hypothetical_protein.fna
+: Torque-teno-sus-virus-1a_taxid_687386.gbk
+: Torque-teno-sus-virus-1b_taxid_687387.gbk
+cluster 144_ORF3 size=2 taxa=2 file: 144_ORF3.faa dnafile: 144_ORF3.fna
+: Torque-teno-sus-virus-k2a_taxid_1968861.gbk
+: Torque-teno-sus-virus-k2b_taxid_1239832.gbk
+cluster 150_ORF1-1 size=1 taxa=1 file: 150_ORF1-1.faa dnafile: 150_ORF1-1.fna
+: Torque-teno-sus-virus-k2b_taxid_1239832.gbk
+cluster 151_hypothetical_protein size=1 taxa=1 Pfam=PF02957, file: 151_hypothetical_protein.faa dnafile: 151_hypothetical_protein.fna
+: Torque-teno-tupaia-virus_taxid_687381.gbk
+cluster 152_hypothetical_protein size=1 taxa=1 file: 152_hypothetical_protein.faa dnafile: 152_hypothetical_protein.fna
+: Torque-teno-tupaia-virus_taxid_687381.gbk
+cluster 153_hypothetical_protein size=1 taxa=1 Pfam=PF02956,PF02956, file: 153_hypothetical_protein.faa dnafile: 153_hypothetical_protein.fna
+: Torque-teno-tupaia-virus_taxid_687381.gbk
+cluster 154_Orf2 size=1 taxa=1 file: 154_Orf2.faa dnafile: 154_Orf2.fna
+: Torque-teno-zalophus-virus-1_taxid_1218490.gbk

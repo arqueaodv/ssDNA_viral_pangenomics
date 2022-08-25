@@ -1,0 +1,12 @@
+290_hypothetical_protein.faa
+211_hypothetical_protein.faa
+349_membrane_glycoprotei...faa
+91_putative_minor_coat_...faa
+113_hypothetical_protein.faa
+222_hypothetical_protein.faa
+213_hypothetical_protein.faa
+315_minor_capsid_protein.faa
+53_putative_minor_coat_...faa
+259_protein_B.faa
+107_hypothetical_protein.faa
+103_hypothetical_protein.faa

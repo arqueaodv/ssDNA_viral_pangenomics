@@ -1,0 +1,7 @@
+0	Chimpanzee-faeces-associated-circular-DNA-virus-1_taxid_1676184.gbk
+1	Circoviridae-1-LDMD-2013_taxid_1379692.gbk
+2	Circoviridae-2-LDMD-2013_taxid_1379695.gbk
+3	Circoviridae-8-LDMD-2013_taxid_1379712.gbk
+4	Culex-circovirus-like-virus_taxid_2304514.gbk
+5	Human-fecal-virus-Jorvi2_taxid_2017081.gbk
+6	Po-Circo-like-virus-21_taxid_1105383.gbk

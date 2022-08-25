@@ -1,0 +1,45 @@
+cluster	prevalence	term	what	familia	algoritmo
+100_E	11.627906976744185	suppression by virus of host peptidoglycan biosynthetic process [GO:0039635]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+100_E	11.627906976744185	enzyme inhibitor activity [GO:0004857]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+101_J	11.627906976744185	viral procapsid maturation [GO:0046797]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+101_J	11.627906976744185	viral release from host cell [GO:0019076]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+101_J	11.627906976744185	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+101_J	11.627906976744185	virion [GO:0019012]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+101_J	11.627906976744185	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+101_J	11.627906976744185	DNA binding [GO:0003677]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+102_F	11.627906976744185	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+102_F	11.627906976744185	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+102_F	11.627906976744185	virion [GO:0019012]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+102_F	11.627906976744185	viral capsid, major subunit [GO:0098017]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+102_F	11.627906976744185	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+103_G	11.627906976744185	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+103_G	11.627906976744185	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+103_G	11.627906976744185	modulation by virus of host process [GO:0019048]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+103_G	11.627906976744185	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+103_G	11.627906976744185	virion [GO:0019012]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+103_G	11.627906976744185	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+104_H	11.627906976744185	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+104_H	11.627906976744185	viral procapsid [GO:0046729]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+104_H	11.627906976744185	viral capsid [GO:0019028]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+20_major_capsid_protein	4.651162790697675	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+20_major_capsid_protein	4.651162790697675	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+20_major_capsid_protein	4.651162790697675	virion [GO:0019012]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+20_major_capsid_protein	4.651162790697675	viral capsid, major subunit [GO:0098017]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+20_major_capsid_protein	4.651162790697675	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+5_major_capsid_protein	79.06976744186046	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+5_major_capsid_protein	79.06976744186046	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+5_major_capsid_protein	79.06976744186046	virion [GO:0019012]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+5_major_capsid_protein	79.06976744186046	viral capsid, major subunit [GO:0098017]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+5_major_capsid_protein	79.06976744186046	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+94_A	11.627906976744185	viral DNA genome replication [GO:0039693]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+94_A	11.627906976744185	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+94_A	11.627906976744185	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+96_B	11.627906976744185	viral capsid assembly [GO:0019069]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+96_B	11.627906976744185	viral release from host cell [GO:0019076]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+96_B	11.627906976744185	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+96_B	11.627906976744185	viral procapsid [GO:0046729]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+96_B	11.627906976744185	viral scaffold [GO:0046806]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+98_C	11.627906976744185	viral DNA genome packaging [GO:0019073]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+99_D	11.627906976744185	viral procapsid maturation [GO:0046797]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+99_D	11.627906976744185	viral release from host cell [GO:0019076]	bp	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL
+99_D	11.627906976744185	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Microviridae/cluster_1_homologues_19062021_0758/	OMCL

@@ -1,0 +1,24 @@
+# cline: mcl /home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/Bacilladnaviridae_all_homologues/tmp/all_ortho.mtx "-I" "1.5" "-o" "/home/abelardo/Documents/Semestre2021-2/ssDNA_invoking_gethoms/bin/Bacilladnaviridae_all_homologues/tmp/all_ortho.mcl" "-V" "all" "-te" "10"
+(mclheader
+mcltype matrix
+dimensions 33x16
+)
+(mclmatrix
+begin
+0  3 7 12 16 22 25 28 31 $
+1  4 8 13 17 19 26 29 32 $
+2  23 24 30 $
+3  2 6 $
+4  0 $
+5  1 $
+6  5 $
+7  9 $
+8  10 $
+9  11 $
+10 14 $
+11 15 $
+12 18 $
+13 20 $
+14 21 $
+15 27 $
+)

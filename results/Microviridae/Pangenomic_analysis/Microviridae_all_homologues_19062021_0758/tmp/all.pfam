@@ -1,0 +1,431 @@
+1		
+2		
+3		
+4		
+5	PF02305,	Capsid protein (F protein);
+6		
+7		
+8		
+9	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+10		
+11	PF02305,	Capsid protein (F protein);
+12		
+13		
+14		
+15		
+16		
+17	PF02305,	Capsid protein (F protein);
+18		
+19		
+20	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+21		
+22		
+23		
+24		
+25		
+26		
+27		
+28	PF02305,	Capsid protein (F protein);
+29		
+30		
+31		
+32		
+33		
+34	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+35		
+36		
+37		
+38		
+39		
+40		
+41		
+42		
+43		
+44		
+45	PF01832,	Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase;
+46		
+47		
+48		
+49		
+50		
+51		
+52		
+53		
+54		
+55		
+56		
+57		
+58	PF01832,	Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase;
+59		
+60		
+61		
+62		
+63		
+64		
+65		
+66	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+67	PF02305,	Capsid protein (F protein);
+68		
+69		
+70	PF02305,	Capsid protein (F protein);
+71		
+72		
+73		
+74		
+75	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+76	PF02305,	Capsid protein (F protein);
+77	PF02305,	Capsid protein (F protein);
+78		
+79		
+80		
+81	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+82		
+83		
+84		
+85	PF02305,	Capsid protein (F protein);
+86		
+87		
+88		
+89	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+90		
+91		
+92		
+93		
+94	PF02305,	Capsid protein (F protein);
+95		
+96		
+97	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+98		
+99		
+100		
+101		
+102	PF02305,	Capsid protein (F protein);
+103		
+104	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+105		
+106		
+107		
+108	PF02305,	Capsid protein (F protein);
+109		
+110		
+111		
+112		
+113		
+114	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+115		
+116		
+117		
+118		
+119		
+120		
+121	PF05840,	Bacteriophage replication gene A protein (GPA);
+122		
+123	PF02925,	Bacteriophage scaffolding protein D;
+124		
+125	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+126		
+127		
+128		
+129	PF05840,	Bacteriophage replication gene A protein (GPA);
+130	PF05840,	Bacteriophage replication gene A protein (GPA);
+131	PF02304,	Scaffold protein B;
+132	PF12283,	Bacteriophage protein K;
+133	PF12025,	Phage protein C;
+134	PF02925,	Bacteriophage scaffolding protein D;
+135	PF04517,	Microvirus lysis protein (E), C terminus;
+136	PF04726,	Microvirus J protein;
+137	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+138	PF02306,	Major spike protein (G protein);
+139	PF04687,	Microvirus H protein (pilot protein);
+140	PF05840,	Bacteriophage replication gene A protein (GPA);
+141	PF02304,	Scaffold protein B;
+142		
+143	PF12025,	Phage protein C;
+144	PF02925,	Bacteriophage scaffolding protein D;
+145	PF04517,	Microvirus lysis protein (E), C terminus;
+146	PF04726,	Microvirus J protein;
+147	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+148	PF02306,	Major spike protein (G protein);
+149	PF04687,	Microvirus H protein (pilot protein);
+150		
+151		
+152	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+153	PF02305,	Capsid protein (F protein);
+154		
+155		
+156	PF05840,	Bacteriophage replication gene A protein (GPA);
+157	PF05840,	Bacteriophage replication gene A protein (GPA);
+158	PF02304,	Scaffold protein B;
+159	PF12283,	Bacteriophage protein K;
+160	PF12025,	Phage protein C;
+161	PF02925,	Bacteriophage scaffolding protein D;
+162	PF04517,	Microvirus lysis protein (E), C terminus;
+163	PF04726,	Microvirus J protein;
+164	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+165	PF02306,	Major spike protein (G protein);
+166	PF04687,	Microvirus H protein (pilot protein);
+167	PF05840,	Bacteriophage replication gene A protein (GPA);
+168	PF05840,	Bacteriophage replication gene A protein (GPA);
+169	PF02304,	Scaffold protein B;
+170	PF12283,	Bacteriophage protein K;
+171	PF12025,	Phage protein C;
+172	PF02925,	Bacteriophage scaffolding protein D;
+173	PF04517,	Microvirus lysis protein (E), C terminus;
+174	PF04726,	Microvirus J protein;
+175	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+176	PF02306,	Major spike protein (G protein);
+177	PF04687,	Microvirus H protein (pilot protein);
+178	PF05840,	Bacteriophage replication gene A protein (GPA);
+179	PF02304,	Scaffold protein B;
+180		
+181	PF12025,	Phage protein C;
+182	PF02925,	Bacteriophage scaffolding protein D;
+183	PF04517,	Microvirus lysis protein (E), C terminus;
+184	PF04726,	Microvirus J protein;
+185	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+186	PF02306,	Major spike protein (G protein);
+187	PF04687,	Microvirus H protein (pilot protein);
+188	PF05840,	Bacteriophage replication gene A protein (GPA);
+189	PF02304,	Scaffold protein B;
+190		
+191	PF12025,	Phage protein C;
+192	PF02925,	Bacteriophage scaffolding protein D;
+193	PF04517,	Microvirus lysis protein (E), C terminus;
+194	PF04726,	Microvirus J protein;
+195	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+196	PF02306,	Major spike protein (G protein);
+197	PF04687,	Microvirus H protein (pilot protein);
+198	PF05840,	Bacteriophage replication gene A protein (GPA);
+199	PF05840,	Bacteriophage replication gene A protein (GPA);
+200	PF02304,	Scaffold protein B;
+201	PF12283,	Bacteriophage protein K;
+202	PF12025,	Phage protein C;
+203	PF02925,	Bacteriophage scaffolding protein D;
+204	PF04517,	Microvirus lysis protein (E), C terminus;
+205	PF04726,	Microvirus J protein;
+206	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+207	PF02306,	Major spike protein (G protein);
+208	PF04687,	Microvirus H protein (pilot protein);
+209	PF05840,	Bacteriophage replication gene A protein (GPA);
+210	PF02304,	Scaffold protein B;
+211		
+212	PF12025,	Phage protein C;
+213	PF02925,	Bacteriophage scaffolding protein D;
+214	PF04517,	Microvirus lysis protein (E), C terminus;
+215	PF04726,	Microvirus J protein;
+216	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+217	PF02306,	Major spike protein (G protein);
+218	PF04687,	Microvirus H protein (pilot protein);
+219	PF05840,	Bacteriophage replication gene A protein (GPA);
+220	PF02304,	Scaffold protein B;
+221		
+222	PF12025,	Phage protein C;
+223	PF02925,	Bacteriophage scaffolding protein D;
+224	PF04517,	Microvirus lysis protein (E), C terminus;
+225	PF04726,	Microvirus J protein;
+226	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+227	PF02306,	Major spike protein (G protein);
+228	PF04687,	Microvirus H protein (pilot protein);
+229	PF05840,	Bacteriophage replication gene A protein (GPA);
+230	PF02304,	Scaffold protein B;
+231		
+232	PF12025,	Phage protein C;
+233	PF02925,	Bacteriophage scaffolding protein D;
+234	PF04517,	Microvirus lysis protein (E), C terminus;
+235	PF04726,	Microvirus J protein;
+236	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+237	PF02306,	Major spike protein (G protein);
+238	PF04687,	Microvirus H protein (pilot protein);
+239	PF05840,	Bacteriophage replication gene A protein (GPA);
+240	PF02304,	Scaffold protein B;
+241		
+242	PF12025,	Phage protein C;
+243	PF02925,	Bacteriophage scaffolding protein D;
+244	PF04517,	Microvirus lysis protein (E), C terminus;
+245	PF04726,	Microvirus J protein;
+246	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+247	PF02306,	Major spike protein (G protein);
+248	PF04687,	Microvirus H protein (pilot protein);
+249	PF05840,	Bacteriophage replication gene A protein (GPA);
+250	PF05840,	Bacteriophage replication gene A protein (GPA);
+251	PF02304,	Scaffold protein B;
+252		
+253	PF12025,	Phage protein C;
+254	PF02925,	Bacteriophage scaffolding protein D;
+255	PF04517,	Microvirus lysis protein (E), C terminus;
+256	PF04726,	Microvirus J protein;
+257	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+258	PF02306,	Major spike protein (G protein);
+259	PF04687,	Microvirus H protein (pilot protein);
+260	PF05840,	Bacteriophage replication gene A protein (GPA);
+261	PF02304,	Scaffold protein B;
+262		
+263	PF12025,	Phage protein C;
+264	PF02925,	Bacteriophage scaffolding protein D;
+265	PF04517,	Microvirus lysis protein (E), C terminus;
+266	PF04726,	Microvirus J protein;
+267	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+268	PF02306,	Major spike protein (G protein);
+269	PF04687,	Microvirus H protein (pilot protein);
+270	PF05840,	Bacteriophage replication gene A protein (GPA);
+271	PF02304,	Scaffold protein B;
+272		
+273	PF12025,	Phage protein C;
+274	PF02925,	Bacteriophage scaffolding protein D;
+275	PF04517,	Microvirus lysis protein (E), C terminus;
+276	PF04726,	Microvirus J protein;
+277	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+278	PF02306,	Major spike protein (G protein);
+279	PF04687,	Microvirus H protein (pilot protein);
+280	PF05840,	Bacteriophage replication gene A protein (GPA);
+281	PF02304,	Scaffold protein B;
+282		
+283	PF12025,	Phage protein C;
+284	PF02925,	Bacteriophage scaffolding protein D;
+285	PF04517,	Microvirus lysis protein (E), C terminus;
+286	PF04726,	Microvirus J protein;
+287	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+288	PF02306,	Major spike protein (G protein);
+289	PF04687,	Microvirus H protein (pilot protein);
+290	PF05840,	Bacteriophage replication gene A protein (GPA);
+291	PF05840,	Bacteriophage replication gene A protein (GPA);
+292	PF02304,	Scaffold protein B;
+293	PF12283,	Bacteriophage protein K;
+294	PF12025,	Phage protein C;
+295	PF02925,	Bacteriophage scaffolding protein D;
+296	PF04517,	Microvirus lysis protein (E), C terminus;
+297	PF04726,	Microvirus J protein;
+298	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+299	PF02306,	Major spike protein (G protein);
+300	PF04687,	Microvirus H protein (pilot protein);
+301	PF02305,PF02305,	Capsid protein (F protein);Capsid protein (F protein);
+302		
+303		
+304		
+305	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+306	PF02305,	Capsid protein (F protein);
+307		
+308	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+309		
+310		
+311		
+312	PF02305,	Capsid protein (F protein);
+313		
+314	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+315		
+316		
+317		
+318	PF02305,	Capsid protein (F protein);
+319		
+320	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+321		
+322		
+323		
+324		
+325	PF02305,	Capsid protein (F protein);
+326		
+327	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+328		
+329		
+330		
+331		
+332		
+333	PF02305,	Capsid protein (F protein);
+334		
+335	PF02305,	Capsid protein (F protein);
+336		
+337	PF09675,	Chlamydia-phage Chp2 scaffold (Chlamy_scaf);
+338		
+339		
+340		
+341	PF02305,	Capsid protein (F protein);
+342		
+343		
+344		
+345		
+346		
+347	PF02305,	Capsid protein (F protein);
+348		
+349		
+350		
+351		
+352	PF02305,	Capsid protein (F protein);
+353		
+354		
+355		
+356	PF02305,	Capsid protein (F protein);
+357		
+358		
+359		
+360		
+361	PF02305,	Capsid protein (F protein);
+362		
+363		
+364		
+365		
+366	PF02305,	Capsid protein (F protein);
+367		
+368		
+369		
+370		
+371		
+372	PF02305,	Capsid protein (F protein);
+373		
+374		
+375		
+376		
+377	PF02305,	Capsid protein (F protein);
+378		
+379		
+380		
+381		
+382	PF02305,	Capsid protein (F protein);
+383		
+384		
+385		
+386		
+387	PF02305,	Capsid protein (F protein);
+388		
+389		
+390		
+391		
+392	PF02305,	Capsid protein (F protein);
+393		
+394		
+395		
+396		
+397		
+398		
+399		
+400		
+401		
+402		
+404		
+405	PF02305,	Capsid protein (F protein);
+406		
+407		
+408		
+409		
+410		
+411		
+412		
+413		
+414	PF02305,	Capsid protein (F protein);
+415		
+416		
+417		
+418		
+419		
+420	PF02305,	Capsid protein (F protein);
+421		
+422		
+423		
+424		
+425		
+426		
+427		
+428		
+429		
+430	PF02305,	Capsid protein (F protein);
+431		
+432		

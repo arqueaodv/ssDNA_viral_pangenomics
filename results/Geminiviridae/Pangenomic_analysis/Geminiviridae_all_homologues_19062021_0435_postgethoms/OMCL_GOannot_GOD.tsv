@@ -1,0 +1,126 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_BV1	30.859375	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1_BV1	30.859375	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1_BV1	30.859375	transport of virus in host, cell to cell [GO:0046740]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1_BV1	30.859375	DNA transport [GO:0051027]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1_BV1	30.859375	host cell plasma membrane [GO:0020002]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1_BV1	30.859375	host cell [GO:0043657]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1_BV1	30.859375	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1_BV1	30.859375	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1_BV1	30.859375	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1_BV1	30.859375	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1_BV1	30.859375	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1_BV1	30.859375	single-stranded DNA binding [GO:0003697]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+108_av2	9.1796875	negative regulation of gene silencing by RNA [GO:0060967]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+108_av2	9.1796875	modulation by virus of host process [GO:0019048]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+108_av2	9.1796875	host cell perinuclear region of cytoplasm [GO:0044220]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+108_av2	9.1796875	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+108_av2	9.1796875	viral capsid [GO:0019028]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+133_movement_protein	5.46875	transport of virus in host, cell to cell [GO:0046740]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1339_Rep	0.390625	DNA replication [GO:0006260]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1339_Rep	0.390625	viral capsid [GO:0019028]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1339_Rep	0.390625	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1339_Rep	0.390625	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1339_Rep	0.390625	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1339_Rep	0.390625	helicase activity [GO:0004386]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1339_Rep	0.390625	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1339_Rep	0.390625	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1339_Rep	0.390625	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1339_Rep	0.390625	ATP binding [GO:0005524]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+134_capsid_protein	99.21875	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+134_capsid_protein	99.21875	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+134_capsid_protein	99.21875	transport of virus in host, cell to cell [GO:0046740]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+134_capsid_protein	99.21875	DNA transport [GO:0051027]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+134_capsid_protein	99.21875	host cell plasma membrane [GO:0020002]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+134_capsid_protein	99.21875	host cell [GO:0043657]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+134_capsid_protein	99.21875	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+134_capsid_protein	99.21875	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+134_capsid_protein	99.21875	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+134_capsid_protein	99.21875	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+134_capsid_protein	99.21875	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+134_capsid_protein	99.21875	single-stranded DNA binding [GO:0003697]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+135_replication_associat..	97.8515625	DNA replication [GO:0006260]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+135_replication_associat..	97.8515625	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+135_replication_associat..	97.8515625	viral capsid [GO:0019028]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+135_replication_associat..	97.8515625	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+135_replication_associat..	97.8515625	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+135_replication_associat..	97.8515625	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+135_replication_associat..	97.8515625	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+135_replication_associat..	97.8515625	helicase activity [GO:0004386]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+135_replication_associat..	97.8515625	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+135_replication_associat..	97.8515625	ATP binding [GO:0005524]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+136_RepA	8.59375	DNA replication [GO:0006260]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+136_RepA	8.59375	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+136_RepA	8.59375	viral capsid [GO:0019028]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+136_RepA	8.59375	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+136_RepA	8.59375	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+136_RepA	8.59375	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+136_RepA	8.59375	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+136_RepA	8.59375	helicase activity [GO:0004386]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+136_RepA	8.59375	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+136_RepA	8.59375	ATP binding [GO:0005524]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1375_V2	0.390625	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1375_V2	0.390625	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1375_V2	0.390625	transport of virus in host, cell to cell [GO:0046740]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1375_V2	0.390625	DNA transport [GO:0051027]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1375_V2	0.390625	host cell plasma membrane [GO:0020002]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1375_V2	0.390625	host cell [GO:0043657]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1375_V2	0.390625	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1375_V2	0.390625	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1375_V2	0.390625	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1375_V2	0.390625	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1375_V2	0.390625	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+1375_V2	0.390625	single-stranded DNA binding [GO:0003697]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2_BC1	31.4453125	transport of virus in host, cell to cell [GO:0046740]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2_BC1	31.4453125	host cell endoplasmic reticulum membrane [GO:0044167]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2_BC1	31.4453125	cysteine-type endopeptidase activity [GO:0004197]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2_BC1	31.4453125	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2062_BV1	0.1953125	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2062_BV1	0.1953125	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2062_BV1	0.1953125	transport of virus in host, cell to cell [GO:0046740]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2062_BV1	0.1953125	DNA transport [GO:0051027]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2062_BV1	0.1953125	host cell plasma membrane [GO:0020002]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2062_BV1	0.1953125	host cell [GO:0043657]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2062_BV1	0.1953125	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2062_BV1	0.1953125	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2062_BV1	0.1953125	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2062_BV1	0.1953125	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2062_BV1	0.1953125	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2062_BV1	0.1953125	single-stranded DNA binding [GO:0003697]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2123_truncated_V2	0.1953125	negative regulation of gene silencing by RNA [GO:0060967]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2123_truncated_V2	0.1953125	modulation by virus of host process [GO:0019048]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2123_truncated_V2	0.1953125	host cell perinuclear region of cytoplasm [GO:0044220]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2123_truncated_V2	0.1953125	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2123_truncated_V2	0.1953125	viral capsid [GO:0019028]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2140_AC4	0.1953125	DNA replication [GO:0006260]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2140_AC4	0.1953125	viral capsid [GO:0019028]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2140_AC4	0.1953125	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2140_AC4	0.1953125	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2140_AC4	0.1953125	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2140_AC4	0.1953125	helicase activity [GO:0004386]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2140_AC4	0.1953125	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2140_AC4	0.1953125	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2140_AC4	0.1953125	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+2140_AC4	0.1953125	ATP binding [GO:0005524]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+33_AV2	45.3125	modulation by virus of host process [GO:0019048]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+33_AV2	45.3125	negative regulation of gene silencing by RNA [GO:0060967]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+33_AV2	45.3125	host cell perinuclear region of cytoplasm [GO:0044220]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+33_AV2	45.3125	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+33_AV2	45.3125	viral capsid [GO:0019028]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+4_AC3	88.8671875	viral process [GO:0016032]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+485_AC1	0.1953125	DNA replication [GO:0006260]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+485_AC1	0.1953125	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+485_AC1	0.1953125	viral capsid [GO:0019028]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+485_AC1	0.1953125	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+485_AC1	0.1953125	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+485_AC1	0.1953125	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+485_AC1	0.1953125	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+485_AC1	0.1953125	helicase activity [GO:0004386]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+485_AC1	0.1953125	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+5_AC2	86.9140625	viral process [GO:0016032]	bp	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+5_AC2	86.9140625	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+5_AC2	86.9140625	viral capsid [GO:0019028]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+5_AC2	86.9140625	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+5_AC2	86.9140625	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+5_AC2	86.9140625	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL
+5_AC2	86.9140625	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/Geminiviridae_all_homologues_19062021_0435/	OMCL

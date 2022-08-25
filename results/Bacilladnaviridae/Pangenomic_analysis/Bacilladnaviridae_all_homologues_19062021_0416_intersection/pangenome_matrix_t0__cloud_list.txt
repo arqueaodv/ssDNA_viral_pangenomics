@@ -1,0 +1,12 @@
+1_P3.faa
+2_P2.faa
+5_P3.faa
+9_P3.faa
+10_hypothetical_protein.faa
+11_P2.faa
+14_hypothetical_protein.faa
+15_hypothetical_protein.faa
+18_hypothetical_protein.faa
+20_hypothetical_protein.faa
+21_hypothetical_protein.faa
+27_hypothetical_protein.faa

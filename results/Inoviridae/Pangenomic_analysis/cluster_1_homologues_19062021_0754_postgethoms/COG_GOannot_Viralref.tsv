@@ -1,0 +1,123 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_II	30	DNA replication [GO:0006260]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+1_II	30	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+10_IV	20	protein secretion [GO:0009306]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+10_IV	20	viral extrusion [GO:0099045]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+103_hypothetical_protein	10	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+106_hypothetical_protein	10	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+107_hypothetical_protein	10	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+12_IV	20	protein secretion [GO:0009306]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+12_IV	20	viral extrusion [GO:0099045]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+19_III	20	adhesion receptor-mediated virion attachment to host cell [GO:0098671]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+19_III	20	entry receptor-mediated virion attachment to host cell [GO:0098670]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+19_III	20	viral entry into host cell via pilus retraction [GO:0039667]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+19_III	20	viral extrusion [GO:0099045]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+19_III	20	virion attachment to host cell pilus [GO:0039666]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+19_III	20	pathogenesis [GO:0009405]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+2_X	30	DNA replication [GO:0006260]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+2_X	30	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+3_V	30	DNA replication [GO:0006260]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+3_V	30	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+68_minor_capsid_protein	10	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+7_III	20	adhesion receptor-mediated virion attachment to host cell [GO:0098671]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+7_III	20	entry receptor-mediated virion attachment to host cell [GO:0098670]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+7_III	20	viral entry into host cell via pilus retraction [GO:0039667]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+7_III	20	viral extrusion [GO:0099045]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+7_III	20	virion attachment to host cell pilus [GO:0039666]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+7_III	20	pathogenesis [GO:0009405]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+76_prim-VSK	20	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+77_membrane_glycoprotei..	10	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+8_VI	30	viral entry into host cell via pilus retraction [GO:0039667]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+82_memb2	20	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+83_memb3	10	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+87_hypothetical_protein	20	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+88_DNA_replication_init..	60	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+88_DNA_replication_init..	60	DNA replication initiation [GO:0006270]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+89_hypothetical_protein	50	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+9_I	40	viral extrusion [GO:0099045]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+92_Vpf504	10	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+99_hypothetical_protein	10	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+10_IV	20	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+10_IV	20	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+103_hypothetical_protein	10	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+106_hypothetical_protein	10	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+107_hypothetical_protein	10	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+12_IV	20	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+12_IV	20	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+16_VII	20	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+16_VII	20	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+16_VII	20	virion [GO:0019012]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+17_IX	20	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+17_IX	20	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+17_IX	20	virion [GO:0019012]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+19_III	20	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+19_III	20	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+19_III	20	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+4_VII	20	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+4_VII	20	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+4_VII	20	virion [GO:0019012]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+5_IX	20	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+5_IX	20	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+5_IX	20	virion [GO:0019012]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+6_VIII	40	helical viral capsid [GO:0019029]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+6_VIII	40	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+6_VIII	40	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+6_VIII	40	host cell plasma membrane [GO:0020002]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+65_hypothetical_protein	30	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+66_major_capsid_protein	20	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+67_putative_minor_capsi..	20	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+68_minor_capsid_protein	10	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+68_minor_capsid_protein	10	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+69_putative_minor_coat_..	30	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+7_III	20	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+7_III	20	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+7_III	20	viral capsid [GO:0019028]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+70_putative_assembly_pr..	20	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+70_putative_assembly_pr..	20	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+76_prim-VSK	20	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+77_membrane_glycoprotei..	10	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+8_VI	30	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+8_VI	30	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+8_VI	30	virion [GO:0019012]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+82_memb2	20	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+82_memb2	20	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+83_memb3	10	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+83_memb3	10	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+85_VSK-tox1	10	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+85_VSK-tox1	10	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+86_VSK_tox2	10	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+86_VSK_tox2	10	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+87_hypothetical_protein	20	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+88_DNA_replication_init..	60	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+89_hypothetical_protein	50	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+9_I	40	host cell membrane [GO:0033644]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+9_I	40	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+92_Vpf504	10	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+92_Vpf504	10	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+99_hypothetical_protein	10	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+99_hypothetical_protein	10	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+1_II	30	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+1_II	30	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+1_II	30	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+1_II	30	ATP binding [GO:0005524]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+103_hypothetical_protein	10	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+106_hypothetical_protein	10	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+107_hypothetical_protein	10	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+2_X	30	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+2_X	30	DNA ligase (ATP) activity [GO:0003910]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+2_X	30	endonuclease activity [GO:0004519]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+2_X	30	ATP binding [GO:0005524]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+3_V	30	single-stranded DNA binding [GO:0003697]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+68_minor_capsid_protein	10	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+76_prim-VSK	20	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+77_membrane_glycoprotei..	10	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+82_memb2	20	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+83_memb3	10	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+87_hypothetical_protein	20	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+88_DNA_replication_init..	60	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+88_DNA_replication_init..	60	DNA binding [GO:0003677]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+88_DNA_replication_init..	60	DNA topoisomerase activity [GO:0003916]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+89_hypothetical_protein	50	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+9_I	40	ATP binding [GO:0005524]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+92_Vpf504	10	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG
+99_hypothetical_protein	10	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Inoviridae/cluster_1_homologues_19062021_0754/	COG

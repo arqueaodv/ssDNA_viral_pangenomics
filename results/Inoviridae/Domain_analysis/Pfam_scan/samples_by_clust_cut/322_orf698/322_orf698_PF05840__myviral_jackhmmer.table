@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_008130274.1       -          YP_008130274.1       -           1.4e-221  732.3   1.8  2.2e-221  731.7   1.8   1.3   1   0   0   1   1   1   1 -
+NP_047364.1          -          YP_008130274.1       -             8e-219  723.2   1.1  1.2e-218  722.6   1.1   1.3   1   0   0   1   1   1   1 -
+NP_047364.1          -          NP_047364.1          -           9.4e-221  729.5   1.1  1.4e-220  728.9   1.1   1.3   1   0   0   1   1   1   1 -
+YP_008130274.1       -          NP_047364.1          -           2.4e-219  724.9   1.8  3.6e-219  724.3   1.8   1.3   1   0   0   1   1   1   1 -
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/322_orf698/322_orf698_PF05840_.faa
+# Target file:     /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/322_orf698/322_orf698_PF05840__myviral_jackhmmer.table ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/322_orf698/322_orf698_PF05840_.faa /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Tue Dec 21 15:27:50 2021
+# [ok]

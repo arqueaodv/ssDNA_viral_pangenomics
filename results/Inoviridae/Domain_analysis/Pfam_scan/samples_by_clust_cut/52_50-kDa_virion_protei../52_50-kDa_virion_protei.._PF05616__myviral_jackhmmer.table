@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_040653.1          -          NP_040653.1          -            1.6e-40  135.7   2.3   2.9e-40  134.8   2.3   1.5   1   0   0   1   1   1   1 -
+YP_008320412.1       -          NP_040653.1          -            2.9e-33  112.4   0.7   2.9e-33  112.4   0.7   2.7   3   0   0   3   3   3   1 -
+YP_007011050.1       -          NP_040653.1          -            3.1e-33  112.3   0.7   3.1e-33  112.3   0.7   2.7   3   0   0   3   3   3   1 -
+YP_863927.1          -          NP_040653.1          -            3.1e-33  112.3   0.7   3.1e-33  112.3   0.7   2.7   3   0   0   3   3   3   1 -
+YP_004539135.1       -          NP_040653.1          -            1.4e-23   81.3   2.7   2.7e-23   80.4   2.7   1.4   1   0   0   1   1   1   1 -
+YP_004286237.1       -          NP_040653.1          -              0.013   14.2   1.4     0.028   13.1   1.4   1.5   1   0   0   1   1   1   0 -
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/52_50-kDa_virion_protei../52_50-kDa_virion_protei.._PF05616_.faa
+# Target file:     /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/52_50-kDa_virion_protei../52_50-kDa_virion_protei.._PF05616__myviral_jackhmmer.table ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/52_50-kDa_virion_protei../52_50-kDa_virion_protei.._PF05616_.faa /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Tue Dec 21 16:25:19 2021
+# [ok]

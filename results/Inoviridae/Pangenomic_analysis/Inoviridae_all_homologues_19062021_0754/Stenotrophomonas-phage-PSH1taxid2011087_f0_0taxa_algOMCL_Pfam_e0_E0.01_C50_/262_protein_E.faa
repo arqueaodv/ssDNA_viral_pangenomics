@@ -1,0 +1,6 @@
+>ID:YP_009126690.1 |[Uncultured phage WW-nAnB strain 2]||Uncultured-phage-WW-nAnB-strain-2_taxid_1449896.gbk|protein E|168|NC_026612(5077):3259-3426:1 ^GeneID:23681511^ Uncultured phage WW-nAnB strain 2, complete genome.|neighbours:ID:YP_009126689.1(1),ID:YP_009126691.1(1)|neighbour_genes:protein D,protein F| | aligned:1-55 (55)
+MVDFVSALGVFTSFIANVLSISFFGFGTFGHFILVCLLLSLVGFVLRGLWDGGDK
+>ID:YP_009126698.1 |[Uncultured phage WW-nAnB strain 3]||Uncultured-phage-WW-nAnB-strain-3_taxid_1449897.gbk|protein E|168|NC_026613(5210):3392-3559:1 ^GeneID:23681521^ Uncultured phage WW-nAnB strain 3, complete genome.|neighbours:ID:YP_009126697.1(1),ID:YP_009126699.1(1)|neighbour_genes:protein D,protein F| | aligned:1-55 (55)
+MVDFVSALGVFTSFIANVLSISFFGFGTFGNFILVCLLLSLVGFVLRGLWDGGDK
+>ID:YP_009123864.1 |[uncultured phage WW-nAnB]||uncultured-phage-WW-nAnB_taxid_1074044.gbk|protein E|168|NC_026582(4817):2999-3166:1 ^GeneID:23678695^ Uncultured phage WW-nAnB, complete genome.|neighbours:ID:YP_009123863.1(1),ID:YP_009123865.1(1)|neighbour_genes:protein D,protein F| | aligned:1-55 (55)
+MVDFVSALGVFTSFIANVLSISFFGFGTFGNFILVCLLLSLVGFVLRGLWDGGDK

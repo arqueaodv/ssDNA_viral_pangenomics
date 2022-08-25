@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_510891.1          -          YP_009111303.1       -            5.3e-42  140.0   0.4   1.1e-41  139.0   0.4   1.6   1   0   0   1   1   1   1 -
+YP_009111303.1       -          YP_009111303.1       -            5.6e-42  139.9   0.4   1.1e-41  139.0   0.4   1.5   1   0   0   1   1   1   1 -
+NP_047356.1          -          YP_009111303.1       -              2e-28   96.5   0.0   8.2e-28   94.6   0.0   2.1   1   0   0   1   1   1   1 -
+NP_040576.1          -          YP_009111303.1       -            1.2e-26   90.8   0.5   1.2e-26   90.8   0.5   2.7   4   0   0   4   4   4   1 -
+NP_039621.1          -          YP_009111303.1       -              4e-26   89.2   0.5     4e-26   89.2   0.5   2.3   3   0   0   3   3   3   1 -
+NP_510891.1          -          NP_510891.1          -            5.3e-42  140.0   0.4   1.1e-41  139.0   0.4   1.6   1   0   0   1   1   1   1 -
+YP_009111303.1       -          NP_510891.1          -            5.6e-42  139.9   0.4   1.1e-41  139.0   0.4   1.5   1   0   0   1   1   1   1 -
+NP_047356.1          -          NP_510891.1          -              2e-28   96.5   0.0   8.2e-28   94.6   0.0   2.1   1   0   0   1   1   1   1 -
+NP_040576.1          -          NP_510891.1          -            1.2e-26   90.8   0.5   1.2e-26   90.8   0.5   2.7   4   0   0   4   4   4   1 -
+NP_039621.1          -          NP_510891.1          -              4e-26   89.2   0.5     4e-26   89.2   0.5   2.3   3   0   0   3   3   3   1 -
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/7_III/7_III_PF05357_.faa
+# Target file:     /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/7_III/7_III_PF05357__myviral_jackhmmer.table ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/7_III/7_III_PF05357_.faa /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Tue Dec 21 17:26:29 2021
+# [ok]

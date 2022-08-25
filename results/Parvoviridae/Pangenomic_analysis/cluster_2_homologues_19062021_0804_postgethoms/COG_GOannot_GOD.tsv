@@ -1,0 +1,61 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_NS1	23.076923076923077	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+1_NS1	23.076923076923077	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+1_NS1	23.076923076923077	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+10_NS1	7.6923076923076925	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+11_putative_VP1	7.6923076923076925	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+13_VP2	23.076923076923077	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+16_non-structural_prote..	15.384615384615385	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+16_non-structural_prote..	15.384615384615385	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+16_non-structural_prote..	15.384615384615385	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+18_nonstructural_protei..	15.384615384615385	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+20_NS1	15.384615384615385	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+30_cap	7.6923076923076925	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+30_cap	7.6923076923076925	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+30_cap	7.6923076923076925	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+30_cap	7.6923076923076925	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+30_cap	7.6923076923076925	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+30_cap	7.6923076923076925	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+30_cap	7.6923076923076925	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+30_cap	7.6923076923076925	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+30_cap	7.6923076923076925	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+30_cap	7.6923076923076925	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+30_cap	7.6923076923076925	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	induction by virus of host apoptotic process [GO:0019051]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+36_non-structural_prote..	7.6923076923076925	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	DNA replication [GO:0006260]	bp	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	DNA binding [GO:0003677]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG
+4_NS1	7.6923076923076925	ATP binding [GO:0005524]	mf	../results/Get_homologues/Parvoviridae/cluster_2_homologues_19062021_0804/	COG

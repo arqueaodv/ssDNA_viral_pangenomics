@@ -1,0 +1,8 @@
+78_capsid_protein.faa
+25_putative_capsid_prot...faa
+50_putative_capsid_prot...faa
+52_cap.faa
+10_putative_capsid_prot...faa
+4_putative_capsid_prot...faa
+56_putative_capsid_prot...faa
+29_putative_capsid_prot...faa

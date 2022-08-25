@@ -1,0 +1,6 @@
+6_AC1.faa
+56_AR1.faa
+57_AL3.faa
+58_AL2.faa
+59_BR1.faa
+60_BL1.faa

@@ -1,0 +1,11 @@
+Gene,Non-unique Gene name,Annotation,No. isolates,No. sequences,Avg sequences per isolate,Genome fragment,Order within fragment,Accessory Fragment,Accessory Order with Fragment,QC,Min group size nuc,Max group size nuc,Avg group size nuc,Enterobacteria-phage-WA13-sensu-lato_taxid_489828.gbk,Escherichia-phage-ID21_taxid_338101.gbk,Escherichia-phage-ID32_taxid_338102.gbk,Escherichia-phage-ID62_taxid_338107.gbk,Escherichia-phage-NC28_taxid_338106.gbk,Escherichia-phage-NC29_taxid_338110.gbk,Escherichia-phage-NC35_taxid_338103.gbk,Escherichia-phage-St-1_taxid_10845.gbk,Escherichia-phage-WA45_taxid_338105.gbk,Escherichia-phage-alpha3_taxid_10849.gbk,Escherichia-phage-phiK_taxid_2507234.gbk
+1_A.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1
+2_B.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1
+3_K.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1
+4_C.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1
+5_D.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1
+6_E.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1
+7_J.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1
+8_F.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1
+9_G.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1
+10_H.faa,,,,,,,,,,,,,,1,1,1,1,1,1,1,1,1,1,1

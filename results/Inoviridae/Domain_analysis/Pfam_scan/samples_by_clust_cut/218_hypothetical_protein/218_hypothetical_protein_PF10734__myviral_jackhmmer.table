@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_009664530.1       -          YP_009664530.1       -            5.9e-52  172.3   5.5   6.9e-52  172.1   5.5   1.0   1   0   0   1   1   1   1 -
+YP_009664519.1       -          YP_009664530.1       -            4.6e-47  156.6   6.3   5.5e-47  156.4   6.3   1.1   1   0   0   1   1   1   1 -
+YP_009664519.1       -          YP_009664519.1       -            1.6e-52  174.3   7.2   1.9e-52  174.0   7.2   1.1   1   0   0   1   1   1   1 -
+YP_009664530.1       -          YP_009664519.1       -            5.2e-47  156.6   5.0   6.1e-47  156.4   5.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         jackhmmer
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/218_hypothetical_protein/218_hypothetical_protein_PF10734_.faa
+# Target file:     /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa
+# Option settings: jackhmmer -N 3 --tblout ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/218_hypothetical_protein/218_hypothetical_protein_PF10734__myviral_jackhmmer.table ../results/Get_homologues/Inoviridae/Inoviridae_all_homologues_19062021_0754_postgethoms/clusters_clustering/OMCL/samples_by_clust_cut/218_hypothetical_protein/218_hypothetical_protein_PF10734_.faa /barracuda/Nanis_dbs/All_my_ssDNA/All_my_ssDNA.faa 
+# Current dir:     /home/abelardo/Documents/Semestre2021-2/Invoking_gethoms/bin
+# Date:            Tue Dec 21 11:46:42 2021
+# [ok]

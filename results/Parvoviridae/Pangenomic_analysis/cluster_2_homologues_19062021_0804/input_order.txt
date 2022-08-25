@@ -1,0 +1,13 @@
+0	Aedes-aegypti-densovirus-2_taxid_1513196.gbk
+1	Aedes-albopictus-densovirus-2_taxid_1513199.gbk
+2	Anopheles-gambiae-densovirus_taxid_487311.gbk
+3	Cutavirus_taxid_1867125.gbk
+4	Decapod-penstyldensovirus-1_taxid_1513224.gbk
+5	Desmodus-rotundus-parvovirus_taxid_1926498.gbk
+6	Gray-fox-amdovirus_taxid_1093101.gbk
+7	Mosquito-densovirus-BR-07_taxid_945962.gbk
+8	Parvovirus-NIH-CQV_taxid_1341019.gbk
+9	Penaeus-stylirostris-penstyldensovirus-1_taxid_1513225.gbk
+10	Porcine-parvovirus-7_taxid_1820046.gbk
+11	Protoparvovirus-Zsana-2013-HUN_taxid_1755694.gbk
+12	Skunk-amdoparvovirus_taxid_1961072.gbk

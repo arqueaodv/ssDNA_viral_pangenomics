@@ -1,0 +1,11 @@
+15_hypothetical_protein.faa
+17_hypothetical_protein.faa
+20_hypothetical_protein.faa
+24_hypothetical_protein.faa
+26_hypothetical_protein.faa
+75_putative_replication...faa
+76_hypothetical_protein.faa
+78_hypothetical_protein.faa
+79_hypothetical_protein.faa
+80_hypothetical_protein.faa
+88_trbP-related.faa

@@ -1,0 +1,4 @@
+>ID:YP_009664530.1 |[Stenotrophomonas phage SMA6]||Stenotrophomonas-phage-SMA6_taxid_1346893.gbk|hypothetical protein|312|NC_043029(7648):3330-3641:1 ^GeneID:40524564,UniProtKB/TrEMBL:S0F3R9^ Stenotrophomonas phage phiSMA6 proviral complete genome.|neighbours:ID:YP_009664529.1(1),ID:YP_009664531.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-103 (103)
+MPMLISTLLTALAALFRSKWGPWVAEAMVWLGLSWATNEFLVQPWIDQMEQAMRAGTPGGEFGALVIAYAGLMKFDVACTMIASAVTAKFAVGAAKTFLTKRA
+>ID:YP_009664519.1 |[Xanthomonas phage Xf109]||Xanthomonas-phage-Xf109_taxid_1852597.gbk|hypothetical protein|330|NC_043028(7190):3326-3655:1 ^GeneID:40524552^ Xanthomonas phage Xf109, complete genome.|neighbours:ID:YP_009664518.1(1),ID:YP_009664520.1(1)|neighbour_genes:minor coat protein,zonular occludens to..| | aligned:1-104 (109)
+MPWLIAQLVTALAWLFKSRIGLWIMTALVWLGINFGTIKMVVEPAIDLLKDYAQGMGSGNGQLGADAMAWFGVLQFDKALTMVISAVAAKHAIMQGRLFLFKRGFGAKP

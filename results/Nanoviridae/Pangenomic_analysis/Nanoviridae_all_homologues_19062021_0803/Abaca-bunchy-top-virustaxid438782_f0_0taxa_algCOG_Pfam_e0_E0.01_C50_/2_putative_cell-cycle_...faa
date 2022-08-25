@@ -1,0 +1,6 @@
+>ID:YP_001661659.1 |[Abaca bunchy top virus]||Abaca-bunchy-top-virus_taxid_438782.gbk|putative cell-cycle ..|483|NC_010318(1015):248-730:1 ^GeneID:11027299^ Abaca bunchy top virus DNA-C, complete sequence.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-157 (160)
+MEFWNSEAFCDDVKRVIKQKYWEERMKSLFIEKVSGYVRRILVYGNLDDTIYAVQQMKTSIVQCAERFGKACVVVYNGLDPSIGFRLHTMAFFFEEYVEEVSTADPMAVQLFCDEEIEEFSNSDVRLIKNVIMASTDASIDVGNCIQIIISDNVITFYIC
+>ID:NP_604480.1 |[Banana bunchy top virus]||Banana-bunchy-top-virus_taxid_12585.gbk|hypothetical protein|486|NC_003477(1018):240-725:1 ^GeneID:963870^ Banana bunchy top virus DNA C, complete sequence.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-161 (161)
+MEFWESSAMPDDVKREIKEIYWEDRKKLLFCQKLKSYVRRILVYGDQEDALAGVKDMKTSIIRYSEYLKKPCVVICCVSNKSIVYRLNSMVFFYHEYLEELGGDYSVYQDLYCDEVLSSSSTEEEDVGVIYRNVIMASTQEKFSWSDCQQIVISDYDVTLL
+>ID:YP_009508035.1 |[Cardamom bushy dwarf virus]||Cardamom-bushy-dwarf-virus_taxid_262588.gbk|CLINK|483|NC_038809(1028):244-726:1 ^GeneID:37619261^ Cardamom bushy dwarf virus clone Fr-CL-1 cell cycle link protein (CLINK) gene, complete cds.|neighbours:start(),end()|neighbour_genes:start(),end()| | aligned:1-160 (160)
+MDRWEEDVYPDDVKRVIKEYYWRSRLNLLFCEKVKRQVRRILGFGDFDDAMLAVKEMKTSIVALAAKMKKDSVVICEVTNKSVANRLNTMSFFCHEYVEDQGDTYSVDVVLFCDEEVPSSSENAEENVIYRNVIMASNDEKISYDSCIWIVIGDDGVTVL

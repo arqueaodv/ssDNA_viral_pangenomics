@@ -1,0 +1,50 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_2_homologues_19062021_0417/Avon-Heathcote-Estuary-associated-circular-virus-15taxid1618238_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_/,cluster_2_homologues_19062021_0417/Avon-Heathcote-Estuary-associated-circular-virus-15taxid1618238_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_
+# -o cluster_2_homologues_19062021_0417_intersection
+# -I 
+# -r 0
+42_hypothetical_protein.faa
+1_replication-associat...faa
+22_replication-associat...faa
+78_cap_protein.faa
+40_hypothetical_protein.faa
+65_hypothetical_protein.faa
+53_ORF2.faa
+3_putative_capsid_prot...faa
+12_hypothetical_protein.faa
+7_putative_capsid_prot...faa
+71_hypothetical_protein.faa
+63_hypothetical_protein.faa
+69_Cap.faa
+15_hypothetical_protein.faa
+11_hypothetical_protein.faa
+5_putative_capsid_prot...faa
+25_hypothetical_protein.faa
+31_hypothetical_protein.faa
+55_capsid-like_protein.faa
+6_replication-associat...faa
+32_hypothetical_protein.faa
+29_hypothetical_protein.faa
+54_cap.faa
+46_hypothetical_protein.faa
+13_hypothetical_protein.faa
+20_hypothetical_protein.faa
+56_Rep-B.faa
+33_hypothetical_protein.faa
+24_hypothetical_protein.faa
+36_hypothetical_protein.faa
+67_hypothetical_protein.faa
+75_hypothetical_protein.faa
+51_hypothetical_protein.faa
+19_putative_viral_capsi...faa
+72_hypothetical_protein.faa
+17_hypothetical_protein.faa
+50_hypothetical_protein.faa
+18_hypothetical_protein.faa
+34_hypothetical_protein.faa
+62_capsid_protein.faa
+2_putative_capsid_prot...faa
+28_replication-associat...faa
+10_hypothetical_protein.faa
+45_hypothetical_protein.faa
+# intersection size = 44 clusters

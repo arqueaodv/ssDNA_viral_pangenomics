@@ -1,0 +1,11 @@
+>ID:YP_009553589.1 |[Camellia chlorotic dwarf-associated virus]||Camellia-chlorotic-dwarf-associated-virus_taxid_2122733.gbk|hypothetical protein|435|NC_040817(3687):386-820:1 ^GeneID:41701982^ Camellia chlorotic dwarf-associated virus isolate Ca-1, complete genome.|neighbours:ID:YP_009553588.1(1),ID:YP_009553590.1(1)|neighbour_genes:hypothetical protein,putative coat protei..| | aligned:3-128 (144)
+MSSFAMEGLP ESIWGLVFMC CVRYLMGELN AVLPARQLIP EVMPMGKLGF LGKNCQSVKD AYCIRELVRL VRRLGRVKDK
+RKVYGDYKKW QGIWNRNRQA SDVEKPSEKE CEEQGICYEC GEKIPECWCK YSKDGVEGEG PGWV
+
+>ID:YP_006522418.1 |[Citrus chlorotic dwarf associated virus]||Citrus-chlorotic-dwarf-associated-virus_taxid_1202142.gbk|putative V2-like pro..|420|NC_018151(3640):194-613:1 ^GeneID:13246734^ Citrus chlorotic dwarf associated virus, complete genome.|neighbours:start(),ID:YP_006522419.1(1)|neighbour_genes:start(),putative coat protei..| | aligned:2-119 (139)
+MCHYALSVQD LPESLFGLMS MLSVRYLKCV EEREMERSLM VGNPVGGALG NARILIRLIR RYCRCRDWVR KGRVNGEYQE
+WRTIWDKPCN DCGDAADVGH KEKKEAQVAE KGKEAQDCWG CICEGPAQEK VEQRCSSGV
+
+>ID:YP_009553193.1 |[Passion fruit chlorotic mottle virus]||Passion-fruit-chlorotic-mottle-virus_taxid_2162638.gbk|hypothetical v2 prot..|366|NC_040706(3743):428-793:1 ^GeneID:41702029^ Passion fruit chlorotic mottle virus isolate CDS_MS_BR_2014, complete genome.|neighbours:ID:YP_009553192.1(1),ID:YP_009553194.1(1)|neighbour_genes:hypothetical protein,capsid protein| | aligned:3-119 (121)
+MSCAVPLDFG NLPDHVVGLL CMLAVRLLMM EEKRYVLEKR HSLANRHRIL IRIIRKWGRK NRVKANGDYA EWKNLWASYG
+PDKEKISAHE KEASYGPSDW AVKKNCEADE KGKVRRDSGW M

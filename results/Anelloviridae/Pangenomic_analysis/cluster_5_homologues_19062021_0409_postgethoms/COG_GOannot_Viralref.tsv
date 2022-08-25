@@ -1,0 +1,26 @@
+cluster	prevalence	term	what	familia	algoritmo
+1_hypothetical_protein	59.09090909090909	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+17_hypothetical_protein	4.545454545454546	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+2_hypothetical_protein	59.09090909090909	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+53_hypothetical_protein	4.545454545454546	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+55_hypothetical_protein	4.545454545454546	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+56_hypothetical_protein	4.545454545454546	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+57_Orf2	18.181818181818183	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+62_hypothetical_protein	9.090909090909092	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+1_hypothetical_protein	59.09090909090909	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+17_hypothetical_protein	4.545454545454546	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+2_hypothetical_protein	59.09090909090909	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+53_hypothetical_protein	4.545454545454546	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+55_hypothetical_protein	4.545454545454546	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+56_hypothetical_protein	4.545454545454546	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+57_Orf2	18.181818181818183	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+58_Orf1	100	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+62_hypothetical_protein	9.090909090909092	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+1_hypothetical_protein	59.09090909090909	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+17_hypothetical_protein	4.545454545454546	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+2_hypothetical_protein	59.09090909090909	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+53_hypothetical_protein	4.545454545454546	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+55_hypothetical_protein	4.545454545454546	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+56_hypothetical_protein	4.545454545454546	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+57_Orf2	18.181818181818183	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG
+62_hypothetical_protein	9.090909090909092	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Anelloviridae/cluster_5_homologues_19062021_0409/	COG

@@ -1,0 +1,8 @@
+3_Putative_nonstructur...faa
+442_NP.faa
+148_NP1.faa
+234_NS3.faa
+71_non-structural_prote...faa
+196_putative_structural_...faa
+146_VP.faa
+2_Putative_nonstructur...faa

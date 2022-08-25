@@ -1,0 +1,64 @@
+cluster 1_NS1 size=3 taxa=3 Pfam=PF01057,PF01057, file: 1_NS1.faa dnafile: 1_NS1.fna
+: Aedes-aegypti-densovirus-2_taxid_1513196.gbk
+: Anopheles-gambiae-densovirus_taxid_487311.gbk
+: Mosquito-densovirus-BR-07_taxid_945962.gbk
+cluster 2_NS2 size=4 taxa=4 file: 2_NS2.faa dnafile: 2_NS2.fna
+: Aedes-aegypti-densovirus-2_taxid_1513196.gbk
+: Aedes-albopictus-densovirus-2_taxid_1513199.gbk
+: Anopheles-gambiae-densovirus_taxid_487311.gbk
+: Mosquito-densovirus-BR-07_taxid_945962.gbk
+cluster 3_VP size=4 taxa=4 file: 3_VP.faa dnafile: 3_VP.fna
+: Aedes-aegypti-densovirus-2_taxid_1513196.gbk
+: Aedes-albopictus-densovirus-2_taxid_1513199.gbk
+: Anopheles-gambiae-densovirus_taxid_487311.gbk
+: Mosquito-densovirus-BR-07_taxid_945962.gbk
+cluster 4_NS1 size=1 taxa=1 Pfam=PF01057,PF00519, file: 4_NS1.faa dnafile: 4_NS1.fna
+: Aedes-albopictus-densovirus-2_taxid_1513199.gbk
+cluster 10_NS1 size=1 taxa=1 Pfam=PF12433,PF01057, file: 10_NS1.faa dnafile: 10_NS1.fna
+: Cutavirus_taxid_1867125.gbk
+cluster 11_putative_VP1 size=1 taxa=1 Pfam=PF08398,PF00740, file: 11_putative_VP1.faa dnafile: 11_putative_VP1.fna
+: Cutavirus_taxid_1867125.gbk
+cluster 12_hypothetical_protein size=1 taxa=1 file: 12_hypothetical_protein.faa dnafile: 12_hypothetical_protein.fna
+: Cutavirus_taxid_1867125.gbk
+cluster 13_VP2 size=5 taxa=3 Pfam=PF00740, file: 13_VP2.faa dnafile: 13_VP2.fna
+: Cutavirus_taxid_1867125.gbk
+: Gray-fox-amdovirus_taxid_1093101.gbk
+: Gray-fox-amdovirus_taxid_1093101.gbk
+: Skunk-amdoparvovirus_taxid_1961072.gbk
+: Skunk-amdoparvovirus_taxid_1961072.gbk
+cluster 14_hypothetical_protein size=1 taxa=1 file: 14_hypothetical_protein.faa dnafile: 14_hypothetical_protein.fna
+: Cutavirus_taxid_1867125.gbk
+cluster 15_hypothetical_protein size=2 taxa=2 file: 15_hypothetical_protein.faa dnafile: 15_hypothetical_protein.fna
+: Decapod-penstyldensovirus-1_taxid_1513224.gbk
+: Penaeus-stylirostris-penstyldensovirus-1_taxid_1513225.gbk
+cluster 16_non-structural_prote.. size=2 taxa=2 Pfam=PF01057, file: 16_non-structural_prote...faa dnafile: 16_non-structural_prote...fna
+: Decapod-penstyldensovirus-1_taxid_1513224.gbk
+: Penaeus-stylirostris-penstyldensovirus-1_taxid_1513225.gbk
+cluster 17_37_kDa_coat_protein size=2 taxa=2 Pfam=PF16530, file: 17_37_kDa_coat_protein.faa dnafile: 17_37_kDa_coat_protein.fna
+: Decapod-penstyldensovirus-1_taxid_1513224.gbk
+: Penaeus-stylirostris-penstyldensovirus-1_taxid_1513225.gbk
+cluster 18_nonstructural_protei.. size=2 taxa=2 Pfam=PF01057, file: 18_nonstructural_protei...faa dnafile: 18_nonstructural_protei...fna
+: Desmodus-rotundus-parvovirus_taxid_1926498.gbk
+: Porcine-parvovirus-7_taxid_1820046.gbk
+cluster 19_capsid_protein_1 size=2 taxa=2 file: 19_capsid_protein_1.faa dnafile: 19_capsid_protein_1.fna
+: Desmodus-rotundus-parvovirus_taxid_1926498.gbk
+: Porcine-parvovirus-7_taxid_1820046.gbk
+cluster 20_NS1 size=2 taxa=2 Pfam=PF12475,PF12475,PF12433,PF01057, file: 20_NS1.faa dnafile: 20_NS1.fna
+: Gray-fox-amdovirus_taxid_1093101.gbk
+: Skunk-amdoparvovirus_taxid_1961072.gbk
+cluster 21_NS2 size=2 taxa=2 Pfam=PF12475, file: 21_NS2.faa dnafile: 21_NS2.fna
+: Gray-fox-amdovirus_taxid_1093101.gbk
+: Skunk-amdoparvovirus_taxid_1961072.gbk
+cluster 22_NS3 size=2 taxa=2 Pfam=PF12475, file: 22_NS3.faa dnafile: 22_NS3.fna
+: Gray-fox-amdovirus_taxid_1093101.gbk
+: Skunk-amdoparvovirus_taxid_1961072.gbk
+cluster 28_putative_15-kDa_prot.. size=1 taxa=1 file: 28_putative_15-kDa_prot...faa dnafile: 28_putative_15-kDa_prot...fna
+: Parvovirus-NIH-CQV_taxid_1341019.gbk
+cluster 29_rep size=1 taxa=1 file: 29_rep.faa dnafile: 29_rep.fna
+: Parvovirus-NIH-CQV_taxid_1341019.gbk
+cluster 30_cap size=1 taxa=1 Pfam=PF08398, file: 30_cap.faa dnafile: 30_cap.fna
+: Parvovirus-NIH-CQV_taxid_1341019.gbk
+cluster 36_non-structural_prote.. size=1 taxa=1 Pfam=PF08724,PF12433,PF01057, file: 36_non-structural_prote...faa dnafile: 36_non-structural_prote...fna
+: Protoparvovirus-Zsana-2013-HUN_taxid_1755694.gbk
+cluster 37_putative_middle_prot.. size=1 taxa=1 file: 37_putative_middle_prot...faa dnafile: 37_putative_middle_prot...fna
+: Protoparvovirus-Zsana-2013-HUN_taxid_1755694.gbk

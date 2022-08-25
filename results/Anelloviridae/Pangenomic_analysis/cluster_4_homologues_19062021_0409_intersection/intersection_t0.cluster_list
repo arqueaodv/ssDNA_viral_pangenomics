@@ -1,0 +1,29 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_4_homologues_19062021_0409/Torque-teno-virus-14taxid687353_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_/,cluster_4_homologues_19062021_0409/Torque-teno-virus-14taxid687353_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_
+# -o cluster_4_homologues_19062021_0409_intersection
+# -I 
+# -r 0
+22_hypothetical_protein.faa
+32_hypothetical_protein.faa
+16_ORF2.faa
+6_ORF3.faa
+42_hypothetical_protein.faa
+7_ORF4.faa
+47_hypothetical_protein.faa
+2_ORF1.faa
+14_ORF3.faa
+64_ORF1-1.faa
+3_ORF3.faa
+11_ORF4.faa
+19_ORF4.faa
+1_ORF2.faa
+45_hypothetical_protein.faa
+65_hypothetical_protein.faa
+73_ORF3.faa
+62_ORF1-2.faa
+58_hypothetical_protein.faa
+10_ORF3.faa
+44_hypothetical_protein.faa
+18_ORF3.faa
+39_orf2-5.faa
+# intersection size = 23 clusters

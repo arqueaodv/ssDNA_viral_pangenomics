@@ -1,0 +1,21 @@
+VIRAL_FAMILY	Parvoviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	28_hypothetical_protein.faa
+PREVALENCE	1.030928
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		viral DNA genome replication [GO:0039693]
+	MOLECULAR_FUNCTION
+	CELLULAR_COMPONENT
+		viral replication complex [GO:0019034]
+
+
+//
+
+>ID:NP_042873.1 |[Aleutian mink disease virus]|ADV-G|Aleutian-mink-disease-virus_taxid_28314.gbk|hypothetical protein|225|NC_001662(4801):1983-2207:1 ^GeneID:1494589^ Aleutian mink disease virus, complete genome.|neighbours:ID:NP_042872.1(1),ID:NP_042874.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| CACATTTTAAATGCCAACTTTAAACCAACATCAATTTATGAGGTTACTTTACTTTACAGAGACTACTGGACCAAACTCGAGTGCCACAACTGCCACGAAGAATACTGGCAACTCACAACCTACTACTGCAAAGAGTGCAGAAAGTGTGAACACGGAAAACTGCGACACACCAAAAAGGAGTGCGAGCAGTGTGCCTGCAAAGCAGCACAAGAGACCTCGGCATGA
+
+//
+
+>ID:NP_042873.1 |[Aleutian mink disease virus]|ADV-G|Aleutian-mink-disease-virus_taxid_28314.gbk|hypothetical protein|225|NC_001662(4801):1983-2207:1 ^GeneID:1494589^ Aleutian mink disease virus, complete genome.|neighbours:ID:NP_042872.1(1),ID:NP_042874.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| HILNANFKPTSIYEVTLLYRDYWTKLECHNCHEEYWQLTTYYCKECRKCEHGKLRHTKKECEQCACKAAQETSA

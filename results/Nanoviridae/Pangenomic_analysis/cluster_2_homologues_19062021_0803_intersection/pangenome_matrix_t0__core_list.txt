@@ -1,0 +1,8 @@
+1_Clink.faa
+2_U1.faa
+3_M-Rep.faa
+4_MP.faa
+5_NSP.faa
+6_U4.faa
+7_CP.faa
+8_U2.faa

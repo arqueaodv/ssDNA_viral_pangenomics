@@ -1,0 +1,170 @@
+cluster 1_II size=3 taxa=3 Pfam=PF05144,PF05155, file: 1_II.faa dnafile: 1_II.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 2_X size=3 taxa=3 Pfam=PF05155, file: 2_X.faa dnafile: 2_X.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 3_V size=3 taxa=3 Pfam=PF02303, file: 3_V.faa dnafile: 3_V.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 4_VII size=2 taxa=2 Pfam=PF19978, file: 4_VII.faa dnafile: 4_VII.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+cluster 5_IX size=2 taxa=2 file: 5_IX.faa dnafile: 5_IX.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+cluster 6_VIII size=4 taxa=4 Pfam=PF19199, file: 6_VIII.faa dnafile: 6_VIII.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-virus-I22_taxid_10869.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 7_III size=2 taxa=2 Pfam=PF05357,PF05357, file: 7_III.faa dnafile: 7_III.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+cluster 8_VI size=3 taxa=3 Pfam=PF17537, file: 8_VI.faa dnafile: 8_VI.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 9_I size=4 taxa=4 Pfam=PF05707, file: 9_I.faa dnafile: 9_I.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-virus-I22_taxid_10869.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 10_IV size=2 taxa=2 Pfam=PF00263, file: 10_IV.faa dnafile: 10_IV.fna
+: Enterobacteria-phage-fd_taxid_10864.gbk
+: Escherichia-virus-M13_taxid_1977402.gbk
+cluster 12_IV size=2 taxa=2 Pfam=PF03958,PF00263, file: 12_IV.faa dnafile: 12_IV.fna
+: Escherichia-virus-I22_taxid_10869.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 13_replication_initiati.. size=1 taxa=1 Pfam=PF05144,PF05155, file: 13_replication_initiati...faa dnafile: 13_replication_initiati...fna
+: Escherichia-virus-I22_taxid_10869.gbk
+cluster 14_X size=1 taxa=1 Pfam=PF05155, file: 14_X.faa dnafile: 14_X.fna
+: Escherichia-virus-I22_taxid_10869.gbk
+cluster 15_gene_V_product size=1 taxa=1 Pfam=PF17426, file: 15_gene_V_product.faa dnafile: 15_gene_V_product.fna
+: Escherichia-virus-I22_taxid_10869.gbk
+cluster 16_VII size=2 taxa=2 Pfam=PF19978, file: 16_VII.faa dnafile: 16_VII.fna
+: Escherichia-virus-I22_taxid_10869.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 17_IX size=2 taxa=2 file: 17_IX.faa dnafile: 17_IX.fna
+: Escherichia-virus-I22_taxid_10869.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 19_III size=2 taxa=2 Pfam=PF05357, file: 19_III.faa dnafile: 19_III.fna
+: Escherichia-virus-I22_taxid_10869.gbk
+: Salmonella-phage-IKe_taxid_10867.gbk
+cluster 88_DNA_replication_init.. size=6 taxa=6 Pfam=PF02486, file: 88_DNA_replication_init...faa dnafile: 88_DNA_replication_init...fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 89_hypothetical_protein size=5 taxa=5 Pfam=PF06950, file: 89_hypothetical_protein.faa dnafile: 89_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 42_hypothetical_protein size=1 taxa=1 file: 42_hypothetical_protein.faa dnafile: 42_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+cluster 43_hypothetical_protein size=1 taxa=1 file: 43_hypothetical_protein.faa dnafile: 43_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+cluster 44_hypothetical_protein size=1 taxa=1 file: 44_hypothetical_protein.faa dnafile: 44_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+cluster 45_hypothetical_protein size=1 taxa=1 file: 45_hypothetical_protein.faa dnafile: 45_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+cluster 46_hypothetical_protein size=1 taxa=1 file: 46_hypothetical_protein.faa dnafile: 46_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+cluster 93_hypothetical_protein size=3 taxa=3 Pfam=PF10734, file: 93_hypothetical_protein.faa dnafile: 93_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+cluster 94_putative_assembly_pr.. size=3 taxa=3 Pfam=PF05707, file: 94_putative_assembly_pr...faa dnafile: 94_putative_assembly_pr...fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+cluster 49_hypothetical_protein size=2 taxa=2 file: 49_hypothetical_protein.faa dnafile: 49_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+cluster 50_hypothetical_protein size=1 taxa=1 file: 50_hypothetical_protein.faa dnafile: 50_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+cluster 51_hypothetical_protein size=1 taxa=1 file: 51_hypothetical_protein.faa dnafile: 51_hypothetical_protein.fna
+: Vibrio-phage-KSF1_taxid_292443.gbk
+cluster 52_hypothetical_protein size=1 taxa=1 file: 52_hypothetical_protein.faa dnafile: 52_hypothetical_protein.fna
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+cluster 54_ssDNA-binding_protei.. size=1 taxa=1 Pfam=PF07459, file: 54_ssDNA-binding_protei...faa dnafile: 54_ssDNA-binding_protei...fna
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+cluster 55_hypothetical_protein size=1 taxa=1 file: 55_hypothetical_protein.faa dnafile: 55_hypothetical_protein.fna
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+cluster 56_hypothetical_protein size=1 taxa=1 file: 56_hypothetical_protein.faa dnafile: 56_hypothetical_protein.fna
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+cluster 57_minor_capsid_protein size=1 taxa=1 file: 57_minor_capsid_protein.faa dnafile: 57_minor_capsid_protein.fna
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+cluster 61_hypothetical_protein size=3 taxa=3 file: 61_hypothetical_protein.faa dnafile: 61_hypothetical_protein.fna
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VSK_taxid_181604.gbk
+cluster 62_hypothetical_protein size=3 taxa=3 Pfam=PF12472, file: 62_hypothetical_protein.faa dnafile: 62_hypothetical_protein.fna
+: Vibrio-phage-VCY-phi_taxid_1105327.gbk
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VSK_taxid_181604.gbk
+cluster 65_hypothetical_protein size=3 taxa=3 file: 65_hypothetical_protein.faa dnafile: 65_hypothetical_protein.fna
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 66_major_capsid_protein size=2 taxa=2 file: 66_major_capsid_protein.faa dnafile: 66_major_capsid_protein.fna
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 67_putative_minor_capsi.. size=2 taxa=2 file: 67_putative_minor_capsi...faa dnafile: 67_putative_minor_capsi...fna
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 68_minor_capsid_protein size=1 taxa=1 file: 68_minor_capsid_protein.faa dnafile: 68_minor_capsid_protein.fna
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+cluster 69_putative_minor_coat_.. size=3 taxa=3 Pfam=PF10734, file: 69_putative_minor_coat_...faa dnafile: 69_putative_minor_coat_...fna
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 70_putative_assembly_pr.. size=2 taxa=2 Pfam=PF05707, file: 70_putative_assembly_pr...faa dnafile: 70_putative_assembly_pr...fna
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 73_hypothetical_protein size=1 taxa=1 file: 73_hypothetical_protein.faa dnafile: 73_hypothetical_protein.fna
+: Vibrio-phage-VEJphi_taxid_642111.gbk
+cluster 76_prim-VSK size=2 taxa=2 file: 76_prim-VSK.faa dnafile: 76_prim-VSK.fna
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 77_membrane_glycoprotei.. size=1 taxa=1 file: 77_membrane_glycoprotei...faa dnafile: 77_membrane_glycoprotei...fna
+: Vibrio-phage-VSK_taxid_181604.gbk
+cluster 81_major_coat_protein size=1 taxa=1 file: 81_major_coat_protein.faa dnafile: 81_major_coat_protein.fna
+: Vibrio-phage-VSK_taxid_181604.gbk
+cluster 82_memb2 size=2 taxa=2 file: 82_memb2.faa dnafile: 82_memb2.fna
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 83_memb3 size=1 taxa=1 file: 83_memb3.faa dnafile: 83_memb3.fna
+: Vibrio-phage-VSK_taxid_181604.gbk
+cluster 85_VSK-tox1 size=1 taxa=1 Pfam=PF05707, file: 85_VSK-tox1.faa dnafile: 85_VSK-tox1.fna
+: Vibrio-phage-VSK_taxid_181604.gbk
+cluster 86_VSK_tox2 size=1 taxa=1 file: 86_VSK_tox2.faa dnafile: 86_VSK_tox2.fna
+: Vibrio-phage-VSK_taxid_181604.gbk
+cluster 87_hypothetical_protein size=2 taxa=2 file: 87_hypothetical_protein.faa dnafile: 87_hypothetical_protein.fna
+: Vibrio-phage-VSK_taxid_181604.gbk
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 90_Vpf76 size=1 taxa=1 file: 90_Vpf76.faa dnafile: 90_Vpf76.fna
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+cluster 91_Vpf81 size=1 taxa=1 file: 91_Vpf81.faa dnafile: 91_Vpf81.fna
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+cluster 92_Vpf504 size=1 taxa=1 file: 92_Vpf504.faa dnafile: 92_Vpf504.fna
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+cluster 95_Vpf215 size=1 taxa=1 file: 95_Vpf215.faa dnafile: 95_Vpf215.fna
+: Vibrio-phage-VfO4K68_taxid_127508.gbk
+cluster 99_hypothetical_protein size=1 taxa=1 file: 99_hypothetical_protein.faa dnafile: 99_hypothetical_protein.fna
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 103_hypothetical_protein size=1 taxa=1 file: 103_hypothetical_protein.faa dnafile: 103_hypothetical_protein.fna
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 104_hypothetical_protein size=1 taxa=1 file: 104_hypothetical_protein.faa dnafile: 104_hypothetical_protein.fna
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 106_hypothetical_protein size=1 taxa=1 file: 106_hypothetical_protein.faa dnafile: 106_hypothetical_protein.fna
+: Vibrio-virus-fs1_taxid_70203.gbk
+cluster 107_hypothetical_protein size=1 taxa=1 file: 107_hypothetical_protein.faa dnafile: 107_hypothetical_protein.fna
+: Vibrio-virus-fs1_taxid_70203.gbk

@@ -1,0 +1,88 @@
+cluster 1_hypothetical_protein size=25 taxa=13 Pfam=PF02957, file: 1_hypothetical_protein.faa dnafile: 1_hypothetical_protein.fna
+: Torque-teno-midi-virus-10_taxid_2065051.gbk
+: Torque-teno-midi-virus-10_taxid_2065051.gbk
+: Torque-teno-midi-virus-11_taxid_2065052.gbk
+: Torque-teno-midi-virus-11_taxid_2065052.gbk
+: Torque-teno-midi-virus-12_taxid_2065053.gbk
+: Torque-teno-midi-virus-12_taxid_2065053.gbk
+: Torque-teno-midi-virus-13_taxid_2065054.gbk
+: Torque-teno-midi-virus-13_taxid_2065054.gbk
+: Torque-teno-midi-virus-14_taxid_2065055.gbk
+: Torque-teno-midi-virus-15_taxid_2065056.gbk
+: Torque-teno-midi-virus-15_taxid_2065056.gbk
+: Torque-teno-midi-virus-1_taxid_687379.gbk
+: Torque-teno-midi-virus-1_taxid_687379.gbk
+: Torque-teno-midi-virus-2_taxid_687380.gbk
+: Torque-teno-midi-virus-2_taxid_687380.gbk
+: Torque-teno-midi-virus-5_taxid_2065046.gbk
+: Torque-teno-midi-virus-5_taxid_2065046.gbk
+: Torque-teno-midi-virus-6_taxid_2065047.gbk
+: Torque-teno-midi-virus-6_taxid_2065047.gbk
+: Torque-teno-midi-virus-7_taxid_2065048.gbk
+: Torque-teno-midi-virus-7_taxid_2065048.gbk
+: Torque-teno-midi-virus-8_taxid_2065049.gbk
+: Torque-teno-midi-virus-8_taxid_2065049.gbk
+: Torque-teno-midi-virus-9_taxid_2065050.gbk
+: Torque-teno-midi-virus-9_taxid_2065050.gbk
+cluster 2_hypothetical_protein size=13 taxa=13 Pfam=PF02957,PF05501, file: 2_hypothetical_protein.faa dnafile: 2_hypothetical_protein.fna
+: Torque-teno-midi-virus-10_taxid_2065051.gbk
+: Torque-teno-midi-virus-11_taxid_2065052.gbk
+: Torque-teno-midi-virus-12_taxid_2065053.gbk
+: Torque-teno-midi-virus-13_taxid_2065054.gbk
+: Torque-teno-midi-virus-14_taxid_2065055.gbk
+: Torque-teno-midi-virus-15_taxid_2065056.gbk
+: Torque-teno-midi-virus-1_taxid_687379.gbk
+: Torque-teno-midi-virus-2_taxid_687380.gbk
+: Torque-teno-midi-virus-5_taxid_2065046.gbk
+: Torque-teno-midi-virus-6_taxid_2065047.gbk
+: Torque-teno-midi-virus-7_taxid_2065048.gbk
+: Torque-teno-midi-virus-8_taxid_2065049.gbk
+: Torque-teno-midi-virus-9_taxid_2065050.gbk
+cluster 58_Orf1 size=22 taxa=22 Pfam=PF02956, file: 58_Orf1.faa dnafile: 58_Orf1.fna
+: Torque-teno-midi-virus-10_taxid_2065051.gbk
+: Torque-teno-midi-virus-11_taxid_2065052.gbk
+: Torque-teno-midi-virus-12_taxid_2065053.gbk
+: Torque-teno-midi-virus-13_taxid_2065054.gbk
+: Torque-teno-midi-virus-14_taxid_2065055.gbk
+: Torque-teno-midi-virus-15_taxid_2065056.gbk
+: Torque-teno-midi-virus-1_taxid_687379.gbk
+: Torque-teno-midi-virus-2_taxid_687380.gbk
+: Torque-teno-midi-virus-5_taxid_2065046.gbk
+: Torque-teno-midi-virus-6_taxid_2065047.gbk
+: Torque-teno-midi-virus-7_taxid_2065048.gbk
+: Torque-teno-midi-virus-8_taxid_2065049.gbk
+: Torque-teno-midi-virus-9_taxid_2065050.gbk
+: Torque-teno-tamarin-virus_taxid_687382.gbk
+: Torque-teno-virus-11_taxid_687350.gbk
+: Torque-teno-virus-13_taxid_687352.gbk
+: Torque-teno-virus-20_taxid_687359.gbk
+: Torque-teno-virus-21_taxid_687360.gbk
+: Torque-teno-virus-23_taxid_687362.gbk
+: Torque-teno-virus-24_taxid_687363.gbk
+: Torque-teno-virus-2_taxid_687341.gbk
+: Torque-teno-virus-5_taxid_687344.gbk
+cluster 17_hypothetical_protein size=1 taxa=1 Pfam=PF02957, file: 17_hypothetical_protein.faa dnafile: 17_hypothetical_protein.fna
+: Torque-teno-midi-virus-14_taxid_2065055.gbk
+cluster 53_hypothetical_protein size=1 taxa=1 file: 53_hypothetical_protein.faa dnafile: 53_hypothetical_protein.fna
+: Torque-teno-tamarin-virus_taxid_687382.gbk
+cluster 55_hypothetical_protein size=1 taxa=1 file: 55_hypothetical_protein.faa dnafile: 55_hypothetical_protein.fna
+: Torque-teno-tamarin-virus_taxid_687382.gbk
+cluster 56_hypothetical_protein size=1 taxa=1 file: 56_hypothetical_protein.faa dnafile: 56_hypothetical_protein.fna
+: Torque-teno-tamarin-virus_taxid_687382.gbk
+cluster 57_Orf2 size=4 taxa=4 Pfam=PF02957, file: 57_Orf2.faa dnafile: 57_Orf2.fna
+: Torque-teno-virus-11_taxid_687350.gbk
+: Torque-teno-virus-13_taxid_687352.gbk
+: Torque-teno-virus-21_taxid_687360.gbk
+: Torque-teno-virus-5_taxid_687344.gbk
+cluster 61_hypothetical_protein size=4 taxa=2 Pfam=PF02957, file: 61_hypothetical_protein.faa dnafile: 61_hypothetical_protein.fna
+: Torque-teno-virus-20_taxid_687359.gbk
+: Torque-teno-virus-20_taxid_687359.gbk
+: Torque-teno-virus-24_taxid_687363.gbk
+: Torque-teno-virus-24_taxid_687363.gbk
+cluster 62_hypothetical_protein size=2 taxa=2 Pfam=PF02957,PF05501, file: 62_hypothetical_protein.faa dnafile: 62_hypothetical_protein.fna
+: Torque-teno-virus-20_taxid_687359.gbk
+: Torque-teno-virus-24_taxid_687363.gbk
+cluster 67_hypothetical_protein size=1 taxa=1 Pfam=PF02957, file: 67_hypothetical_protein.faa dnafile: 67_hypothetical_protein.fna
+: Torque-teno-virus-23_taxid_687362.gbk
+cluster 73_hypothetical_protein size=1 taxa=1 Pfam=PF02957, file: 73_hypothetical_protein.faa dnafile: 73_hypothetical_protein.fna
+: Torque-teno-virus-2_taxid_687341.gbk

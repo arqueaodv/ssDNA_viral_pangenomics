@@ -1,0 +1,395 @@
+cluster 19_replication_initiati.. size=38 taxa=37 file: 19_replication_initiati...faa dnafile: 19_replication_initiati...fna
+: Alces-alces-faeces-associated-microvirus-MP10-5560_taxid_2219133.gbk
+: Alces-alces-faeces-associated-microvirus-MP11-5517_taxid_2219134.gbk
+: Alces-alces-faeces-associated-microvirus-MP12-5423_taxid_2219135.gbk
+: Alces-alces-faeces-associated-microvirus-MP15-5067_taxid_2219136.gbk
+: Alces-alces-faeces-associated-microvirus-MP18-4940_taxid_2219137.gbk
+: Bdellovibrio-phage-phiMH2K_taxid_145579.gbk
+: Chimpanzee-faeces-associated-microphage-1_taxid_1676181.gbk
+: Chimpanzee-faeces-associated-microphage-2_taxid_1676182.gbk
+: Chimpanzee-faeces-associated-microphage-3_taxid_1676183.gbk
+: Chlamydia-phage-2_taxid_105154.gbk
+: Chlamydia-phage-4_taxid_313629.gbk
+: Chlamydia-phage-CPG1_taxid_90963.gbk
+: Chlamydia-virus-CPAR39_taxid_1986029.gbk
+: Chlamydia-virus-Chp1_taxid_2003327.gbk
+: Chlamydia-virus-Chp1_taxid_2003327.gbk
+: Escherichia-phage-EC6098_taxid_2720215.gbk
+: Gokushovirinae-Bog1183-53_taxid_1655646.gbk
+: Gokushovirinae-Bog5712-52_taxid_1655649.gbk
+: Gokushovirinae-Bog8989-22_taxid_1655650.gbk
+: Gokushovirinae-Fen672-31_taxid_1655656.gbk
+: Gokushovirinae-Fen7875-21_taxid_1655659.gbk
+: Lynx-canadensis-associated-microvirus-CLP-9413_taxid_2219141.gbk
+: Marine-gokushovirus_taxid_1385658.gbk
+: Microviridae-Bog1249-12_taxid_1655647.gbk
+: Microviridae-Bog5275-51_taxid_1655648.gbk
+: Microviridae-Bog9017-22_taxid_1655651.gbk
+: Microviridae-Fen2266-11_taxid_1655652.gbk
+: Microviridae-Fen418-41_taxid_1655653.gbk
+: Microviridae-Fen4707-41_taxid_1655654.gbk
+: Microviridae-Fen685-11_taxid_1655657.gbk
+: Microviridae-Fen7786-21_taxid_1655658.gbk
+: Microviridae-Fen7895-21_taxid_1655660.gbk
+: Microviridae-Fen7918-21_taxid_1655661.gbk
+: Microviridae-Fen7940-21_taxid_1655662.gbk
+: Microviridae-phi-CA82_taxid_913970.gbk
+: Parabacteroides-phage-YZ-2015a_taxid_1655644.gbk
+: Parabacteroides-phage-YZ-2015b_taxid_1655645.gbk
+: Spiroplasma-virus-SpV4_taxid_10855.gbk
+cluster 2_nonstructural_protei.. size=16 taxa=15 file: 2_nonstructural_protei...faa dnafile: 2_nonstructural_protei...fna
+: Alces-alces-faeces-associated-microvirus-MP10-5560_taxid_2219133.gbk
+: Alces-alces-faeces-associated-microvirus-MP12-5423_taxid_2219135.gbk
+: Alces-alces-faeces-associated-microvirus-MP18-4940_taxid_2219137.gbk
+: Bdellovibrio-phage-phiMH2K_taxid_145579.gbk
+: Chlamydia-phage-2_taxid_105154.gbk
+: Chlamydia-phage-4_taxid_313629.gbk
+: Chlamydia-phage-CPG1_taxid_90963.gbk
+: Chlamydia-virus-Chp1_taxid_2003327.gbk
+: Chlamydia-virus-Chp1_taxid_2003327.gbk
+: Gokushovirinae-Bog1183-53_taxid_1655646.gbk
+: Gokushovirinae-Bog5712-52_taxid_1655649.gbk
+: Gokushovirinae-Bog8989-22_taxid_1655650.gbk
+: Gokushovirinae-Fen672-31_taxid_1655656.gbk
+: Gokushovirinae-Fen7875-21_taxid_1655659.gbk
+: Lynx-canadensis-associated-microvirus-CLP-9413_taxid_2219141.gbk
+: Marine-gokushovirus_taxid_1385658.gbk
+cluster 3_minor_capsid_protein size=4 taxa=4 file: 3_minor_capsid_protein.faa dnafile: 3_minor_capsid_protein.fna
+: Alces-alces-faeces-associated-microvirus-MP10-5560_taxid_2219133.gbk
+: Alces-alces-faeces-associated-microvirus-MP12-5423_taxid_2219135.gbk
+: Alces-alces-faeces-associated-microvirus-MP18-4940_taxid_2219137.gbk
+: Chimpanzee-faeces-associated-microphage-2_taxid_1676182.gbk
+cluster 4_hypothetical_protein size=1 taxa=1 file: 4_hypothetical_protein.faa dnafile: 4_hypothetical_protein.fna
+: Alces-alces-faeces-associated-microvirus-MP10-5560_taxid_2219133.gbk
+cluster 5_major_capsid_protein size=34 taxa=34 Pfam=PF02305, file: 5_major_capsid_protein.faa dnafile: 5_major_capsid_protein.fna
+: Alces-alces-faeces-associated-microvirus-MP10-5560_taxid_2219133.gbk
+: Alces-alces-faeces-associated-microvirus-MP11-5517_taxid_2219134.gbk
+: Alces-alces-faeces-associated-microvirus-MP12-5423_taxid_2219135.gbk
+: Bdellovibrio-phage-phiMH2K_taxid_145579.gbk
+: Chimpanzee-faeces-associated-microphage-1_taxid_1676181.gbk
+: Chimpanzee-faeces-associated-microphage-2_taxid_1676182.gbk
+: Chimpanzee-faeces-associated-microphage-3_taxid_1676183.gbk
+: Chlamydia-phage-2_taxid_105154.gbk
+: Chlamydia-phage-4_taxid_313629.gbk
+: Chlamydia-phage-CPG1_taxid_90963.gbk
+: Chlamydia-virus-CPAR39_taxid_1986029.gbk
+: Chlamydia-virus-Chp1_taxid_2003327.gbk
+: Escherichia-phage-EC6098_taxid_2720215.gbk
+: Gokushovirinae-Bog5712-52_taxid_1655649.gbk
+: Gokushovirinae-Bog8989-22_taxid_1655650.gbk
+: Gokushovirinae-Fen672-31_taxid_1655656.gbk
+: Gokushovirinae-Fen7875-21_taxid_1655659.gbk
+: Lynx-canadensis-associated-microvirus-CLP-9413_taxid_2219141.gbk
+: Marine-gokushovirus_taxid_1385658.gbk
+: Microviridae-Bog1249-12_taxid_1655647.gbk
+: Microviridae-Bog5275-51_taxid_1655648.gbk
+: Microviridae-Bog9017-22_taxid_1655651.gbk
+: Microviridae-Fen2266-11_taxid_1655652.gbk
+: Microviridae-Fen418-41_taxid_1655653.gbk
+: Microviridae-Fen4707-41_taxid_1655654.gbk
+: Microviridae-Fen685-11_taxid_1655657.gbk
+: Microviridae-Fen7786-21_taxid_1655658.gbk
+: Microviridae-Fen7895-21_taxid_1655660.gbk
+: Microviridae-Fen7918-21_taxid_1655661.gbk
+: Microviridae-Fen7940-21_taxid_1655662.gbk
+: Microviridae-phi-CA82_taxid_913970.gbk
+: Parabacteroides-phage-YZ-2015a_taxid_1655644.gbk
+: Parabacteroides-phage-YZ-2015b_taxid_1655645.gbk
+: Spiroplasma-virus-SpV4_taxid_10855.gbk
+cluster 6_minor_capsid_protein size=1 taxa=1 file: 6_minor_capsid_protein.faa dnafile: 6_minor_capsid_protein.fna
+: Alces-alces-faeces-associated-microvirus-MP10-5560_taxid_2219133.gbk
+cluster 8_nonstructural_protei.. size=1 taxa=1 file: 8_nonstructural_protei...faa dnafile: 8_nonstructural_protei...fna
+: Alces-alces-faeces-associated-microvirus-MP11-5517_taxid_2219134.gbk
+cluster 9_minor_capsid_protein size=16 taxa=16 Pfam=PF09675, file: 9_minor_capsid_protein.faa dnafile: 9_minor_capsid_protein.fna
+: Alces-alces-faeces-associated-microvirus-MP11-5517_taxid_2219134.gbk
+: Bdellovibrio-phage-phiMH2K_taxid_145579.gbk
+: Chimpanzee-faeces-associated-microphage-1_taxid_1676181.gbk
+: Chimpanzee-faeces-associated-microphage-3_taxid_1676183.gbk
+: Chlamydia-phage-2_taxid_105154.gbk
+: Chlamydia-phage-4_taxid_313629.gbk
+: Chlamydia-phage-CPG1_taxid_90963.gbk
+: Chlamydia-virus-CPAR39_taxid_1986029.gbk
+: Chlamydia-virus-Chp1_taxid_2003327.gbk
+: Escherichia-phage-EC6098_taxid_2720215.gbk
+: Gokushovirinae-Bog1183-53_taxid_1655646.gbk
+: Gokushovirinae-Bog5712-52_taxid_1655649.gbk
+: Gokushovirinae-Bog8989-22_taxid_1655650.gbk
+: Gokushovirinae-Fen672-31_taxid_1655656.gbk
+: Gokushovirinae-Fen7875-21_taxid_1655659.gbk
+: Marine-gokushovirus_taxid_1385658.gbk
+cluster 10_hypothetical_protein size=1 taxa=1 file: 10_hypothetical_protein.faa dnafile: 10_hypothetical_protein.fna
+: Alces-alces-faeces-associated-microvirus-MP11-5517_taxid_2219134.gbk
+cluster 12_hypothetical_protein size=1 taxa=1 file: 12_hypothetical_protein.faa dnafile: 12_hypothetical_protein.fna
+: Alces-alces-faeces-associated-microvirus-MP11-5517_taxid_2219134.gbk
+cluster 14_hypothetical_protein size=2 taxa=2 file: 14_hypothetical_protein.faa dnafile: 14_hypothetical_protein.fna
+: Alces-alces-faeces-associated-microvirus-MP12-5423_taxid_2219135.gbk
+: Marine-gokushovirus_taxid_1385658.gbk
+cluster 18_minor_capsid_protein size=1 taxa=1 file: 18_minor_capsid_protein.faa dnafile: 18_minor_capsid_protein.fna
+: Alces-alces-faeces-associated-microvirus-MP12-5423_taxid_2219135.gbk
+cluster 20_major_capsid_protein size=2 taxa=2 Pfam=PF02305,PF02305, file: 20_major_capsid_protein.faa dnafile: 20_major_capsid_protein.fna
+: Alces-alces-faeces-associated-microvirus-MP15-5067_taxid_2219136.gbk
+: Gokushovirinae-Bog1183-53_taxid_1655646.gbk
+cluster 21_hypothetical_protein size=1 taxa=1 file: 21_hypothetical_protein.faa dnafile: 21_hypothetical_protein.fna
+: Alces-alces-faeces-associated-microvirus-MP15-5067_taxid_2219136.gbk
+cluster 22_minor_capsid_protein size=1 taxa=1 file: 22_minor_capsid_protein.faa dnafile: 22_minor_capsid_protein.fna
+: Alces-alces-faeces-associated-microvirus-MP15-5067_taxid_2219136.gbk
+cluster 26_minor_capsid_protein size=1 taxa=1 file: 26_minor_capsid_protein.faa dnafile: 26_minor_capsid_protein.fna
+: Alces-alces-faeces-associated-microvirus-MP18-4940_taxid_2219137.gbk
+cluster 29_hypothetical_protein size=1 taxa=1 file: 29_hypothetical_protein.faa dnafile: 29_hypothetical_protein.fna
+: Bdellovibrio-phage-phiMH2K_taxid_145579.gbk
+cluster 30_hypothetical_protein size=1 taxa=1 file: 30_hypothetical_protein.faa dnafile: 30_hypothetical_protein.fna
+: Bdellovibrio-phage-phiMH2K_taxid_145579.gbk
+cluster 31_hypothetical_protein size=1 taxa=1 file: 31_hypothetical_protein.faa dnafile: 31_hypothetical_protein.fna
+: Bdellovibrio-phage-phiMH2K_taxid_145579.gbk
+cluster 32_minor_capsid_protein size=6 taxa=6 file: 32_minor_capsid_protein.faa dnafile: 32_minor_capsid_protein.fna
+: Bdellovibrio-phage-phiMH2K_taxid_145579.gbk
+: Chlamydia-phage-2_taxid_105154.gbk
+: Chlamydia-phage-4_taxid_313629.gbk
+: Chlamydia-phage-CPG1_taxid_90963.gbk
+: Chlamydia-virus-CPAR39_taxid_1986029.gbk
+: Gokushovirinae-Bog1183-53_taxid_1655646.gbk
+cluster 33_hypothetical_protein size=1 taxa=1 file: 33_hypothetical_protein.faa dnafile: 33_hypothetical_protein.fna
+: Bdellovibrio-phage-phiMH2K_taxid_145579.gbk
+cluster 36_putative_DNA_binding.. size=1 taxa=1 file: 36_putative_DNA_binding...faa dnafile: 36_putative_DNA_binding...fna
+: Bdellovibrio-phage-phiMH2K_taxid_145579.gbk
+cluster 37_hypothetical_protein size=1 taxa=1 file: 37_hypothetical_protein.faa dnafile: 37_hypothetical_protein.fna
+: Bdellovibrio-phage-phiMH2K_taxid_145579.gbk
+cluster 38_minor_CP_2 size=2 taxa=2 file: 38_minor_CP_2.faa dnafile: 38_minor_CP_2.fna
+: Chimpanzee-faeces-associated-microphage-1_taxid_1676181.gbk
+: Chimpanzee-faeces-associated-microphage-3_taxid_1676183.gbk
+cluster 45_minor_CP_2 size=1 taxa=1 file: 45_minor_CP_2.faa dnafile: 45_minor_CP_2.fna
+: Chimpanzee-faeces-associated-microphage-2_taxid_1676182.gbk
+cluster 46_hypothetical_protein size=1 taxa=1 file: 46_hypothetical_protein.faa dnafile: 46_hypothetical_protein.fna
+: Chimpanzee-faeces-associated-microphage-2_taxid_1676182.gbk
+cluster 52_nonstructural_protei.. size=2 taxa=2 file: 52_nonstructural_protei...faa dnafile: 52_nonstructural_protei...fna
+: Chlamydia-phage-2_taxid_105154.gbk
+: Chlamydia-phage-4_taxid_313629.gbk
+cluster 53_nonstructural_protei.. size=3 taxa=3 file: 53_nonstructural_protei...faa dnafile: 53_nonstructural_protei...fna
+: Chlamydia-phage-2_taxid_105154.gbk
+: Chlamydia-phage-4_taxid_313629.gbk
+: Chlamydia-phage-CPG1_taxid_90963.gbk
+cluster 56_nonstructural_protei.. size=1 taxa=1 file: 56_nonstructural_protei...faa dnafile: 56_nonstructural_protei...fna
+: Chlamydia-phage-2_taxid_105154.gbk
+cluster 64_ORF8 size=1 taxa=1 file: 64_ORF8.faa dnafile: 64_ORF8.fna
+: Chlamydia-phage-4_taxid_313629.gbk
+cluster 72_hypothetical_protein size=2 taxa=2 file: 72_hypothetical_protein.faa dnafile: 72_hypothetical_protein.fna
+: Chlamydia-phage-CPG1_taxid_90963.gbk
+: Chlamydia-virus-CPAR39_taxid_1986029.gbk
+cluster 73_hypothetical_protein size=2 taxa=2 file: 73_hypothetical_protein.faa dnafile: 73_hypothetical_protein.fna
+: Chlamydia-phage-CPG1_taxid_90963.gbk
+: Chlamydia-virus-CPAR39_taxid_1986029.gbk
+cluster 74_nonstructural_protei.. size=1 taxa=1 file: 74_nonstructural_protei...faa dnafile: 74_nonstructural_protei...fna
+: Chlamydia-phage-CPG1_taxid_90963.gbk
+cluster 83_hypothetical_protein size=1 taxa=1 file: 83_hypothetical_protein.faa dnafile: 83_hypothetical_protein.fna
+: Chlamydia-virus-Chp1_taxid_2003327.gbk
+cluster 84_minor_capsid_protein size=3 taxa=1 file: 84_minor_capsid_protein.faa dnafile: 84_minor_capsid_protein.fna
+: Chlamydia-virus-Chp1_taxid_2003327.gbk
+: Chlamydia-virus-Chp1_taxid_2003327.gbk
+: Chlamydia-virus-Chp1_taxid_2003327.gbk
+cluster 87_hypothetical_protein size=1 taxa=1 file: 87_hypothetical_protein.faa dnafile: 87_hypothetical_protein.fna
+: Chlamydia-virus-Chp1_taxid_2003327.gbk
+cluster 89_nonstructural_protei.. size=1 taxa=1 file: 89_nonstructural_protei...faa dnafile: 89_nonstructural_protei...fna
+: Chlamydia-virus-Chp1_taxid_2003327.gbk
+cluster 94_A size=10 taxa=5 Pfam=PF05840, file: 94_A.faa dnafile: 94_A.fna
+: Enterobacteria-phage-ID18-sensu-lato_taxid_489829.gbk
+: Enterobacteria-phage-ID18-sensu-lato_taxid_489829.gbk
+: Escherichia-phage-G4_taxid_10843.gbk
+: Escherichia-phage-G4_taxid_10843.gbk
+: Escherichia-phage-ID2-Moscow-ID-2001_taxid_511969.gbk
+: Escherichia-phage-ID2-Moscow-ID-2001_taxid_511969.gbk
+: Escherichia-phage-ID52_taxid_338108.gbk
+: Escherichia-phage-ID52_taxid_338108.gbk
+: Escherichia-virus-phiX174_taxid_10847.gbk
+: Escherichia-virus-phiX174_taxid_10847.gbk
+cluster 96_B size=5 taxa=5 Pfam=PF02304, file: 96_B.faa dnafile: 96_B.fna
+: Enterobacteria-phage-ID18-sensu-lato_taxid_489829.gbk
+: Escherichia-phage-G4_taxid_10843.gbk
+: Escherichia-phage-ID2-Moscow-ID-2001_taxid_511969.gbk
+: Escherichia-phage-ID52_taxid_338108.gbk
+: Escherichia-virus-phiX174_taxid_10847.gbk
+cluster 97_K size=5 taxa=5 Pfam=PF12283, file: 97_K.faa dnafile: 97_K.fna
+: Enterobacteria-phage-ID18-sensu-lato_taxid_489829.gbk
+: Escherichia-phage-G4_taxid_10843.gbk
+: Escherichia-phage-ID2-Moscow-ID-2001_taxid_511969.gbk
+: Escherichia-phage-ID52_taxid_338108.gbk
+: Escherichia-virus-phiX174_taxid_10847.gbk
+cluster 98_C size=5 taxa=5 Pfam=PF12025, file: 98_C.faa dnafile: 98_C.fna
+: Enterobacteria-phage-ID18-sensu-lato_taxid_489829.gbk
+: Escherichia-phage-G4_taxid_10843.gbk
+: Escherichia-phage-ID2-Moscow-ID-2001_taxid_511969.gbk
+: Escherichia-phage-ID52_taxid_338108.gbk
+: Escherichia-virus-phiX174_taxid_10847.gbk
+cluster 99_D size=5 taxa=5 Pfam=PF02925, file: 99_D.faa dnafile: 99_D.fna
+: Enterobacteria-phage-ID18-sensu-lato_taxid_489829.gbk
+: Escherichia-phage-G4_taxid_10843.gbk
+: Escherichia-phage-ID2-Moscow-ID-2001_taxid_511969.gbk
+: Escherichia-phage-ID52_taxid_338108.gbk
+: Escherichia-virus-phiX174_taxid_10847.gbk
+cluster 100_E size=5 taxa=5 Pfam=PF04517, file: 100_E.faa dnafile: 100_E.fna
+: Enterobacteria-phage-ID18-sensu-lato_taxid_489829.gbk
+: Escherichia-phage-G4_taxid_10843.gbk
+: Escherichia-phage-ID2-Moscow-ID-2001_taxid_511969.gbk
+: Escherichia-phage-ID52_taxid_338108.gbk
+: Escherichia-virus-phiX174_taxid_10847.gbk
+cluster 101_J size=4 taxa=4 Pfam=PF04726, file: 101_J.faa dnafile: 101_J.fna
+: Enterobacteria-phage-ID18-sensu-lato_taxid_489829.gbk
+: Escherichia-phage-G4_taxid_10843.gbk
+: Escherichia-phage-ID52_taxid_338108.gbk
+: Escherichia-virus-phiX174_taxid_10847.gbk
+cluster 102_F size=5 taxa=5 Pfam=PF02305,PF02305, file: 102_F.faa dnafile: 102_F.fna
+: Enterobacteria-phage-ID18-sensu-lato_taxid_489829.gbk
+: Escherichia-phage-G4_taxid_10843.gbk
+: Escherichia-phage-ID2-Moscow-ID-2001_taxid_511969.gbk
+: Escherichia-phage-ID52_taxid_338108.gbk
+: Escherichia-virus-phiX174_taxid_10847.gbk
+cluster 103_G size=5 taxa=5 Pfam=PF02306, file: 103_G.faa dnafile: 103_G.fna
+: Enterobacteria-phage-ID18-sensu-lato_taxid_489829.gbk
+: Escherichia-phage-G4_taxid_10843.gbk
+: Escherichia-phage-ID2-Moscow-ID-2001_taxid_511969.gbk
+: Escherichia-phage-ID52_taxid_338108.gbk
+: Escherichia-virus-phiX174_taxid_10847.gbk
+cluster 104_H size=5 taxa=5 Pfam=PF04687, file: 104_H.faa dnafile: 104_H.fna
+: Enterobacteria-phage-ID18-sensu-lato_taxid_489829.gbk
+: Escherichia-phage-G4_taxid_10843.gbk
+: Escherichia-phage-ID2-Moscow-ID-2001_taxid_511969.gbk
+: Escherichia-phage-ID52_taxid_338108.gbk
+: Escherichia-virus-phiX174_taxid_10847.gbk
+cluster 106_vp5 size=1 taxa=1 file: 106_vp5.faa dnafile: 106_vp5.fna
+: Escherichia-phage-EC6098_taxid_2720215.gbk
+cluster 109_vp2 size=1 taxa=1 file: 109_vp2.faa dnafile: 109_vp2.fna
+: Escherichia-phage-EC6098_taxid_2720215.gbk
+cluster 110_vp8 size=1 taxa=1 file: 110_vp8.faa dnafile: 110_vp8.fna
+: Escherichia-phage-EC6098_taxid_2720215.gbk
+cluster 129_J size=1 taxa=1 Pfam=PF04726, file: 129_J.faa dnafile: 129_J.fna
+: Escherichia-phage-ID2-Moscow-ID-2001_taxid_511969.gbk
+cluster 161_DNA_pilot_protein_VP.. size=1 taxa=1 file: 161_DNA_pilot_protein_VP...faa dnafile: 161_DNA_pilot_protein_VP...fna
+: Gokushovirinae-Bog5712-52_taxid_1655649.gbk
+cluster 163_hypothetical_protein size=2 taxa=2 file: 163_hypothetical_protein.faa dnafile: 163_hypothetical_protein.fna
+: Gokushovirinae-Bog5712-52_taxid_1655649.gbk
+: Gokushovirinae-Fen7875-21_taxid_1655659.gbk
+cluster 167_DNA_pilot_protein_VP.. size=1 taxa=1 file: 167_DNA_pilot_protein_VP...faa dnafile: 167_DNA_pilot_protein_VP...fna
+: Gokushovirinae-Bog8989-22_taxid_1655650.gbk
+cluster 169_hypothetical_protein size=1 taxa=1 file: 169_hypothetical_protein.faa dnafile: 169_hypothetical_protein.fna
+: Gokushovirinae-Bog8989-22_taxid_1655650.gbk
+cluster 173_DNA_pilot_protein_VP.. size=1 taxa=1 file: 173_DNA_pilot_protein_VP...faa dnafile: 173_DNA_pilot_protein_VP...fna
+: Gokushovirinae-Fen672-31_taxid_1655656.gbk
+cluster 175_hypothetical_protein size=1 taxa=1 file: 175_hypothetical_protein.faa dnafile: 175_hypothetical_protein.fna
+: Gokushovirinae-Fen672-31_taxid_1655656.gbk
+cluster 178_hypothetical_protein size=1 taxa=1 file: 178_hypothetical_protein.faa dnafile: 178_hypothetical_protein.fna
+: Gokushovirinae-Fen672-31_taxid_1655656.gbk
+cluster 180_DNA_pilot_protein_VP.. size=1 taxa=1 file: 180_DNA_pilot_protein_VP...faa dnafile: 180_DNA_pilot_protein_VP...fna
+: Gokushovirinae-Fen7875-21_taxid_1655659.gbk
+cluster 188_minor_capsid_protein size=1 taxa=1 file: 188_minor_capsid_protein.faa dnafile: 188_minor_capsid_protein.fna
+: Lynx-canadensis-associated-microvirus-CLP-9413_taxid_2219141.gbk
+cluster 190_minor_capsid_protein size=1 taxa=1 file: 190_minor_capsid_protein.faa dnafile: 190_minor_capsid_protein.fna
+: Marine-gokushovirus_taxid_1385658.gbk
+cluster 196_hypothetical_protein size=1 taxa=1 file: 196_hypothetical_protein.faa dnafile: 196_hypothetical_protein.fna
+: Microviridae-Bog1249-12_taxid_1655647.gbk
+cluster 197_hypothetical_protein size=1 taxa=1 file: 197_hypothetical_protein.faa dnafile: 197_hypothetical_protein.fna
+: Microviridae-Bog1249-12_taxid_1655647.gbk
+cluster 198_DNA_pilot_protein_VP.. size=9 taxa=9 file: 198_DNA_pilot_protein_VP...faa dnafile: 198_DNA_pilot_protein_VP...fna
+: Microviridae-Bog1249-12_taxid_1655647.gbk
+: Microviridae-Bog5275-51_taxid_1655648.gbk
+: Microviridae-Bog9017-22_taxid_1655651.gbk
+: Microviridae-Fen2266-11_taxid_1655652.gbk
+: Microviridae-Fen418-41_taxid_1655653.gbk
+: Microviridae-Fen685-11_taxid_1655657.gbk
+: Microviridae-Fen7786-21_taxid_1655658.gbk
+: Microviridae-Fen7895-21_taxid_1655660.gbk
+: Microviridae-Fen7918-21_taxid_1655661.gbk
+cluster 200_hypothetical_protein size=1 taxa=1 file: 200_hypothetical_protein.faa dnafile: 200_hypothetical_protein.fna
+: Microviridae-Bog1249-12_taxid_1655647.gbk
+cluster 203_hypothetical_protein size=4 taxa=4 file: 203_hypothetical_protein.faa dnafile: 203_hypothetical_protein.fna
+: Microviridae-Bog5275-51_taxid_1655648.gbk
+: Microviridae-Bog9017-22_taxid_1655651.gbk
+: Microviridae-Fen2266-11_taxid_1655652.gbk
+: Microviridae-Fen418-41_taxid_1655653.gbk
+cluster 204_hypothetical_protein size=1 taxa=1 file: 204_hypothetical_protein.faa dnafile: 204_hypothetical_protein.fna
+: Microviridae-Bog5275-51_taxid_1655648.gbk
+cluster 213_hypothetical_protein size=1 taxa=1 file: 213_hypothetical_protein.faa dnafile: 213_hypothetical_protein.fna
+: Microviridae-Fen2266-11_taxid_1655652.gbk
+cluster 218_hypothetical_protein size=4 taxa=4 file: 218_hypothetical_protein.faa dnafile: 218_hypothetical_protein.fna
+: Microviridae-Fen418-41_taxid_1655653.gbk
+: Microviridae-Fen685-11_taxid_1655657.gbk
+: Microviridae-Fen7786-21_taxid_1655658.gbk
+: Microviridae-Fen7895-21_taxid_1655660.gbk
+cluster 221_hypothetical_protein size=1 taxa=1 file: 221_hypothetical_protein.faa dnafile: 221_hypothetical_protein.fna
+: Microviridae-Fen4707-41_taxid_1655654.gbk
+cluster 222_DNA_pilot_protein_VP.. size=1 taxa=1 file: 222_DNA_pilot_protein_VP...faa dnafile: 222_DNA_pilot_protein_VP...fna
+: Microviridae-Fen4707-41_taxid_1655654.gbk
+cluster 223_hypothetical_protein size=1 taxa=1 file: 223_hypothetical_protein.faa dnafile: 223_hypothetical_protein.fna
+: Microviridae-Fen4707-41_taxid_1655654.gbk
+cluster 225_hypothetical_protein size=1 taxa=1 file: 225_hypothetical_protein.faa dnafile: 225_hypothetical_protein.fna
+: Microviridae-Fen4707-41_taxid_1655654.gbk
+cluster 228_hypothetical_protein size=1 taxa=1 file: 228_hypothetical_protein.faa dnafile: 228_hypothetical_protein.fna
+: Microviridae-Fen685-11_taxid_1655657.gbk
+cluster 233_hypothetical_protein size=1 taxa=1 file: 233_hypothetical_protein.faa dnafile: 233_hypothetical_protein.fna
+: Microviridae-Fen7786-21_taxid_1655658.gbk
+cluster 238_hypothetical_protein size=1 taxa=1 file: 238_hypothetical_protein.faa dnafile: 238_hypothetical_protein.fna
+: Microviridae-Fen7895-21_taxid_1655660.gbk
+cluster 243_hypothetical_protein size=1 taxa=1 file: 243_hypothetical_protein.faa dnafile: 243_hypothetical_protein.fna
+: Microviridae-Fen7918-21_taxid_1655661.gbk
+cluster 245_hypothetical_protein size=1 taxa=1 file: 245_hypothetical_protein.faa dnafile: 245_hypothetical_protein.fna
+: Microviridae-Fen7918-21_taxid_1655661.gbk
+cluster 247_hypothetical_protein size=1 taxa=1 file: 247_hypothetical_protein.faa dnafile: 247_hypothetical_protein.fna
+: Microviridae-Fen7940-21_taxid_1655662.gbk
+cluster 248_hypothetical_protein size=1 taxa=1 file: 248_hypothetical_protein.faa dnafile: 248_hypothetical_protein.fna
+: Microviridae-Fen7940-21_taxid_1655662.gbk
+cluster 249_DNA_pilot_protein_VP.. size=1 taxa=1 file: 249_DNA_pilot_protein_VP...faa dnafile: 249_DNA_pilot_protein_VP...fna
+: Microviridae-Fen7940-21_taxid_1655662.gbk
+cluster 251_M16p1 size=1 taxa=1 file: 251_M16p1.faa dnafile: 251_M16p1.fna
+: Microviridae-IME-16_taxid_1544364.gbk
+cluster 252_replication_initiato.. size=1 taxa=1 file: 252_replication_initiato...faa dnafile: 252_replication_initiato...fna
+: Microviridae-IME-16_taxid_1544364.gbk
+cluster 253_M16p3 size=1 taxa=1 file: 253_M16p3.faa dnafile: 253_M16p3.fna
+: Microviridae-IME-16_taxid_1544364.gbk
+cluster 254_M16p4 size=1 taxa=1 file: 254_M16p4.faa dnafile: 254_M16p4.fna
+: Microviridae-IME-16_taxid_1544364.gbk
+cluster 255_M16p5 size=1 taxa=1 file: 255_M16p5.faa dnafile: 255_M16p5.fna
+: Microviridae-IME-16_taxid_1544364.gbk
+cluster 256_M16p6 size=1 taxa=1 file: 256_M16p6.faa dnafile: 256_M16p6.fna
+: Microviridae-IME-16_taxid_1544364.gbk
+cluster 257_major_capsid_protein size=1 taxa=1 file: 257_major_capsid_protein.faa dnafile: 257_major_capsid_protein.fna
+: Microviridae-IME-16_taxid_1544364.gbk
+cluster 258_p10 size=1 taxa=1 file: 258_p10.faa dnafile: 258_p10.fna
+: Microviridae-phi-CA82_taxid_913970.gbk
+cluster 260_VP2 size=1 taxa=1 file: 260_VP2.faa dnafile: 260_VP2.fna
+: Microviridae-phi-CA82_taxid_913970.gbk
+cluster 262_p4 size=1 taxa=1 file: 262_p4.faa dnafile: 262_p4.fna
+: Microviridae-phi-CA82_taxid_913970.gbk
+cluster 263_p5 size=1 taxa=1 file: 263_p5.faa dnafile: 263_p5.fna
+: Microviridae-phi-CA82_taxid_913970.gbk
+cluster 264_p6 size=1 taxa=1 file: 264_p6.faa dnafile: 264_p6.fna
+: Microviridae-phi-CA82_taxid_913970.gbk
+cluster 265_p7 size=1 taxa=1 file: 265_p7.faa dnafile: 265_p7.fna
+: Microviridae-phi-CA82_taxid_913970.gbk
+cluster 266_p8 size=1 taxa=1 file: 266_p8.faa dnafile: 266_p8.fna
+: Microviridae-phi-CA82_taxid_913970.gbk
+cluster 267_p9 size=1 taxa=1 file: 267_p9.faa dnafile: 267_p9.fna
+: Microviridae-phi-CA82_taxid_913970.gbk
+cluster 269_hypothetical_protein size=1 taxa=1 file: 269_hypothetical_protein.faa dnafile: 269_hypothetical_protein.fna
+: Parabacteroides-phage-YZ-2015a_taxid_1655644.gbk
+cluster 270_hypothetical_protein size=1 taxa=1 file: 270_hypothetical_protein.faa dnafile: 270_hypothetical_protein.fna
+: Parabacteroides-phage-YZ-2015a_taxid_1655644.gbk
+cluster 271_hypothetical_protein size=1 taxa=1 file: 271_hypothetical_protein.faa dnafile: 271_hypothetical_protein.fna
+: Parabacteroides-phage-YZ-2015a_taxid_1655644.gbk
+cluster 272_DNA_pilot_protein_VP.. size=1 taxa=1 file: 272_DNA_pilot_protein_VP...faa dnafile: 272_DNA_pilot_protein_VP...fna
+: Parabacteroides-phage-YZ-2015a_taxid_1655644.gbk
+cluster 275_hypothetical_protein size=1 taxa=1 file: 275_hypothetical_protein.faa dnafile: 275_hypothetical_protein.fna
+: Parabacteroides-phage-YZ-2015b_taxid_1655645.gbk
+cluster 276_DNA_pilot_protein_VP.. size=1 taxa=1 file: 276_DNA_pilot_protein_VP...faa dnafile: 276_DNA_pilot_protein_VP...fna
+: Parabacteroides-phage-YZ-2015b_taxid_1655645.gbk
+cluster 279_hypothetical_protein size=1 taxa=1 file: 279_hypothetical_protein.faa dnafile: 279_hypothetical_protein.fna
+: Spiroplasma-virus-SpV4_taxid_10855.gbk
+cluster 280_hypothetical_protein size=1 taxa=1 file: 280_hypothetical_protein.faa dnafile: 280_hypothetical_protein.fna
+: Spiroplasma-virus-SpV4_taxid_10855.gbk
+cluster 281_hypothetical_protein size=1 taxa=1 file: 281_hypothetical_protein.faa dnafile: 281_hypothetical_protein.fna
+: Spiroplasma-virus-SpV4_taxid_10855.gbk
+cluster 282_hypothetical_protein size=1 taxa=1 file: 282_hypothetical_protein.faa dnafile: 282_hypothetical_protein.fna
+: Spiroplasma-virus-SpV4_taxid_10855.gbk
+cluster 283_hypothetical_protein size=1 taxa=1 file: 283_hypothetical_protein.faa dnafile: 283_hypothetical_protein.fna
+: Spiroplasma-virus-SpV4_taxid_10855.gbk
+cluster 285_minor_capsid_protein size=1 taxa=1 file: 285_minor_capsid_protein.faa dnafile: 285_minor_capsid_protein.fna
+: Spiroplasma-virus-SpV4_taxid_10855.gbk
+cluster 286_hypothetical_protein size=1 taxa=1 file: 286_hypothetical_protein.faa dnafile: 286_hypothetical_protein.fna
+: Spiroplasma-virus-SpV4_taxid_10855.gbk

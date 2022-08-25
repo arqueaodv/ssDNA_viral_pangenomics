@@ -1,0 +1,7 @@
+2_putative_cell-cycle_...faa
+5_putative_movement_pr...faa
+12_MP.faa
+13_Clink.faa
+15_U1.faa
+17_U2.faa
+18_U4.faa

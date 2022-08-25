@@ -1,0 +1,5 @@
+"","ATP binding","ATPase activity","DNA binding","DNA-binding transcription factor activity","regulation of transcription, DNA-templated","sigma factor activity","DNA-templated transcription, initiation","DNA recombination","DNA integration","N-methyltransferase activity","DNA methylation"
+"13_putative_protein_13",NA,NA,TRUE,TRUE,TRUE,TRUE,TRUE,NA,NA,NA,NA
+"18_integrase",NA,NA,TRUE,NA,NA,NA,NA,TRUE,TRUE,NA,NA
+"51_ORF10",NA,NA,TRUE,NA,NA,NA,NA,NA,NA,TRUE,TRUE
+"117_ORF8",TRUE,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA

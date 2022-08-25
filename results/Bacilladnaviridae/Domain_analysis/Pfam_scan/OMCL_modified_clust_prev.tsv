@@ -1,0 +1,17 @@
+X	cluster_name	size	taxa	Pfam_IDs	aa_file	na_file	taxids	Percentage_prevalence	Prevalencia_final_v1	Prevalencia_final_v2
+1	1_P3	1	1		1_P3.faa	1_P3.fna	1941435	12.5	12.5	12.5
+2	2_P2	2	2		2_P2.faa	2_P2.fna	1941435_1941436	25	25	25
+3	25_hypothetical_protein	8	8		25_hypothetical_protein.faa	25_hypothetical_protein.fna	1941435_1941436_1941437_1379694_2170140_2170142_2170143_1382995	100	100	100
+4	4_replication_associat..	5	5	PF00910_	4_replication_associat...faa	4_replication_associat...fna	1941435_1941436_1941437_1379694_2170140	62.5	62.5	62.5
+5	5_P3	1	1		5_P3.faa	5_P3.fna	1941436	12.5	12.5	12.5
+6	9_P3	1	1		9_P3.faa	9_P3.fna	1941437	12.5	12.5	12.5
+7	10_hypothetical_protein	1	1		10_hypothetical_protein.faa	10_hypothetical_protein.fna	1941437	12.5	12.5	12.5
+8	11_P2	1	1		11_P2.faa	11_P2.fna	1941437	12.5	12.5	12.5
+9	14_hypothetical_protein	1	1		14_hypothetical_protein.faa	14_hypothetical_protein.fna	1379694	12.5	12.5	12.5
+10	15_hypothetical_protein	1	1		15_hypothetical_protein.faa	15_hypothetical_protein.fna	1379694	12.5	12.5	12.5
+11	18_hypothetical_protein	1	1		18_hypothetical_protein.faa	18_hypothetical_protein.fna	2170140	12.5	12.5	12.5
+12	20_hypothetical_protein	1	1		20_hypothetical_protein.faa	20_hypothetical_protein.fna	2170140	12.5	12.5	12.5
+13	21_hypothetical_protein	1	1		21_hypothetical_protein.faa	21_hypothetical_protein.fna	2170140	12.5	12.5	12.5
+14	24_hypothetical_protein	3	3		24_hypothetical_protein.faa	24_hypothetical_protein.fna	2170140_2170142_1382995	37.5	42.350344244988534	42.350344244988534
+15	26_putative_replication-associated_protein	3	3		26_putative_replication-associated_protein.faa	26_putative_replication-associated_protein.fna	2170142_2170143_1382995	37.5	37.5	37.5
+16	27_hypothetical_protein	1	1		27_hypothetical_protein.faa	27_hypothetical_protein.fna	2170143	12.5	15.019377302109936	15.019377302109936

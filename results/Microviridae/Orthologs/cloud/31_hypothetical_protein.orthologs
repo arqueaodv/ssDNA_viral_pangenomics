@@ -1,0 +1,26 @@
+VIRAL_FAMILY	Microviridae
+PANGENOMIC_GROUP	cloud
+CLUSTER_NAME	31_hypothetical_protein.faa
+PREVALENCE	2.325581
+
+GENE_ONTOLOGY_ANNOTATION
+
+	BIOLOGICAL_PROCESS
+		Uniprot hit without GO [GO:XXXXXXX]
+		Uniprot hit without GO [GO:XXXXXXX]
+	MOLECULAR_FUNCTION
+		Uniprot hit without GO [GO:XXXXXXX]
+		Uniprot hit without GO [GO:XXXXXXX]
+		protein tyrosine phosphatase activity [GO:0004725]
+	CELLULAR_COMPONENT
+		Uniprot hit without GO [GO:XXXXXXX]
+		Uniprot hit without GO [GO:XXXXXXX]
+
+
+//
+
+>ID:NP_073541.1 |[Bdellovibrio phage phiMH2K]||Bdellovibrio-phage-phiMH2K_taxid_145579.gbk|hypothetical protein|213|NC_002643(4594):917-1129:1 ^GeneID:918751^ Bdellovibrio phage phiMH2K, complete genome.|neighbours:ID:NP_073540.1(1),ID:NP_073542.1(1)|neighbour_genes:hypothetical protein,minor capsid protein| ATGTTGAAATTCTTAAATCTCACTTCAACGTCATTAGTCTTGACTTCCGCCTACAACGTCCAGAATATCTATCTGGCGGAACTATTGATCTCCAACAGAATCCAGTTCCACAAACGTCTTCATCAACAACGGACAGCCCACAAGGTAACCTCGCCGCCTTCTCAACGGCCTCAGAATTCGGAAACAAAATCGGATTCTCAAAATCGTTCGTAG
+
+//
+
+>ID:NP_073541.1 |[Bdellovibrio phage phiMH2K]||Bdellovibrio-phage-phiMH2K_taxid_145579.gbk|hypothetical protein|213|NC_002643(4594):917-1129:1 ^GeneID:918751^ Bdellovibrio phage phiMH2K, complete genome.|neighbours:ID:NP_073540.1(1),ID:NP_073542.1(1)|neighbour_genes:hypothetical protein,minor capsid protein| MLKFLNLTSTSLVLTSAYNVQNIYLAELLISNRIQFHKRLHQQRTAHKVTSPPSQRPQNSETKSDSQNRS

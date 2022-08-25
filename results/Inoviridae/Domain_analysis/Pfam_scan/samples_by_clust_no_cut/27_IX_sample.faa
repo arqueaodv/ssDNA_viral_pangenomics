@@ -1,0 +1,5 @@
+>ID:NP_039619.1 |[Escherichia virus I22]||Escherichia-virus-I22_taxid_10869.gbk|IX|102|NC_001332(6744):4538-4639:1 ^GOA:P15414,GeneID:1260721,UniProtKB/Swiss-Prot:P15414^ Enterobacteria phage I2-2, complete genome.|neighbours:ID:NP_039618.1(1),ID:NP_039620.1(1)|neighbour_genes:VII,VIII| | aligned:1-33 (33)
+MIDYVGLFIG AYIMGFALFY GIGFFKSIAE RIV
+
+>ID:NP_040574.1 |[Salmonella phage IKe]||Salmonella-phage-IKe_taxid_10867.gbk|IX|102|NC_002014(6883):1654-1755:1 ^GOA:P03678,GeneID:1260886,UniProtKB/Swiss-Prot:P03678^ Enterobacteria phage Ike, complete genome.|neighbours:ID:NP_040573.1(1),ID:NP_040575.1(1)|neighbour_genes:VII,VIII| | aligned:1-33 (33)
+MIDYVGSFLG AYFLGFALFY GIGFFKSISN RII

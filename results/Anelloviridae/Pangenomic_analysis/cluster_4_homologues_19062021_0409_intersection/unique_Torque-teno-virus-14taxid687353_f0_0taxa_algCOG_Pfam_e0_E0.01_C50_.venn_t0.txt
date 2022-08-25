@@ -1,0 +1,14 @@
+71_ORF2.faa
+53_hypothetical_protein.faa
+48_hypothetical_protein.faa
+20_hypothetical_protein.faa
+31_hypothetical_protein.faa
+37_hypothetical_protein.faa
+23_hypothetical_protein.faa
+49_hypothetical_protein.faa
+40_orf2-4.faa
+4_ORF2.faa
+52_hypothetical_protein.faa
+24_hypothetical_protein.faa
+25_hypothetical_protein.faa
+56_hypothetical_protein.faa

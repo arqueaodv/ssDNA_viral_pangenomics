@@ -1,0 +1,51 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_1_homologues_19062021_0409/Gorilla-anellovirustaxid1743411_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_/,cluster_1_homologues_19062021_0409/Gorilla-anellovirustaxid1743411_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_
+# -o cluster_1_homologues_19062021_0409_intersection
+# -I 
+# -r 0
+3_VP1.faa
+81_ORF2.faa
+26_Hypothetical_protein.faa
+29_hypothetical_protein.faa
+78_hypothetical_protein.faa
+105_ORF4.faa
+150_ORF1-1.faa
+12_ORF2.faa
+54_ORF3.faa
+73_ORF3.faa
+46_ORF2.faa
+39_ORF3.faa
+83_ORF3.faa
+14_ORF3.faa
+101_ORF3.faa
+98_ORF4.faa
+16_ORF1.faa
+62_hypothetical_protein.faa
+87_orf3.faa
+151_hypothetical_protein.faa
+42_hypothetical_protein.faa
+8_hypothetical_protein.faa
+152_hypothetical_protein.faa
+77_ORF1.faa
+59_hypothetical_protein.faa
+6_VP3.faa
+17_VP2.faa
+108_ORF3.faa
+154_Orf2.faa
+18_VP1.faa
+153_hypothetical_protein.faa
+28_VP2.faa
+56_hypothetical_protein.faa
+36_ORF1.faa
+15_ORF2.faa
+89_orf2.faa
+34_ORF3.faa
+41_hypothetical_protein.faa
+4_ORF3.faa
+76_hypothetical_protein.faa
+80_hypothetical_protein.faa
+79_hypothetical_protein.faa
+43_ORF2.faa
+13_ORF1.faa
+1_hypothetical_protein.faa
+# intersection size = 45 clusters

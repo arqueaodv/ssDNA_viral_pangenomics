@@ -1,0 +1,56 @@
+cluster	prevalence	term	what	familia	algoritmo
+107_ORF7	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+108_ORF8	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+11_putative_protein_11	66.66666666666666	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+110_ORF10	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+111_ORF11	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+45_ORF12	44.44444444444444	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+7_putative_protein_7	66.66666666666666	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+78_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+81_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+82_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+83_hypothetical_protein	55.55555555555556	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+84_VP8	77.77777777777779	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+85_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+91_ORF6	22.22222222222222	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+92_ORF7	22.22222222222222	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+101_1	11.11111111111111	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+103_ORF3	11.11111111111111	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+107_ORF7	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+108_ORF8	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+11_putative_protein_11	66.66666666666666	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+110_ORF10	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+111_ORF11	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+45_ORF12	44.44444444444444	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+5_putative_protein_5	22.22222222222222	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+7_putative_protein_7	66.66666666666666	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+78_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+79_VP3	33.33333333333333	virion membrane [GO:0055036]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+80_VP4_precursor	100	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+80_VP4_precursor	100	virion membrane [GO:0055036]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+81_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+82_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+83_hypothetical_protein	55.55555555555556	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+84_VP8	77.77777777777779	virion [GO:0019012]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+84_VP8	77.77777777777779	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+85_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+91_ORF6	22.22222222222222	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+92_ORF7	22.22222222222222	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+93_ORF8	22.22222222222222	virion [GO:0019012]	cc	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+107_ORF7	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+108_ORF8	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+11_putative_protein_11	66.66666666666666	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+110_ORF10	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+111_ORF11	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+45_ORF12	44.44444444444444	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+7_putative_protein_7	66.66666666666666	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+77_hypothetical_protein	11.11111111111111	nucleotide binding [GO:0000166]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+78_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+81_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+82_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+83_hypothetical_protein	55.55555555555556	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+84_VP8	77.77777777777779	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+85_hypothetical_protein	11.11111111111111	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+86_ORF1	22.22222222222222	nucleotide binding [GO:0000166]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+91_ORF6	22.22222222222222	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG
+92_ORF7	22.22222222222222	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Pleolipoviridae/cluster_1_homologues_19062021_0818/	COG

@@ -1,0 +1,11 @@
+>ID:YP_009162631.1 |[Alfalfa leaf curl virus]||Alfalfa-leaf-curl-virus_taxid_1306546.gbk|V4|291|NC_027714(2745):151-441:1 ^GeneID:25396077^ Alfalfa leaf curl virus isolate 44-1E, complete genome.|neighbours:start(),ID:YP_009162632.1(1)|neighbour_genes:start(),V2| | aligned:12-96 (96)
+MLWNMSLGSV FMEYCAAWIF WWQNIVLIFL FTILFWINGK SFILARGIAR NVREITGLLY GSVLSGTDSE GLRVKDVQRG
+PNVHGPQTGL QTITEE
+
+>ID:YP_009255244.1 |[Euphorbia caput-medusae latent virus]||Euphorbia-caput-medusae-latent-virus_taxid_1853865.gbk|V4|264|NC_030238(2683):168-431:1 ^GeneID:27924881^ Euphorbia caput-medusae latent virus isolate DAR12_CM243, complete genome.|neighbours:ID:YP_009255243.1(1),ID:YP_009255245.1(1)|neighbour_genes:V2,V3| | aligned:1-85 (87)
+MEYCASLIFW WQNILLIFIF SFIIFINGKT FLLLRRTSGY VREVTGLLHR ILLGLDDREG PRTGPLSRGL QIPYSETGLQ
+TISEEER
+
+>ID:YP_009506569.1 |[Plantago lanceolata latent virus]||Plantago-lanceolata-latent-virus_taxid_1830242.gbk|V4|261|NC_038477(2832):181-441:1 ^GeneID:37617487^ Plantago lanceolata latent virus isolate ALA13_Pl11, complete genome.|neighbours:start(),ID:YP_009506570.1(1)|neighbour_genes:start(),V3| | aligned:1-85 (86)
+MEYCSEVLFW TYFLIITIYF ALILYFNGKT LLLGRRITEQ LREVNCYCRE AMASRPGEAR VGEFTNSAGR LVPSSSCRLS
+KIPEEG

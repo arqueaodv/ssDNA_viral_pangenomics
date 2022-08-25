@@ -1,0 +1,29 @@
+cluster 1_hypothetical_protein size=1 taxa=1 file: 1_hypothetical_protein.faa dnafile: 1_hypothetical_protein.fna
+: Bacillariodnavirus-LDMD-2013_taxid_1379694.gbk
+cluster 2_hypothetical_protein size=1 taxa=1 file: 2_hypothetical_protein.faa dnafile: 2_hypothetical_protein.fna
+: Bacillariodnavirus-LDMD-2013_taxid_1379694.gbk
+cluster 12_hypothetical_protein size=5 taxa=5 file: 12_hypothetical_protein.faa dnafile: 12_hypothetical_protein.fna
+: Bacillariodnavirus-LDMD-2013_taxid_1379694.gbk
+: Chaetoceros-protobacilladnavirus-1_taxid_2170140.gbk
+: Chaetoceros-protobacilladnavirus-3_taxid_2170142.gbk
+: Chaetoceros-protobacilladnavirus-4_taxid_2170143.gbk
+: Chaetoceros-sp-DNA-virus-7_taxid_1382995.gbk
+cluster 4_replication-associat.. size=2 taxa=2 Pfam=PF00910, file: 4_replication-associat...faa dnafile: 4_replication-associat...fna
+: Bacillariodnavirus-LDMD-2013_taxid_1379694.gbk
+: Chaetoceros-protobacilladnavirus-1_taxid_2170140.gbk
+cluster 5_hypothetical_protein size=1 taxa=1 file: 5_hypothetical_protein.faa dnafile: 5_hypothetical_protein.fna
+: Chaetoceros-protobacilladnavirus-1_taxid_2170140.gbk
+cluster 7_hypothetical_protein size=1 taxa=1 file: 7_hypothetical_protein.faa dnafile: 7_hypothetical_protein.fna
+: Chaetoceros-protobacilladnavirus-1_taxid_2170140.gbk
+cluster 8_hypothetical_protein size=1 taxa=1 file: 8_hypothetical_protein.faa dnafile: 8_hypothetical_protein.fna
+: Chaetoceros-protobacilladnavirus-1_taxid_2170140.gbk
+cluster 11_hypothetical_protein size=3 taxa=3 file: 11_hypothetical_protein.faa dnafile: 11_hypothetical_protein.fna
+: Chaetoceros-protobacilladnavirus-1_taxid_2170140.gbk
+: Chaetoceros-protobacilladnavirus-3_taxid_2170142.gbk
+: Chaetoceros-sp-DNA-virus-7_taxid_1382995.gbk
+cluster 13_putative_replication-associated_protein size=3 taxa=3 file: 13_putative_replication-associated_protein.faa dnafile: 13_putative_replication-associated_protein.fna
+: Chaetoceros-protobacilladnavirus-3_taxid_2170142.gbk
+: Chaetoceros-protobacilladnavirus-4_taxid_2170143.gbk
+: Chaetoceros-sp-DNA-virus-7_taxid_1382995.gbk
+cluster 14_hypothetical_protein size=1 taxa=1 file: 14_hypothetical_protein.faa dnafile: 14_hypothetical_protein.fna
+: Chaetoceros-protobacilladnavirus-4_taxid_2170143.gbk

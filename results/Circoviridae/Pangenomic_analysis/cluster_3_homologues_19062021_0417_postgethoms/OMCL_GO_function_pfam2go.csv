@@ -1,0 +1,8 @@
+"","RNA binding","structural molecule activity","viral capsid","DNA replication","nucleotidyltransferase activity","RNA helicase activity","viral capsid assembly","endodeoxyribonuclease activity, producing 5'-phosphomonoesters","protein-DNA covalent cross-linking"
+"1_replication_associat..",TRUE,NA,NA,TRUE,NA,TRUE,NA,NA,NA
+"4_replication-associat..",NA,NA,NA,TRUE,TRUE,NA,NA,TRUE,TRUE
+"8_replication-associat..",TRUE,NA,NA,TRUE,TRUE,TRUE,NA,TRUE,TRUE
+"9_putative_viral_capsi..",NA,TRUE,TRUE,NA,NA,NA,NA,NA,NA
+"11_replication-associat..",TRUE,NA,NA,NA,NA,TRUE,NA,NA,NA
+"15_replication-associat..",TRUE,NA,NA,NA,NA,TRUE,NA,NA,NA
+"16_capsid_protein",NA,NA,NA,NA,NA,NA,TRUE,NA,NA

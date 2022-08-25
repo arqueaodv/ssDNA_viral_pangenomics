@@ -1,0 +1,81 @@
+>ID:YP_009126950.1 |[Simian torque teno virus 30]||Simian-torque-teno-virus-30_taxid_1619218.gbk|ORF2|405|NC_026663(3612):303-707:1 ^GeneID:25078196^ Simian torque teno virus 30 isolate VWP00522.2, complete genome.|neighbours:start(),ID:YP_009126951.1(1)|neighbour_genes:start(),ORF1| | aligned:34-133 (134)
+MYFRRRRRKA KLGSVGDYLE LSHPGLPTGT PRAMAKRPRE TYETTSKEAA TWLHLVGETH DLWCPCGKPL PHLSALLNTV
+GAATTTSTCR TGGEDAAGGG RAAGAGPATE GGDGWDDINL DELLADVAAE DAER
+
+>ID:YP_009126946.1 |[Simian torque teno virus 32]||Simian-torque-teno-virus-32_taxid_1619220.gbk|ORF2|510|NC_026664(3812):313-822:1 ^GeneID:23778128^ Simian torque teno virus 32 isolate VGA00154.2, complete genome.|neighbours:start(),ID:YP_009126947.1(1)|neighbour_genes:start(),ORF1| | aligned:1-168 (169)
+MFSFRRRRRV HGQTRQRPSL LSMFWKKSAE DAGAWEERWL RSVYDTHALF CSCNYFLGHL SAIQARHRGP RGQSRTPPTL
+DGLGPPSPPR LAAPPPTPAS SRASTTPISL LHSGGSSSSS GVHTDSPWST GGDGDAGGPG GDGAGQDGVD AFTAEQLEEL
+FAAVEEDAR
+
+>ID:YP_009129290.1 |[Simian torque teno virus 33]||Simian-torque-teno-virus-33_taxid_1629656.gbk|ORF2|468|NC_026764(3774):318-785:1 ^GeneID:24018679^ Simian torque teno virus 33 isolate VWP00522.11, complete genome.|neighbours:start(),ID:YP_009129291.1(1)|neighbour_genes:start(),ORF1| | aligned:1-155 (155)
+MYFQRRRRSV YGRKKGHHPR VQPMFWKAPA EDEGAREERW LRSVVDGHAA FCACRYPLAH LSYVHGRHSG AAGQARTPPA
+PRFQVASPSP VKPRPPPPTP ASDPPSRNRD SGVWCGSEDS GTRDAGDPAA RGGVDDFSAE DLEDLFRAVE EDAAG
+
+>ID:YP_009505785.1 |[Torque teno midi virus 12]||Torque-teno-midi-virus-12_taxid_2065053.gbk|hypothetical protein|354|NC_038359(3187):219-572:1 ^GeneID:37616707^ Torque teno midi virus 12 DNA, complete genome, isolate: MDJN51.|neighbours:ID:YP_009505784.1(1),ID:YP_009505786.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-117 (117)
+MSIFYKPAKY NGHTKQQMWM SVIADFHDPM CNCWHPFGHL LDIIFPEGHK DRDKTIAQII TRDSKCHSGG EDEGASGQTE
+DLHIKEERDT PADTTGGMAE EETTDALLAA AVENFER
+
+>ID:YP_003587904.1 |[Torque teno midi virus 2]||Torque-teno-midi-virus-2_taxid_687380.gbk|hypothetical protein|375|NC_014093(3253):219-593:1 ^GeneID:9086747^ Torque teno midi virus 2, complete genome.|neighbours:ID:YP_003587903.1(1),ID:YP_003587905.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-124 (124)
+MQNISYTDFY KPTPYNTDTK NQIWLSQLAD SHDNWCNCDF PFAHLLASIF PPGHKDRTRT INQILQRDFR QKCLSGGADA
+KDSGLAGEDL EKDGQKDGGK YTEEDLPRDE VEELLAAVES AASR
+
+>ID:YP_009505752.1 |[Torque teno midi virus 4]||Torque-teno-midi-virus-4_taxid_2065045.gbk|ORF2|351|NC_038351(2454):200-550:1 ^GeneID:37616669^ Torque teno midi virus 4 isolate 6PoSMA ORF2, ORF1, and ORF3 genes, complete cds.|neighbours:start(),ID:YP_009505753.1(1)|neighbour_genes:start(),ORF1| | aligned:1-116 (116)
+MSTFYKPSVY NGPTKEQMWM SVVTDFHDSF CRCFHSFAHI LDLIFPDGHR DRDKTIREII ERDLKCHSGG DEEERCGGVL
+AAAIENTENI NQEESQDIAD ADIRELLAAA ESAERR
+
+>ID:YP_009505765.1 |[Torque teno midi virus 7]||Torque-teno-midi-virus-7_taxid_2065048.gbk|hypothetical protein|381|NC_038354(3197):220-600:1 ^GeneID:37616682^ Torque teno midi virus 7 DNA, complete genome, isolate: MDJHem3-2.|neighbours:ID:YP_009505764.1(1),ID:YP_009505766.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-126 (126)
+MQNISADNFF RPTHFNQVTK QQIWMQQIQD SHDNICNCNS CFAHLLANIF PPGHKDRDLS INQILARDLN QPCHSGGTEE
+ERTGGDTNTR PENTGAADGP AEEGKHYIED ADLQELIAAG EDATGR
+
+>ID:YP_009505740.1 |[Torque teno mini virus 12]||Torque-teno-mini-virus-12_taxid_2065038.gbk|ORF2|300|NC_038347(2912):182-481:1 ^GeneID:37616654^ Torque teno mini virus 12 isolate LIL-y3 ORF2, ORF1, ORF3, and ORF4 genes, complete cds.|neighbours:start(),ID:YP_009505741.1(1)|neighbour_genes:start(),ORF1| | aligned:1-99 (99)
+MSDYYKKLTI GPRHAQLNWT NAIVTLHDLQ CQCDDPLCHT IETIINQEKS LKFSKGLSEK IKPCLTTGEA GGVDVVEDFG
+DDELERLFAE DGTGDTDTG
+
+>ID:YP_003587883.1 |[Torque teno mini virus 2]||Torque-teno-mini-virus-2_taxid_687370.gbk|hypothetical protein|270|NC_014086(2765):355-624:1 ^GeneID:9086650^ Torque teno mini virus 2, complete genome.|neighbours:start(),ID:YP_003587884.1(1)|neighbour_genes:start(),hypothetical protein| | aligned:1-89 (89)
+MSLWKPTKYG PKRLELQWLN GCITSHDYIC GCDDPAKHFL KVLVEKSGFD QKCLTFGDDP GTGAATTTDD IGIDQGDLEL
+LFAEEDADG
+
+>ID:YP_003587825.1 |[Torque teno mini virus 8]||Torque-teno-mini-virus-8_taxid_687376.gbk|ORF2|300|NC_014068(2910):341-640:1 ^GeneID:9086568^ Torque teno mini virus 8, complete genome.|neighbours:start(),ID:YP_003587826.1(1)|neighbour_genes:start(),ORF1| | aligned:1-99 (99)
+MSTRYIPTKD SHRQKNLKWL NFVTHAHDIF CDCDSPLQHT VANILIQEPN IKFNTQEKDL LKKCLGETTT TEGAGDPEGF
+GDGDLERLFT EDFGEEDTG
+
+>ID:YP_009109709.1 |[Torque teno mini virus ALA22]||Torque-teno-mini-virus-ALA22_taxid_1535290.gbk|hypothetical protein|306|NC_025726(2914):343-648:1 ^GeneID:22284068^ Torque teno mini virus ALA22, complete genome.|neighbours:start(),ID:YP_009109710.1(1)|neighbour_genes:start(),hypothetical protein| | aligned:1-101 (101)
+MTTRIVPTKD SIRQKNLKWM NLLVHSHDIF CDCDSPLQHT LILICQQEPK IELKPIEKDI IKKCLIGDTT EAAGDPAEDG
+VEEGLLDALF KEDFGEEDTA G
+
+>ID:YP_003587848.1 |[Torque teno virus 12]||Torque-teno-virus-12_taxid_687351.gbk|hypothetical protein|393|NC_014075(3759):333-725:1 ^GeneID:9086600^ Torque teno virus 12, complete genome.|neighbours:ID:YP_003587847.1(1),ID:YP_003587849.1(1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-130 (130)
+MSLWRPPLHN VPGIEHLWYE SVHRSHAAVC SCGDPVRHLT ALAERYGVPG GSRSSGAPGV GGNHNPPPIR RARHPAAAPD
+PPAGNQPPAL PWHGDGGSGD GAAGGGDAGP VADFADDGLD EVVAALDEDE
+
+>ID:YP_003587897.1 |[Torque teno virus 16]||Torque-teno-virus-16_taxid_687355.gbk|hypothetical protein|471|NC_014091(3818):260-730:1 ^GeneID:9086740^ Torque teno virus 16, complete genome.|neighbours:start(),ID:YP_003587898.1(1)|neighbour_genes:start(),hypothetical protein| | aligned:1-154 (156)
+MHFRRVRAKR KLLLQAVRAP PKAPAMSFTT PTINAGIREQ QWFESTLRSH HSFCGCGDPV LHFTNLATRF NYLPATSSPL
+DPPGPAPRGR PALRRLPALP SAPATPSREL AWPTGSEGGA GGRGAGGEGG AAVEGDYREE ELDELFAALE EDANQG
+
+>ID:YP_003587856.1 |[Torque teno virus 19]||Torque-teno-virus-19_taxid_687358.gbk|hypothetical protein|492|NC_014078(3808):236-727:1 ^GeneID:9086618^ Torque teno virus 19, complete genome.|neighbours:start(),ID:YP_003587857.1(1)|neighbour_genes:start(),hypothetical protein| | aligned:1-163 (163)
+MGKALRVFIL NMFLGRVYRH KKRKVLLRSL RAPQAPRRAM SWRPPVHDAP GIERNWYEAC FRAHAGSCGC GNFIAHINLL
+AGRYGFTGGP PPPGGPPPGT PQVRASRNSP AAPQQPPALP WHGDGGEGGA AGPPGAGGDA AADAHLGDEE LADLLDAIED
+DAQ
+
+>ID:YP_009505722.1 |[Torque teno virus 21]||Torque-teno-virus-21_taxid_687360.gbk|ORF2|426|NC_038341(3153):156-581:1 ^GeneID:37616628^ Torque teno virus 21 isolate TCHN-B ORF2 and ORF1 genes, complete cds.|neighbours:start(),ID:YP_009505723.1(1)|neighbour_genes:start(),ORF1| | aligned:1-141 (141)
+MRFSRIYRRK KRLLPLLLVP TEPKEQFVMS WRCPLENAYK REINFLRGCQ MLHTCFCGCD DFINHIIRLQ NLHGNLHQPT
+GPSTPPVGRR ALALPAAPEP WRGDGGGPEG DRTADGPADA GGDYAPGDLD DLFAAAAADQ E
+
+>ID:YP_009505724.1 |[Torque teno virus 23]||Torque-teno-virus-23_taxid_687362.gbk|hypothetical protein|372|NC_038342(3301):355-726:1 ^GeneID:37616631^ Torque teno virus 23 ORF2, ORF1 genes, complete cds, isolate: s-TTV CH65-2.|neighbours:start(),ID:YP_009505725.1(1)|neighbour_genes:start(),hypothetical protein| | aligned:1-123 (123)
+MSLTPPAHNA SGIERNWFES CFRSHAAVCG CGHFVNHLNV PAARYAFNGG PTPPGGPRSG PPQIRRALPA PAPPEPPAHN
+PWRGGDAGDA AGRGGGRDAG AGGGEYAPEE LDALFAAVEE DTQ
+
+>ID:YP_009505730.1 |[Torque teno virus 29]||Torque-teno-virus-29_taxid_687368.gbk|hypothetical protein|387|NC_038344(3676):403-789:1 ^GeneID:37616640^ Torque teno virus 29 ORF2, ORF1, ORF3 genes, complete cds, isolate: TTVyon-KC009.|neighbours:start(),ID:YP_009505731.1(1)|neighbour_genes:start(),hypothetical protein| | aligned:1-128 (128)
+MPWRPPGHNV PGRENQWFAA VFHSHASWCG CGDFVGHLNS IAPRFSNAGP PRPPPGLDQH NPEGPAGPGG PPAILPALPA
+PADPEPPPRR GGGADGGAAG GLAIADAPGG YGEDDLDELF AAAAEDDM
+
+>ID:YP_003587866.1 |[Torque teno virus 3]|HEL32|Torque-teno-virus-3_taxid_687342.gbk|ORF2|354|NC_014081(3748):354-707:1 ^GeneID:9086627^ Torque teno virus 3, complete genome.|neighbours:ID:YP_003587865.1(1),ID:YP_003587867.1(1)|neighbour_genes:ORF2/2,ORF1/2| | aligned:1-117 (117)
+MWQPPTQNGT QLERHWFESV WRSHAAFCSC GDCIGHLQHL ATNLGRPPAP QPPRDQHPPH IRGLPALPAP PSNRNSWPGT
+GGDAAGGEAG GSRGAGDGGD GELADEDLLD AIALAAE
+
+>ID:YP_003587827.1 |[Torque teno virus 4]||Torque-teno-virus-4_taxid_687343.gbk|hypothetical protein|459|NC_014069(3690):260-718:1 ^GeneID:9086571^ Torque teno virus 4, complete genome.|neighbours:start(),ID:YP_003587828.1(1)|neighbour_genes:start(),hypothetical protein| | aligned:1-152 (152)
+MHFSKLSRRK KGKVPLPPLP TAPLPPHRPR MSGTWCPPVH NVPGLERNWY ESCLRSHAAF CGCGDFVSHL NNLANRLGRP
+PAPRPPGAPQ PPAVRALPAL PAPEDRFPNP PGWPGPGGGA AGAGAAAGRD GGDGGDAEPG DEDLDALFAA DE
+
+>ID:YP_003587861.1 |[Torque teno virus 7]||Torque-teno-virus-7_taxid_687346.gbk|ORF2|465|NC_014080(3736):270-734:1 ^GeneID:9086548^ Torque teno virus 7, complete genome.|neighbours:start(),ID:YP_003587862.1(1)|neighbour_genes:start(),ORF1| | aligned:1-154 (154)
+MFFGRPWRKK RKVPLPPLQT EPLQPPIHMS LWRPPVYNVP GQERQFYEAC LHAHDAFCGC GDFVAHINSV AARVGRPSDN
+QPPRPQRPPA IRSMRALPAP PSSGTSTDNQ GAQWPGDGGG EGAEGGPDDA GPPGDGDLAP EDVEELLELV EEAE

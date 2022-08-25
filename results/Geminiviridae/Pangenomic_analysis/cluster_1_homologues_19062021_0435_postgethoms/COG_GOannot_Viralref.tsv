@@ -1,0 +1,62 @@
+cluster	prevalence	term	what	familia	algoritmo
+12_AC4	63.96396396396396	Uniprot hit without GO [GO:XXXXXXX]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+12_AC4	63.96396396396396	viral process [GO:0016032]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+276_REn	0.9009009009009009	DNA replication [GO:0006260]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+276_REn	0.9009009009009009	viral process [GO:0016032]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+276_REn	0.9009009009009009	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+56_AR1	100	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+56_AR1	100	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+57_AL3	99.09909909909909	viral process [GO:0016032]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+57_AL3	99.09909909909909	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+58_AL2	97.2972972972973	viral process [GO:0016032]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+59_BR1	100	DNA transport [GO:0051027]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+59_BR1	100	transport of virus in host, cell to cell [GO:0046740]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+6_AC1	98.1981981981982	DNA replication [GO:0006260]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+6_AC1	98.1981981981982	viral process [GO:0016032]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+6_AC1	98.1981981981982	rolling circle single-stranded viral DNA replication [GO:0039684]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+60_BL1	99.09909909909909	exit of virus from host cell nucleus through nuclear pore [GO:0039675]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+60_BL1	99.09909909909909	transport of virus in host, cell to cell [GO:0046740]	bp	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+12_AC4	63.96396396396396	Uniprot hit without GO [GO:XXXXXXX]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+12_AC4	63.96396396396396	host cell plasma membrane [GO:0020002]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+12_AC4	63.96396396396396	membrane [GO:0016020]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+276_REn	0.9009009009009009	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+56_AR1	100	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+56_AR1	100	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+57_AL3	99.09909909909909	integral component of membrane [GO:0016021]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+58_AL2	97.2972972972973	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+58_AL2	97.2972972972973	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+58_AL2	97.2972972972973	viral capsid [GO:0019028]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+58_AL2	97.2972972972973	cytoplasm [GO:0005737]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+59_BR1	100	host cell cytoplasm [GO:0030430]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+59_BR1	100	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+59_BR1	100	host cell plasma membrane [GO:0020002]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+59_BR1	100	membrane [GO:0016020]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+59_BR1	100	viral capsid [GO:0019028]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+6_AC1	98.1981981981982	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+60_BL1	99.09909909909909	host cell endoplasmic reticulum membrane [GO:0044167]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+60_BL1	99.09909909909909	host cell plasma membrane [GO:0020002]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+60_BL1	99.09909909909909	membrane [GO:0016020]	cc	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+12_AC4	63.96396396396396	Uniprot hit without GO [GO:XXXXXXX]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+276_REn	0.9009009009009009	ATP binding [GO:0005524]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+276_REn	0.9009009009009009	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+276_REn	0.9009009009009009	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+276_REn	0.9009009009009009	helicase activity [GO:0004386]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+276_REn	0.9009009009009009	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+276_REn	0.9009009009009009	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+276_REn	0.9009009009009009	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+56_AR1	100	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+56_AR1	100	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+56_AR1	100	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+58_AL2	97.2972972972973	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+58_AL2	97.2972972972973	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+58_AL2	97.2972972972973	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+59_BR1	100	single-stranded DNA binding [GO:0003697]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+59_BR1	100	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+6_AC1	98.1981981981982	ATP binding [GO:0005524]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+6_AC1	98.1981981981982	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+6_AC1	98.1981981981982	endodeoxyribonuclease activity, producing 5'-phosphomonoesters [GO:0016888]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+6_AC1	98.1981981981982	helicase activity [GO:0004386]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+6_AC1	98.1981981981982	metal ion binding [GO:0046872]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+6_AC1	98.1981981981982	nucleotidyltransferase activity [GO:0016779]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+6_AC1	98.1981981981982	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG
+60_BL1	99.09909909909909	DNA binding [GO:0003677]	mf	../results/Get_homologues/Geminiviridae/cluster_1_homologues_19062021_0435/	COG

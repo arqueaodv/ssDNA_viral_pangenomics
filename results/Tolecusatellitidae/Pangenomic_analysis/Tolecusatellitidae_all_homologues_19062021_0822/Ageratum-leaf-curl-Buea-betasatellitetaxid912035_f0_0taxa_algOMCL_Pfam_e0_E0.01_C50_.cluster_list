@@ -1,0 +1,4 @@
+cluster 34_beta_V1 size=1 taxa=1 file: 34_beta_V1.faa dnafile: 34_beta_V1.fna
+: Hedyotis-yellow-mosaic-betasatellite_taxid_1428189.gbk
+cluster 35_beta_C1 size=1 taxa=1 Pfam=PF09593, file: 35_beta_C1.faa dnafile: 35_beta_C1.fna
+: Hedyotis-yellow-mosaic-betasatellite_taxid_1428189.gbk

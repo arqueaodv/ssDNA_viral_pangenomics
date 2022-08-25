@@ -1,0 +1,4 @@
+"","cluster_name","size","taxa","Pfam_IDs","aa_file","na_file","taxids","Percentage_prevalence"
+"1","4_orf2",1,1,"","4_orf2.faa","4_orf2.fna","1453080",5.55555555555556
+"2","5_orf1",1,1,"PF02407_PF00910_","5_orf1.faa","5_orf1.fna","1453080",5.55555555555556
+"3","6_orf3",1,1,"","6_orf3.faa","6_orf3.fna","1453080",5.55555555555556

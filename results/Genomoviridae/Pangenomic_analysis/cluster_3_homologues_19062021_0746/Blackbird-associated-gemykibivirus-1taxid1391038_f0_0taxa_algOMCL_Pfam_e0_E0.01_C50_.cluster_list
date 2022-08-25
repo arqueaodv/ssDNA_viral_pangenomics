@@ -1,0 +1,33 @@
+cluster 1_capsid_protein size=10 taxa=10 file: 1_capsid_protein.faa dnafile: 1_capsid_protein.fna
+: Blackbird-associated-gemykibivirus-1_taxid_1391038.gbk
+: Faeces-associated-gemycircularvirus-21_taxid_1843741.gbk
+: Giant-house-spider-associated-circular-virus-1_taxid_2293288.gbk
+: HCBI8215-virus_taxid_1516079.gbk
+: HCBI9212-virus_taxid_1516080.gbk
+: Mongoose-feces-associated-gemycircularvirus-a_taxid_1634485.gbk
+: Mongoose-feces-associated-gemycircularvirus-c_taxid_1634488.gbk
+: Sclerotinia-sclerotiorum-hypovirulence-associated-DNA-virus-1_taxid_664785.gbk
+: Sewage-associated-gemycircularvirus-4_taxid_1519399.gbk
+: Sewage-associated-gemycircularvirus-6_taxid_1519401.gbk
+cluster 2_replication_associat.. size=10 taxa=9 Pfam=PF00799,PF08283, file: 2_replication_associat...faa dnafile: 2_replication_associat...fna
+: Blackbird-associated-gemykibivirus-1_taxid_1391038.gbk
+: Faeces-associated-gemycircularvirus-12_taxid_1391027.gbk
+: Faeces-associated-gemycircularvirus-21_taxid_1843741.gbk
+: HCBI9212-virus_taxid_1516080.gbk
+: Mongoose-feces-associated-gemycircularvirus-a_taxid_1634485.gbk
+: Rhinolophus-associated-gemykibivirus-1_taxid_2004965.gbk
+: Sclerotinia-sclerotiorum-hypovirulence-associated-DNA-virus-1_taxid_664785.gbk
+: Sewage-associated-gemycircularvirus-4_taxid_1519399.gbk
+: Sewage-associated-gemycircularvirus-4_taxid_1519399.gbk
+: Sewage-associated-gemycircularvirus-6_taxid_1519401.gbk
+cluster 3_capsid_protein size=1 taxa=1 file: 3_capsid_protein.faa dnafile: 3_capsid_protein.fna
+: Faeces-associated-gemycircularvirus-12_taxid_1391027.gbk
+cluster 7_RepA size=4 taxa=4 Pfam=PF00799, file: 7_RepA.faa dnafile: 7_RepA.fna
+: Faeces-associated-gemycircularvirus-21_taxid_1843741.gbk
+: Giant-house-spider-associated-circular-virus-1_taxid_2293288.gbk
+: HCBI8215-virus_taxid_1516079.gbk
+: Mongoose-feces-associated-gemycircularvirus-c_taxid_1634488.gbk
+cluster 11_rep size=3 taxa=3 file: 11_rep.faa dnafile: 11_rep.fna
+: HCBI8215-virus_taxid_1516079.gbk
+: HCBI9212-virus_taxid_1516080.gbk
+: Rhinolophus-associated-gemykibivirus-1_taxid_2004965.gbk

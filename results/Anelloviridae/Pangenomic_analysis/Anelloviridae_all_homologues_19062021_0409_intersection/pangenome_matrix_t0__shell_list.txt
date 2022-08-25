@@ -1,0 +1,7 @@
+3_VP1.faa
+6_VP3.faa
+13_ORF1.faa
+16_ORF1.faa
+41_putative_ORF1.faa
+50_ORF2.faa
+53_ORF2.faa

@@ -1,0 +1,18 @@
+>ID:YP_004934232.1 |[Vibrio phage VCY-phi]||Vibrio-phage-VCY-phi_taxid_1105327.gbk|hypothetical protein|372|NC_016162(7103):6237-6608:-1 ^GeneID:11447736^ Vibrio phage VCY-phi, complete genome.|neighbours:ID:YP_004934231.1(1),ID:YP_004934233.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-123 (123)
+MNRKEMTKNF VFREFVCGLS VEEAAKLCFK TVSEVKRWDE GEKIPPICKR LMRWHSRKEL YYGDEWWGFR MEGGRLILPT
+GDRVAPQQIL FAIAVMQIQA PSDDLARSKL LKYARAMVRI KGL
+
+>ID:YP_002925196.1 |[Vibrio phage VEJphi]||Vibrio-phage-VEJphi_taxid_642111.gbk|putative transcripti..|411|NC_012757(6842):5403-5813:-1 ^GeneID:7944299^ Vibrio phage VEJphi, complete genome.|neighbours:ID:YP_002925195.1(1),ID:YP_002925197.1(-1)|neighbour_genes:putative assembly pr..,putative regulator p..| | aligned:1-136 (136)
+MLIKLPILGV LSMNRSEMTK NFVFREFECG LSVEEAAKLC FKTVNEVKQW DAGEKIPPIC KRLMRWHSRK ELYYGDEWWG
+FRMEGGRLIF PTGDRVAPQQ LLAAIAILQI QAPDDAMTRS KLLKYARAMA RIKGIK
+
+>ID:NP_835481.1 |[Vibrio phage VGJ]||Vibrio-phage-VGJ_taxid_223524.gbk|putative transcripti..|411|NC_004736(7542):6102-6512:-1 ^GeneID:1260527^ Vibrio phage VGJphi, complete genome.|neighbours:ID:NP_835480.1(1),ID:NP_835482.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-136 (136)
+MLIKLPLLGV LSMNRSEMTK NFVFREFECG LSVEEAAKLC FKTVSEVKQW DAGEKIPPIC KRLMRWHSRK ELYYGDEWWG
+FRMEGGRLIF PTGDRVAPQQ LLAAIAILQI QAPDDAMTRS KLLKYARAMA RIKGIK
+
+>ID:NP_542351.1 |[Vibrio phage VSK]||Vibrio-phage-VSK_taxid_181604.gbk|putative transcripti..|237|NC_003327(6882):1-6882:-1 ^GeneID:955956^ |neighbours:start(),ID:NP_542352.1(-1)|neighbour_genes:start(),hypothetical protein| | aligned:1-75 (78)
+MLIKLPLLGV LSMNRSEMTK NFVFREFECG LSVEEAAKLC FKTESEVKQW HAGEKIPPIC KRLMRGTQKR AETGDVGI
+
+>ID:NP_059539.1 |[Vibrio phage VfO3K6]||Vibrio-phage-VfO3K6_taxid_127507.gbk|putative transcripti..|366|NC_002362(8784):7082-7447:-1 ^GeneID:1262766^ Vibrio phage VfO3K6, complete genome.|neighbours:ID:NP_059538.1(1),ID:NP_059540.1(-1)|neighbour_genes:Vpf497,hypothetical protein| | aligned:1-119 (121)
+MKYHEMTKNY IFREFECGLT VEEAAKLCLK NVRTVKEWDK GKSIPPECKR LMRMNKGREL SSCEEWENFV MRHDRLELPT
+GQLVTAQQVL IGVALLELGA SNDIKVAHQI LKYARALKRF I

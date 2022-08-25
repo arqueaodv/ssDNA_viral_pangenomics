@@ -1,0 +1,47 @@
+>ID:YP_001715620.1 |[Beet curly top Iran virus]|K|Beet-curly-top-Iran-virus_taxid_391228.gbk|C2|306|NC_010417(2845):1486-1791:-1 ^GeneID:5983618^ Beet curly top Iran virus-[K], complete genome.|neighbours:ID:YP_001715619.1(1),ID:YP_001715621.1(-1)|neighbour_genes:V1,C1| | aligned:4-101 (101)
+MSGMVLDWSL YDIDHTTYHI IDDIRYQKIQ QELFKSIIGC NEDYSVWIKH KPNLVIQGGR PCIAITNPDM DWIPCMSESM
+KDWFYANCDV YYLASDEVWY S
+
+>ID:NP_899201.1 |[Chloris striate mosaic virus]||Chloris-striate-mosaic-virus_taxid_10820.gbk|putative Rep B|411|NC_001466(2750):1577-1987:-1 ^GeneID:2545252^ Chloris striate mosaic virus, complete genome.|neighbours:ID:NP_040952.1(1),end()|neighbour_genes:coat protein,end()| | aligned:6-136 (136)
+PNQVWSPGVR RRSLYICGPT RTGKTSWARS LGTHHYWQHS VNFLEEWNCQ AQFNIIDDIP FKFVPCWKGL VGSQYDLTVN
+PKYGKKKRIP NGIPCIILVN EDEDWLQSMS TQQVDWFHGN AVVYHLLPGE TFIPSE
+
+>ID:YP_006522421.1 |[Citrus chlorotic dwarf associated virus]||Citrus-chlorotic-dwarf-associated-virus_taxid_1202142.gbk|putative C1:C2-like ..|408|NC_018151(3640):2300-2707:-1 ^GeneID:13246731^ Citrus chlorotic dwarf associated virus, complete genome.|neighbours:ID:YP_006522420.1(1),ID:YP_006522422.1(-1)|neighbour_genes:putative BL1-like mo..,putative RepA-like p..| | aligned:6-135 (135)
+RAQEPDSKPD RPKSLYICGP SRSGKTAWAR SLGLHNYFTG AIKFHDYNDH ALYNVIDDIQ YTKISHEVMK SLVGSQKNIT
+VNIKYRPDRT IKGGIPSIIC VNPDMDWLTY MSPTIKDWWN QNVLMHYMDP TDVFY
+
+>ID:NP_040964.1 |[Digitaria streak virus]||Digitaria-streak-virus_taxid_10837.gbk|replication-associat..|447|NC_001478(2701):1220-1666:-1 ^GeneID:1489647^ Digitaria streak virus, complete genome.|neighbours:ID:NP_040963.1(1),ID:NP_040965.1(-1)|neighbour_genes:coat protein,replication associat..| | aligned:2-141 (148)
+VTDGVRKRSL YILGPTRTGK STWARGLGRH NYWQNNVDWA SYDEEAQFNV IDDIPFKFCP CWKQLIGCQK EYVVNPKYGK
+KKRVASKSIP SIILTNPDED WMKDMTPAQL SYFEANTVIY KMTEGERFFS YAEGPATASL ASLDDAPA
+
+>ID:YP_008400116.1 |[Grapevine red blotch virus]||Grapevine-red-blotch-virus_taxid_1381007.gbk|C2 protein|435|NC_022002(3206):1898-2332:-1 ^GeneID:16511612^ Grapevine red blotch-associated virus isolate CF214-1, complete genome.|neighbours:ID:YP_008400115.1(1),ID:YP_008400117.1(-1)|neighbour_genes:V3 protein,C1 protein| | aligned:2-144 (144)
+MLKEYITLTM NSTMQEATHR RRKSLVIEGP SKTGKTQWAI SLGIHNYWCE SVDFSLYIDD ALYNIIDDIP FQYLPCKKAL
+LGCQFNYIAN EKYRPKRKIK GGIPSIVLCN PDNSYYDAIT NWHATFKPWA EENIIFVKID RPLY
+
+>ID:NP_569146.1 |[Miscanthus streak virus - [91]]||Miscanthus-streak-virus--91_taxid_268776.gbk|hypothetical protein|410|NC_003379(2672):1159-1568:-1 ^GeneID:932216^ Miscanthus streak virus - [91] DNA, complete genome.|neighbours:ID:NP_569145.1(1),ID:NP_569147.1(-1)|neighbour_genes:hypothetical protein,hypothetical protein| | aligned:1-134 (135)
+QPNGPRRPRS IYICGPSRTG KTTWARNIGR HNYYNSTVDF THYDKDAIYN VIDDVPFKFL PQWKALVGAQ RDYIVNPKYG
+KKKKIPGGIP SIILTNDDED WIKDMKPAQV EYLHANAHVH YMYEGQKFYV LPAEE
+
+>ID:YP_009666821.1 |[Prunus geminivirus A]||Prunus-geminivirus-A_taxid_2022321.gbk|RepB/C2 Protein|396|NC_043533(3174):1876-2271:-1 ^GeneID:40527104^ Prunus geminivirus A isolate PL4 clone PL4-11, complete genome.|neighbours:ID:YP_009666820.1(1),ID:YP_009666822.1(-1)|neighbour_genes:V3 Protein,RepA/C1 Protein| | aligned:1-131 (131)
+MWQETNQRKK SLVIEGPSRT GKTQWARSLG PHNYWAETVD FSMYDDKALY NVIDDIPFQY LPCKKALLGC QHNYIANEKY
+RKKQTIKGGI PAIVLCNPDQ SYEDAITNWH ASFKPWAEDN IIFVKINSSL Y
+
+>ID:YP_004207924.1 |[Spinach curly top Arizona virus]||Spinach-curly-top-Arizona-virus_taxid_945225.gbk|C2|303|NC_015051(2860):1489-1791:-1 ^GeneID:10192293^ Spinach curly top Arizona virus, complete genome.|neighbours:ID:YP_004207923.1(1),ID:YP_004207925.1(-1)|neighbour_genes:V1,C1| | aligned:1-100 (100)
+MVLDWSNYDI EHTTYHVIDD IRYMKIQQEL FKSIIGCNED YSVWIKHKPN LIIPGGRPCI AITNPDMDWI PCMSDAMKDW
+FHANCEVYYL SSDEVWYSTE
+
+>ID:YP_009325926.1 |[Sugarcane chlorotic streak virus]||Sugarcane-chlorotic-streak-virus_taxid_1919062.gbk|RepB|456|NC_032004(2757):1422-1877:-1 ^GeneID:30436252^ Sugarcane chlorotic streak virus isolate Sc10-SR-1, complete genome.|neighbours:ID:YP_009325925.1(-1),ID:YP_009325927.1(-1)|neighbour_genes:Rep-associated prote..,RepA| | aligned:6-151 (151)
+MDVINIQNST ATRKQSLYIL GPTRTGKSSW ARSLGRHNYW QNNVAWTSYD EEAVVNVIDD IPFKYCPCWK QLIGCQKDYI
+VNPKYGKRKK VASRSISTIV LANEDEDWLK DMTPAQQDYF YANCTVYIME PGERFFGRPA VSATAHPSVE V
+
+>ID:NP_045944.1 |[Sugarcane streak Egypt virus - [Giza]]||Sugarcane-streak-Egypt-virus--Giza_taxid_268785.gbk|C2|408|NC_001868(2706):1409-1816:-1 ^GeneID:1449597^ Sugarcane streak Egypt virus - [Giza], complete genome.|neighbours:ID:NP_045943.1(1),ID:NP_045945.1(-1)|neighbour_genes:V2,C1| | aligned:2-135 (135)
+RIQNIPGHRK QSLYILGPTR TGKSTWARSL GRHNYWQNNV DWSSYDEEAV YNIIDDIPFK FCPCWKQLVG CQKEYVVNPK
+YGKKKKVASN SIPSIILANE DEDWLRVMTP GQREYFEANA VIYIMTAGEK FYKPA
+
+>ID:NP_840052.1 |[Sugarcane streak Reunion virus]|1|Sugarcane-streak-Reunion-virus_taxid_78395.gbk|C2|435|NC_004755(2735):1413-1847:-1 ^GeneID:1449687^ Sugarcane streak virus reunion, complete genome.|neighbours:ID:NP_840051.1(1),ID:NP_840053.1(-1)|neighbour_genes:V2,C1| | aligned:1-144 (144)
+NNTGTRKLSL YILGPTRTGK STWARSLGRH NYWQNNVDWS CYDEDAVYNV IDDIPFKFCP CWKQLIGCQE NYVVNPKYGK
+KRRVAKKSIS TIVLANEDED WMKVMSPGQL DYFHQNCVVY IMEEGERFFG GPAVSATAHP PIGV
+
+>ID:YP_009408626.1 |[Wild vitis virus 1]||Wild-vitis-virus-1_taxid_2025352.gbk|C2|450|NC_035480(3278):1963-2412:-1 ^GeneID:33868374^ Wild vitis virus 1 isolate WVV1-NY1468, complete genome.|neighbours:ID:YP_009408625.1(1),ID:YP_009408627.1(-1)|neighbour_genes:V3,C1| | aligned:8-149 (149)
+MMLLQHSLKT SIGLTMNLTL QVEKDRRRSI VIEGPSRTGK TMWARSLGPH NYWCENVDFS EYNNDAMYNV IDDIPFQYLP
+CKKALLGSQR NFISNEKYRK KKTIKGGIPS IILCNPDQSY YEAINNWHVS FRPWAEQNIV FVTISEPLF

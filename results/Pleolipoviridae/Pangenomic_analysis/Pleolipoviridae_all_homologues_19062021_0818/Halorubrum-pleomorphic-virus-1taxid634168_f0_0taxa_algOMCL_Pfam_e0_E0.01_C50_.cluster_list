@@ -1,0 +1,217 @@
+cluster 1_VP1 size=2 taxa=2 file: 1_VP1.faa dnafile: 1_VP1.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 2_putative_protein_2 size=2 taxa=2 file: 2_putative_protein_2.faa dnafile: 2_putative_protein_2.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 104_VP4_precursor size=10 taxa=10 file: 104_VP4_precursor.faa dnafile: 104_VP4_precursor.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+: Halogeometricum-pleomorphic-virus-1_taxid_1156722.gbk
+: Halorubrum-pleomorphic-virus-10_taxid_2507576.gbk
+: Halorubrum-pleomorphic-virus-11_taxid_2507577.gbk
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+: Halorubrum-pleomorphic-virus-1_taxid_634168.gbk
+: Halorubrum-pleomorphic-virus-2_taxid_1156719.gbk
+: Halorubrum-pleomorphic-virus-3_taxid_1156720.gbk
+: Halorubrum-pleomorphic-virus-6_taxid_1156721.gbk
+cluster 4_putative_protein_4 size=2 taxa=2 file: 4_putative_protein_4.faa dnafile: 4_putative_protein_4.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 5_putative_protein_5 size=3 taxa=3 file: 5_putative_protein_5.faa dnafile: 5_putative_protein_5.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+: Halorubrum-pleomorphic-virus-3_taxid_1156720.gbk
+cluster 108_VP8 size=8 taxa=8 file: 108_VP8.faa dnafile: 108_VP8.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+: Halogeometricum-pleomorphic-virus-1_taxid_1156722.gbk
+: Halorubrum-pleomorphic-virus-10_taxid_2507576.gbk
+: Halorubrum-pleomorphic-virus-11_taxid_2507577.gbk
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+: Halorubrum-pleomorphic-virus-1_taxid_634168.gbk
+: Halorubrum-pleomorphic-virus-3_taxid_1156720.gbk
+cluster 7_putative_protein_7 size=7 taxa=7 file: 7_putative_protein_7.faa dnafile: 7_putative_protein_7.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+: Halogeometricum-pleomorphic-virus-1_taxid_1156722.gbk
+: Halorubrum-pleomorphic-virus-10_taxid_2507576.gbk
+: Halorubrum-pleomorphic-virus-11_taxid_2507577.gbk
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+: Halorubrum-pleomorphic-virus-3_taxid_1156720.gbk
+cluster 8_putative_protein_8 size=1 taxa=1 file: 8_putative_protein_8.faa dnafile: 8_putative_protein_8.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+cluster 9_putative_protein_9 size=1 taxa=1 file: 9_putative_protein_9.faa dnafile: 9_putative_protein_9.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+cluster 10_putative_protein_10 size=1 taxa=1 file: 10_putative_protein_10.faa dnafile: 10_putative_protein_10.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+cluster 11_putative_protein_11 size=7 taxa=7 file: 11_putative_protein_11.faa dnafile: 11_putative_protein_11.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+: Halogeometricum-pleomorphic-virus-1_taxid_1156722.gbk
+: Halorubrum-pleomorphic-virus-10_taxid_2507576.gbk
+: Halorubrum-pleomorphic-virus-11_taxid_2507577.gbk
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+: Halorubrum-pleomorphic-virus-3_taxid_1156720.gbk
+cluster 12_putative_protein_12 size=2 taxa=2 file: 12_putative_protein_12.faa dnafile: 12_putative_protein_12.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 13_putative_protein_13 size=2 taxa=2 Pfam=PF08281, file: 13_putative_protein_13.faa dnafile: 13_putative_protein_13.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 14_putative_protein_14 size=2 taxa=2 file: 14_putative_protein_14.faa dnafile: 14_putative_protein_14.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 15_putative_protein_15 size=1 taxa=1 file: 15_putative_protein_15.faa dnafile: 15_putative_protein_15.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+cluster 16_putative_protein_16 size=2 taxa=2 file: 16_putative_protein_16.faa dnafile: 16_putative_protein_16.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 17_putative_protein_17 size=2 taxa=2 file: 17_putative_protein_17.faa dnafile: 17_putative_protein_17.fna
+: Haloarcula-hispanica-pleomorphic-virus-3_taxid_1879051.gbk
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 18_integrase size=1 taxa=1 Pfam=PF02899,PF00589, file: 18_integrase.faa dnafile: 18_integrase.fna
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 19_hypothetical_protein size=1 taxa=1 file: 19_hypothetical_protein.faa dnafile: 19_hypothetical_protein.fna
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 20_PhiH1_repressor size=2 taxa=1 file: 20_PhiH1_repressor.faa dnafile: 20_PhiH1_repressor.fna
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 22_hypothetical_protein size=1 taxa=1 file: 22_hypothetical_protein.faa dnafile: 22_hypothetical_protein.fna
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 23_hypothetical_protein size=1 taxa=1 Pfam=PF17726,PF13391, file: 23_hypothetical_protein.faa dnafile: 23_hypothetical_protein.fna
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 32_hypothetical_protein size=1 taxa=1 file: 32_hypothetical_protein.faa dnafile: 32_hypothetical_protein.fna
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 34_hypothetical_protein size=1 taxa=1 file: 34_hypothetical_protein.faa dnafile: 34_hypothetical_protein.fna
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 35_hypothetical_protein size=1 taxa=1 file: 35_hypothetical_protein.faa dnafile: 35_hypothetical_protein.fna
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 36_hypothetical_protein size=1 taxa=1 file: 36_hypothetical_protein.faa dnafile: 36_hypothetical_protein.fna
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 41_hypothetical_protein size=1 taxa=1 file: 41_hypothetical_protein.faa dnafile: 41_hypothetical_protein.fna
+: Haloarcula-hispanica-pleomorphic-virus-4_taxid_1980140.gbk
+cluster 42_ORF1 size=1 taxa=1 file: 42_ORF1.faa dnafile: 42_ORF1.fna
+: Halogeometricum-pleomorphic-virus-1_taxid_1156722.gbk
+cluster 43_2 size=4 taxa=4 file: 43_2.faa dnafile: 43_2.fna
+: Halogeometricum-pleomorphic-virus-1_taxid_1156722.gbk
+: Halorubrum-pleomorphic-virus-10_taxid_2507576.gbk
+: Halorubrum-pleomorphic-virus-11_taxid_2507577.gbk
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+cluster 44_3 size=1 taxa=1 file: 44_3.faa dnafile: 44_3.fna
+: Halogeometricum-pleomorphic-virus-1_taxid_1156722.gbk
+cluster 106_hypothetical_protein size=4 taxa=4 file: 106_hypothetical_protein.faa dnafile: 106_hypothetical_protein.fna
+: Halogeometricum-pleomorphic-virus-1_taxid_1156722.gbk
+: Halorubrum-pleomorphic-virus-1_taxid_634168.gbk
+: Halorubrum-pleomorphic-virus-2_taxid_1156719.gbk
+: Halorubrum-pleomorphic-virus-6_taxid_1156721.gbk
+cluster 107_hypothetical_protein size=7 taxa=7 file: 107_hypothetical_protein.faa dnafile: 107_hypothetical_protein.fna
+: Halogeometricum-pleomorphic-virus-1_taxid_1156722.gbk
+: Halorubrum-pleomorphic-virus-10_taxid_2507576.gbk
+: Halorubrum-pleomorphic-virus-11_taxid_2507577.gbk
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+: Halorubrum-pleomorphic-virus-1_taxid_634168.gbk
+: Halorubrum-pleomorphic-virus-2_taxid_1156719.gbk
+: Halorubrum-pleomorphic-virus-6_taxid_1156721.gbk
+cluster 49_ORF8 size=1 taxa=1 file: 49_ORF8.faa dnafile: 49_ORF8.fna
+: Halogeometricum-pleomorphic-virus-1_taxid_1156722.gbk
+cluster 51_ORF10 size=1 taxa=1 Pfam=PF01555, file: 51_ORF10.faa dnafile: 51_ORF10.fna
+: Halogeometricum-pleomorphic-virus-1_taxid_1156722.gbk
+cluster 52_ORF11 size=1 taxa=1 file: 52_ORF11.faa dnafile: 52_ORF11.fna
+: Halogeometricum-pleomorphic-virus-1_taxid_1156722.gbk
+cluster 53_ORF12 size=1 taxa=1 file: 53_ORF12.faa dnafile: 53_ORF12.fna
+: Halogeometricum-pleomorphic-virus-1_taxid_1156722.gbk
+cluster 54_ORF13 size=4 taxa=4 file: 54_ORF13.faa dnafile: 54_ORF13.fna
+: Halogeometricum-pleomorphic-virus-1_taxid_1156722.gbk
+: Halorubrum-pleomorphic-virus-10_taxid_2507576.gbk
+: Halorubrum-pleomorphic-virus-11_taxid_2507577.gbk
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+cluster 56_ORF15 size=1 taxa=1 file: 56_ORF15.faa dnafile: 56_ORF15.fna
+: Halogeometricum-pleomorphic-virus-1_taxid_1156722.gbk
+cluster 58_hypothetical_protein size=3 taxa=3 Pfam=PF04070, file: 58_hypothetical_protein.faa dnafile: 58_hypothetical_protein.fna
+: Halorubrum-pleomorphic-virus-10_taxid_2507576.gbk
+: Halorubrum-pleomorphic-virus-11_taxid_2507577.gbk
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+cluster 59_hypothetical_protein size=3 taxa=3 file: 59_hypothetical_protein.faa dnafile: 59_hypothetical_protein.fna
+: Halorubrum-pleomorphic-virus-10_taxid_2507576.gbk
+: Halorubrum-pleomorphic-virus-11_taxid_2507577.gbk
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+cluster 61_ORF5 size=3 taxa=3 file: 61_ORF5.faa dnafile: 61_ORF5.fna
+: Halorubrum-pleomorphic-virus-10_taxid_2507576.gbk
+: Halorubrum-pleomorphic-virus-11_taxid_2507577.gbk
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+cluster 65_hypothetical_protein size=3 taxa=3 file: 65_hypothetical_protein.faa dnafile: 65_hypothetical_protein.fna
+: Halorubrum-pleomorphic-virus-10_taxid_2507576.gbk
+: Halorubrum-pleomorphic-virus-11_taxid_2507577.gbk
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+cluster 68_hypothetical_protein size=3 taxa=3 file: 68_hypothetical_protein.faa dnafile: 68_hypothetical_protein.fna
+: Halorubrum-pleomorphic-virus-10_taxid_2507576.gbk
+: Halorubrum-pleomorphic-virus-11_taxid_2507577.gbk
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+cluster 69_ORF12 size=4 taxa=4 file: 69_ORF12.faa dnafile: 69_ORF12.fna
+: Halorubrum-pleomorphic-virus-10_taxid_2507576.gbk
+: Halorubrum-pleomorphic-virus-11_taxid_2507577.gbk
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+: Halorubrum-pleomorphic-virus-3_taxid_1156720.gbk
+cluster 78_hypothetical_protein size=2 taxa=2 file: 78_hypothetical_protein.faa dnafile: 78_hypothetical_protein.fna
+: Halorubrum-pleomorphic-virus-11_taxid_2507577.gbk
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+cluster 83_hypothetical_protein size=2 taxa=2 file: 83_hypothetical_protein.faa dnafile: 83_hypothetical_protein.fna
+: Halorubrum-pleomorphic-virus-11_taxid_2507577.gbk
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+cluster 97_AdoMet-MTase size=1 taxa=1 file: 97_AdoMet-MTase.faa dnafile: 97_AdoMet-MTase.fna
+: Halorubrum-pleomorphic-virus-12_taxid_2507578.gbk
+cluster 101_hypothetical_protein size=1 taxa=1 Pfam=PF14520, file: 101_hypothetical_protein.faa dnafile: 101_hypothetical_protein.fna
+: Halorubrum-pleomorphic-virus-1_taxid_634168.gbk
+cluster 102_hypothetical_protein size=1 taxa=1 file: 102_hypothetical_protein.faa dnafile: 102_hypothetical_protein.fna
+: Halorubrum-pleomorphic-virus-1_taxid_634168.gbk
+cluster 103_VP3 size=3 taxa=3 file: 103_VP3.faa dnafile: 103_VP3.fna
+: Halorubrum-pleomorphic-virus-1_taxid_634168.gbk
+: Halorubrum-pleomorphic-virus-2_taxid_1156719.gbk
+: Halorubrum-pleomorphic-virus-6_taxid_1156721.gbk
+cluster 105_hypothetical_protein size=1 taxa=1 file: 105_hypothetical_protein.faa dnafile: 105_hypothetical_protein.fna
+: Halorubrum-pleomorphic-virus-1_taxid_634168.gbk
+cluster 109_hypothetical_protein size=1 taxa=1 file: 109_hypothetical_protein.faa dnafile: 109_hypothetical_protein.fna
+: Halorubrum-pleomorphic-virus-1_taxid_634168.gbk
+cluster 110_ORF1 size=2 taxa=2 file: 110_ORF1.faa dnafile: 110_ORF1.fna
+: Halorubrum-pleomorphic-virus-2_taxid_1156719.gbk
+: Halorubrum-pleomorphic-virus-6_taxid_1156721.gbk
+cluster 111_ORF2 size=1 taxa=1 file: 111_ORF2.faa dnafile: 111_ORF2.fna
+: Halorubrum-pleomorphic-virus-2_taxid_1156719.gbk
+cluster 112_ORF3 size=2 taxa=2 file: 112_ORF3.faa dnafile: 112_ORF3.fna
+: Halorubrum-pleomorphic-virus-2_taxid_1156719.gbk
+: Halorubrum-pleomorphic-virus-6_taxid_1156721.gbk
+cluster 117_ORF8 size=2 taxa=2 Pfam=PF00004, file: 117_ORF8.faa dnafile: 117_ORF8.fna
+: Halorubrum-pleomorphic-virus-2_taxid_1156719.gbk
+: Halorubrum-pleomorphic-virus-6_taxid_1156721.gbk
+cluster 118_ORF9 size=1 taxa=1 file: 118_ORF9.faa dnafile: 118_ORF9.fna
+: Halorubrum-pleomorphic-virus-2_taxid_1156719.gbk
+cluster 119_ORF10 size=1 taxa=1 file: 119_ORF10.faa dnafile: 119_ORF10.fna
+: Halorubrum-pleomorphic-virus-2_taxid_1156719.gbk
+cluster 120_ORF11 size=1 taxa=1 file: 120_ORF11.faa dnafile: 120_ORF11.fna
+: Halorubrum-pleomorphic-virus-2_taxid_1156719.gbk
+cluster 121_ORF12 size=1 taxa=1 file: 121_ORF12.faa dnafile: 121_ORF12.fna
+: Halorubrum-pleomorphic-virus-2_taxid_1156719.gbk
+cluster 122_ORF13 size=1 taxa=1 file: 122_ORF13.faa dnafile: 122_ORF13.fna
+: Halorubrum-pleomorphic-virus-2_taxid_1156719.gbk
+cluster 123_ORF14 size=1 taxa=1 file: 123_ORF14.faa dnafile: 123_ORF14.fna
+: Halorubrum-pleomorphic-virus-2_taxid_1156719.gbk
+cluster 124_ORF15 size=2 taxa=2 file: 124_ORF15.faa dnafile: 124_ORF15.fna
+: Halorubrum-pleomorphic-virus-2_taxid_1156719.gbk
+: Halorubrum-pleomorphic-virus-6_taxid_1156721.gbk
+cluster 125_1 size=1 taxa=1 file: 125_1.faa dnafile: 125_1.fna
+: Halorubrum-pleomorphic-virus-3_taxid_1156720.gbk
+cluster 127_ORF3 size=1 taxa=1 file: 127_ORF3.faa dnafile: 127_ORF3.fna
+: Halorubrum-pleomorphic-virus-3_taxid_1156720.gbk
+cluster 131_ORF7 size=1 taxa=1 file: 131_ORF7.faa dnafile: 131_ORF7.fna
+: Halorubrum-pleomorphic-virus-3_taxid_1156720.gbk
+cluster 132_ORF8 size=1 taxa=1 file: 132_ORF8.faa dnafile: 132_ORF8.fna
+: Halorubrum-pleomorphic-virus-3_taxid_1156720.gbk
+cluster 134_ORF10 size=1 taxa=1 file: 134_ORF10.faa dnafile: 134_ORF10.fna
+: Halorubrum-pleomorphic-virus-3_taxid_1156720.gbk
+cluster 135_ORF11 size=1 taxa=1 file: 135_ORF11.faa dnafile: 135_ORF11.fna
+: Halorubrum-pleomorphic-virus-3_taxid_1156720.gbk
+cluster 138_ORF2 size=1 taxa=1 file: 138_ORF2.faa dnafile: 138_ORF2.fna
+: Halorubrum-pleomorphic-virus-6_taxid_1156721.gbk
+cluster 145_ORF9 size=1 taxa=1 file: 145_ORF9.faa dnafile: 145_ORF9.fna
+: Halorubrum-pleomorphic-virus-6_taxid_1156721.gbk

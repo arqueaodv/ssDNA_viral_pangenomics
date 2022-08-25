@@ -1,0 +1,5 @@
+>ID:YP_004327582.1 |[Ralstonia phage PE226]||Ralstonia-phage-PE226_taxid_926543.gbk|putative minor coat ..|240|NC_015297(5475):590-829:1 ^GeneID:10358589^ Ralstonia phage PE226, complete genome.|neighbours:ID:YP_004327581.1(1),ID:YP_004327583.1(1)|neighbour_genes:putative minor coat ..,putative major coat ..| | aligned:1-77 (79)
+MAQCVQIVGG QFQLDSTAAS SCTGYLLLTA DEVTLLHAIP PLSIQDGATI SGAIVGVWAV AWGFRAVARL FFQRDEEVL
+
+>ID:NP_932298.1 |[Ralstonia phage p12J]||Ralstonia-phage-p12J_taxid_247080.gbk|ORF3|234|NC_005131(7118):1334-1567:1 ^GeneID:2642059^ Ralstonia phage p12J, complete genome.|neighbours:ID:NP_932297.1(1),ID:NP_932299.1(1)|neighbour_genes:ORF2,ORF4| | aligned:1-77 (77)
+MAQCVQIVSG QFQLDSAAAS SCTGYLLLTA DEVTLLHAVP PLSVSDGALI GSGMLGLWAL AFVFRSAARA IYQREEE

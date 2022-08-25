@@ -1,0 +1,59 @@
+# /home/abelardo/get_homologues/compare_clusters.pl parameters: -n 0 -m 1 -t 0 -s 0
+# -d cluster_3_homologues_19062021_0754/Thermus-phage-phiOH3taxid1968339_f0_0taxa_algCOG_Pfam_e0_E0.01_C50_/,cluster_3_homologues_19062021_0754/Thermus-phage-phiOH3taxid1968339_f0_0taxa_algOMCL_Pfam_e0_E0.01_C50_
+# -o cluster_3_homologues_19062021_0754_intersection
+# -I 
+# -r 0
+18_hypothetical_protein.faa
+5_Putative_coat_protei...faa
+61_protein_G.faa
+45_hypothetical_protein.faa
+51_VIII.faa
+40_hypothetical_protein.faa
+49_VII.faa
+29_hypothetical_protein.faa
+58_protein_D.faa
+11_hypothetical_protein.faa
+20_hypothetical_protein.faa
+37_hypothetical_protein.faa
+52_III.faa
+19_ssDNA-binding_protei...faa
+53_VI.faa
+28_putative_phage_DNA_r...faa
+15_IV.faa
+65_protein_C.faa
+57_protein_C.faa
+50_IX.faa
+42_hypothetical_protein.faa
+6_Putative_structural_...faa
+10_hypothetical_protein.faa
+22_putative_minor_coat_...faa
+46_hypothetical_protein.faa
+3_Putative_structural_...faa
+62_protein_H.faa
+32_major_coat_protein.faa
+55_protein_A.faa
+4_Putative_structural_...faa
+23_putative_major_coat_...faa
+47_II.faa
+17_hypothetical_protein.faa
+34_hypothetical_protein.faa
+33_hypothetical_protein.faa
+16_hypothetical_protein.faa
+24_putative_minor_coat_...faa
+9_Putative_replication...faa
+48_V.faa
+25_putative_minor_coat_...faa
+59_protein_E.faa
+41_hypothetical_protein.faa
+2_hypothetical_protein.faa
+39_single-stranded_DNA_...faa
+1_hypothetical_protein.faa
+60_protein_F.faa
+7_Putative_structural_...faa
+13_50-kDa_virion_protei...faa
+35_hypothetical_protein.faa
+54_IV.faa
+27_hypothetical_protein.faa
+21_putative_minor_coat_...faa
+12_major_coat_protein.faa
+# intersection size = 53 clusters

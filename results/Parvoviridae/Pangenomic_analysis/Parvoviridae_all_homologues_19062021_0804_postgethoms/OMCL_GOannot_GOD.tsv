@@ -1,0 +1,212 @@
+cluster	prevalence	term	what	familia	algoritmo
+10_nonstructural_protei..	30.76923076923077	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+10_nonstructural_protei..	30.76923076923077	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+10_nonstructural_protei..	30.76923076923077	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+10_nonstructural_protei..	30.76923076923077	induction by virus of host apoptotic process [GO:0019051]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+10_nonstructural_protei..	30.76923076923077	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+11_capsid_protein	50.349650349650354	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+11_capsid_protein	50.349650349650354	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+11_capsid_protein	50.349650349650354	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+11_capsid_protein	50.349650349650354	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+11_capsid_protein	50.349650349650354	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+11_capsid_protein	50.349650349650354	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+11_capsid_protein	50.349650349650354	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+11_capsid_protein	50.349650349650354	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+11_capsid_protein	50.349650349650354	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+11_capsid_protein	50.349650349650354	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+11_capsid_protein	50.349650349650354	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+115_NS1	5.594405594405594	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+115_NS1	5.594405594405594	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+115_NS1	5.594405594405594	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+137_polyprotein	2.797202797202797	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+137_polyprotein	2.797202797202797	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+137_polyprotein	2.797202797202797	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+139_hypothetical_protein	0.6993006993006993	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+139_hypothetical_protein	0.6993006993006993	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+139_hypothetical_protein	0.6993006993006993	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+139_hypothetical_protein	0.6993006993006993	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+139_hypothetical_protein	0.6993006993006993	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+139_hypothetical_protein	0.6993006993006993	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+139_hypothetical_protein	0.6993006993006993	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+139_hypothetical_protein	0.6993006993006993	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+139_hypothetical_protein	0.6993006993006993	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+139_hypothetical_protein	0.6993006993006993	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+139_hypothetical_protein	0.6993006993006993	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+14_Rep_40_protein	28.671328671328673	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+14_Rep_40_protein	28.671328671328673	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+14_Rep_40_protein	28.671328671328673	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+146_VP	1.3986013986013985	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+146_VP	1.3986013986013985	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+146_VP	1.3986013986013985	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+146_VP	1.3986013986013985	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+146_VP	1.3986013986013985	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+146_VP	1.3986013986013985	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+146_VP	1.3986013986013985	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+146_VP	1.3986013986013985	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+146_VP	1.3986013986013985	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+146_VP	1.3986013986013985	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+146_VP	1.3986013986013985	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+166_cap	0.6993006993006993	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+166_cap	0.6993006993006993	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+166_cap	0.6993006993006993	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+168_non-structural_prote..	1.3986013986013985	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+168_non-structural_prote..	1.3986013986013985	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+168_non-structural_prote..	1.3986013986013985	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+17_major_coat_protein_V..	35.66433566433567	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+17_major_coat_protein_V..	35.66433566433567	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+17_major_coat_protein_V..	35.66433566433567	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+17_major_coat_protein_V..	35.66433566433567	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+17_major_coat_protein_V..	35.66433566433567	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+17_major_coat_protein_V..	35.66433566433567	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+17_major_coat_protein_V..	35.66433566433567	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+17_major_coat_protein_V..	35.66433566433567	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+17_major_coat_protein_V..	35.66433566433567	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+17_major_coat_protein_V..	35.66433566433567	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+17_major_coat_protein_V..	35.66433566433567	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+173_nonstructural_protei..	2.097902097902098	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+173_nonstructural_protei..	2.097902097902098	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+173_nonstructural_protei..	2.097902097902098	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+177_putative_structural_..	0.6993006993006993	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+177_putative_structural_..	0.6993006993006993	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+178_putative_structural_..	0.6993006993006993	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+178_putative_structural_..	0.6993006993006993	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+178_putative_structural_..	0.6993006993006993	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+178_putative_structural_..	0.6993006993006993	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+178_putative_structural_..	0.6993006993006993	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+178_putative_structural_..	0.6993006993006993	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+178_putative_structural_..	0.6993006993006993	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+178_putative_structural_..	0.6993006993006993	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+178_putative_structural_..	0.6993006993006993	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+178_putative_structural_..	0.6993006993006993	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+178_putative_structural_..	0.6993006993006993	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+2_Putative_nonstructur..	18.88111888111888	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+2_Putative_nonstructur..	18.88111888111888	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+2_Putative_nonstructur..	18.88111888111888	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+219_NS1	2.097902097902098	DNA replication [GO:0006260]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+219_NS1	2.097902097902098	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+219_NS1	2.097902097902098	DNA binding [GO:0003677]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+219_NS1	2.097902097902098	ATP binding [GO:0005524]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+280_NS1	0.6993006993006993	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+280_NS1	0.6993006993006993	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+280_NS1	0.6993006993006993	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+33_NS1	2.097902097902098	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+33_NS1	2.097902097902098	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+33_NS1	2.097902097902098	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+336_cap	0.6993006993006993	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+336_cap	0.6993006993006993	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+336_cap	0.6993006993006993	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+336_cap	0.6993006993006993	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+336_cap	0.6993006993006993	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+336_cap	0.6993006993006993	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+336_cap	0.6993006993006993	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+336_cap	0.6993006993006993	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+336_cap	0.6993006993006993	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+336_cap	0.6993006993006993	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+336_cap	0.6993006993006993	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+358_putative_structural_..	0.6993006993006993	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+358_putative_structural_..	0.6993006993006993	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+358_putative_structural_..	0.6993006993006993	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+358_putative_structural_..	0.6993006993006993	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+358_putative_structural_..	0.6993006993006993	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+358_putative_structural_..	0.6993006993006993	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+358_putative_structural_..	0.6993006993006993	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+358_putative_structural_..	0.6993006993006993	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+358_putative_structural_..	0.6993006993006993	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+358_putative_structural_..	0.6993006993006993	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+358_putative_structural_..	0.6993006993006993	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+36_NS1	0.6993006993006993	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+36_NS1	0.6993006993006993	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+36_NS1	0.6993006993006993	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+36_NS1	0.6993006993006993	DNA replication [GO:0006260]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+36_NS1	0.6993006993006993	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+36_NS1	0.6993006993006993	DNA binding [GO:0003677]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+36_NS1	0.6993006993006993	ATP binding [GO:0005524]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+39_hypothetical_protein	3.4965034965034967	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+39_hypothetical_protein	3.4965034965034967	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+39_hypothetical_protein	3.4965034965034967	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+4_Putative_structural_..	8.391608391608392	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+4_Putative_structural_..	8.391608391608392	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+417_non-structural_prote..	0.6993006993006993	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+417_non-structural_prote..	0.6993006993006993	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+417_non-structural_prote..	0.6993006993006993	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+417_non-structural_prote..	0.6993006993006993	induction by virus of host apoptotic process [GO:0019051]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+417_non-structural_prote..	0.6993006993006993	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+491_VP1	0.6993006993006993	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+491_VP1	0.6993006993006993	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+491_VP1	0.6993006993006993	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+491_VP1	0.6993006993006993	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+491_VP1	0.6993006993006993	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+491_VP1	0.6993006993006993	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+491_VP1	0.6993006993006993	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+491_VP1	0.6993006993006993	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+491_VP1	0.6993006993006993	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+491_VP1	0.6993006993006993	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+491_VP1	0.6993006993006993	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+5_Putative_structural_..	1.3986013986013985	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+5_Putative_structural_..	1.3986013986013985	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+5_Putative_structural_..	1.3986013986013985	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+5_Putative_structural_..	1.3986013986013985	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+5_Putative_structural_..	1.3986013986013985	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+5_Putative_structural_..	1.3986013986013985	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+5_Putative_structural_..	1.3986013986013985	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+5_Putative_structural_..	1.3986013986013985	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+5_Putative_structural_..	1.3986013986013985	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+5_Putative_structural_..	1.3986013986013985	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+5_Putative_structural_..	1.3986013986013985	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+51_Cap	10.48951048951049	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+51_Cap	10.48951048951049	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+51_Cap	10.48951048951049	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+51_Cap	10.48951048951049	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+51_Cap	10.48951048951049	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+51_Cap	10.48951048951049	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+51_Cap	10.48951048951049	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+51_Cap	10.48951048951049	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+51_Cap	10.48951048951049	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+51_Cap	10.48951048951049	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+51_Cap	10.48951048951049	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+63_VP2	9.79020979020979	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+63_VP2	9.79020979020979	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+63_VP2	9.79020979020979	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+63_VP2	9.79020979020979	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+63_VP2	9.79020979020979	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+63_VP2	9.79020979020979	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+63_VP2	9.79020979020979	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+63_VP2	9.79020979020979	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+63_VP2	9.79020979020979	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+63_VP2	9.79020979020979	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+63_VP2	9.79020979020979	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+87_putative_VP1	4.895104895104895	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+87_putative_VP1	4.895104895104895	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+87_putative_VP1	4.895104895104895	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+87_putative_VP1	4.895104895104895	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+87_putative_VP1	4.895104895104895	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+87_putative_VP1	4.895104895104895	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+87_putative_VP1	4.895104895104895	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+87_putative_VP1	4.895104895104895	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+87_putative_VP1	4.895104895104895	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+87_putative_VP1	4.895104895104895	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+87_putative_VP1	4.895104895104895	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+9_VP1	0.6993006993006993	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+9_VP1	0.6993006993006993	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+9_VP1	0.6993006993006993	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+9_VP1	0.6993006993006993	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+9_VP1	0.6993006993006993	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+9_VP1	0.6993006993006993	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+9_VP1	0.6993006993006993	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+9_VP1	0.6993006993006993	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+9_VP1	0.6993006993006993	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+9_VP1	0.6993006993006993	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+9_VP1	0.6993006993006993	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+90_capsid_protein_VP	4.895104895104895	permeabilization of host organelle membrane involved in viral entry into host cell [GO:0039665]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+90_capsid_protein_VP	4.895104895104895	suppression by virus of G2/M transition of host mitotic cell cycle [GO:0039592]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+90_capsid_protein_VP	4.895104895104895	rolling hairpin viral DNA replication [GO:0039685]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+90_capsid_protein_VP	4.895104895104895	virion attachment to host cell [GO:0019062]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+90_capsid_protein_VP	4.895104895104895	microtubule-dependent intracellular transport of viral material towards nucleus [GO:0075521]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+90_capsid_protein_VP	4.895104895104895	clathrin-dependent endocytosis of virus by host cell [GO:0075512]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+90_capsid_protein_VP	4.895104895104895	viral penetration into host nucleus [GO:0075732]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+90_capsid_protein_VP	4.895104895104895	viral entry into host cell [GO:0046718]	bp	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+90_capsid_protein_VP	4.895104895104895	T=1 icosahedral viral capsid [GO:0039615]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+90_capsid_protein_VP	4.895104895104895	virion [GO:0019012]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+90_capsid_protein_VP	4.895104895104895	host cell nucleolus [GO:0044196]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+90_capsid_protein_VP	4.895104895104895	host cell nucleus [GO:0042025]	cc	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
+90_capsid_protein_VP	4.895104895104895	structural molecule activity [GO:0005198]	mf	../results/Get_homologues/Parvoviridae/Parvoviridae_all_homologues_19062021_0804/	OMCL
